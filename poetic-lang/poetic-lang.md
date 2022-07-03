@@ -96,6 +96,8 @@ _by Tristan Armitage_
 
 ### Grammar
 
+Inflect nouns and their dependants for the following noun **cases**:
+
 1. Nominative/Agentive (subject)
 2. Accusative/Objective (direct object)
 3. Genitive (relationship with the noun)
@@ -106,3 +108,22 @@ _by Tristan Armitage_
 8. Allative (toward the noun)
 9. Translative (changing into the noun)
 10. Vocative (addressing the noun)
+11. Terminative (ending at the noun) (?)
+12. Initiative (starting at the noun) (?)
+
+Inflect verbs for the following **tenses**:
+
+- Past before today
+- Past earlier today
+- Present
+- Future later today
+- Future after today
+
+**aspects**:
+
+- Perfective
+- Habitual
+- Continuous
+- Terminative
+- Inchoative
+- Durative (can use verb reduplication) (?)
