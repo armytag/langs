@@ -15,6 +15,9 @@ _by Tristan Armitage_
     - Adpositions in proto language, evolved into noun cases
     - Other relationships denoted with possessed nouns (e.g. table's above), positional verbs (be-above), and verb affixes
 - Null-subject
+- Internal-External analogy for Past-Future
+    - "inner-week" = last week, "outer-week" = next week
+    - What is the present?  Is the some kind of boundary or event horizon?  "boundary-week" = this week?  Does it need a way to specify, or can it go unmarked?  Maybe using the locative case?
 
 ### Minor Ideas
 
