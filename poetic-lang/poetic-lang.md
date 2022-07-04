@@ -127,3 +127,21 @@ Inflect verbs for the following **tenses**:
 - Terminative
 - Inchoative
 - Durative (can use verb reduplication) (?)
+
+#### Tense-Aspect Interactions
+
+| Aspect-Tense | D. Past | N. Past | Present | N. Future | D. Future |
+|--------------|---------|---------|---------|-----------|-----------|
+| Perfective   |         |         |         |           |           |
+| Habitual     |         |         |         |           |           |
+| Continuous   |         |         |         |           |           |
+| Terminative  |         |         |         |           |           |
+| Inchoative   |         |         |         |           |           |
+
+**modalities**:
+
+- Speculative
+
+**moods**:
+
+- Subjunctive
