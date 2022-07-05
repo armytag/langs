@@ -18,6 +18,8 @@ _by Tristan Armitage_
 - Internal-External analogy for Past-Future
     - "inner-week" = last week, "outer-week" = next week
     - What is the present?  Is the some kind of boundary or event horizon?  "boundary-week" = this week?  Does it need a way to specify, or can it go unmarked?  Maybe using the locative case?
+- Distinguishing (highlighting) cooperative actions
+    - Cooperative voice?  Commitative case?  Both?
 
 ### Minor Ideas
 
@@ -109,6 +111,16 @@ Inflect nouns and their dependants for the following noun **cases**:
 9. Prolative (by way of the noun)
 10. Translative (changing into the noun)
 
+Pronouns marked for clusivity:
+
+- 1.SG
+- 2.SG
+- 3.SG
+- 1.PL.INCL
+- 1.PL.EXCL
+- 2.PL
+- 3.PL
+
 Inflect verbs for the following **tenses**:
 
 - Past before today
@@ -139,10 +151,12 @@ Inflect verbs for the following **tenses**:
 **modalities**:
 
 - Speculative
+- Aspiration
 
 **moods**:
 
-- Subjunctive
+- realis
+- irrealis
 
 Simple **possession** _(my dog)_ is denoted with a suffix inflected for person.  Specific **possession** _(John's dog)_ with a genitive inflection of the possessor.
 
