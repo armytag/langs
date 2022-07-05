@@ -106,10 +106,8 @@ Inflect nouns and their dependants for the following noun **cases**:
 6. Comitative (together with the noun)
 7. Ablative (away from the noun)
 8. Allative (toward the noun)
-9. Translative (changing into the noun)
-10. Vocative (addressing the noun)
-11. Terminative (ending at the noun) (?)
-12. Initiative (starting at the noun) (?)
+9. Prolative (by way of the noun)
+10. Translative (changing into the noun)
 
 Inflect verbs for the following **tenses**:
 
@@ -145,3 +143,8 @@ Inflect verbs for the following **tenses**:
 **moods**:
 
 - Subjunctive
+
+Simple **possession** _(my dog)_ is denoted with a suffix inflected for person.  Specific **possession** _(John's dog)_ with a genitive inflection of the possessor.
+
+Verbs inflect for **person** of both the agent and the patient, possibly with a fused affix
+
