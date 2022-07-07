@@ -7,7 +7,7 @@ _by Tristan Armitage_
 - Explore conflation of time and space
 - Noun relationships denoted through affixing
 
-### Major Ideas
+### General Ideas
 
 - Free word order 
 - Agglutenative
@@ -20,39 +20,17 @@ _by Tristan Armitage_
     - What is the present?  Is the some kind of boundary or event horizon?  "boundary-week" = this week?  Does it need a way to specify, or can it go unmarked?  Maybe using the locative case?
 - Distinguishing (highlighting) cooperative actions
     - Cooperative voice?  Commitative case?  Both?
-
-### Minor Ideas
-
 - Tense distinction between today and further times (both past and future)
 - Active-stative alignment
+- Polypersonal agreement on verbs
+- Verbs can form gerund and take class markers
+
+### Evolution Ideas
+
+- Prepositions evolve into noun case prefixes
+- Pronouns evolve into verbal polypersonal suffixes
 
 ## Proto Language
-
-### Phonology
-
-| VOWELS | Front | Back  |
-|--------|-------|-------|
-| Close  | i     | u (y) |
-| Mid    | e     | o     |
-| Open   | a     | ʌ (u) |
-
-| CONSONANTS        | Labial  | Alveolar | Post<br>Alveolar | Velar   |
-|-------------------|---------|----------|------------------|---------|
-| Nasal             | m       | n        |                  | ŋ       |
-| Voiced Plosive    | b       | d        |                  | ɡ       |
-| Unvoiced Plosive  | p       | t        |                  | k       |
-| Aspirated Plosive | pʰ (ph) | tʰ (th)  |                  | kʰ (kh) |
-| Fricative         | f       | s        | ʃ (c)            | x       |
-| Lateral Fricative |         | ɬ (l)    |                  |         |
-| Affricate         |         | ts       | tʃ (ch)          | kx      |
-
-### Phonotactics
-
-(C)V(K)
-
-- Onset can be any consonant
-- Coda can only be nasals or fricatives [m, n, ŋ, f, s, ʃ, x, ɬ]
-- Vowels cannot appear alone, they must have either an onset or coda
 
 ### Grammar
 
@@ -69,32 +47,6 @@ _by Tristan Armitage_
 - Word order no longer restricted
 
 ## Modern Lanɡuaɡe
-
-### Phonology
-
-| VOWELS | Front<br>Unrounded | Front<br>Rounded | Back<br>Unrounded | Back<br>Rounded  |
-|--------|--------------------|------------------|-------------------|------------------|
-| Close  | i                  | y                | ɯ                 | u                |
-| Mid    | ɛ                  | œ                | ʌ                 | ɔ                |
-| Open   | æ                  |                  | ɐ                 |                  |
-
-| CONSONANTS        | Labial  | Alveolar | Post<br>Alveolar | Velar   |
-|-------------------|---------|----------|------------------|---------|
-| Nasal             | m       | n        |                  | ŋ       |
-| Voiced Plosive    | b       | d        |                  | ɡ       |
-| Unvoiced Plosive  | p       | t        |                  | k       |
-| Aspirated Plosive | pʰ (ph) | tʰ (th)  |                  | kʰ (kh) |
-| Fricative         | f       | s        | ʃ (c)            | x       |
-| Lateral Fricative |         | ɬ (l)    |                  |         |
-| Affricate         |         | ts       | tʃ (ch)          | kx      |
-
-### Phonotactics
-
-(C)V(K)
-
-- Onset can be any consonant
-- Coda can only be nasals or fricatives [m, n, ŋ, f, s, ʃ, x, ɬ]
-- Vowels cannot appear alone, they must have either an onset or coda
 
 ### Grammar
 
@@ -135,7 +87,7 @@ Inflect verbs for the following **tenses**:
 - Habitual
 - Continuous
 - Terminative
-- Inchoative
+- Inceptive
 - Durative (can use verb reduplication) (?)
 
 #### Tense-Aspect Interactions
