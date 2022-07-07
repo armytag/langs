@@ -5,30 +5,21 @@ _by Tristan Armitage_
 ### Goals
 
 - Explore conflation of time and space
-- Noun relationships denoted through affixing
-
-### General Ideas
-
-- Free word order 
-- Agglutenative
-- No adpositions
-    - Adpositions in proto language, evolved into noun cases
-    - Other relationships denoted with possessed nouns (e.g. table's above), positional verbs (be-above), and verb affixes
-- Null-subject
-- Internal-External analogy for Past-Future
-    - "inner-week" = last week, "outer-week" = next week
+    - Internal-External analogy for Past-Future ("inner-week" = last week, "outer-week" = next week)
     - What is the present?  Is the some kind of boundary or event horizon?  "boundary-week" = this week?  Does it need a way to specify, or can it go unmarked?  Maybe using the locative case?
+    - Tense distinction between today and further times (both past and future)
+- Noun relationships denoted through affixing
+- Polypersonal agreement on verbs
+- Null-subject
 - Distinguishing (highlighting) cooperative actions
     - Cooperative voice?  Commitative case?  Both?
-- Tense distinction between today and further times (both past and future)
-- Active-stative alignment
-- Polypersonal agreement on verbs
-- Verbs can form gerund and take class markers
 
 ### Evolution Ideas
 
 - Prepositions evolve into noun case prefixes
+    - Other relationships not covered by cases can be denoted with possessed nouns (e.g. table's above), positional verbs (be-above), and verb affixes
 - Pronouns evolve into verbal polypersonal suffixes
+- Vowel harmony evolves into stem change due to vowel loss
 
 ## Proto Language
 
