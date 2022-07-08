@@ -16,10 +16,58 @@ _by Tristan Armitage_
 
 ### Evolution Ideas
 
-- Prepositions evolve into noun case prefixes
-    - Other relationships not covered by cases can be denoted with possessed nouns (e.g. table's above), positional verbs (be-above), and verb affixes
-- Pronouns evolve into verbal polypersonal suffixes
-- Vowel harmony evolves into stem change due to vowel loss
+- Analytic (isolating) structure evolves into agglutinative (with a little bit of fusional)
+- Vowel assimilation (umlaut) undergoes vowel loss and evolves into stem change
+- Pronouns evolve into verbal agreement suffixes
+- Inclusive 1P pronoun affixes to verb and evolves into cooperative voice
+    - Inclusive 1P pronoun could be lost and the exclusive becomes the sole 1P pronoun
+- Nasal consonants combine with adjacent vowels to form nasalized vowels
+- Some vowels drop after fricatives to create syllabic fricatives
+- Consider how nominal relationships evolve (adpositions, cases, converbs)
+    - Serial positional verbs (e.g. "sit be-on I chair" = "I sit on a chair") evolve into prepositions
+    - Prepositions evolve into nominal case prefixes; which prepositions are repeated enough to become non-optional cases?
+    - Relationships not covered by cases can be denoted with possessed nouns (e.g. table's above), positional verbs (be-above), and verb affixes
+    - Verbs combine with case marking to create converbs
+
+### Inflectional Summary
+
+| Inflect For | Verbs | Nouns | Adjectives |
+|-------------|-------|-------|------------|
+| Person      |       |       |            |
+| Number      |       |       |            |
+| Case        |       | yes   | yes        |
+| Posession   |       | yes   |            |
+| Tense       | yes   |       |            |
+| Aspect      | yes   |       |            |
+| Mood        | yes   |       |            |
+| Voice       | yes   |       |            |
+
+- tense+aspect.VERB.mood.voice
+- case.NOUN.possession
+- case.ADJ
+- possession marked on possessee
+
+### Case Evolution
+
+Intransitive directions:
+- move up = ascend
+- move down = descend
+- move forward = advance
+- move backward = retreat
+- move inward = withdraw
+- move outward = release
+- move aimlessly = meander
+
+Transitive directions:
+- move toward = approach
+- move away from = depart
+- move into = enter
+- move out from = exit
+- move through = traverse
+- move around = circumnavigate
+
+Transitive relations:
+- benefitting
 
 ## Proto Language
 
@@ -35,7 +83,7 @@ _by Tristan Armitage_
 - Preposition become prefixes
 - Prepositional prefixes evolve into full case system
 - Case system expands to dependent clauses as well
-- Word order no longer restricted
+- Non-finite verbs interact with case system to create converbs
 
 ## Modern Lanɡuaɡe
 
