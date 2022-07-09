@@ -29,25 +29,6 @@ _by Tristan Armitage_
     - Adpositions evolve into nominal case affixes; which adpositions are repeated enough to become non-optional cases?
     - Verbs combine with case marking to create converbs
 
-### Inflectional Summary
-
-| Inflect For | Verbs | Nouns | Adjectives |
-|-------------|-------|-------|------------|
-| Person      |       |       |            |
-| Number      |       |       |            |
-| Case        |       | yes   | yes        |
-| Posession   |       | yes   |            |
-| Tense       | yes   |       |            |
-| Aspect      | yes   |       |            |
-| Mood        | yes   |       |            |
-| Voice       | yes   |       |            |
-| Negation    | yes   |       | yes        |
-
-- tense+aspect.VERB.mood.voice
-- case.NOUN.possession
-- case.ADJ
-- POS.possessee possessor
-
 ### Case Evolution
 
 Intransitive directions:
@@ -76,6 +57,25 @@ Transitive relations:
 - harm
 
 ## Proto Language
+
+### Inflectional Summary
+
+| Inflect For | Verbs | Nouns | Adjectives |
+|-------------|-------|-------|------------|
+| Person      |       |       |            |
+| Number      |       |       |            |
+| Case        |       | yes   | yes        |
+| Posession   |       | yes   |            |
+| Tense       | yes   |       |            |
+| Aspect      | yes   |       |            |
+| Mood        | yes   |       |            |
+| Voice       |       |       |            |
+| Negation    | yes   |       | yes        |
+
+- tense+aspect-VERB-mood-(voice-subj-obj)
+- case-NOUN-possession
+- case-ADJ
+- POS-possessee possessor
 
 ### Grammar
 
