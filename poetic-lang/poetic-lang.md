@@ -25,8 +25,8 @@ _by Tristan Armitage_
 - Some vowels drop after fricatives to create syllabic fricatives
 - Consider how nominal relationships evolve (adpositions, cases, converbs)
     - Serial positional verbs (e.g. "sit be-on I chair" = "I sit on a chair") evolve into prepositions
-    - Prepositions evolve into nominal case prefixes; which prepositions are repeated enough to become non-optional cases?
-    - Relationships not covered by cases can be denoted with possessed nouns (e.g. table's above), positional verbs (be-above), and verb affixes
+    - Possessed nouns (e.g. "table's above" = "above the table") evolve into postpositions
+    - Adpositions evolve into nominal case affixes; which adpositions are repeated enough to become non-optional cases?
     - Verbs combine with case marking to create converbs
 
 ### Inflectional Summary
@@ -41,11 +41,12 @@ _by Tristan Armitage_
 | Aspect      | yes   |       |            |
 | Mood        | yes   |       |            |
 | Voice       | yes   |       |            |
+| Negation    | yes   |       | yes        |
 
 - tense+aspect.VERB.mood.voice
 - case.NOUN.possession
 - case.ADJ
-- possession marked on possessee
+- POS.possessee possessor
 
 ### Case Evolution
 
@@ -54,8 +55,8 @@ Intransitive directions:
 - move down = descend
 - move forward = advance
 - move backward = retreat
-- move inward = withdraw
 - move outward = release
+- move inward = withdraw
 - move aimlessly = meander
 
 Transitive directions:
@@ -65,9 +66,14 @@ Transitive directions:
 - move out from = exit
 - move through = traverse
 - move around = circumnavigate
+- stop at = reach
+- start from = originate (from)
 
 Transitive relations:
-- benefitting
+- be (equivalent)
+- become
+- benefit
+- harm
 
 ## Proto Language
 
@@ -148,8 +154,3 @@ Inflect verbs for the following **tenses**:
 
 - realis
 - irrealis
-
-Simple **possession** _(my dog)_ is denoted with a suffix inflected for person.  Specific **possession** _(John's dog)_ with a genitive inflection of the possessor.
-
-Verbs inflect for **person** of both the agent and the patient, possibly with a fused affix
-
