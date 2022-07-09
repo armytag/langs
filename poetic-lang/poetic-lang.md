@@ -64,7 +64,7 @@ Transitive relations:
 |-------------|-------|-------|------------|
 | Person      |       |       |            |
 | Number      |       |       |            |
-| Case        |       | yes   | yes        |
+| Case        |       |       |            |
 | Posession   |       | yes   |            |
 | Tense       | yes   |       |            |
 | Aspect      | yes   |       |            |
@@ -72,9 +72,9 @@ Transitive relations:
 | Voice       |       |       |            |
 | Negation    | yes   |       | yes        |
 
-- tense+aspect-VERB-mood-(voice-subj-obj)
-- case-NOUN-possession
-- case-ADJ
+- tense+aspect-VERB-neg-mood-(voice-subj-obj)
+- possession-NOUN
+- ADJ-neg
 - POS-possessee possessor
 
 ### Grammar
@@ -92,6 +92,25 @@ Transitive relations:
 - Non-finite verbs interact with case system to create converbs
 
 ## Modern Lanɡuaɡe
+
+### Inflectional Summary
+
+| Inflect For | Verbs | Nouns | Adjectives |
+|-------------|-------|-------|------------|
+| Person      | yes   |       |            |
+| Number      | yes   |       |            |
+| Case        |       | yes   |            |
+| Posession   |       | yes   |            |
+| Tense       | yes   |       |            |
+| Aspect      | yes   |       |            |
+| Mood        | yes   |       |            |
+| Voice       | yes   |       |            |
+| Negation    | yes   |       | yes        |
+
+- tense+aspect-VERB-mood-(voice-subj-obj)
+- case-NOUN-possession
+- case-ADJ
+- POS-possessee possessor
 
 ### Grammar
 
