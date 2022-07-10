@@ -73,15 +73,15 @@ Transitive relations:
 | VOWELS | Front | Back |
 |--------|-------|------|
 | High   | i     | u    |
-| Mid    | uh    | o    |
-| Low    | 3     | a    |
+| Mid    | ə     | o    |
+| Low    | ɛ     | ɑ    |
 
 | CONSONANTS | Bilabial | Alveolar | Retroflex | Velar | Glottal |
 |------------|----------|----------|-----------|-------|---------|
-| Nasal      | m        | n        | gn        | ng    |         |
-| Plosive    | p        | t        | tt        | k     | '       |
-| Fricative  | f        | s        | ss        | x     | h       |
-| Affricate  |          | ts       | ttss      |       |         |
+| Nasal      | m        | n        | ɳ         | ŋ     |         |
+| Plosive    | p        | t        | ʈ         | k     | ʔ       |
+| Fricative  | f        | s        | ʂ         | x     | h       |
+| Affricate  |          | (ts)     | (ʈʂ)      |       |         |
 | Lateral    |          | l        |           |       |         |
 | Trill      |          | r        |           |       |         |
 
