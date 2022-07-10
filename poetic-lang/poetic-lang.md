@@ -88,6 +88,12 @@ Transitive relations:
 | Lateral    |          | l        |           |       |         |
 | Trill      |          | r        |           |       |         |
 
+### Phonotactics
+
+(C)V(C)
+- Must have one vowel in the nucleus, and cannot be alone
+- Must have one consonant in the onset and/or one consonant in the coda
+
 ### Inflectional Summary
 
 | Inflect For | Verbs | Nouns | Adjectives |
