@@ -57,7 +57,33 @@ Transitive relations:
 - benefit
 - harm
 
+### Phonological Evolution
+
+- hl > hl
+
 ## Proto Language
+
+### Phonology
+
+- 16-17 consonants
+- 6 vowels
+- no voiced plosives
+- no uvular or glottal consonants
+
+| VOWELS | Front | Back |
+|--------|-------|------|
+| High   | i     | u    |
+| Mid    | uh    | o    |
+| Low    | 3     | a    |
+
+| CONSONANTS | Bilabial | Alveolar | Retroflex | Velar | Glottal |
+|------------|----------|----------|-----------|-------|---------|
+| Nasal      | m        | n        | gn        | ng    |         |
+| Plosive    | p        | t        | tt        | k     | '       |
+| Fricative  | f        | s        | ss        | x     | h       |
+| Affricate  |          | ts       | ttss      |       |         |
+| Lateral    |          | l        |           |       |         |
+| Trill      |          | r        |           |       |         |
 
 ### Inflectional Summary
 
