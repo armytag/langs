@@ -59,7 +59,10 @@ Transitive relations:
 
 ### Phonological Evolution
 
-- hl > hl
+- Devoicinɡ nasals, trills, and approximants
+    - N > N̥
+    - r > r̥
+    - l > l̥ > ɬ
 
 ## Proto Language
 
@@ -68,7 +71,7 @@ Transitive relations:
 - 16-17 consonants
 - 6 vowels
 - no voiced plosives
-- no uvular or glottal consonants
+- no uvular consonants
 
 | VOWELS | Front | Back |
 |--------|-------|------|
