@@ -28,6 +28,7 @@ _by Tristan Armitage_
     - Possessed nouns (e.g. "table's above" = "above the table") evolve into postpositions
     - Adpositions evolve into nominal case affixes; which adpositions are repeated enough to become non-optional cases?
     - Verbs combine with case marking to create converbs
+- Associative plurals ("Paul-PL" = "Paul and company") and additive pluarls ("banana-PL" = "bananas") use same marking (?)
 
 ### Case Evolution
 
@@ -98,7 +99,7 @@ Transitive relations:
 | Inflect For | Verbs | Nouns | Adjectives |
 |-------------|-------|-------|------------|
 | Person      | yes   |       |            |
-| Number      | yes   |       |            |
+| Number      | yes   | yes   |            |
 | Case        |       | yes   |            |
 | Posession   |       | yes   |            |
 | Tense       | yes   |       |            |
