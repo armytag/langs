@@ -143,7 +143,6 @@ CV(C)
 ## Linguistic Evolution
 
 - Tense/aspect prefix to verbs
-- ɳ > ŋǃ (click) / (only in some situations?)
 - Mood words suffix to verbs
 - Vmp Vnt Vɳʈ Vŋk > Ṽp Ṽt Ṽʈ Ṽk
 - Pronouns suffix to verbs (after mood)
