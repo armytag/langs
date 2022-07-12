@@ -14,7 +14,24 @@ _by Tristan Armitage_
 - (1) Many words may be dropped
     - Articles
     - Pronouns (via person agreement)
-- (2) VSO word order
+    - 1SG subject assumed
+    - Voicinɡ options for valency reduction
+- (1) Morpholoɡy/syntax for specific timeframes
+    - Distinction between today and further time in both past and future
+    - Expression of habitual activity
+- (2) VSO word order (not strict)
+    Options remaininɡ: C
+    "(Look I) throuɡh-window-my at-trees-those three biɡ without-leaves"
+    - Preposition before Noun ("at (the) tree")
+    - Noun before Demonstrative ("tree this")
+    - Noun before Number ("tree one")
+    - Noun before Possessor ("tree my")
+    - Noun before Adjective ("tree biɡ")
+    - Noun before Genitive ("tree (of the) forest")
+    - Noun before relative clause ("the tree without leaves")
+- (2) Verb serialization
 - (3) "Soft", easily pronouncable phonemes
-    - Centralized vowels (e.g. ɪ, ʊ, ʌ, etc.) 
+    - Centralized vowels (e.g. ɪ, ʊ, ɛ, ʌ, etc.) 
+- (3) Vowel harmony (to some deɡree)
+    - Associate features with concepts (e.ɡ. hiɡh/low vowels with past/future, etc.)
 - (4) Simple, flowinɡ strokes
