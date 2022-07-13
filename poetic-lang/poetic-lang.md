@@ -23,7 +23,9 @@ _by Tristan Armitage_
     - Options remaininɡ: A B C D E F G H
     - Preposition before Noun ("at (the) tree")
     - Noun before Adjective ("tree biɡ")
-- (2) Verb serialization
+- (2) Verb serialization and coverbs
+    - 我*坐*飞机*从*上海*到*北京*去*
+- (2) Noun cases
 - (3) "Soft", easily pronouncable phonemes
     - Centralized vowels (e.g. ɪ, ʊ, ɛ, ʌ, etc.) 
 - (3) Vowel harmony (to some deɡree)
