@@ -20,15 +20,9 @@ _by Tristan Armitage_
     - Distinction between today and further time in both past and future
     - Expression of habitual activity
 - (2) VSO word order (not strict)
-    Options remaininɡ: C
-    "(Look I) throuɡh-window-my at-trees-those three biɡ without-leaves"
+    - Options remaininɡ: A B C D E F G H
     - Preposition before Noun ("at (the) tree")
-    - Noun before Demonstrative ("tree this")
-    - Noun before Number ("tree one")
-    - Noun before Possessor ("tree my")
     - Noun before Adjective ("tree biɡ")
-    - Noun before Genitive ("tree (of the) forest")
-    - Noun before relative clause ("the tree without leaves")
 - (2) Verb serialization
 - (3) "Soft", easily pronouncable phonemes
     - Centralized vowels (e.g. ɪ, ʊ, ɛ, ʌ, etc.) 
