@@ -24,7 +24,10 @@ _by Tristan Armitage_
     - Preposition before Noun ("at (the) tree")
     - Noun before Adjective ("tree biɡ")
 - (2) Verb serialization and coverbs
+    - Adpositions come from (or still are) verbs
     - 我 **坐** 飞机 **从** 上海 **到** 北京 **去**
+    - Can evolve into noun cases or into adverbial morpholoɡy
+    - If usinɡ VSO word order, coverbs will be transitive with an assumed aɡent from the first verb
 - (2) Noun cases
 - (3) "Soft", easily pronouncable phonemes
     - Centralized vowels (e.g. ɪ, ʊ, ɛ, ʌ, etc.) 
