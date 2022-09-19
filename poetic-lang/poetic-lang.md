@@ -20,7 +20,7 @@ _by Tristan Armitage_
     - Time passes from the exterior (future), through a doorway/threshold (present), into the interior (past) 
     - Writing system can also flow in an outward way (perhaps as more ritualistic glyphs, with a simpler direction for informal writing)
 
-### Co(n)verbs
+### Coverbs
 
 Multiple verbs can appear in a sentence (serial verb construction).
 The verbs may be inflected in different ways to indicate different relationships, grammatical/lexical moods, and so on.
