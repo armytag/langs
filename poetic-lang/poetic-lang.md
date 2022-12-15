@@ -20,7 +20,19 @@ _by Tristan Armitage_
     - Time passes from the exterior (future), through a doorway/threshold (present), into the interior (past) 
     - Writing system can also flow in an outward way (perhaps as more ritualistic glyphs, with a simpler direction for informal writing)
 
-### Coverbs
+## Ideas
+
+### ***Syllabic Consonants***
+
+- ~~Semivowels [S] (j, ɥ, ɰ, w)~~ - not possible, would be considered vowels by definition
+- Nasals **[S]** (m, ɱ, n, ɳ, ɲ, ŋ, ɴ)
+- Rhotics **[S]** (ɹ, ɻ, r, ʀ, ɾ, ɽ)
+- Laterals **[S]** (ɬ, ɮ, l, ɭ, ʎ, ʟ) 
+- Sibilants (s, z, ʃ, ʒ, ʂ, ʐ, ɕ, ʑ)
+
+Check out Oogami (https://en.wikipedia.org/wiki/Miyakoan_language#Consonants) for an example of syllabic fricative evolution (http://amritas.com/101023.htm#10192359)
+
+### ***Coverbs***
 
 Multiple verbs can appear in a sentence (serial verb construction).
 The verbs may be inflected in different ways to indicate different relationships, grammatical/lexical moods, and so on.
