@@ -32,6 +32,17 @@ _by Tristan Armitage_
 
 Check out Oogami (https://en.wikipedia.org/wiki/Miyakoan_language#Consonants) for an example of syllabic fricative evolution (http://amritas.com/101023.htm#10192359)
 
+### ***Deixis***
+
+- Protolang has 3-way spatial distinction (this, that, yon)
+- Protolang determiners become modernlang subject, direct object, and indirect object markers
+    - this -> SUB, that -> D.OBJ, yon -> I.OBJ
+- modernlang simplifies to 2-way spatial distinction, but retains 3-way temporal distinction (now, later today, after today)
+    - known as hodiernal tense system (https://en.wikipedia.org/wiki/Hodiernal_tense)
+    - how do spatial adpositions interact with 3-way distinction?  Is this even a problem?
+- Protolang distant proforms become moderlang existential proforms?
+    - E.g. "Can yonbody (somebody) help me?"
+
 ### ***Coverbs***
 
 Multiple verbs can appear in a sentence (serial verb construction).
