@@ -16,7 +16,7 @@ _by Tristan Armitage_
     - Pro-drop (can be achieved through valency-reducing voices)
     - No adpositions (instead have coverbs and possessed nouns)
 8. **Culture Features:** 
-    - Distinction between today and further times in both past and future
+    - Distinction between today and further times in both past and future (hodiernal system)
     - Time passes from the exterior (future), through a doorway/threshold (present), into the interior (past) 
     - Writing system can also flow in an outward way (perhaps as more ritualistic glyphs, with a simpler direction for informal writing)
 
@@ -24,7 +24,7 @@ _by Tristan Armitage_
 
 ### ***Syllabic Consonants***
 
-- ~~Semivowels [S] (j, ɥ, ɰ, w)~~ - not possible, would be considered vowels by definition
+- ~~Semivowels **[S]** (j, ɥ, ɰ, w)~~ - not possible, would be considered vowels by definition
 - Nasals **[S]** (m, ɱ, n, ɳ, ɲ, ŋ, ɴ)
 - Rhotics **[S]** (ɹ, ɻ, r, ʀ, ɾ, ɽ)
 - Laterals **[S]** (ɬ, ɮ, l, ɭ, ʎ, ʟ) 
@@ -45,8 +45,8 @@ Check out [the Oogami language](https://en.wikipedia.org/wiki/Miyakoan_language#
 
 ### ***Coverbs***
 
-Multiple verbs can appear in a sentence (serial verb construction).
-The verbs may be inflected in different ways to indicate different relationships, grammatical/lexical moods, and so on.
+- Multiple verbs can appear in a sentence (serial verb construction).
+- The verbs may be inflected in different ways to indicate different relationships, grammatical/lexical moods, and so on.
 
 ### ***Number System***
 
@@ -55,3 +55,7 @@ The verbs may be inflected in different ways to indicate different relationships
     - Time can be measured in new units (e.g. seasons ~= 91 days, pomodoro = 15-minute period)
 - Arithmetic system would be fun, but an unimportant feature
     - Positional vs Sign-value
+
+### ***Writing System***
+
+- Use logograms for specific common words (e.g. '&')
