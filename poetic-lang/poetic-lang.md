@@ -32,6 +32,12 @@ _by Tristan Armitage_
 
 Check out [the Oogami language](https://en.wikipedia.org/wiki/Miyakoan_language#Consonants) for an example of [syllabic fricative evolution](http://amritas.com/101023.htm#10192359)
 
+### ***Parts of Speech***
+
+- Consider which parts of speech need to be primitive, and which can be derived
+    - Utilize table from ["Parts of Speech"](https://pure.uva.nl/ws/files/3933678/56452_zt02036p126.pdf) (Henɡeveld, Rijkhoff, Siewierska 2004)
+- Could have some closed classes and/or derivational systems
+
 ### ***Deixis***
 
 - Protolang has 3-way spatial distinction (this, that, yon)
