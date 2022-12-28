@@ -47,6 +47,10 @@ Check out [the Oogami language](https://en.wikipedia.org/wiki/Miyakoan_language#
 
 - Multiple verbs can appear in a sentence (serial verb construction).
 - The verbs may be inflected in different ways to indicate different relationships, grammatical/lexical moods, and so on.
+- Could restrict all verbs to only impersonal, intrastivite, or transitive (not ditransitive or tritransitive)
+    - If Protolang had this restriction, it could evolve into modern case system
+    - Serial verb constructions indicate relationship of nouns
+        - E.g. "Go-I approach-store buy-apple" == "I'm going to the store to buy apples"
 
 ### ***Number System***
 
