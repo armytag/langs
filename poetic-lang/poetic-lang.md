@@ -22,7 +22,7 @@ _by Tristan Armitage_
 
 ## Ideas
 
-### ***Syllabic Consonants***
+### ***Syllabic Consonants (?)***
 
 - ~~Semivowels **[S]** (j, ɥ, ɰ, w)~~ - not possible, would be considered vowels by definition
 - Nasals **[S]** (m, ɱ, n, ɳ, ɲ, ŋ, ɴ)
@@ -51,7 +51,7 @@ Check out [the Oogami language](https://en.wikipedia.org/wiki/Miyakoan_language#
 
 ### ***Coverbs***
 
-- Multiple verbs can appear in a sentence (serial verb construction).
+- Multiple verbs can appear in a sentence (serial verb construction or auxillary verbs).
 - The verbs may be inflected in different ways to indicate different relationships, grammatical/lexical moods, and so on.
 - Could restrict all verbs to only impersonal, intrastivite, or transitive (not ditransitive or tritransitive)
     - If Protolang had this restriction, it could evolve into modern case system
@@ -68,4 +68,4 @@ Check out [the Oogami language](https://en.wikipedia.org/wiki/Miyakoan_language#
 
 ### ***Writing System***
 
-- Use logograms for specific common words (e.g. '&')
+- Use logograms for specific common words (e.g. '&') and ɡrammatical particles (e.ɡ. '-ed' tense)
