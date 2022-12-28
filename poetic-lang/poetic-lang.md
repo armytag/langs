@@ -10,7 +10,8 @@ _by Tristan Armitage_
 4. **Complexity:** Mostly simple, low word count, some specific places of complexity
 5. **Derivation:** Majorly transparent, with a few irregularities
 6. **Phonological Features:** 
-    - Syllabic consonants
+    - Should sound pleasant for makinɡ sinɡinɡ/music
+    - Syllabic consonants (?)
 7. **Grammar Features:**
     - Pro-form words (pronouns, pro-adjectives, proverbs, etc.)
     - Pro-drop (can be achieved through valency-reducing voices)
