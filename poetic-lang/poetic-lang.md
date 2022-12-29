@@ -13,25 +13,22 @@ _by Tristan Armitage_
     - Should sound pleasant for makinɡ sinɡinɡ/music
     - Syllabic consonants (?)
 7. **Grammar Features:**
-    - Pro-form words (pronouns, pro-adjectives, proverbs, etc.)
-    - Pro-drop (can be achieved through valency-reducing voices)
-    - No adpositions (instead have coverbs and possessed nouns)
+    - Extensive use of pro-form words, which are dropped as much as possible
+    - Non-concatenative morphology, to keep word sizes small
 8. **Culture Features:** 
     - Distinction between today and further times in both past and future (hodiernal system)
     - Time passes from the exterior (future), through a doorway/threshold (present), into the interior (past) 
-    - Writing system can also flow in an outward way (perhaps as more ritualistic glyphs, with a simpler direction for informal writing)
 
 ## Ideas
 
-### ***Syllabic Consonants (?)***
+### ***Coverbs***
 
-- ~~Semivowels **[S]** (j, ɥ, ɰ, w)~~ - not possible, would be considered vowels by definition
-- Nasals **[S]** (m, ɱ, n, ɳ, ɲ, ŋ, ɴ)
-- Rhotics **[S]** (ɹ, ɻ, r, ʀ, ɾ, ɽ)
-- Laterals **[S]** (ɬ, ɮ, l, ɭ, ʎ, ʟ) 
-- Sibilants (s, z, ʃ, ʒ, ʂ, ʐ, ɕ, ʑ)
-
-Check out [the Oogami language](https://en.wikipedia.org/wiki/Miyakoan_language#Consonants) for an example of [syllabic fricative evolution](http://amritas.com/101023.htm#10192359)
+- Multiple verbs can appear in a sentence (serial verb construction or auxillary verbs).
+- The verbs may be inflected in different ways to indicate different relationships, grammatical/lexical moods, and so on.
+- Could restrict all verbs to only impersonal, intrastivite, or transitive (not ditransitive or tritransitive)
+    - Serial verb constructions indicate relationship of nouns
+        - E.g. "Go-I approach-store buy-apple" == "I'm going to the store to buy apples"
+    - Certain overused protolang verbs can grammaticalize to become clitics indicating the relationship of noun phrases
 
 ### ***Parts of Speech***
 
@@ -50,15 +47,6 @@ Check out [the Oogami language](https://en.wikipedia.org/wiki/Miyakoan_language#
 - Protolang distant proforms become moderlang existential proforms?
     - E.g. "Can yonbody (somebody) help me?"
 
-### ***Coverbs***
-
-- Multiple verbs can appear in a sentence (serial verb construction or auxillary verbs).
-- The verbs may be inflected in different ways to indicate different relationships, grammatical/lexical moods, and so on.
-- Could restrict all verbs to only impersonal, intrastivite, or transitive (not ditransitive or tritransitive)
-    - If Protolang had this restriction, it could evolve into modern case system
-    - Serial verb constructions indicate relationship of nouns
-        - E.g. "Go-I approach-store buy-apple" == "I'm going to the store to buy apples"
-
 ### ***Number System***
 
 - Non-arithmetic situations can use simplified terminology rather than precise measures
@@ -70,3 +58,13 @@ Check out [the Oogami language](https://en.wikipedia.org/wiki/Miyakoan_language#
 ### ***Writing System***
 
 - Use logograms for specific common words (e.g. '&') and ɡrammatical particles (e.ɡ. '-ed' tense)
+
+### ***Syllabic Consonants (?)***
+
+- ~~Semivowels **[S]** (j, ɥ, ɰ, w)~~ - not possible, would be considered vowels by definition
+- Nasals **[S]** (m, ɱ, n, ɳ, ɲ, ŋ, ɴ)
+- Rhotics **[S]** (ɹ, ɻ, r, ʀ, ɾ, ɽ)
+- Laterals **[S]** (ɬ, ɮ, l, ɭ, ʎ, ʟ) 
+- Sibilants (s, z, ʃ, ʒ, ʂ, ʐ, ɕ, ʑ)
+
+Check out [the Oogami language](https://en.wikipedia.org/wiki/Miyakoan_language#Consonants) for an example of [syllabic fricative evolution](http://amritas.com/101023.htm#10192359)
