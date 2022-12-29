@@ -12,13 +12,11 @@ _by Tristan Armitage_
 6. **Phonological Features:** 
     - Syllabic consonants
 7. **Grammar Features:**
-    - Pro-form words (pronouns, pro-adjectives, proverbs, etc.)
-    - Pro-drop (can be achieved through valency-reducing voices)
-    - No adpositions (instead have coverbs and possessed nouns)
+    - Extensive use of pro-form words, which are dropped as much as possible
+    - Non-concatenative morphology, to keep word sizes small
 8. **Culture Features:** 
     - Distinction between today and further times in both past and future (hodiernal system)
     - Time passes from the exterior (future), through a doorway/threshold (present), into the interior (past) 
-    - Writing system can also flow in an outward way (perhaps as more ritualistic glyphs, with a simpler direction for informal writing)
 
 ## Ideas
 
