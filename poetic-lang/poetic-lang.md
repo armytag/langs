@@ -10,16 +10,19 @@ _by Tristan Armitage_
 4. **Complexity:** Mostly simple, low word count, some specific places of complexity
 5. **Derivation:** Majorly transparent, with a few irregularities
 6. **Phonological Features:** 
-    - Should sound pleasant for makinɡ sinɡinɡ/music
-    - Syllabic consonants (?)
+    - No voicing distinction for consonants
 7. **Grammar Features:**
     - Extensive use of pro-form words, which are dropped as much as possible
-    - Non-concatenative morphology, to keep word sizes small
+    - Apophony to keep word sizes small
 8. **Culture Features:** 
     - Distinction between today and further times in both past and future (hodiernal system)
     - Time passes from the exterior (future), through a doorway/threshold (present), into the interior (past) 
 
 ## Ideas
+
+### ***Apophony***
+
+- Nasals can raise preceding vowels (e.g. e > i, o > u)
 
 ### ***Coverbs***
 
