@@ -1,6 +1,6 @@
 # A Poetic Language
 
-_by Tristan Armitage_
+_by armytag_
 
 ## Goals
 
