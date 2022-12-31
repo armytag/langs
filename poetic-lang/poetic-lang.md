@@ -24,11 +24,17 @@ _by armytag_
 
 Time blows like a wind in the following way:
 
-    - first toward the referant (future)
+    - first it moves toward the referant (future)
     - then it reaches the referant (present)
     - finally it continues onward having affected the referant (past)
 
-This can be thought of somewhat like a breath, first with an inhale, then a moment of full breath, and finally with an exhale
+This notion involves motion toward or away from the referant, i.e. it is time that is moving rather than the referant.
+This is different from English, where people move forward through time.
+Instead, it is time that moves through the person, without regard to that person's body orientation.
+For example, whereas an English speaker might say "We just have to get through the day", a Poetic speaker would say "We just have to endure the day (as it passes)"
+
+This can also be thought of like a breath: first with an inhale, then a moment of full breath, and finally with an exhale.
+There could be interesting semantic conflations when this concept gets linked with meditative breathing exercises.
 
 ### ***Apophony***
 
