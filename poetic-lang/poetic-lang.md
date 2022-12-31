@@ -35,6 +35,7 @@ For example, whereas an English speaker might say "We just have to get through t
 
 This concept of time also makes time an agent of change which always leaves an effect in the referant, no matter how small.
 Another way to think of this could be things which have not affected the referant, things which are currently affecting them, and things which have already affected them.
+
     * These distinctions seem both temporal and aspectual, and would be worth further investigation.
 
 This can also be thought of like a breath: first with an inhale, then a moment of full breath, and finally with an exhale.
