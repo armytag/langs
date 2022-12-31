@@ -20,6 +20,16 @@ _by armytag_
 
 ## Ideas
 
+### ***Conception of Time***
+
+Time blows like a wind in the following way:
+
+    - first toward the referant (future)
+    - then it reaches the referant (present)
+    - finally it continues onward having affected the referant (past)
+
+This can be thought of somewhat like a breath, first with an inhale, then a moment of full breath, and finally with an exhale
+
 ### ***Apophony***
 
 - Nasals can raise preceding vowels (e.g. e > i, o > u)
