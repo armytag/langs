@@ -30,8 +30,12 @@ Time blows like a wind in the following way:
 
 This notion involves motion toward or away from the referant, i.e. it is time that is moving rather than the referant.
 This is different from English, where people move forward through time.
-Instead, it is time that moves through the person, without regard to that person's body orientation.
+Instead, it is time that moves through the person, without regard to that person's spatial orientation.
 For example, whereas an English speaker might say "We just have to get through the day", a Poetic speaker would say "We just have to endure the day (as it passes)"
+
+This concept of time also makes time an agent of change which always leaves an effect in the referant, no matter how small.
+Another way to think of this could be things which have not affected the referant, things which are currently affecting them, and things which have already affected them.
+    * These distinctions seem both temporal and aspectual, and would be worth further investigation.
 
 This can also be thought of like a breath: first with an inhale, then a moment of full breath, and finally with an exhale.
 There could be interesting semantic conflations when this concept gets linked with meditative breathing exercises.
