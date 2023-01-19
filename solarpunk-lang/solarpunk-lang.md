@@ -37,7 +37,7 @@ _by armytag_
 
 **Phonotactics:** CV(C)
 - Onset: Any consonant
-- Coda: Any nasal, basic plosive, or lateral approximant
+- Coda: Any non-labialized, non-palatalized consonant
 
 **Stress:**
 - Second syllable is always primary stress
