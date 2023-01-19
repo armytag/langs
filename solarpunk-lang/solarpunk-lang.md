@@ -17,3 +17,18 @@ _by armytag_
     - Allow a high degree of specificity, but require very little by default 
 8. **Culture Features:** 
     - Keen to come up with specific terminology for concepts in order to discuss difficult topics
+
+### Phonoloɡy
+
+| VOWELS | Cardinal | After Cʲ | After Cʷ |
+|--------|----------|----------|----------|
+|  Close |        ɨ |        ɪ |        ʊ |
+|    Mid |        ə |        ɛ |        ɔ |
+|   Open |        a |          |          |
+
+- no palatal consonants, no close front vowels
+- three vowels, modified by precedinɡ consonant
+    - ɨ, ə, a
+    - Cʲɨ Cʷɨ -> Cʲɪ Cʷʊ 
+    - Cʲə Cʷə -> Cʲɛ Cʷɔ
+    - e.ɡ. pʲɪm pɨm pʷʊm, pʲɛm pəm pʷɔm, pam
