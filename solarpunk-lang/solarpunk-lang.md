@@ -20,15 +20,24 @@ _by armytag_
 
 ### Phonoloɡy
 
-| VOWELS | Cardinal | After Cʲ | After Cʷ |
-|--------|----------|----------|----------|
-|  Close |        ɨ |        ɪ |        ʊ |
-|    Mid |        ə |        ɛ |        ɔ |
-|   Open |        a |          |          |
+|  CONSONANTS | Labial | Alveolar | Velar |
+|-------------|--------|----------|-------|
+|       Nasal |      m |        n |     ŋ |
+|     Plosive |   p  b |     t  d |  k  ɡ |
+|  Labialized |  pʷ bʷ |    tʷ dʷ | kʷ ɡʷ |
+| Palatalized |  pʲ bʲ |    tʲ dʲ | kʲ ɡʲ |
+|   Fricative |      f |        s |     x |
+|     Lateral |        |        l |       |
 
-- no palatal consonants, no close front vowels
-- three vowels, modified by precedinɡ consonant
-    - ɨ, ə, a
-    - Cʲɨ Cʷɨ -> Cʲɪ Cʷʊ 
-    - Cʲə Cʷə -> Cʲɛ Cʷɔ
-    - e.ɡ. pʲɪm pɨm pʷʊm, pʲɛm pəm pʷɔm, pam
+| VOWELS | After Cʲ/ŋ | Cardinal | After Cʷ/m |
+|--------|------------|----------|------------|
+|  Close |          ɪ |        ɨ |          ʊ |
+|    Mid |          ɛ |        ə |          ɔ |
+|   Open |          a |        a |          a |
+
+**Phonotactics:** CV(C)
+- Onset: Any consonant
+- Coda: Any nasal, basic plosive, or lateral approximant
+
+**Stress:**
+- Second syllable is always primary stress
