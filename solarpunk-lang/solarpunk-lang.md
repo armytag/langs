@@ -31,13 +31,18 @@ _by armytag_
 
 | VOWELS | After Cʲ/ŋ | Cardinal | After Cʷ/m |
 |--------|------------|----------|------------|
-|  Close |          ɪ |        ɨ |          ʊ |
-|    Mid |          ɛ |        ə |          ɔ |
+|  Close |      (i) ɪ |    (y) ɨ |      (v) ʊ |
+|    Mid |      (e) ɛ |    (u) ə |      (o) ɔ |
 |   Open |          a |        a |          a |
 
 **Phonotactics:** CV(C)
 - Onset: Any consonant
-- Coda: Any non-labialized, non-palatalized consonant
+- Coda: Any non-plosive
+    - Possibilities: -am -an -aŋ -af -as -ax -al
 
 **Stress:**
 - Second syllable is always primary stress
+
+### Sound Chanɡes
+
+Cʲɪ -> Ci
