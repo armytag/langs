@@ -31,8 +31,8 @@ _by armytag_
 
 | VOWELS | After Cʲ/ŋ | Cardinal | After Cʷ/m |
 |--------|------------|----------|------------|
-|  Close |      (i) ɪ |    (y) ɨ |      (v) ʊ |
-|    Mid |      (e) ɛ |    (u) ə |      (o) ɔ |
+|  Close |          ɪ |        ɨ |          ʊ |
+|    Mid |          ɛ |        ə |          ɔ |
 |   Open |          a |        a |          a |
 
 **Phonotactics:** CV(C)
@@ -45,7 +45,7 @@ _by armytag_
 
 ### Sound Chanɡes
 
-Cʲɪ ŋɪ -> Ci ni
-f x -> θ ʃ / V_
-f x -> v h / else
-tʲ dʲ kʲ ɡʲ -> tʃ dʒ tɕ dʑ
+1. Cʲɪ ŋɪ -> Ci ni
+1. f x -> θ ʃ / V_
+1. f x -> v h / else
+1. tʲ dʲ kʲ ɡʲ -> tʃ dʒ tɕ dʑ
