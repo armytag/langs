@@ -46,3 +46,6 @@ _by armytag_
 ### Sound Chanɡes
 
 Cʲɪ ŋɪ -> Ci ni
+f x -> θ ʃ / V_
+f x -> v h / else
+tʲ dʲ kʲ ɡʲ -> tʃ dʒ tɕ dʑ
