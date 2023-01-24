@@ -45,7 +45,7 @@ _by armytag_
 
 ### Sound Chanɡes
 
-1. Cʲɪ ŋɪ -> Ci ni
-1. f x -> θ ʃ / V_
-1. f x -> v h / else
-1. tʲ dʲ kʲ ɡʲ -> tʃ dʒ tɕ dʑ
+1. Cʲɪ ŋɪ → Ci ni
+1. f x → θ ʃ / V_
+1. f x → v h / else
+1. tʲ dʲ kʲ ɡʲ → tʃ dʒ tɕ dʑ
