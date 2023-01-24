@@ -45,4 +45,4 @@ _by armytag_
 
 ### Sound Chanɡes
 
-Cʲɪ -> Ci
+Cʲɪ ŋɪ -> Ci ni
