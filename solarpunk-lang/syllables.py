@@ -28,20 +28,24 @@ def main(iterations=20, syllables=-1):
     else:
         syllables = [syllables]
     for iteration in range(iterations):
-        word = ''
-        for syllable in range(choice(syllables)):
-            onset = choice(INITIALS)
-            if 'm' in onset or 'ʷ' in onset:
-                vowel = choice(LABIAL_VOWELS)
-            elif 'ŋ' in onset or 'ʲ' in onset:
-                vowel = choice(PALATAL_VOWELS)
-            else:
-                vowel = choice(CARDINAL_VOWELS)
-            coda = ''
-            if random() < 0.33:
-                coda = choice(FINALS)
-            word += onset + vowel + coda
-        words.append(word)
+        unique = False
+        while not unique:
+            word = ''
+            for syllable in range(choice(syllables)):
+                onset = choice(INITIALS)
+                if 'm' in onset or 'ʷ' in onset:
+                    vowel = choice(LABIAL_VOWELS)
+                elif 'ŋ' in onset or 'ʲ' in onset:
+                    vowel = choice(PALATAL_VOWELS)
+                else:
+                    vowel = choice(CARDINAL_VOWELS)
+                coda = ''
+                if random() < 0.33:
+                    coda = choice(FINALS)
+                word += onset + vowel + coda
+            if word not in words:
+                unique = True
+                words.append(word)
     words.sort()
     print(*words, sep='\n')
 
