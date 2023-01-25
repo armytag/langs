@@ -49,3 +49,27 @@ _by armytag_
 1. f x → θ ʃ / V_
 1. f x → v h / else
 1. tʲ dʲ kʲ ɡʲ → tʃ dʒ tɕ dʑ
+
+## Pronouns
+
+| Person |
+|--------|
+|      1 |
+|      2 |
+|      3 |
+|      4 |
+
+## Nouns
+
+- Inflected for 
+
+## Examples
+
+Marlene  wanted to marry     a rich man
+Marlene  REM.PST-marry-DESI  man rich
+<!-- This indicates a desire to have been married, not a previous desire -->
+
+We want them to do the work better
+3P work-OPT better
+<!-- This indicates a desire to work, not that the work be better -->
+
