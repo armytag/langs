@@ -51,6 +51,7 @@ _by armytag_
 1. tʲ dʲ kʲ ɡʲ → tʃ dʒ tɕ dʑ
 
 ## Word Order
+
 - Verb > Object
 - Preposition > Noun
 - Demonstrative > Noun
@@ -62,6 +63,9 @@ _by armytag_
 
 EN: "beside that one librarian's biɡ book of-secrets that-is-hidden"
 SP: "beside that book biɡ one librarian's of-secrets that-is-hidden"
+
+- SVO order by default
+- NeɡVSO order in neɡative clauses
 
 ## Pronouns
 
