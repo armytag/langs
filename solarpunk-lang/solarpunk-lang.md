@@ -50,18 +50,32 @@ _by armytag_
 1. f x → v h / else
 1. tʲ dʲ kʲ ɡʲ → tʃ dʒ tɕ dʑ
 
+## Word Order
+- Verb > Object
+- Preposition > Noun
+- Demonstrative > Noun
+- Noun > Number
+- Noun > Possessor
+- Noun > Adjective
+- Noun > Genative
+- Noun > Relative Clause
+
+EN: "beside that one librarian's biɡ book of-secrets that-is-hidden"
+SP: "beside that book biɡ one librarian's of-secrets that-is-hidden"
+
 ## Pronouns
 
-| Person |
-|--------|
-|      1 |
-|      2 |
-|      3 |
-|      4 |
+- Unique pronouns for 1st and 2nd person
+- Demonstrative pronouns for 3rd person
+    - Demonstratives can be adjectives ('this') or pronouns ('he') dependinɡ on how they are used
 
 ## Nouns
 
 - Inflected for 
+
+## Verbs
+
+- Inflected for person of subject
 
 ## Examples
 
