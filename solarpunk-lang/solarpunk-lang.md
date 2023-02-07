@@ -43,6 +43,9 @@ _by armytag_
 **Stress:**
 - Second syllable is always primary stress
 
+**Goals:**
+- m̩ˈt͜ʃarabi 
+
 ### Sound Chanɡes
 
 1. Cʲɪ ŋɪ → Ci ni
