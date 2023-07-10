@@ -15,3 +15,30 @@ _by armytag_
     - something
 8. **Culture Features:** 
     - something
+
+### Phonoloɡy
+
+| VOWELS |   Front |    Back |
+|--------|---------|---------|
+|  Close |   i (i) |   u (u) |
+|    Mid | e~ɛ (e) | o~ɔ (o) |
+|   Open |   a (a) |         |
+
+|    CONSONANTS | Labial | Alveolar | Velar |
+|---------------|--------|----------|-------|
+|         Nasal |      m |        n |     ŋ |
+|       Plosive |   p  b |     t  d |  k  ɡ |
+|     Fricative |        |     s  z |  x  ɣ |
+|       Lateral |        |        l |     ʟ |
+|         Trill |        |        r |       |
+| Lateral Fric. |        |     ɬ  ɮ |       |
+
+### Constructions
+
+_mbo.ɡuɮ_
+
+not.if
+
+"If not"
+
+_mtʃarabi_
