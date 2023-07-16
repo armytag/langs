@@ -38,7 +38,7 @@ _by armytag_
 ## Sound chanɡes
 
 m n → mb nd / #_
-___||___
+__ || __
 nw nr → mb nd
 
 a ə → ə ∅ (?)
