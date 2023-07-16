@@ -16,13 +16,15 @@ _by armytag_
 8. **Culture Features:** 
     - something
 
+## Proto Lanɡuaɡe
+
 ### Phonoloɡy
 
 | VOWELS |   Front |    Back |
 |--------|---------|---------|
-|  Close |   i (i) |   u (u) |
+|  Close |   i (i) |   u (y) |
 |    Mid | e~ɛ (e) | o~ɔ (o) |
-|   Open |   a (a) |         |
+|   Open |   a (a) |   ə (u) |
 
 |    CONSONANTS | Labial | Alveolar | Velar |
 |---------------|--------|----------|-------|
@@ -32,6 +34,21 @@ _by armytag_
 |       Lateral |        |        l |     ʟ |
 |         Trill |        |        r |       |
 | Lateral Fric. |        |     ɬ  ɮ |       |
+
+## Sound chanɡes
+
+m n → mb nd / #_
+-or-
+nw nr → mb nd
+
+a ə → ə ∅ (?)
+
+## Modern Lanɡuaɡe
+
+### Phonoloɡy
+
+Vowels: o u a
+Consonants: m b ɡ ɮ t ʃ r
 
 ### Constructions
 
