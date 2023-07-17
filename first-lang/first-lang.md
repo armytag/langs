@@ -20,24 +20,6 @@ _by armytag_
 
 ### Phonoloɡy
 
-| VOWELS |   Front |    Back |
-|--------|---------|---------|
-|  Close |   i (i) |   u (y) |
-|    Mid | e~ɛ (e) | o~ɔ (o) |
-|   Open |   a (a) |   ə (u) |
-
-|    CONSONANTS | Labial | Alveolar | Velar |
-|---------------|--------|----------|-------|
-|         Nasal |      m |        n |     ŋ |
-|       Plosive |   p  b |     t  d |  k  ɡ |
-|     Fricative |        |     s  z |  x  ɣ |
-|     Affricate |        |    ts    | kx    |
-|       Lateral |        |        l |     ʟ |
-|         Trill |        |        r |       |
-| Lateral Fric. |        |     ɬ  ɮ |       |
-
-Vowels: i e a u o ə ai ei io ue
-
 ## Sound chanɡes
 
 ai → aː / \_r
@@ -60,15 +42,4 @@ j tʃ → ɡ k
 
 ### Phonoloɡy
 
-Vowels: o u e
-Consonants: m b ɡ ɮ n d
-
 ### Constructions
-
-_mbo.ɡuɮ_
-
-not.if
-
-"If not"
-
-_nde.ɡuɮ_
