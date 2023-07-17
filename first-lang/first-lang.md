@@ -12,7 +12,8 @@ _by armytag_
 6. **Phonological Features:** 
     - something
 7. **Grammar Features:**
-    - something
+    - Coverbs evolve into psuedo case system
+    - Also allow serial verb construction (?)
 8. **Culture Features:** 
     - something
 
