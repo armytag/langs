@@ -17,3 +17,6 @@ _by armytag_
 8. **Culture Features:** 
     - something
 
+## Coverbs to Noun Cases
+
+- Nouns could be declined to modify verbs
