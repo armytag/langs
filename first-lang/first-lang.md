@@ -12,11 +12,32 @@ _by armytag_
 6. **Phonological Features:** 
     - something
 7. **Grammar Features:**
-    - Coverbs evolve into psuedo case system
-    - Also allow serial verb construction (?)
+    - Widespread use of pro-words, aggressively drop pro-words when possible
+    - Develop copula from non-verb origin (like Mandarin)
 8. **Culture Features:** 
     - something
 
-## Coverbs to Noun Cases
+## Word Order
 
-- Nouns could be declined to modify verbs
+- SOV
+- SO[V-Neg] _Negative suffix after verb_
+- Noun before Relative Clause
+
+## Copula Evolution
+
+Copula can evolve from a relativizing word at the end of relative clauses, for example:
+
+- "John, that student, he studies." -> "John, that student. He studies." -> "John that(COP) student"
+
+This requires certain conditions for the evolution to happen
+
+- Original verb must be separable or dropped
+    - Verb chaining may help with this
+- Another relativizing strategy must arise for non-copula constructions
+- Original relativizer becomes copula verb, taking verb inflections
+    - Can new copula also be dropped or replaced with pro-verb?
+
+## Plural Pronouns
+
+- Plural pronouns can be formed by combining singular pronouns
+    - I.You -> We (incl.), I.He -> We (excl.), He.He -> They, You.You -> You (pl.)
