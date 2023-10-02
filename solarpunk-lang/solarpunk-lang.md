@@ -10,7 +10,7 @@ _by armytag_
 4. **Complexity:** Little agglutination, complexity in syntax/morphology
 5. **Derivation:** Mostly transparent, with a healthy amount of slight irregularity
 6. **Phonological Features:** 
-    - Pleasant phonetcis
+    - Pleasant phonetics
     - Good for making poetry and songs 
         - easy rhyming?
 7. **Grammar Features:**
