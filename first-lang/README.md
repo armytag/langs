@@ -17,3 +17,7 @@ _by armytag_
     - Case marking (?)
 8. **Culture Features:** 
     - something
+
+## Phonological Ideas
+
+1. No voicing (CVCVCV) > intervocalic voicing (CVCVCV) > lose some vowels (e.g. finals) (CVCVC)
