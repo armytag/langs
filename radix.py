@@ -19,38 +19,49 @@ def stringify_digit(value):
     return chr(48+value)
 
 if __name__ == "__main__":
-    print(find_repeating_digits(1, 20, 60))
-    for denomenator in range(1, 26):
-        result_5 = find_repeating_digits(1, denomenator, 5)
-        result_6 = find_repeating_digits(1, denomenator, 6)
-        result_7 = find_repeating_digits(1, denomenator, 7)
-        result_12 = find_repeating_digits(1, denomenator, 12)
-        result_30 = find_repeating_digits(1, denomenator, 30)
-        result_60 = find_repeating_digits(1, denomenator, 60)
-        # print(denomenator, result)
-        # print('0.' + ''.join(map(stringify_digit, result['digits'][1:])))
-
-        places_5 = len(result_5['digits'])-1
-        places_6 = len(result_6['digits'])-1
-        places_12 = len(result_12['digits'])-1
-        places_30 = len(result_30['digits'])-1
-        places_60 = len(result_60['digits'])-1
-        places_min = min(places_5, places_6, places_12, places_30, places_60)
-        places_max = max(places_5, places_6, places_12, places_30, places_60)
-
-        places_5 -= places_min
-        places_6 -= places_min
-        places_12 -= places_min
-        places_30 -= places_min
-        places_60 -= places_min
-
-        number_5 = '0.' + ''.join(map(stringify_digit, result_5['digits'][1:]))
-        number_6 = '0.' + ''.join(map(stringify_digit, result_6['digits'][1:]))
-        number_12 = '0.' + ''.join(map(stringify_digit, result_12['digits'][1:]))
-        number_30 = '0.' + ''.join(map(stringify_digit, result_30['digits'][1:]))
-        number_60 = '0.' + ''.join(map(stringify_digit, result_60['digits'][1:]))
-        number_format = "{:>2}:" + "{:>3}" * 2 + "{:>16}" * 3
-        places_format = "{:>2}: " + "{:>2}" + "{:>4}{:>1}" * 5
-        # print(number_format.format(denomenator, places_min, places_max, number_5, number_6, number_7, number_12))
-        print(places_format.format(denomenator, places_min, places_5, str(result_5['repeating'])[0], places_6, str(result_6['repeating'])[0], places_12, str(result_12['repeating'])[0], places_30, str(result_30['repeating'])[0], places_60, str(result_60['repeating'])[0]))
-        # print(f'{denomenator}:\t{number_5}\t{number_6}\t{number_7}\t{number_12}\t{places_min}')
+    print(find_repeating_digits(1, 2, 5))
+    bases = [5, 7, 12, 30]
+    places_format = "{:>2}: " + "{:>3}" + "{:>4}{:>1}" * len(bases)
+    header_args = ['D', 'Min']
+    extra_places = []
+    extra_min = 0
+    reps_places = []
+    for base in bases:
+        header_args.append(base)
+        header_args.append('')
+        extra_places.append(0)
+        reps_places.append(0)
+    print(places_format.format(*header_args))
+    for denomenator in range(1, 21):
+        if denomenator == 17:
+            continue
+        result_list = []
+        places_list = []
+        for i, base in enumerate(bases):
+            result = find_repeating_digits(1, denomenator, base)
+            result_list.append(result)
+            places = len(result['digits'])-1
+            places_list.append(places)
+            if result['repeating']:
+                reps_places[i] += 1
+        places_min = min(places_list)
+        places_max = max(places_list)
+        extra_min += places_min
+        places_adjusted = [ x - places_min for x in places_list ]
+        for i, adj in enumerate(places_adjusted):
+            extra_places[i] += adj
+        format_args = [denomenator, places_min]
+        for i, base in enumerate(bases):
+            format_args.append(places_adjusted[i])
+            format_args.append(str(result_list[i]['repeating'])[0])
+        print(places_format.format(*format_args))
+    extra_args = ['E', extra_min] 
+    for extra in extra_places:
+        extra_args.append(extra)
+        extra_args.append('')
+    print(places_format.format(*extra_args))
+    reps_args = ['R', ''] 
+    for reps in reps_places:
+        reps_args.append(reps)
+        reps_args.append('')
+    print(places_format.format(*reps_args))
