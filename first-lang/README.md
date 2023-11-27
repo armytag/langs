@@ -20,4 +20,6 @@ _by armytag_
 
 ## Phonological Ideas
 
-1. No voicing (CVCVCV) > intervocalic voicing (CVCVCV) > lose some vowels (e.g. finals) (CVCVC)
+ - No voicing (CVCVCV) > intervocalic voicing (CVCVCV) > lose some vowels (e.g. finals) (CVCVC)
+
+## Grammatical Ideas
