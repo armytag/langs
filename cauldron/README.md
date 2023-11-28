@@ -46,7 +46,7 @@ _by armytag_
 | Tense-Aspect Position   | No TA inflection        | Tense Aspect suffix     | Tense Aspect suffix     | Tense Aspect suffix     |
 | Nominal Case Alignment  | Neutral (all same)      | Nominative-accusative   | Ergative-absolutive     | Neutral (all same)      |
 | Verbal Person Marking   | Both A & P marked (?)   | Both A & P marked       | Only A marked           | Only P marked           |
-| Negation Symmetry       | Asymmetric only         | Symmetric & asymmetric  | Symmetric only          | Symmetric & asymmetric  |
+| Negation Symmetry       | Symmetric & asymmetric  | Symmetric & asymmetric  | Symmetric only          | Symmetric & asymmetric  |
 | Negative Morpheme       | Negative particle       | Negative affix          | Negative particle       | Negative affix          |
 
 ## Template: Language Goals
