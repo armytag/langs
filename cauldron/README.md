@@ -14,13 +14,30 @@ _by armytag_
  
 ## Languages Overview
 
-| Feature     | Language 1      | Langauge 2    | Langauge 3    | Langauge 4    |
-|-------------|-----------------|---------------|---------------|---------------|
-| Morphology  | Isolating       | Polysynthetic | Agglutinative | Agglutinative |
-| Word order  | SVO             | OSV           | VSO           | SOV           |
-| Neg order   | SVONeg          | OS[Neg-V-Neg] | NegVSO        | SO[Neg-V]     |
-| C inventory | Average (19-25) | M. Small (15-18) | M. Small (15-18) | M. Large (26-33) |
-| V inventory | Average (5-6)   | Average (5-6) | Large (7-14)  | Average (5-6) |
+| Feature              | Language 1         | Langauge 2            | Langauge 3         | Langauge 4            |
+|---                   |---                 |---                    |---                 |---                    |
+| Morphology           | Isolating          | Polysynthetic         | Agglutinative      | Agglutinative         |
+| Word order           | SVO                | OSV                   | VSO                | SOV                   |
+| Neg order            | SVONeg             | OS[Neg-V-Neg]         | NegVSO             | SO[Neg-V]             |
+| C inventory          | Average (19-25)    | M. Small (15-18)      | M. Small (15-18)   | M. Large (26-33)      |
+| V inventory          | Average (5-6)      | Average (5-6)         | Large (7-14)       | Average (5-6)         |
+| Voicing Contrast     | Plosives only      | Plosives & Fricatives | No voicing         | Plosives & Fricatives |
+| Plosives             | / p t k b d g /    | Other                 | Other              | / p t k b d g /       |
+| Uvulars              | No uvulars         | No uvulars            | No uvulars         | No uvulars            |
+| Glottals             | No glottals        | Ejectives             | No glottals        | No glottals           |
+| Laterals             | /l/, no obstruents | /l/, no obstruents    | /l/, no obstruents | /l/, no obstruents    |
+| Velar Nasal          | None               | None                  | Yes, initially     | None                  |
+| V Nasalization       | Contrastive        | Not contrastive       | Not contrastive    | Not contrastive       |
+| Front Rounded V      | None               | None                  | None               | None                  |
+| Syllable Structure   | Moderate (CCVC)    | Simple (CV)           | Moderate (CCVC)    | Moderate (CCVC)       |
+| Tones                | None               | None                  | None               | None                  |
+| Common Consonants    | All                | All                   | All                | All                   |
+| Uncommon Consonants  | None               | 'Th' sounds           | None               | None                  |
+| Clause Marking Locus | Dependant marked   | No marking            | Dependant marked   | Dependant marked      |
+| Possesion Mark Locus | Other              | Head marked           | Dependant marked   | Dependant marked      |
+| Prefix vs Suffix     | Minimal inflection | Moderate suffixing    | Mainly suffixing   | Mainly prefixing      |
+| Pronoun Clusivity    | Differentiated     | No distinction        | No plural marking  | No distinction        |
+| Inflection Clusivity | No distinction     | No distinction        | No person marking  | 'We' & 'I' identical  |
 
 ## Template: Language Goals
 
