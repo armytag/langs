@@ -43,5 +43,5 @@ Count: 6 vowels
 
 ### Syllables
 
-Syllables moderately complex (CCVC)
+Syllables moderately complex (CCV)
  
