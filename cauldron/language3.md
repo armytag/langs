@@ -1,6 +1,6 @@
 # Language 3
 
-An agglutinative VSO langauge
+An agglutinative VSO langauge with an alphabet
 
 ## Phonology
 
@@ -23,21 +23,25 @@ An agglutinative VSO langauge
 | Fricatives   | f      | s        | ç       | x     |
 | Affricates   |        | ts       | cç      |       |
 | Approximants | w      | l        | j       | ɰ     |
+
+Count: 17 consonants
  
 ### Vowels
 
  - Vowel count: large (7-14)
  - No vowel nasalization
 
-| VOWELS   | Front | B. Unround | B. Round |
-|---       |---    |---         |---       |
-| High     | i     | ɯ          | u        |
-| High-Mid | e     |            | o        |
-| Low-Mid  | ɛ     | ʌ          |          |
-| Low      |       | ɑ          |          |
+| VOWELS   | Front | Central | Back |
+|---       |---    |---      |---   |
+| High     | i     |         | u    |
+| High-Mid | e     |         | o    |
+| Low-Mid  | ɛ     | ə       | ɔ    |
+| Low      |       | a       |      |
+
+Count: 8 vowels
 
 ### Syllables
 
- - Syllables moderately complex (CCVC)
+Syllables moderately complex (CCVC)
  
 

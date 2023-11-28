@@ -1,6 +1,6 @@
 # Language 2
 
-A polysynthetic OSV langauge
+A polysynthetic OSV langauge with a loɡoɡraphic-syllabic mix
 
 ## Phonology
 
@@ -23,6 +23,8 @@ A polysynthetic OSV langauge
 | Ejectives    | p'     |        | t'       | k'    |
 | Fricatives   | f v    | θ ð    | s z      |       |
 | Approximants |        |        | l        |       |
+
+Count: 17 consonants
  
 ### Vowels
 
@@ -35,7 +37,9 @@ A polysynthetic OSV langauge
 | Mid     | e     | o    |
 | Low     |       | a    |
 
+Count: 5 vowels
+
 ### Syllables
 
- - Syllables simple (CV)
+Syllables simple (CV)
  

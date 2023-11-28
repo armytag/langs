@@ -1,6 +1,6 @@
 # Language 1
 
-An isolating SVO langauge
+An isolating SVO langauge with a syllabary
 
 ## Phonology
 
@@ -24,6 +24,8 @@ An isolating SVO langauge
 | Affricates   |        | ts       | tʂ        | tɕ      | kx    |
 | Trill        |        | r        |           |         |       |
 | Approximants |        | l        |           | j       |       |
+
+Count: 21 consonants
  
 ### Vowels
 
@@ -35,7 +37,9 @@ An isolating SVO langauge
 | Regular | i     | a      | u    |
 | Nasal   | ĩ     | ã      | ũ    |
 
+Count: 6 vowels
+
 ### Syllables
 
- - Syllables moderately complex (CCVC)
+Syllables moderately complex (CVC)
  

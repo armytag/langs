@@ -1,6 +1,6 @@
 # Language 4
 
-An agglutinative SOV langauge
+An agglutinative SOV langauge with an abuɡida
 
 ## Phonology
 
@@ -12,31 +12,36 @@ An agglutinative SOV langauge
  - Has bilabials, fricatives, and nasals
  - No clicks, labial-velars, pharyngeals, or 'th' sounds
  - Uvular stops
- - No glottals
+ - No glottalization
  - Lateral /l/, no obstruents
  - No velar nasal
 
-| CONSONANTS   | Labial | Alveolar | Palatal | Velar |
-|---           |---     |---       |---      |---    |
-| Nassals      | m      | n        |         | ŋ     |
-| Plosives     | p      | t        | c       | k     |
-| Fricatives   | f      | s        | ç       | x     |
-| Affricates   |        | ts       | cç      |       |
-| Approximants | w      | l        | j       | ɰ     |
+| CONSONANTS   | Labial | Alv.  | P. Alv. | Velar | Uvular | Glottal |
+|---           |---     |---    |---      |---    |---     |---      |
+| Nassals      | m      | n     |         |       |        |         |
+| Plosives     | p b    | t d   |         | k ɡ   | q ɢ    | ʔ       |
+| Palatalized  | pʲ bʲ  | tʲ dʲ |         | kʲ ɡʲ |        |         |
+| Fricatives   |        | s z   | ʃ ʒ     | x     |        | h       |
+| Affricates   |        | ts dz | tʃ dʒ   |       |        |         |
+| Trill        |        | r     |         |       |        |         |
+| Approximants |        | l     |         | ʟ     |        |         |
+
+Count: 30 consonants
  
 ### Vowels
 
  - Vowel count: average (5-6)
  - No vowel nasalization
 
-| VOWELS   | Front | B. Unround | B. Round |
-|---       |---    |---         |---       |
-| High     | i     | ɯ          | u        |
-| High-Mid | e     |            | o        |
-| Low-Mid  | ɛ     | ʌ          |          |
-| Low      |       | ɑ          |          |
+| VOWELS | Front | Back |
+|---     |---    |---   |
+| High   | i     | u    |
+| Mid    | e     | o    |
+| Low    | æ     | a    |
+
+Count: 6 vowels
 
 ### Syllables
 
- - Syllables moderately complex (CCVC)
+Syllables moderately complex (CCVC)
  
