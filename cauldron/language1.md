@@ -16,30 +16,37 @@ An isolating SVO langauge with a syllabary
  - Lateral /l/, no obstruents
  - No velar nasal
 
-| CONSONANTS   | Labial | Alveolar | Retroflex | Palatal | Velar |
-|---           |---     |---       |---        |---      |---    |
-| Nassals      | m      |          |           |         |       |
-| Plosives     | p b    | t d      | ʈ ɖ       |         | k g   |
-| Fricatives   | f      | s        | ʂ         | ɕ       | x     |
-| Affricates   |        | ts       | tʂ        | tɕ      | kx    |
-| Trill        |        | r        |           |         |       |
-| Approximants |        | l        |           | j       |       |
+| CONSONANTS   | Labial | Alveolar | Retroflex | Velar |
+|---           |---     |---       |---        |---    |
+| Nassals      | m      |          |           |       |
+| Plosives     | p b    | t d      | ʈ ɖ       | k g   |
+| Labialized   | pʷ bʷ  | tʷ dʷ    | ʈʷ ɖʷ     | kʷ gʷ |
+| Fricatives   | f      | s        | ʂ         | x     |
+| Approximants |        | l        |           |       |
 
-Count: 21 consonants
+Count: 22 consonants
  
 ### Vowels
 
  - Vowel count: average (5-6)
  - Vowel nasalization
 
-| VOWELS  | Front | Center | Back |
-|---      |---    |---     |---   |
-| Regular | i     | a      | u    |
-| Nasal   | ĩ     | ã      | ũ    |
+| VOWELS  | Front | Back |
+|---      |---    |---   |
+| Hiɡh    | i     | u    |
+| Low     | e     | ɑ    |
+| Nasal   | ẽ     | ɑ̃    |
 
 Count: 6 vowels
 
 ### Syllables
 
-Syllables moderately complex (CVC)
+Syllables moderately complex (CCV)
+
+ - Onset combinations: nassals, plosives, affricates, lateral approximants (18)
+ - Nucleus: vowels (6)
+ - Coda: fricatives and approximants (5)
+
+Syllables written as onset-vowel character with smaller coda characters 
+(labialized plosives match unlabialized characters with a diacritic)
  
