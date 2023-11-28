@@ -21,9 +21,10 @@ _by armytag_
 | Negative Word Order     | SVONeg                  | OS[Neg-V-Neg]           | NegVSO                  | SO[Neg-V]               |
 | C inventory             | Average (19-25)         | M. Small (15-18)        | M. Small (15-18)        | M. Large (26-33)        |
 | V inventory             | Average (5-6)           | Average (5-6)           | Large (7-14)            | Average (5-6)           |
+| Writing System          | Syllabic                | Logograph-syllabic mix  | Alphabetic              | Alphasyllabic (abugida) |
 | Voicing Contrast        | Plosives only           | Plosives & Fricatives   | No voicing              | Plosives & Fricatives   |
 | Plosives                | / p t k b d g /         | Other                   | Other                   | / p t k b d g /         |
-| Uvulars                 | No uvulars              | No uvulars              | No uvulars              | No uvulars              |
+| Uvulars                 | No uvulars              | No uvulars              | No uvulars              | Uvular stops only       |
 | Glottals                | No glottals             | Ejectives               | No glottals             | No glottals             |
 | Laterals                | /l/, no obstruents      | /l/, no obstruents      | /l/, no obstruents      | /l/, no obstruents      |
 | Velar Nasal             | None                    | None                    | Yes, initially          | None                    |
@@ -49,7 +50,7 @@ _by armytag_
 | Negation Symmetry       | Symmetric & asymmetric  | Symmetric & asymmetric  | Symmetric only          | Symmetric & asymmetric  |
 | Negative Morpheme       | Negative particle       | Negative affix          | Negative particle       | Negative affix          |
 | Question Morpheme       | Question particle       | Question affix          | Question particle       | Intonation change       |
-| Question Location       | End of sentence         | Question affix          | Question particle       | Intonation change       |
+| Question Location       | End of sentence         | Beginning of sentence   | End of sentence         | End of sentence         |
 
 ## Template: Language Goals
 
