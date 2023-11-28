@@ -35,7 +35,7 @@ Count: 22 consonants
 |---      |---    |---   |
 | Hiɡh    | i     | u    |
 | Low     | e     | ɑ    |
-| Nasal   | ẽ     | ɑ̃    |
+| Nasal   | ẽ     | õ    |
 
 Count: 6 vowels
 
