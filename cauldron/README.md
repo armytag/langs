@@ -36,21 +36,18 @@ _by armytag_
 | Clause Marking Locus    | Dependant marked        | No marking              | Dependant marked        | Dependant marked        |
 | Possesion Mark Locus    | Other                   | Head marked             | Dependant marked        | Dependant marked        |
 | Prefix vs Suffix        | Minimal inflection      | Moderate suffixing      | Mainly suffixing        | Mainly prefixing        |
-| Number of Classes       | None                    | Three                   | None                    | Two                     |
 | Nominal Plural Mark     | Plural word             | Plural suffix           | Plural suffix           | No plural               |
 | Nominal Plural Types    | All types optional      | Only humans, required   | Only humans, required   | No plural               |
 | Pronoun Plural Mark     | P.Num stem w/ nom affix | P.Num affix             | P.Num stem w/ pro affix | P stem w/ nom affix     |
-| Associative Plural      | Same as additive plural | Same as additive plural | Absent                  | Special bound marker    |
-| Definite Articles       | Different from demonst. | Different from demonst. | Affix on noun           | No def. only indef.     |
-| Indefinite Articles     | No indef. only def.     | No indef. only def.     | Numeral 'one'           | Numeral 'one'           |
 | Pronoun Clusivity       | Differentiated          | No distinction          | No plural marking       | No distinction          |
-| Inflection Clusivity    | No distinction          | No distinction          | No person marking       | 'We' & 'I' identical    |
 | Deictic Distinctions    | Two-way                 | Two-way                 | Three-way               | Three-way               |
-| Perfective/Imperfective | No grammatical marking  | No grammatical marking  | Grammatically marked    | Grammatically marked    |
-| Past Tense              | No grammatical marking  | No grammatical marking  | Past/non-past distinct  | No grammatical marking  |
+| Past Tense Distinctions | Past/non-past distinct  | Past/non-past distinct  | 2-3 past tenses         | Past/non-post distinct  |
 | Future Tense            | No grammatical marking  | Inflectionally marked   | Inflectionally marked   | Inflectionally marked   |
-| Perfect Aspect          | Other perfect           | No perfect              | No perfect              | Other perfect           |
-| Tense-Aspect Position   | Tense Aspect Suffix     | Tense Aspect Suffix     | Tense Aspect Suffix     | Tense Aspect Suffix     |
+| Tense-Aspect Position   | No TA inflection        | Tense Aspect suffix     | Tense Aspect suffix     | Tense Aspect suffix     |
+| Nominal Case Alignment  | Neutral (all same)      | Nominative-accusative   | Ergative-absolutive     | Neutral (all same)      |
+| Verbal Person Marking   | Both A & P marked (?)   | Both A & P marked       | Only A marked           | Only P marked           |
+| Negation Symmetry       | Asymmetric only         | Symmetric & asymmetric  | Symmetric only          | Symmetric & asymmetric  |
+| Negative Morpheme       | Negative particle       | Negative affix          | Negative particle       | Negative affix          |
 
 ## Template: Language Goals
 
