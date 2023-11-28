@@ -17,8 +17,8 @@ _by armytag_
 | Feature                 | Language 1              | Langauge 2              | Langauge 3              | Langauge 4              |
 |---                      |---                      |---                      |---                      |---                      |
 | Morphology              | Isolating               | Polysynthetic           | Agglutinative           | Agglutinative           |
-| Word order              | SVO                     | OSV                     | VSO                     | SOV                     |
-| Neg order               | SVONeg                  | OS[Neg-V-Neg]           | NegVSO                  | SO[Neg-V]               |
+| Word Order              | SVO                     | OSV                     | VSO                     | SOV                     |
+| Negative Word Order     | SVONeg                  | OS[Neg-V-Neg]           | NegVSO                  | SO[Neg-V]               |
 | C inventory             | Average (19-25)         | M. Small (15-18)        | M. Small (15-18)        | M. Large (26-33)        |
 | V inventory             | Average (5-6)           | Average (5-6)           | Large (7-14)            | Average (5-6)           |
 | Voicing Contrast        | Plosives only           | Plosives & Fricatives   | No voicing              | Plosives & Fricatives   |
@@ -48,6 +48,8 @@ _by armytag_
 | Verbal Person Marking   | Both A & P marked (?)   | Both A & P marked       | Only A marked           | Only P marked           |
 | Negation Symmetry       | Symmetric & asymmetric  | Symmetric & asymmetric  | Symmetric only          | Symmetric & asymmetric  |
 | Negative Morpheme       | Negative particle       | Negative affix          | Negative particle       | Negative affix          |
+| Question Morpheme       | Question particle       | Question affix          | Question particle       | Intonation change       |
+| Question Location       | End of sentence         | Question affix          | Question particle       | Intonation change       |
 
 ## Template: Language Goals
 
