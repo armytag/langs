@@ -109,3 +109,16 @@ Alternatively, could write with onset character and rime character
 ### Possesives
 
 Possesives are marked by a specially inflected pronoun e.g. "John his book"
+
+## Syntax Sentences
+
+The sun shines.
+The sun is shining.
+The sun shone.
+The sun will shine.
+The sun has been shining.
+The sun is shining again.
+The sun will shine tomorrow.
+The sun shines brightly.
+The bright sun shines.
+The sun is rising now.
