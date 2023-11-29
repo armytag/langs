@@ -72,7 +72,6 @@ Alternatively, could write with onset character and rime character
   - Pronouns inflect for number, clusivity, and case (NOM, ACC, or GEN)
 - Nominal plural is indicated through a pluralizing particle/affix
   - Plural pronouns also take the pluralizing particle/affix
-- No definite or indefinite articles
 
 ### Verbs
 
@@ -104,6 +103,7 @@ Alternatively, could write with onset character and rime character
   - Negation also has another asymmetric form
     - Could be related to subordinator structures
     - Could depend on or change grammatical structures in sentence
+- No definite or indefinite articles
 
 
 ### Possesives
@@ -112,13 +112,42 @@ Possesives are marked by a specially inflected pronoun e.g. "John his book"
 
 ## Syntax Sentences
 
-The sun shines.
-The sun is shining.
-The sun shone.
-The sun will shine.
-The sun has been shining.
-The sun is shining again.
-The sun will shine tomorrow.
-The sun shines brightly.
-The bright sun shines.
-The sun is rising now.
+_The sun shines._
+sun 3SG-shine
+ɖaf   i-ɡʷo
+
+_The sun is shining._
+sun 3SG-shine PROG
+ɖaf   i-ɡʷo   mu
+
+_The sun shone._
+sun PST-shine-3SG
+ɖaf  de-ɡʷo  -i
+
+_The sun will shine._
+sun 3SG-shine FUT
+ɖaf   i-ɡʷo   tol
+
+_The sun has been shining._
+sun PST-shine-3SG PROG
+ɖaf  de-ɡʷo  -i   mu
+
+_The sun is shining again._
+sun 3SG-shine PROG again
+ɖaf   i-ɡʷo   mu   bʷe
+
+_The sun will shine tomorrow._
+sun 3SG-shine FUT PROG
+ɖaf   i-ɡʷo   tol mu
+
+_The sun shines brightly._
+sun 3SG-shine bright
+ɖaf   i-ɡʷo
+
+_The bright sun shines._
+sun bright 3SG-shine
+ɖaf   i-ɡʷo
+
+_The sun is rising now._
+sun 3SG-rise now
+ɖaf   i-ɡʷo
