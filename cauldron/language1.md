@@ -25,6 +25,12 @@ An isolating SVO langauge with a syllabary
 | Approximants |        | l        |           |       |
 
 Count: 22 consonants
+
+Romanization:
+ - Retroflex written with alveolar equivalent followed by 'r'
+   - /ʈ/ 'tr', /ɖ/ 'dr', ʂ 'sr'
+ - Labialized plosives written with followinɡ 'w'
+   - /tʷ/ 'tw', /ʈʷ/ 'trw', etc.
  
 ### Vowels
 
@@ -38,6 +44,10 @@ Count: 22 consonants
 | Nasal   | ẽ     | õ    |
 
 Count: 6 vowels
+
+Romanization:
+ - Nasal vowels written with followinɡ 'n'
+   - /ẽ̃/ 'en', /õ/ 'on'
 
 ### Syllables
 

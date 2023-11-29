@@ -25,6 +25,10 @@ A polysynthetic OSV langauge with a loɡoɡraphic-syllabic mix
 | Approximants |        |        | l        |       |
 
 Count: 17 consonants
+
+Romanization:
+ - Dental fricatives written with alveolar plosive followed by 'h'
+   - /θ/ 'th', /ð/ 'dh'
  
 ### Vowels
 

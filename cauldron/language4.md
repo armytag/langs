@@ -27,6 +27,18 @@ An agglutinative SOV langauge with an abuɡida
 | Approximants |        | l     |         | ʟ     |        |         |
 
 Count: 30 consonants
+
+Romanization:
+ - Voiced uvular plosive /ɢ/ written as 'r'
+ - Glottal stop /ʔ/ written as apostrophe (')
+ - Palatalized plosives written with followinɡ 'y':
+   - /pʲ/ 'py', /tʲ/ 'ty', etc.
+ - Post-alveolar fricatives written as alveolar with followinɡ 'y':
+   - /ʃ/ 'sy', /ʒ/ 'zy'
+ - Post-alveolar affricates written as follows:
+   - /tʃ/ 'c', /dʒ/ 'j'
+ - Alveolar trill /r/ written as 'rr'
+ - Velar lateral approximant /ʟ/ written as 'll'
  
 ### Vowels
 
@@ -40,6 +52,10 @@ Count: 30 consonants
 | Low    | æ     | a    |
 
 Count: 6 vowels
+
+Romanization:
+ - Low front vowel /æ/ written as 'a'
+ - Low back vowel /ɑ/ written as 'aw'
 
 ### Syllables
 
