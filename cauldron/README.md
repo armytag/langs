@@ -42,7 +42,7 @@ _by armytag_
 | Pronoun Plural Mark     | P.Num stem w/ nom affix | P.Num affix             | P.Num stem w/ pro affix | P stem w/ nom affix     |
 | Pronoun Clusivity       | Differentiated          | No distinction          | No plural marking       | No distinction          |
 | Deictic Distinctions    | Two-way                 | Two-way                 | Three-way               | Three-way               |
-| Past Tense Distinctions | Past/non-past distinct  | Past/non-past distinct  | 2-3 past tenses         | Past/non-post distinct  |
+| Past Tense Distinctions | No grammatical marking  | Past/non-past distinct  | 2-3 past tenses         | Past/non-post distinct  |
 | Future Tense            | No grammatical marking  | Inflectionally marked   | Inflectionally marked   | Inflectionally marked   |
 | Tense-Aspect Position   | No TA inflection        | Tense Aspect suffix     | Tense Aspect suffix     | Tense Aspect suffix     |
 | Nominal Case Alignment  | Neutral (all same)      | Nominative-accusative   | Ergative-absolutive     | Neutral (all same)      |
