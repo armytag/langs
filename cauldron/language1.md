@@ -128,6 +128,8 @@ Alternatively, could write with onset character and rime character
     - Could be related to subordinator structures
     - Could depend on or change grammatical structures in sentence
 - No definite or indefinite articles
+- Aspect indicated with preceding particle
+- Tense indicated aspect particle and following time phrase
 - Ditransitive encoded with prepositions
 - **Need to consider causitive phrases**
 - Negative indefinite pronouns always occur with predicate negation 
@@ -142,6 +144,22 @@ Alternatively, could write with onset character and rime character
 - Obliques cannot be relativized
 - Desiderative markers on verb
 
+| ASPECTS      | Past            | Present         | Future          |
+|---           |---              |---              |---              |
+| Perfective   |                 |                 |                 |
+| Cessative    |                 |                 |                 |
+| Inceptive    |                 |                 |                 |
+| Inchoative   |                 |                 |                 |
+| Imperfective | N/A             | IMPF V          | IMPF V          |
+| Habitual     |                 |                 |                 |
+| Continuous   | PST.CONT V      | IMPF V          | IMPF V          |
+| Progressive  |                 |                 |                 |
+| Stative      |                 |                 |                 |
+| Pausative    |                 |                 |                 |
+| Resumptive   |                 |                 |                 |
+| Durative     |                 |                 |                 |
+| Iterative    | V LOC times NUM | V LOC times NUM | V LOC times NUM |
+| Frequentive  | V LOC times NUM | V LOC times NUM | V LOC times NUM |
 
 ### Possesives
 
