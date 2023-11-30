@@ -99,6 +99,7 @@ Alternatively, could write with onset character and rime character
     - Could depend on P.Num of A and P
     - 2SG.A-3PL.P-verb, but 3PL.P-verb-1PL.INC.A
   - Active alignment (S acts like A or P depending on context)
+- Verb affixes **only** mark person
 - Purpose clauses have deranked verb forms (e.g. no person marking)
 - "When" clauses balanced (same verb markings)
 - Reason clauses balanced (same verb markings)
@@ -127,6 +128,19 @@ Alternatively, could write with onset character and rime character
     - Could be related to subordinator structures
     - Could depend on or change grammatical structures in sentence
 - No definite or indefinite articles
+- Ditransitive encoded with prepositions
+- **Need to consider causitive phrases**
+- Negative indefinite pronouns always occur with predicate negation 
+  - "_nobody doesn't_ read news" (opposite of English)
+- Nominal and locational predicates encoded the same way
+  - "John _is_ tall" and "John _is_ in Paris"
+- Comparative constructions use locational syntax
+- Possesion denoted with a dedicated transitive verb ("have")
+- Predicative adjectives have mixed encoding
+  - Verbal coding is usually for temporary adjectives
+- Non-reductive subject relativization
+- Obliques cannot be relativized
+- Desiderative markers on verb
 
 
 ### Possesives
@@ -136,44 +150,34 @@ Possesives are marked by a specially inflected pronoun e.g. "John his book"
 ## Syntax Sentences
 
 _The sun shines._
-sun 3SG-shine
-ɖaf i-ɡʷo
+sun shine=3SG
 
 _The sun is shining._
-sun 3SG-shine PROG
-ɖaf i-ɡʷo    mu
+sun PROG=3SG shine
 
 _The sun shone._
-sun PST-shine-3SG
-ɖaf de-ɡʷo-i
+sun PST 3SG-shine
 
 _The sun will shine._
-sun FUT 3SG-shine
-ɖaf tol i-ɡʷo  
+sun FUT=3SG shine
 
 _The sun has been shining._
-sun PST-shine-3SG PROG
-ɖaf de-ɡʷo-i     mu
+sun PST shine-3SG PROG
 
 _The sun is shining again._
-sun 3SG-shine PROG again
-ɖaf i-ɡʷo    mu   bʷe
+sun REP=3SG shine
 
 _The sun will shine tomorrow._
-sun tomorrow 3SG-shine PROG
-ɖaf pʷami    i-ɡʷo    mu
+sun tomorrow=3SG shine
 
 _The sun shines brightly._
-sun 3SG-shine bright
-ɖaf i-ɡʷo    gul
+sun shine=3SG bright
 
 _The bright sun shines._
-sun bright 3SG-shine
-ɖaf gul    i-ɡʷo
+sun bright shine=3SG
 
 _The sun is rising now._
-sun now   3SG-rise
-ɖaf kaska i-ɡʷo
+sun now=3SG rise
 
 _All the people shouted._
 person PL all PST-shout-3PL
