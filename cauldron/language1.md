@@ -75,10 +75,15 @@ Alternatively, could write with onset character and rime character
 
 ### Verbs
 
-- Past/non-past distinction
-  - Tense coded with combination of morphological strategies
-- Marked for person of both A and P
+- No tense/aspect marking
+- Marked for person (number and clusivity) of both A and P
   - Order of A and P modifiers occur in both orders
+    - Could depend on P.Num of A and P
+    - 2SG.A-3PL.P-verb, but 3PL.P-verb-1PL.INC.A
+  - Active alignment (S acts like A or P depending on context)
+- Purpose clauses have deranked verb forms (e.g. no person marking)
+- "When" clauses balanced (same verb markings)
+- Reason clauses balanced (same verb markings)
 
 ## Grammar
 
@@ -113,161 +118,161 @@ Possesives are marked by a specially inflected pronoun e.g. "John his book"
 ## Syntax Sentences
 
 _The sun shines._
-sun 3S-shine
+sun 3SG-shine
 ɖaf i-ɡʷo
 
 _The sun is shining._
-sun 3S-shine PROG
+sun 3SG-shine PROG
 ɖaf i-ɡʷo    mu
 
 _The sun shone._
-sun PST-shine-3S
+sun PST-shine-3SG
 ɖaf de-ɡʷo-i
 
 _The sun will shine._
-sun FUT 3S-shine
+sun FUT 3SG-shine
 ɖaf tol i-ɡʷo  
 
 _The sun has been shining._
-sun PST-shine-3S PROG
+sun PST-shine-3SG PROG
 ɖaf de-ɡʷo-i     mu
 
 _The sun is shining again._
-sun 3S-shine PROG again
+sun 3SG-shine PROG again
 ɖaf i-ɡʷo    mu   bʷe
 
 _The sun will shine tomorrow._
-sun tomorrow 3S-shine PROG
+sun tomorrow 3SG-shine PROG
 ɖaf pʷami    i-ɡʷo    mu
 
 _The sun shines brightly._
-sun 3S-shine bright
+sun 3SG-shine bright
 ɖaf i-ɡʷo    gul
 
 _The bright sun shines._
-sun bright 3S-shine
+sun bright 3SG-shine
 ɖaf gul    i-ɡʷo
 
 _The sun is rising now._
-sun now   3S-rise
+sun now   3SG-rise
 ɖaf kaska i-ɡʷo
 
 _All the people shouted._
-person PL all PST-shout-3P
+person PL all PST-shout-3PL
 
 _Some of the people shouted._
-person PL some PST-shout-3P
+person PL some PST-shout-3PL
 
 _Many of the people shouted twice._
-person PL some PST-shout-3P two-time
+person PL some PST-shout-3PL two-time
 
 _Happy people often shout._
-person PL happy often 3P-shout
+person PL happy often 3PL-shout
 
 _The kitten jumped up._
-kitten PST-jump-3S up
+kitten PST-jump-3SG up
 
 _The kitten jumped onto the table._
-kitten PST-jump-3S onto table
+kitten PST-jump-3SG onto table
 
 _My little kitten walked away._
-kitten little PST-walk-3S away
+kitten little PST-walk-3SG away
 
 _It's raining._
-rain 3S-fall
+rain 3SG-fall
 
 _The rain came down._
-rain 3S-fall down
+rain 3SG-fall down
 
 _The kitten is playing in the rain._
-kitten 3S-play in rain
+kitten 3SG-play in rain
 
 _The rain has stopped._
-rain 3S-stop PFV
+rain 3SG-stop PFV
 
 _Soon the rain will stop._
-rain soon 3S-stop
+rain soon 3SG-stop
 
 _I hope the rain stops soon._
-SUB rain 3S-stop-SUB 1S 1S-hope
+SUB rain 3SG-stop-SUB 1SG 1SG-hope
 
 _Once wild animals lived here._
-animals wild once PST-live-3P here
+animals wild once PST-live-3PL here
 
 _Slowly she looked around._
-3S 3S-look slowly around
+3SG 3SG-look slowly around
 
 _Go away._
-2S 2S-go away
+2SG 2SG-go away
 
 _Let's go!_
-1P.INC 1P-go
+1PL.INC 1PL-go
 
 _You should go._
-2S 2S-go should
+2SG 2SG-go should
 
 _I will be happy to go._
-SUB 1S 1S-go-SUB 1S RES happy
+SUB 1SG 1SG-go-SUB 1SG RES happy
 
 _He will arrive soon._
-3S soon 3S-arrive
+3SG soon 3SG-arrive
 
 _The baby's ball has rolled away._
-baby 3S.GEN-ball PST-roll-3S away
+baby 3SG.GEN-ball PST-roll-3SG away
 
 _The two boys are working together._
-boy two 3P-work together
+boy two 3PL-work together
 
 _This mist will probably clear away._
-mist FUT 3S-clear probably away
+mist FUT 3SG-clear probably away
 
 _Lovely flowers are growing everywhere._
-flower PL lovely 3P-grow everywhere
+flower PL lovely 3PL-grow everywhere
 
 _We should eat more slowly._
-should 1P 1P-eat slowly more
+should 1PL 1PL-eat slowly more
 
 _You have come too soon._
-2S soon too.much PST-come-2S
+2SG soon too.much PST-come-2SG
 
 _You must write more neatly._
-must 2S 2S-write neatly more
+must 2SG 2SG-write neatly more
 
 _Directly opposite stands a wonderful palace._
-palace wonderful 3S.stand across
+palace wonderful 3SG.stand across
 
 _Henry's dog is lost._
-Henry 3S.GEN dog 3S-be missing
+Henry 3SG.GEN dog 3SG-be missing
 
 _My cat is black._
-1S 1S.GEN cat 3S-be black
+1SG 1SG.GEN cat 3SG-be black
 
 _The little girl's doll is broken._
-girl little 3S.GEN doll 3S-be broken
+girl little 3SG.GEN doll 3SG-be broken
 
 _I usually sleep soundly._
-1S usually 1S-sleep soundly
+1SG usually 1SG-sleep soundly
 
 _The children ran after Jack._
-child PL 3P-run behind Jack
+child PL 3PL-run behind Jack
 
 _I can play after school._
-can 1S after school 1S-play
+can 1SG after school 1SG-play
 
 _We went to the village for a visit._
-1P.INC PST-go-1P.INC to village visit
+1PL.INC PST-go-1PL.INC to village visit
 
 _We arrived at the river._
-1P.INC 1P-arrive at river
+1PL.INC 1PL-arrive at river
 
 _I have been waiting for you._
-1S 1S.2S-wait 2S
+1SG 1SG.2SG-wait 2SG
 
 _The campers sat around the fire._
-camper PL PST-sit-3S around fire
+camper PL PST-sit-3SG around fire
 
 _A little girl with a kitten sat near me._
-girl little REL 3S-have kitten PST-sit-3S near 1S
+girl little REL 3SG-have kitten PST-sit-3SG near 1SG
 
 _The child waited at the door for her father._
-child 3S.3S-wait 3S.GEN father at door
+child 3SG.3SG-wait 3SG.GEN father at door
