@@ -72,6 +72,24 @@ Alternatively, could write with onset character and rime character
   - Pronouns inflect for number, clusivity, and case (NOM, ACC, or GEN)
 - Nominal plural is indicated through a pluralizing particle/affix
   - Plural pronouns also take the pluralizing particle/affix
+- Associative nouns ("John and his associates") same as normal plural
+- Pronominal and adnominal demonstratives are the same 
+  - "*this* book", "I don't like *that*"
+- All demonstratives ("this" and "that") can be used as third person pronouns
+- Idefinite pronouns ("someone", "something") derived from interrogatives
+- Intensifiers and reflexive pronouns distinct
+- Commitatives and instrumentals use different words (English "with")
+- Ordinal numerals are distinct for the first few numbers, derived after that
+- Distributive numerals ("one each") marked by reduplication ("one one")
+- Sortable numeral classifiers are absent (this is like English)
+- Conjuctions and universal quantifiers are formally similar
+  - Could use a widely productive word that is used in many situations
+  - Could have universal quantifiers derive from conjuctions
+- Adjectives can occur without specific noun, but need a preceding marker
+- Action nominals ("the city's destruction") are not allowed
+  - Can be achieved through subordinate clauses, clause nominalization, etc.
+- Noun conjugator "and" and commitative conjugator "with" are identical
+- Noun conjugation and verb conjugation are largely identical
 
 ### Verbs
 
