@@ -1,27 +1,26 @@
 import random as rand
 
 ONSETS = [
-        'p', 'b', 'pʷ', 'bʷ',
-        't', 'd', 'tʷ', 'dʷ',
-        'ʈ', 'ɖ', 'ʈʷ', 'ɖʷ',
-        'k', 'g', 'kʷ', 'gʷ',
+        'p', 'b', 'ph', 'pw', 'bw', 'phw',
+        't', 'd', 'th', 'tw', 'dw', 'thw',
+        'k', 'g', 'kh', 'kw', 'gw', 'khw',
+        'm', 'l'
 ]
 VOWELS = [
-        'i', 'e', 'ɛ', 'u', 'o', 'ɔ'
+        "i", "a", "u", ":i", ":a", ":u"
 ]
 CODAS = [
         'f', 'm',
         's', 'l',
-        'x'
 ]
-SYLL_STRUCTS = []
-SYLL_STRUCTS += ['VC'] * 4
-SYLL_STRUCTS += ['CV'] * 3
+SYLL_STRUCTS = ['V'] * 1
+SYLL_STRUCTS += ['VC'] * 3
+SYLL_STRUCTS += ['CV'] * 1
 SYLL_STRUCTS += ['CVC'] * 2
 SYLL_COUNTS = []
-SYLL_COUNTS = [1] * 4
-SYLL_COUNTS += [2] * 2
-SYLL_COUNTS += [3] * 1
+SYLL_COUNTS = [1] * 3
+SYLL_COUNTS += [2] * 3
+SYLL_COUNTS += [3] * 2
 
 def generate_syllable(has_onset, has_coda):
     onset = ''
@@ -31,13 +30,17 @@ def generate_syllable(has_onset, has_coda):
         onset = rand.choice(ONSETS)
     if has_coda:
         coda = rand.choice(CODAS)
-    return onset + vowel + coda
+    syll = onset + vowel + coda
+    if onset == 'l':
+        print(syll)
+    return syll
 
 def get_syllable(s):
     return generate_syllable(s[0]=='C', s[-1]=='C')
 
 if __name__ == "__main__":
     word_count = 20
+    words = []
     for idx in range(word_count):
         syll_count = rand.choice(SYLL_COUNTS)
         word = ''
@@ -45,4 +48,5 @@ if __name__ == "__main__":
             structure = rand.choice(SYLL_STRUCTS)
             syllable = get_syllable(structure)
             word += syllable
-        print(word)
+        words.append(word)
+    print(' '.join(words))

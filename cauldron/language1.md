@@ -16,38 +16,42 @@ An isolating SVO langauge with a syllabary
 - Lateral /l/, no obstruents
 - No velar nasal
 
-| CONSONANTS   | Labial | Alveolar | Retroflex | Velar |
-|---           |---     |---       |---        |---    |
-| Nassals      | m      |          |           |       |
-| Plosives     | p b    | t d      | ʈ ɖ       | k g   |
-| Labialized   | pʷ bʷ  | tʷ dʷ    | ʈʷ ɖʷ     | kʷ gʷ |
-| Fricatives   | f      | s        |           | x     |
-| Approximants |        | l        |           |       |
+| CONSONANTS     | Labial | Alveolar | Velar |
+|---             |---     |---       |---    |
+| Nassals        | m      | (n)      |       |
+| Plosives       | p b    | t d      | k g   |
+| Asp. Plos.     | pʰ     | tʰ       | kʰ    |
+| Lab. Plos.     | pʷ bʷ  | tʷ dʷ    | kʷ gʷ |
+| Lab.Asp. Plos. | pʰʷ    | tʰʷ      | kʰʷ   |
+| Fricatives     | f      | s        |       |
+| Approximants   |        | l        |       |
 
-Count: 21 consonants
+Count: 22 consonants
 
 Romanization:
-- Retroflex written with alveolar equivalent followed by 'r'
-  - /ʈ/ 'tr', /ɖ/ 'dr'
+- Aspirated plosives written with followinɡ 'h'
+  - /pʰ/ 'ph', /dʰ/ 'dh'
 - Labialized plosives written with followinɡ 'w'
-  - /tʷ/ 'tw', /ʈʷ/ 'trw', etc.
+  - /pʷ/ 'pw', /pʰʷ/ 'phw', etc.
  
 ### Vowels
 
 - Vowel count: average (5-6)
 - Vowel nasalization
 
-| VOWELS  | Front | Back |
-|---      |---    |---   |
-| Hiɡh    | i     | u    |
-| Low     | e     | o    |
-| Nasal   | ɛ     | ɔ    |
+| VOWELS | Front | Central | Back |
+|---     |---    |---      |---   |
+| Plain  | i     | a       | u    |
+| Nasal  | ĩ     | ã       | ũ    |
 
 Count: 6 vowels
 
+*Nasal vowels pronounced with low tone and centralized*
+(e.g. /ĩ/ pronounced \[ɪ̃̀\] )
+
 Romanization:
-- Nasal vowels written with followinɡ 'n'
-  - /ɛ̃/ 'en', /ɔ̃/ 'on'
+- Nasal vowels written with preceding ':'
+  - /ĩ/ ':i', /ã/ ':a', /ũ/ ':u'
 
 ### Syllables
 
