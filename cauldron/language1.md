@@ -144,22 +144,12 @@ Alternatively, could write with onset character and rime character
 - Obliques cannot be relativized
 - Desiderative markers on verb
 
-| ASPECTS      | Past            | Present         | Future          |
-|---           |---              |---              |---              |
-| Perfective   |                 |                 |                 |
-| Cessative    |                 |                 |                 |
-| Inceptive    |                 |                 |                 |
-| Inchoative   |                 |                 |                 |
-| Imperfective | N/A             | IMPF V          | IMPF V          |
-| Habitual     |                 |                 |                 |
-| Continuous   | PST.CONT V      | IMPF V          | IMPF V          |
-| Progressive  |                 |                 |                 |
-| Stative      |                 |                 |                 |
-| Pausative    |                 |                 |                 |
-| Resumptive   |                 |                 |                 |
-| Durative     |                 |                 |                 |
-| Iterative    | V LOC times NUM | V LOC times NUM | V LOC times NUM |
-| Frequentive  | V LOC times NUM | V LOC times NUM | V LOC times NUM |
+| ASPECTS | Unmarked | RL.PRF | RL.IMP | IR.IMP | IR.PRF |
+|---      |---       |---     |---     |---     |---     |
+| RL.PRF  | PERF     | -      | -      | -      | -      |
+| RL.IMP  | IMPF     | -      | -      | HAB    | -      |
+| IR.IMP  | ANTC     | -      | HAB    | -      | INCP   |
+| IR.PRF  | INTL     | -      | -      | INCP   | -      |
 
 ### Possesives
 
