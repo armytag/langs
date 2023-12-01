@@ -129,7 +129,7 @@ Alternatively, could write with onset character and rime character
     - Could depend on or change grammatical structures in sentence
 - No definite or indefinite articles
 - Aspect indicated with preceding particle
-- Tense indicated aspect particle and following time phrase
+- Tense indicated with following time phrase
 - Ditransitive encoded with prepositions
 - **Need to consider causitive phrases**
 - Negative indefinite pronouns always occur with predicate negation 
@@ -144,12 +144,16 @@ Alternatively, could write with onset character and rime character
 - Obliques cannot be relativized
 - Desiderative markers on verb
 
-| ASPECTS | Unmarked | RL.PRF | RL.IMP | IR.IMP | IR.PRF |
-|---      |---       |---     |---     |---     |---     |
-| RL.PRF  | PERF     | -      | -      | -      | -      |
-| RL.IMP  | IMPF     | -      | -      | HAB    | -      |
-| IR.IMP  | ANTC     | -      | HAB    | -      | INCP   |
-| IR.PRF  | INTL     | -      | -      | INCP   | -      |
+### Aspects
+
+| ASPECTS  | Unmarked | RL.IMP | IR.IMP | IR.PRF |
+|---       |---       |---     |---     |---     |
+| Unmarked | PERF     | IMPF   | ANTC   | INTL   |
+| RL.IMP   | IMPF     | -      | HAB    | NECS   |
+| IR.IMP   | ANTC     | HAB    | -      | INCP   |
+| IR.PRF   | INTL     | NECS   | INCP   | -      |
+
+**Need to revisit RL.IMP + IR.PRF combination**
 
 ### Possesives
 
@@ -158,151 +162,62 @@ Possesives are marked by a specially inflected pronoun e.g. "John his book"
 ## Syntax Sentences
 
 _The sun shines._
-sun shine=3SG
+sun REAL.IMPF=3SG shine
 
 _The sun is shining._
-sun PROG=3SG shine
+sun REAL.IMPF=3SG REL shine
 
 _The sun shone._
-sun PST 3SG-shine
+sun shine=3SG
 
 _The sun will shine._
-sun FUT=3SG shine
+sun IRR.IMPF=3SG shine
 
 _The sun has been shining._
-sun PST shine-3SG PROG
+sun REAL.IMPF=3SG REL shine
 
 _The sun is shining again._
-sun REP=3SG shine
+again sun REAL.IMPF=3SG REL shine
 
 _The sun will shine tomorrow._
-sun tomorrow=3SG shine
+tomorrow sun IRR.IMPF=3SG shine
 
 _The sun shines brightly._
-sun shine=3SG bright
+sun REAL.IMPF=3SG shine bright
 
 _The bright sun shines._
-sun bright shine=3SG
+sun bright REAL.IMPF=3SG shine
 
 _The sun is rising now._
-sun now=3SG rise
+now sun REAL.IMPF=3SG rise
 
 _All the people shouted._
-person PL all PST-shout-3PL
+person PL all shout=3PL
 
 _Some of the people shouted._
-person PL some PST-shout-3PL
+person PL some shout=3PL
 
 _Many of the people shouted twice._
-person PL some PST-shout-3PL two-time
+person PL some shout=3PL across time two
 
 _Happy people often shout._
-person PL happy often 3PL-shout
+person PL happy IRR.IMPF-IRR.PERF=3PL shout
 
 _The kitten jumped up._
-kitten PST-jump-3SG up
+kitten jump=3SG up
 
 _The kitten jumped onto the table._
-kitten PST-jump-3SG onto table
+kitten jump=3SG onto table
 
 _My little kitten walked away._
-kitten little PST-walk-3SG away
+kitten little walk=3SG away
 
 _It's raining._
-rain 3SG-fall
+rain REAL.IMPF=3SG fall
 
 _The rain came down._
-rain 3SG-fall down
+rain REAL.IMPF=3SG fall down
 
 _The kitten is playing in the rain._
-kitten 3SG-play in rain
+kitten REAL.IMPF=3SG play in rain
 
-_The rain has stopped._
-rain 3SG-stop PFV
-
-_Soon the rain will stop._
-rain soon 3SG-stop
-
-_I hope the rain stops soon._
-SUB rain 3SG-stop-SUB 1SG 1SG-hope
-
-_Once wild animals lived here._
-animals wild once PST-live-3PL here
-
-_Slowly she looked around._
-3SG 3SG-look slowly around
-
-_Go away._
-2SG 2SG-go away
-
-_Let's go!_
-1PL.INC 1PL-go
-
-_You should go._
-2SG 2SG-go should
-
-_I will be happy to go._
-SUB 1SG 1SG-go-SUB 1SG RES happy
-
-_He will arrive soon._
-3SG soon 3SG-arrive
-
-_The baby's ball has rolled away._
-baby 3SG.GEN-ball PST-roll-3SG away
-
-_The two boys are working together._
-boy two 3PL-work together
-
-_This mist will probably clear away._
-mist FUT 3SG-clear probably away
-
-_Lovely flowers are growing everywhere._
-flower PL lovely 3PL-grow everywhere
-
-_We should eat more slowly._
-should 1PL 1PL-eat slowly more
-
-_You have come too soon._
-2SG soon too.much PST-come-2SG
-
-_You must write more neatly._
-must 2SG 2SG-write neatly more
-
-_Directly opposite stands a wonderful palace._
-palace wonderful 3SG.stand across
-
-_Henry's dog is lost._
-Henry 3SG.GEN dog 3SG-be missing
-
-_My cat is black._
-1SG 1SG.GEN cat 3SG-be black
-
-_The little girl's doll is broken._
-girl little 3SG.GEN doll 3SG-be broken
-
-_I usually sleep soundly._
-1SG usually 1SG-sleep soundly
-
-_The children ran after Jack._
-child PL 3PL-run behind Jack
-
-_I can play after school._
-can 1SG after school 1SG-play
-
-_We went to the village for a visit._
-1PL.INC PST-go-1PL.INC to village visit
-
-_We arrived at the river._
-1PL.INC 1PL-arrive at river
-
-_I have been waiting for you._
-1SG 1SG.2SG-wait 2SG
-
-_The campers sat around the fire._
-camper PL PST-sit-3SG around fire
-
-_A little girl with a kitten sat near me._
-girl little REL 3SG-have kitten PST-sit-3SG near 1SG
-
-_The child waited at the door for her father._
-child 3SG.3SG-wait 3SG.GEN father at door
