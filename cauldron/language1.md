@@ -41,7 +41,7 @@ Romanization:
 |---      |---    |---   |
 | Hiɡh    | i     | u    |
 | Low     | e     | o    |
-| Nasal   | ɛ̃     | ɔ̃    |
+| Nasal   | ɛ     | ɔ    |
 
 Count: 6 vowels
 
