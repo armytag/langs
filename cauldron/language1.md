@@ -6,27 +6,28 @@ An isolating SVO langauge with a syllabary
 
 ### Consonants
 
-- Consonant count: average (19-25)
+- Consonant count: moderately large (26-33)
 - Voicing in plosives
-- Plosives /p t k b d g/
+- Missing some of /p t k b d g/, but exactly /p/, /g/, or both
 - Has bilabials, fricatives, and nasals
 - No clicks, labial-velars, pharyngeals, or 'th' sounds
 - No uvulars
 - No glottals
-- Lateral /l/, no obstruents
-- No velar nasal
+- Lateral /l/ and obstruents
+- Velar nasal initially
 
-| CONSONANTS     | Labial | Alveolar | Velar |
-|---             |---     |---       |---    |
-| Nassals        | m      | (n)      |       |
-| Plosives       | p b    | t d      | k g   |
-| Asp. Plos.     | pʰ     | tʰ       | kʰ    |
-| Lab. Plos.     | pʷ bʷ  | tʷ dʷ    | kʷ gʷ |
-| Lab.Asp. Plos. | pʰʷ    | tʰʷ      | kʰʷ   |
-| Fricatives     | f      | s        |       |
-| Approximants   |        | l        |       |
+| CONSONANTS     | Labial | Alveolar | P. Alveolar | Palatal | Velar |
+|---             |---     |---       |---          |---      |---    |
+| Nassals        | m̥ m    | n̥ n      |             |         | ŋ̥ ŋ   |
+| Plosives       | p b    | t d      |             |         | k g   |
+| Fricatives     | f      | s        | ʃ           |         | x     |
+| Affricates     |        | ts       | tʃ          |         |       |
+| Approximants   | ʍ w    |          |             | j       |       |
+| Trill          |        | r̥ r      |             |         |       |
+| L. Fricative   |        | ɬ        |             |         |       |
+| L. Approximant |        | l        |             |         |       |
 
-Count: 22 consonants
+Count: 21 consonants
 
 Romanization:
 - Aspirated plosives written with followinɡ 'h'
@@ -36,22 +37,18 @@ Romanization:
  
 ### Vowels
 
-- Vowel count: average (5-6)
-- Vowel nasalization
+- Vowel count: small (2-4)
+- No vowel nasalization
 
-| VOWELS | Front | Central | Back |
-|---     |---    |---      |---   |
-| Plain  | i     | a       | u    |
-| Nasal  | ĩ     | ã       | ũ    |
+| VOWELS | Central |
+|---     |---      |
+| Mid    | ə       |
+| Low    | a       |
 
-Count: 6 vowels
-
-*Nasal vowels pronounced with low tone and centralized*
-(e.g. /ĩ/ pronounced \[ɪ̃̀\] )
+Count: 2 vowels
 
 Romanization:
-- Nasal vowels written with preceding ':'
-  - /ĩ/ ':i', /ã/ ':a', /ũ/ ':u'
+- Schwa written as 'e'
 
 ### Syllables
 

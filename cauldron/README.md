@@ -19,16 +19,16 @@ _by armytag_
 | Morphology              | Isolating               | Polysynthetic           | Agglutinative           | Agglutinative           |
 | Word Order              | SVO                     | OSV                     | VSO                     | SOV                     |
 | Negative Word Order     | SVONeg                  | OS[Neg-V-Neg]           | NegVSO                  | SO[Neg-V]               |
-| C inventory             | Average (19-25)         | M. Small (15-18)        | M. Small (15-18)        | M. Large (26-33)        |
-| V inventory             | Average (5-6)           | Average (5-6)           | Large (7-14)            | Average (5-6)           |
-| Writing System          | Syllabic                | Logograph-syllabic mix  | Alphabetic              | Alphasyllabic (abugida) |
+| C inventory             | M. Large (26-33)        | M. Small (15-18)        | M. Small (15-18)        | M. Large (26-33)        |
+| V inventory             | Small (2-4)             | Average (5-6)           | Large (7-14)            | Average (5-6)           |
+| Writing System          | Consonantal (abjad)     | Logograph-syllabic mix  | Alphabetic              | Alphasyllabic (abugida) |
 | Voicing Contrast        | Plosives only           | Plosives & Fricatives   | No voicing              | Plosives & Fricatives   |
-| Plosives                | / p t k b d g /         | Other                   | Other                   | / p t k b d g /         |
+| Plosives                | Other                   | Other                   | Other                   | / p t k b d g /         |
 | Uvulars                 | No uvulars              | No uvulars              | No uvulars              | Uvular stops only       |
 | Glottals                | No glottals             | Ejectives               | No glottals             | No glottals             |
-| Laterals                | /l/, no obstruents      | /l/, no obstruents      | /l/, no obstruents      | /l/, no obstruents      |
-| Velar Nasal             | None                    | None                    | Yes, initially          | None                    |
-| V Nasalization          | Contrastive             | Not contrastive         | Not contrastive         | Not contrastive         |
+| Laterals                | /l/ and obstruents      | /l/, no obstruents      | /l/, no obstruents      | /l/, no obstruents      |
+| Velar Nasal             | Yes, initially          | None                    | Yes, initially          | None                    |
+| V Nasalization          | Not contrastive         | Not contrastive         | Not contrastive         | Not contrastive         |
 | Front Rounded V         | None                    | None                    | None                    | None                    |
 | Syllable Structure      | Moderate (CCVC)         | Simple (CV)             | Moderate (CCVC)         | Moderate (CCVC)         |
 | Tones                   | None                    | None                    | None                    | None                    |
