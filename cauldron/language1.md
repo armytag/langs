@@ -6,23 +6,26 @@ An isolating SVO langauge with a syllabary
 
 ### Consonants
 
-- Consonant count: average (19-25)
+- Consonant count: moderately large (26-33)
 - Voicing in plosives
-- Plosives /p t k b d g/
+- Missing some of /p t k b d g/, but exactly /p/, /g/, or both
 - Has bilabials, fricatives, and nasals
 - No clicks, labial-velars, pharyngeals, or 'th' sounds
 - No uvulars
 - No glottals
-- Lateral /l/, no obstruents
-- No velar nasal
+- Lateral /l/ and obstruents
+- Velar nasal initially
 
-| CONSONANTS   | Labial | Alveolar | Retroflex | Velar |
-|---           |---     |---       |---        |---    |
-| Nassals      | m      |          |           |       |
-| Plosives     | p b    | t d      | ʈ ɖ       | k g   |
-| Labialized   | pʷ bʷ  | tʷ dʷ    | ʈʷ ɖʷ     | kʷ gʷ |
-| Fricatives   | f      | s        |           | x     |
-| Approximants |        | l        |           |       |
+| CONSONANTS     | Labial | Alveolar | P. Alveolar | Palatal | Velar |
+|---             |---     |---       |---          |---      |---    |
+| Nassals        | m̥ m    | n̥ n      |             |         | ŋ̥ ŋ   |
+| Plosives       | p b    | t d      |             |         | k g   |
+| Fricatives     | f      | s        | ʃ           |         | x     |
+| Affricates     |        | ts       | tʃ          |         |       |
+| Approximants   | ʍ w    |          |             | j       |       |
+| Trill          |        | r̥ r      |             |         |       |
+| L. Fricative   |        | ɬ        |             |         |       |
+| L. Approximant |        | l        |             |         |       |
 
 Count: 21 consonants
 
@@ -34,20 +37,18 @@ Romanization:
  
 ### Vowels
 
-- Vowel count: average (5-6)
-- Vowel nasalization
+- Vowel count: small (2-4)
+- No vowel nasalization
 
-| VOWELS  | Front | Back |
-|---      |---    |---   |
-| Hiɡh    | i     | u    |
-| Low     | e     | o    |
-| Nasal   | ɛ     | ɔ    |
+| VOWELS | Central |
+|---     |---      |
+| Mid    | ə       |
+| Low    | a       |
 
-Count: 6 vowels
+Count: 2 vowels
 
 Romanization:
-- Nasal vowels written with followinɡ 'n'
-  - /ɛ̃/ 'en', /ɔ̃/ 'on'
+- Schwa written as 'e'
 
 ### Syllables
 
