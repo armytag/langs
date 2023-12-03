@@ -3,9 +3,9 @@ import random as rand
 ONSETS = [
         # "m̥", "m", "n̥", "n", "ŋ̊", "ŋ",
         "hm", "m", "hn", "n", "hnj", "nj",
-        "p", "b", "t", "d", "k", "g",
-        "pw", "bw", "tw", "dw", "kw", "gw",
-        "py", "by", "ty", "dy", "ky", "gy",
+        "p", "b", "t", "k", "g",
+        "pw", "bw", "tw", "kw", "gw",
+        "py", "by", "ty", "ky", "gy",
         "f", "s", "x",
         # "r", "l", "ɬ",
         "r", "l", "hl",
@@ -51,7 +51,7 @@ def get_syllable(s):
     return generate_syllable(s[-1]=='C')
 
 if __name__ == "__main__":
-    word_count = 30
+    word_count = 1000
     words = []
     for idx in range(word_count):
         syll_count = rand.choice(SYLL_COUNTS)
@@ -61,4 +61,4 @@ if __name__ == "__main__":
             syllable = get_syllable(structure)
             word += syllable
         words.append(word)
-    print(' '.join(words))
+        print(word)

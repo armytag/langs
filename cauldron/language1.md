@@ -1,6 +1,6 @@
 # Language 1
 
-An isolating SVO langauge with a syllabary
+An isolating SVO langauge with an abjad
 
 ## Phonology
 
@@ -8,7 +8,7 @@ An isolating SVO langauge with a syllabary
 
 - Consonant count: moderately large (26-33)
 - Voicing in plosives
-- Missing some of /p t k b d g/, but exactly /p/, /g/, or both
+- Missing some of /p t k b d g/, but not exactly /p/, /g/, or both
 - Has bilabials, fricatives, and nasals
 - No clicks, labial-velars, pharyngeals, or 'th' sounds
 - No uvulars
@@ -19,14 +19,14 @@ An isolating SVO langauge with a syllabary
 | CONSONANTS     | Labial | Alveolar | Velar |
 |---             |---     |---       |---    |
 | Nassals        | m̥ m    | n̥ n      | ŋ̊ ŋ   |
-| Plosives       | p b    | t d      | k g   |
-| Lab. Plosives  | pʷ bʷ  | tʷ dʷ    | kʷ gʷ |
-| Pal. Plosives  | pʲ bʲ  | tʲ dʲ    | kʲ gʲ |
+| Plosives       | p b    | t        | k g   |
+| Lab. Plosives  | pʷ bʷ  | tʷ       | kʷ gʷ |
+| Pal. Plosives  | pʲ bʲ  | tʲ       | kʲ gʲ |
 | Fricatives     | f      | s        | x     |
 | Trill          |        | r        |       |
 | Laterals       |        | ɬ l      |       |
 
-Count: 30 consonants
+Count: 27 consonants
 
 Romanization:
 - Labialized plosives written with followinɡ 'w'
@@ -50,13 +50,16 @@ Romanization:
 
 Count: 4 vowels
 
+Romanization:
+- Schwa /ə/ written as 'e'
+
 ### Syllables
 
 Syllables moderately complex (CVC)
 
-- Onset combinations: nassals, plosives, lateral approximants (18)
-- Nucleus: vowels (6)
-- Coda: fricatives and approximants (5)
+- Onset combinations: nassals, plosives, fricatives, liquids (30)
+- Nucleus: vowels (4)
+- Coda: voiced nasals, voiced trill, fricatives, and laterals (9)
 
 Syllables written as onset-vowel character with smaller coda characters 
 (labialized plosives match unlabialized characters with a diacritic)
