@@ -1,21 +1,24 @@
 import random as rand
 
 ONSETS = [
-        'p', 'b', 'ph', 'pw', 'bw', 'phw',
-        't', 'd', 'th', 'tw', 'dw', 'thw',
-        'k', 'g', 'kh', 'kw', 'gw', 'khw',
-        'm', 'l'
+        "m̥", "m", "n̥", "n", "ɳ̊", "ɳ", "ŋ̊", "ŋ",
+        "p", "b", "t", "d", "ʈ", "ɖ", "k", "g",
+        "pʰ", "tʰ", "ʈʰ", "kʰ",
+        "f", "s", "ʂ", "x",
+        "r̥", "r",
+        "ʍ", "w", "l", "ɬ",
 ]
 VOWELS = [
-        "i", "a", "u", ":i", ":a", ":u"
+        "i", "a", "u",
 ]
 CODAS = [
-        'f', 'm',
-        's', 'l',
+        "f", "s", "ʂ", "x",
+        "r̥", "r",
+        "l", "ɬ",
 ]
 SYLL_STRUCTS = ['V'] * 1
-SYLL_STRUCTS += ['VC'] * 3
-SYLL_STRUCTS += ['CV'] * 1
+SYLL_STRUCTS += ['VC'] * 1
+SYLL_STRUCTS += ['CV'] * 3
 SYLL_STRUCTS += ['CVC'] * 2
 SYLL_COUNTS = []
 SYLL_COUNTS = [1] * 3

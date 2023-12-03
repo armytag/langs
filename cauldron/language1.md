@@ -16,18 +16,17 @@ An isolating SVO langauge with a syllabary
 - Lateral /l/ and obstruents
 - Velar nasal initially
 
-| CONSONANTS     | Labial | Alveolar | P. Alveolar | Palatal | Velar |
-|---             |---     |---       |---          |---      |---    |
-| Nassals        | m̥ m    | n̥ n      |             |         | ŋ̥ ŋ   |
-| Plosives       | p b    | t d      |             |         | k g   |
-| Fricatives     | f      | s        | ʃ           |         | x     |
-| Affricates     |        | ts       | tʃ          |         |       |
-| Approximants   | ʍ w    |          |             | j       |       |
-| Trill          |        | r̥ r      |             |         |       |
-| L. Fricative   |        | ɬ        |             |         |       |
-| L. Approximant |        | l        |             |         |       |
+| CONSONANTS     | Labial | Alveolar | Retroflex | Velar |
+|---             |---     |---       |---        |---    |
+| Nassals        | m̥ m    | n̥ n      | ɳ̊ ɳ       | ŋ̊ ŋ   |
+| Plosives       | p b    | t d      | ʈ ɖ       | k g   |
+| Asp. Plosives  | pʰ     | tʰ       | ʈʰ        | kʰ    |
+| Fricatives     | f      | s        | ʂ         | x     |
+| Trill          |        | r̥ r      |           |       |
+| Approximants   | ʍ w    | l        |           |       |
+| L. Fricative   |        | ɬ        |           |       |
 
-Count: 21 consonants
+Count: 30 consonants
 
 Romanization:
 - Aspirated plosives written with followinɡ 'h'
@@ -40,15 +39,12 @@ Romanization:
 - Vowel count: small (2-4)
 - No vowel nasalization
 
-| VOWELS | Central |
-|---     |---      |
-| Mid    | ə       |
-| Low    | a       |
+| VOWELS | Front | Central | Back |
+|---     |---    |---      |---   |
+| High   | i     |         | u    |
+| Low    |       | a       |      |
 
-Count: 2 vowels
-
-Romanization:
-- Schwa written as 'e'
+Count: 3 vowels
 
 ### Syllables
 
