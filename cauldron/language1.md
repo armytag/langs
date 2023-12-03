@@ -16,23 +16,26 @@ An isolating SVO langauge with a syllabary
 - Lateral /l/ and obstruents
 - Velar nasal initially
 
-| CONSONANTS     | Labial | Alveolar | Retroflex | Velar |
-|---             |---     |---       |---        |---    |
-| Nassals        | m̥ m    | n̥ n      | ɳ̊ ɳ       | ŋ̊ ŋ   |
-| Plosives       | p b    | t d      | ʈ ɖ       | k g   |
-| Asp. Plosives  | pʰ     | tʰ       | ʈʰ        | kʰ    |
-| Fricatives     | f      | s        | ʂ         | x     |
-| Trill          |        | r̥ r      |           |       |
-| Approximants   | ʍ w    | l        |           |       |
-| L. Fricative   |        | ɬ        |           |       |
+| CONSONANTS     | Labial | Alveolar | Velar |
+|---             |---     |---       |---    |
+| Nassals        | m̥ m    | n̥ n      | ŋ̊ ŋ   |
+| Plosives       | p b    | t d      | k g   |
+| Lab. Plosives  | pʷ bʷ  | tʷ dʷ    | kʷ gʷ |
+| Pal. Plosives  | pʲ bʲ  | tʲ dʲ    | kʲ gʲ |
+| Fricatives     | f      | s        | x     |
+| Trill          |        | r        |       |
+| Laterals       |        | ɬ l      |       |
 
 Count: 30 consonants
 
 Romanization:
-- Aspirated plosives written with followinɡ 'h'
-  - /pʰ/ 'ph', /dʰ/ 'dh'
 - Labialized plosives written with followinɡ 'w'
-  - /pʷ/ 'pw', /pʰʷ/ 'phw', etc.
+  - /pʷ/ 'pw', /tʷ/ 'tw', etc.
+- Palatalized plosives written with followinɡ 'y'
+  - /pʲ/ 'py', /tʲ/ 'ty', etc.
+- Velar nasal /ŋ/ written as 'nj'
+- Voiceless nasals and lateral fricative written with preceding 'h'
+  - /m̥/ 'hm', /ŋ̊/ 'hnj', /ɬ/ 'hl', etc.
  
 ### Vowels
 
@@ -42,9 +45,10 @@ Romanization:
 | VOWELS | Front | Central | Back |
 |---     |---    |---      |---   |
 | High   | i     |         | u    |
+| Mid    |       | ə (e)   |      |
 | Low    |       | a       |      |
 
-Count: 3 vowels
+Count: 4 vowels
 
 ### Syllables
 

@@ -1,48 +1,57 @@
 import random as rand
 
 ONSETS = [
-        "m̥", "m", "n̥", "n", "ɳ̊", "ɳ", "ŋ̊", "ŋ",
-        "p", "b", "t", "d", "ʈ", "ɖ", "k", "g",
-        "pʰ", "tʰ", "ʈʰ", "kʰ",
-        "f", "s", "ʂ", "x",
-        "r̥", "r",
-        "ʍ", "w", "l", "ɬ",
+        # "m̥", "m", "n̥", "n", "ŋ̊", "ŋ",
+        "hm", "m", "hn", "n", "hnj", "nj",
+        "p", "b", "t", "d", "k", "g",
+        "pw", "bw", "tw", "dw", "kw", "gw",
+        "py", "by", "ty", "dy", "ky", "gy",
+        "f", "s", "x",
+        # "r", "l", "ɬ",
+        "r", "l", "hl",
 ]
 VOWELS = [
-        "i", "a", "u",
+        "a", "e",
 ]
 CODAS = [
-        "f", "s", "ʂ", "x",
-        "r̥", "r",
-        "l", "ɬ",
+        "m", "n", "nj",
+        "f", "s", "x",
+        "r", "l", "hl",
 ]
-SYLL_STRUCTS = ['V'] * 1
-SYLL_STRUCTS += ['VC'] * 1
+SYLL_STRUCTS = ['V'] * 0
+SYLL_STRUCTS += ['VC'] * 0
 SYLL_STRUCTS += ['CV'] * 3
-SYLL_STRUCTS += ['CVC'] * 2
+SYLL_STRUCTS += ['CVC'] * 1
 SYLL_COUNTS = []
 SYLL_COUNTS = [1] * 3
 SYLL_COUNTS += [2] * 3
 SYLL_COUNTS += [3] * 2
 
-def generate_syllable(has_onset, has_coda):
-    onset = ''
+def generate_syllable(has_coda):
     coda = ''
+    onset = rand.choice(ONSETS)
     vowel = rand.choice(VOWELS)
-    if has_onset:
-        onset = rand.choice(ONSETS)
+    if vowel == 'e':
+        if 'y' in onset:
+            onset = onset[0]
+            vowel = 'i'
+        elif onset == 'hnj' or onset == 'nj':
+            vowel = 'i'
+        if 'w' in onset:
+            onset = onset[0]
+            vowel = 'u'
+        elif onset == 'hm' or onset == 'm':
+            vowel = 'u'
     if has_coda:
         coda = rand.choice(CODAS)
     syll = onset + vowel + coda
-    if onset == 'l':
-        print(syll)
     return syll
 
 def get_syllable(s):
-    return generate_syllable(s[0]=='C', s[-1]=='C')
+    return generate_syllable(s[-1]=='C')
 
 if __name__ == "__main__":
-    word_count = 20
+    word_count = 30
     words = []
     for idx in range(word_count):
         syll_count = rand.choice(SYLL_COUNTS)
