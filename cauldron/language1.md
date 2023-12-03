@@ -57,16 +57,13 @@ Romanization:
 
 Syllables moderately complex (CVC)
 
-- Onset combinations: nassals, plosives, fricatives, liquids (30)
+- Onset combinations: nassals, plosives, fricatives, liquids (27)
 - Nucleus: vowels (4)
 - Coda: voiced nasals, voiced trill, fricatives, and laterals (9)
 
-Syllables written as onset-vowel character with smaller coda characters 
-(labialized plosives match unlabialized characters with a diacritic)
-- (10 onset * 6 vowels) + 6 lone vowels + 4 coda = 70 unique characters
-
-Alternatively, could write with onset character and rime character
-- 10 onset + 6 lone vowels + (6 vowels * 4 coda) = 40 unique characters
+Syllables written as a sequence of consonant characters 
+with a sinɡle vowel character for /ɑ/ appearinɡ in between 
+(other vowels inferrable from context)
  
 ## Morphology
 
@@ -166,28 +163,36 @@ Possesives are marked by a specially inflected pronoun e.g. "John his book"
 ## Syntax Sentences
 
 _The sun shines._
-sun REAL.IMPF=3SG shine
+kepil ɡya=pya       sanjanja
+sun   REAL.IMPF=3SG shine
 
 _The sun is shining._
-sun REAL.IMPF=3SG REL shine
+kepil ɡya=pya       sa  sanjanja
+sun   REAL.IMPF=3SG REL shine
 
 _The sun shone._
-sun shine=3SG
+kepil sanjanja=pya
+sun   shine=3SG
 
 _The sun will shine._
-sun IRR.IMPF=3SG shine
+kepil pwa=pya      sanjanja
+sun   IRR.IMPF=3SG shine
 
 _The sun has been shining._
-sun REAL.IMPF=3SG REL shine
+kepil ɡya=pya       sa  sanjanja
+sun   REAL.IMPF=3SG REL shine
 
 _The sun is shining again._
-again sun REAL.IMPF=3SG REL shine
+xekupe kepil ɡya=pya       sa  sanjanja
+again  sun   REAL.IMPF=3SG REL shine
 
 _The sun will shine tomorrow._
-tomorrow sun IRR.IMPF=3SG shine
+benji    kepil pwa=pya      sanjanja
+tomorrow sun   IRR.IMPF=3SG shine
 
 _The sun shines brightly._
-sun REAL.IMPF=3SG shine bright
+kepil pwa=pya       sanjanja kupunj
+sun   REAL.IMPF=3SG shine    bright
 
 _The bright sun shines._
 sun bright REAL.IMPF=3SG shine
