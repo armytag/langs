@@ -51,7 +51,7 @@ def get_syllable(s):
     return generate_syllable(s[-1]=='C')
 
 if __name__ == "__main__":
-    word_count = 1000
+    word_count = 10
     words = []
     for idx in range(word_count):
         syll_count = rand.choice(SYLL_COUNTS)
