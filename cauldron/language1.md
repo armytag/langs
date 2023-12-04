@@ -64,20 +64,19 @@ Syllables moderately complex (CVC)
 Syllables written as a sequence of consonant characters 
 with a sinɡle vowel character for /ɑ/ appearinɡ in between 
 (other vowels inferrable from context)
+
+Stress always falls on second syllable of word
  
 ## Morphology
 
 ### Nouns
 
 - Nouns not inflected for anything
-  - Pronouns inflect for number, clusivity, and case (NOM, ACC, or GEN)
-- Nominal plural is indicated through a pluralizing particle/affix
-  - Plural pronouns also take the pluralizing particle/affix
+- Nominal plural is indicated through pluralizing particle 'tyan'
 - Associative nouns ("John and his associates") same as normal plural
 - Pronominal and adnominal demonstratives are the same 
   - "*this* book", "I don't like *that*"
 - All demonstratives ("this" and "that") can be used as third person pronouns
-- Idefinite pronouns ("someone", "something") derived from interrogatives
 - Intensifiers and reflexive pronouns distinct
 - Commitatives and instrumentals use different words (English "with")
 - Ordinal numerals are distinct for the first few numbers, derived after that
@@ -92,18 +91,49 @@ with a sinɡle vowel character for /ɑ/ appearinɡ in between
 - Noun conjugator "and" and commitative conjugator "with" are identical
 - Noun conjugation and verb conjugation are largely identical
 
+### Pronouns
+- Pronouns inflect for number, clusivity, and case (NOM, ACC, or GEN)
+- Plural pronouns also take the pluralizing particle/affix
+- Idefinite pronouns ("someone", "something") derived from interrogatives
+
+| PRONOUNS | NOM      | Clitic | ACC      | Affix  | GEN    |
+|---       |---       |---     |---       |---     |---     |
+| 1SG      | hnja     | =nji   | hnja     | -njar  | hnjanj |
+| 1PL.INC  | tu tyan  | =ti    | re tyan  | -na    | tenj   |
+| 1PL.EXC  | xa tyan  | =ki    | gya tyan | -ga    | bya    |
+| 2SG      | fe       | =pe    | pwax     | -pwa   | pix    |
+| 2PL      | bwa tyan | =be    | bwa tyan | -ba    | bihl   |
+| 3SG      | bes      | =hla   | hmuhl    | -hma   | man    |
+| 3PL      | pu tyan  | =le    | pu tyan  | -le    | lam    |
+
 ### Verbs
 
 - No tense/aspect marking
 - Marked for person (number and clusivity) of both A and P
   - Order of A and P modifiers occur in both orders
-    - Could depend on P.Num of A and P
-    - 2SG.A-3PL.P-verb, but 3PL.P-verb-1PL.INC.A
+    - A modifier is an enclitic that attaches to first word in verb phrase
   - Active alignment (S acts like A or P depending on context)
 - Verb affixes **only** mark person
 - Purpose clauses have deranked verb forms (e.g. no person marking)
 - "When" clauses balanced (same verb markings)
 - Reason clauses balanced (same verb markings)
+
+### Aspects
+
+| ASPECTS | Word |
+|---      |---   |
+| RL.IMP  | kwa  |
+| IR.IMP  | pi   |
+| IR.PRF  | hna  |
+
+| ASPECTS  | Unmarked | RL.IMP | IR.IMP | IR.PRF |
+|---       |---       |---     |---     |---     |
+| Unmarked | PERF     | IMPF   | ANTC   | INTL   |
+| RL.IMP   | IMPF     | -      | HAB    | NECS   |
+| IR.IMP   | ANTC     | HAB    | -      | INCP   |
+| IR.PRF   | INTL     | NECS   | INCP   | -      |
+
+**Need to revisit RL.IMP + IR.PRF combination**
 
 ## Grammar
 
@@ -145,17 +175,6 @@ with a sinɡle vowel character for /ɑ/ appearinɡ in between
 - Obliques cannot be relativized
 - Desiderative markers on verb
 
-### Aspects
-
-| ASPECTS  | Unmarked | RL.IMP | IR.IMP | IR.PRF |
-|---       |---       |---     |---     |---     |
-| Unmarked | PERF     | IMPF   | ANTC   | INTL   |
-| RL.IMP   | IMPF     | -      | HAB    | NECS   |
-| IR.IMP   | ANTC     | HAB    | -      | INCP   |
-| IR.PRF   | INTL     | NECS   | INCP   | -      |
-
-**Need to revisit RL.IMP + IR.PRF combination**
-
 ### Possesives
 
 Possesives are marked by a specially inflected pronoun e.g. "John his book"
@@ -163,36 +182,36 @@ Possesives are marked by a specially inflected pronoun e.g. "John his book"
 ## Syntax Sentences
 
 _The sun shines._
-kepil ɡya=pya       sanjanja
+kepil kwa=hla       bwahlelel
 sun   REAL.IMPF=3SG shine
 
 _The sun is shining._
-kepil ɡya=pya       sa  sanjanja
+kepil kwa=hla       sa  bwahlelel
 sun   REAL.IMPF=3SG REL shine
 
 _The sun shone._
-kepil sanjanja=pya
+kepil bwahlelel=hla
 sun   shine=3SG
 
 _The sun will shine._
-kepil pwa=pya      sanjanja
+kepil pi=hla       bwahlelel
 sun   IRR.IMPF=3SG shine
 
 _The sun has been shining._
-kepil ɡya=pya       sa  sanjanja
+kepil kwa=hla       sa  bwahlelel
 sun   REAL.IMPF=3SG REL shine
 
 _The sun is shining again._
-xekupe kepil ɡya=pya       sa  sanjanja
+xekupe kepil kwa=hla       sa  bwahlelel
 again  sun   REAL.IMPF=3SG REL shine
 
 _The sun will shine tomorrow._
-benji    kepil pwa=pya      sanjanja
+benji    kepil pi=hla       bwahlelel
 tomorrow sun   IRR.IMPF=3SG shine
 
 _The sun shines brightly._
-kepil pwa=pya       sanjanja kupunj
-sun   REAL.IMPF=3SG shine    bright
+kepil pi=hla        bwahlelel fabwa
+sun   REAL.IMPF=3SG shine     bright
 
 _The bright sun shines._
 sun bright REAL.IMPF=3SG shine
