@@ -182,72 +182,110 @@ Possesives are marked by a specially inflected pronoun e.g. "John his book"
 ## Syntax Sentences
 
 ``````
-_The sun shines._
 kepil kwa=hla       bwahlelel
 sun   REAL.IMPF=3SG shine
+"The sun shines."
 ``````
 
-_The sun is shining._
+``````
 kepil kwa=hla       sa  bwahlelel
 sun   REAL.IMPF=3SG REL shine
+"The sun is shining."
+``````
 
-_The sun shone._
+``````
 kepil bwahlelel=hla
 sun   shine=3SG
+"The sun shone."
+``````
 
-_The sun will shine._
+``````
 kepil pi=hla       bwahlelel
 sun   IRR.IMPF=3SG shine
+"The sun will shine."
+``````
 
-_The sun has been shining._
+``````
 kepil kwa=hla       sa  bwahlelel
 sun   REAL.IMPF=3SG REL shine
+"The sun has been shining."
+``````
 
-_The sun is shining again._
+``````
 xekupe kepil kwa=hla       sa  bwahlelel
 again  sun   REAL.IMPF=3SG REL shine
+"The sun is shining again."
+``````
 
-_The sun will shine tomorrow._
+``````
 benji    kepil pi=hla       bwahlelel
 tomorrow sun   IRR.IMPF=3SG shine
+"The sun will shine tomorrow."
+``````
 
-_The sun shines brightly._
+``````
 kepil pi=hla        bwahlelel fabwa
 sun   REAL.IMPF=3SG shine     bright
+"The sun shines brightly."
+``````
 
-_The bright sun shines._
+``````
 sun bright REAL.IMPF=3SG shine
+"The bright sun shines."
+``````
 
-_The sun is rising now._
+``````
 now sun REAL.IMPF=3SG rise
+"The sun is rising now."
+``````
 
-_All the people shouted._
+``````
 person PL all shout=3PL
+"All the people shouted."
+``````
 
-_Some of the people shouted._
+``````
 person PL some shout=3PL
+"Some of the people shouted."
+``````
 
-_Many of the people shouted twice._
+``````
 person PL some shout=3PL across time two
+"Many of the people shouted twice."
+``````
 
-_Happy people often shout._
+``````
 person PL happy IRR.IMPF-IRR.PERF=3PL shout
+"Happy people often shout."
+``````
 
-_The kitten jumped up._
+``````
 kitten jump=3SG up
+"The kitten jumped up."
+``````
 
-_The kitten jumped onto the table._
+``````
 kitten jump=3SG onto table
+"The kitten jumped onto the table."
+``````
 
-_My little kitten walked away._
+``````
 kitten little walk=3SG away
+"My little kitten walked away."
+``````
 
-_It's raining._
+``````
 rain REAL.IMPF=3SG fall
+"It's raining."
+``````
 
-_The rain came down._
+``````
 rain REAL.IMPF=3SG fall down
+"The rain came down."
+``````
 
-_The kitten is playing in the rain._
+``````
 kitten REAL.IMPF=3SG play in rain
+"The kitten is playing in the rain."
+``````
 
