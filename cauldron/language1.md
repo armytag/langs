@@ -181,9 +181,11 @@ Possesives are marked by a specially inflected pronoun e.g. "John his book"
 
 ## Syntax Sentences
 
+``````
 _The sun shines._
 kepil kwa=hla       bwahlelel
 sun   REAL.IMPF=3SG shine
+``````
 
 _The sun is shining._
 kepil kwa=hla       sa  bwahlelel
