@@ -2,6 +2,8 @@
 
 An isolating SVO langauge with an abjad
 
+Tentatively called 'tamgwa'
+
 ## Phonology
 
 ### Consonants
