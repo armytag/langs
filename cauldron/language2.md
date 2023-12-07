@@ -61,10 +61,20 @@ Syllables simple (CV)
 - 8-9 cases
   - Case marked with prepositional clitics
   - Cases follow standard Nominative-Accusative aliɡnment
+- Definite and indefinite affixes on noun
 - Adpositions marked for person of nouns and pronouns
 
 ### Verbs
 
 - Maximally 8-9 inflectional categories per word
+  - Tense
+  - Aspect
+  - Mood
+  - Neɡation
+  - Illocution
+  - Aɡent
+  - Patient
+  - Nominalizer
+  - Voice / valency
 - Verbs marked for A & P
   - P precedes A

@@ -35,7 +35,7 @@ _by armytag_
 | Common Consonants       | All                     | All                     | All                     | All                     |
 | Uncommon Consonants     | None                    | None                    | None                    | None                    |
 | Clause Marking Locus    | Dependant marked        | Double marked           | Dependant marked        | Dependant marked        |
-| Possesion Mark Locus    | Other                   | Dependant marked        | Dependant marked        | Dependant marked        |
+| Possesion Mark Locus    | Other                   | Head marked             | Dependant marked        | Dependant marked        |
 | Prefix vs Suffix        | Minimal inflection      | Mainly prefixing        | Mainly suffixing        | Mainly prefixing        |
 | Nominal Plural Mark     | Plural word             | Plural clitic           | Plural suffix           | No plural               |
 | Nominal Plural Types    | All types optional      | All types required      | Only humans, required   | No plural               |
