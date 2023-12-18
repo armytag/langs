@@ -1,0 +1,220 @@
+%%
+%% This is file `baabbrevs.sty',
+%% generated with the docstrip utility.
+%%
+%% The original source files were:
+%%
+%% baabbrevs.dtx  (with options: `package')
+%% 
+%% Copyright 2020 Akam Chinjir
+%% 
+%% This work may be distributed and/or modified under the
+%% conditions of the LaTeX Project Public License, either version 1.3
+%% of this license or (at your option) any later version.
+%% The latest version of this license is in
+%% http://www.latex-project.org/lppl.txt
+%% and version 1.3 or later is part of all distributions of LaTeX
+%% version 2005/12/01 or later.
+%% 
+%% This work has the LPPL maintenance status `maintained'.
+%% 
+%% The Current Maintainer of this work is Akam Chinjir
+%% <akam.chinjir@gmail.com>.
+%% 
+%% This work consists of the files  baabbrevs.tex and
+%%                                  baabbrevs.sty.in
+%% and the derived files            baabbrevs.dtx,
+%%                                  baabbrevs.pdf, and
+%%                                  baabbrevs.sty
+%% 
+\ProvidesPackage{baabbrevs}[2020/12/20 v1.1 glossing abbreviations]
+\NeedsTeXFormat{LaTeX2e}[1995/12/01]
+\RequirePackage{etoolbox}
+\@ifpackageloaded{leipzig}{%
+  \PackageError{baabbrevs}{baabbrevs has to load leipzig itself\MessageBreak
+    (any package options will be forwarded)}\@eha
+}{}%
+\let\baabifstandards\@firstoftwo
+\let\baabifcalcwidest\@firstoftwo
+\DeclareOption{nostandards}{\let\baabifstandards\@secondoftwo}
+\DeclareOption{nocalcwidest}{\let\baabifcalcwidest\@secondoftwo}
+\DeclareOption*{\PassOptionsToPackage{\CurrentOption}{leipzig}}
+\ProcessOptions
+\let\baab@saved@input\@iinput
+\def\baab@leipzig@text{leipzig.tex}
+\def\@iinput#1{%
+  \def\@tempa{#1}%
+  \ifx\@tempa\baab@leipzig@text
+    \expandafter\@gobble
+  \else
+    \expandafter\@firstofone
+  \fi
+  {\baab@saved@input{#1}}%
+}%
+\RequirePackage{leipzig}
+\let\@iinput\baab@saved@input
+\newrobustcmd\baabbrev{%
+  \@ifstar{%
+    \baab@new\baab@new@starred
+  }{%
+    \baab@new\baab@new@unstarred
+  }%
+}
+\def\baab@new#1{%
+  \@ifnextchar[{\baab@new@opts#1}{\baab@new@#1{}}%]
+}
+\def\baab@new@opts#1[#2]{%
+  \baab@new@opts@#2,\@nil#1%
+}
+\def\baab@new@opts@#1#2,#3\@nil#4{%
+  \ifblank{#2}{%
+    \baab@ifcs{#1}{%
+      \baab@new@@#1#4{#3}%
+    }{%
+      \baab@new@#4{#1,#3}%
+    }%
+  }{%
+    \baab@new@#4{#1#2,#3}%
+  }%
+}
+\def\baab@ifcs#1{%
+  \expandafter\baab@ifcs@\string#1\@nil
+}
+\def\baab@ifcs@#1#2\@nil{%
+  \ifnum\catcode`#1=\z@
+    \expandafter\@firstoftwo
+  \else
+    \expandafter\@secondoftwo
+  \fi
+}
+\def\baab@new@#1#2#3{%
+  \uppercase{\expandafter\baab@new@@\csname #3\endcsname}#1{#2}{#3}%
+}
+\def\baab@new@@#1#2#3#4{%
+  #2#1{#3}{#4}%
+}
+\@ifpackageloaded{glossaries}{%
+  \def\baab@new@starred#1#2#3{%
+    \newacronym[#2type=\leipzigtype]{#3}{#3}{}%
+    \protected\def#1{%
+      \leipzigfont{\glsentryshort{#3}}%
+    }%
+  }
+  \def\baab@new@unstarred#1#2#3#4{%
+    \newacronym[#2type=\leipzigtype]{#3}{#3}{#4}%
+    \ifleipzigdonotindex
+      \protected\def#1{%
+        \leipzigfont{\glsentryshort{#3}}%
+      }%
+    \else\ifleipzighyper
+      \protected\def#1{%
+        \acrshort{#3}%
+      }%
+    \else
+      \protected\def#1{%
+        \acrshort*{#3}%
+      }%
+    \fi\fi
+  }%
+}{%
+  \def\baab@new@starred#1#2#3{%
+    \baab@new@noglossary#1,#2,short=,\@nil{#3}%
+  }%
+  \def\baab@new@noglossary#1#2,short=#3,#4\@nil#5{%
+    \ifblank{#4}{%
+      \protected\def#1{\leipzigfont{#5}}%
+    }{%
+      \protected\def#1{\leipzigfont{#3}}%
+    }%
+  }%
+  \def\baab@new@unstarred#1#2#3#4{%
+    \baab@new@starred#1{#2}{#3}%
+  }%
+}
+\baabifstandards{%
+  \let\baab@saved@newleipzig\newleipzig
+  \let\baab@saved@newcommand\newcommand
+  \let\baab@saved@glsfindwidest\glsfindwidesttoplevelname
+    \def\newleipzig#1#2#3{%
+      \edef\@tempa{#1}%
+      \edef\@tempb{#2}%
+      \ifx\@tempa\@tempb
+        \baabbrev{#1}{#3}%
+      \else
+        \baabbrev[short={#2},sort={#2}]{#1}{#3}%
+      \fi
+    }%
+    \def\newcommand#1#2{%
+      \baab@leipperson#1#2%
+    }%
+    \def\baab@leipperson#1#2#3{%
+      \edef\@tempa{%
+        \noexpand\uppercase{%
+          \noexpand\expandafter\edef
+          \noexpand\csname\expandafter\@gobble\string#1\noexpand\endcsname{%
+            {\noexpand\expandafter\noexpand\noexpand
+              \noexpand\csname\expandafter\@gobble\string#2\noexpand\endcsname}%
+            {\noexpand\expandafter\noexpand\noexpand
+              \noexpand\csname\expandafter\@gobble\string#3\noexpand\endcsname}%
+          }%
+        }%
+      }%
+      \@tempa
+    }%
+    \def\glsfindwidesttoplevelname[#1]{}%
+    \loadglsentries{leipzig.tex}%
+    \let\newleipzig\baab@saved@newleipzig
+    \let\newcommand\baab@saved@newcommand
+    \let\glsfindwidesttoplevelname\baab@saved@glsfindwidest
+    \makeatletter
+}{}%
+\@ifpackageloaded{glossaries}{%
+  \baabifcalcwidest{%
+    \def\baabcalcone#1{%
+      \ifcsdef{glo@\glsdetoklabel{#1}@name}{%
+        \settowidth\dimen@{\glstreenamefmt{\glsentryname{#1}}}%
+        \ifdim\dimen@>\gls@tmplen
+          \gls@tmplen=\dimen@
+          \global\letcs\@glswidestname{glo@\glsdetoklabel{#1}@name}%
+        \fi
+      }{}%
+    }
+    \def\baabcalcwidest{%
+      \begingroup
+      \gls@tmplen\z@
+      \forlistloop\baabcalcone\baababbrevs
+      \endgroup
+    }%
+    \let\baababbrevs\@empty
+    \def\glossaryentry#1#2{%
+      \baab@glossaryentry#1\glossentry\relax\@nil
+    }%
+    \def\baab@glossaryentry#1\glossentry#2#3\@nil{%
+      \ifblank{#3}{}{%
+        \listadd\baababbrevs{#2}%
+      }{}%
+    }%
+    \InputIfFileExists{\jobname.\csname @glotype@\leipzigtype @out\endcsname}{}{}%
+    \AtBeginDocument{\baabcalcwidest}%
+  }{}%
+  \let\glspostnamespace\quad
+}{}%
+\protected\def\baabbrevs#1{%
+  \forcsvlist\onebaabbrev{#1}%
+}
+\def\onebaabbrev#1{%
+  \onebaabbrev@#1=\@nil
+}
+\def\onebaabbrev@#1=#2\@nil{%
+  \ifblank{#2}{%
+    \baabbrev*{#1}%
+  }{%
+    \onebaabbrev@@{#1}#2\@nil%
+  }%
+}
+\def\onebaabbrev@@#1#2=\@nil{%
+  \baabbrev*[short=#2]{#1}%
+}%
+\endinput
+%%
+%% End of file `baabbrevs.sty'.

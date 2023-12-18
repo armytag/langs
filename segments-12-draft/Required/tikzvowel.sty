@@ -1,0 +1,72 @@
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{tikzvowel}[2014/08/21 Package to create vowel charts using tikz]
+\RequirePackage{tikz}
+\RequirePackage{pagecolor}
+
+\def\tv@V(#1,#2){barycentric cs:hf={(3-#1)*(2-#2)},hb={(3-#1)*#2},lf={#1*(2-#2)},lb={#1*#2}}
+
+\newtoks\tv@points
+\def\tv@vowelblob{%
+  \tv@points={}%
+  \tv@next
+}
+\def\tv@next{%
+  \@ifnextchar\bgroup{\tv@nextpoint}{\tv@donepoints}%
+}
+\def\tv@nextpoint#1{%
+  \tv@points=\expandafter{\the\tv@points(\tv@V(#1)) }%
+  \tv@next
+}
+\def\tv@donepoints{%
+  \edef\next{%
+    \noexpand\draw [dashed] plot [smooth cycle] coordinates { \the\tv@points} ;%
+  }%
+  \next
+}
+
+\newcommand{\tv@vpoint}[4][] {
+\node[dot, #1, label={center: {#4}}] at (\tv@V({#2},{#3})) (\detokenize{#4}) {};
+}
+
+\newcommand{\tv@vowelarrow}[3][] {
+  \draw[-latex, shorten >= 2pt, line width=.75pt, #1] (#2) -- (#3) node[midway,sloped, above] {};
+}
+
+\newenvironment{vowel}[1][]
+{\let\vpoint\tv@vpoint\let\vblob\tv@vowelblob\let\varrow\tv@vowelarrow
+  \begin{tikzpicture}[#1,scale=1.6]
+    \tikzset{
+      dot/.style={circle,fill=\thepagecolor,minimum size=2.5ex,inner sep=0pt,outer sep=0pt},
+    }
+
+	\coordinate (hf) at (0,3); % the high front vertex
+	\coordinate (hb) at (4,3); % the high back vertex
+	\coordinate (lb) at (4,0); % the low back vertex
+	\coordinate (lf) at (2,0); % the low front vertex
+
+    % Draw the horizontal lines first.
+    \draw (\tv@V(0,0)) -- (\tv@V(0,2));
+    \draw (\tv@V(1,0)) -- (\tv@V(1,2));
+    \draw (\tv@V(2,0)) -- (\tv@V(2,2));
+    \draw (\tv@V(3,0)) -- (\tv@V(3,2));
+
+    % Draw the vertical lines.
+    \draw (\tv@V(0,0)) -- (\tv@V(3,0));
+    \draw (\tv@V(0,1)) -- (\tv@V(3,1));
+    \draw (\tv@V(0,2)) -- (\tv@V(3,2));
+    }
+    {
+  \end{tikzpicture}
+}
+
+
+%-------------------------------------
+%   INSERT THE FOLLOWING PARAMETERS & COMMANDS
+%   
+%   \linecolor{} (for the lines of the chart)
+%   \arrowcolor{} (for the arrows)
+%   \curvedvarrow (for when arrows line up too closely with the chart's lines)
+%   \hlvpoint (for using the highlight colour (purple) for specific vpoints)
+%   \vpairpoint (for putting 2 vowels around the same point)
+%
+%--------------------------------
