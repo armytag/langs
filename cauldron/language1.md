@@ -98,15 +98,15 @@ Stress always falls on second syllable of word
 - Plural pronouns also take the pluralizing particle/affix
 - Idefinite pronouns ("someone", "something") derived from interrogatives
 
-| PRONOUNS | NOM      | Clitic | ACC      | Affix  | GEN    |
+| PRONOUNS | NOM      | Affix  | OBL      | Clitic | GEN    |
 |---       |---       |---     |---       |---     |---     |
-| 1SG      | hnja     | =nji   | hnja     | -njar  | hnjanj |
-| 1PL.INC  | tu tyan  | =ti    | re tyan  | -na    | tenj   |
-| 1PL.EXC  | xa tyan  | =ki    | gya tyan | -ga    | bya    |
-| 2SG      | fe       | =pe    | pwax     | -pwa   | pix    |
-| 2PL      | bwa tyan | =be    | bwa tyan | -ba    | bihl   |
-| 3SG      | bes      | =hla   | hmuhl    | -hma   | man    |
-| 3PL      | pu tyan  | =le    | pu tyan  | -le    | lam    |
+| 1SG      | hnja     | -nji   | hnja     | =njar  | hnjanj |
+| 1PL.INC  | tu tyan  | -ti    | re tyan  | =na    | tenj   |
+| 1PL.EXC  | xa tyan  | -ki    | gya tyan | =ga    | bya    |
+| 2SG      | fe       | -pe    | pwax     | =pwa   | pix    |
+| 2PL      | bwa tyan | -be    | bwa tyan | =ba    | bihl   |
+| 3SG      | bes      | -hla   | hmuhl    | =hma   | man    |
+| 3PL      | pu tyan  | -le    | pu tyan  | =le    | lam    |
 
 ### Verbs
 
