@@ -39,7 +39,11 @@ Insert an introduction here. 250-800 characters, including spaces.
 
 \section*{Personal disagreement} % * for unnumbered section
 
-\lipsum[4]
+With features randomized for most of the WALS chapters, there was a surprising level of consistency across the features.  Tamgwa is shaping up to be an analytic language with very little inflectional morphology. However, there's a glaring contradiction among these features: verbs have "little to no inflectional morphology" (chapter 26) but verbs also have "person marking of both A and P arguments" (chapter 102), in other words polypersonal agreement.  The definition for minimal inflection in Chapter 26 is that verbs don't have an affix index above 2, with person marking for A adding 2 points and person marking of P adding 1 point to the affix index.  If we marked both A and P with simple affixes, the affix index would be 3 and thus violate this feature.
+
+A simple solution might be to throw out one or the other of these features and either randomly generate a new value or simply choose one myself.  However, there are some details in the WALS definitions that can also help us resolve this contradiction.  In Chapter 26, Prefixing vs Suffixing in Inflectional Morphology, the authors clarify that for verbal person markers they did not include clitics that can also attach to non-verbs as part of the affix index calculation.  On the other hand Chapter 102, Verbal Person Marking, does include clitics as part of the analysis as long as the clitics sometimes attach to the verb.  Therefore, if at least one of the person markers is a clitic then the affix index won't go above 2 and both of the features can be satisfied.
+
+In order to implement this in Tamgwa, it would be nice to have a example of how this works in real-world languages.  A quick internet search produced the paper \textit{The clitic status of person markers in Sorani Kurdish}(Gharib \& Pye 2023).\footnote{Gharib, H., \& Pye, C. (2023) The clitic status of person markers in Sorani Kurdish. Kansas Working Papers in Linguistics, 39, 57-65. https://doi.org/10.17161/1808.27692}  This paper goes into depth about person markers in the Sorani dialect of Kurdish, where one of the persons is marked by an affix on the verb and the other person is marked by a clitic on either the verb or a preceding adverb.  Whether the clitic is marking the agent (A) or the patient (P) of the action depends on whether it is using the Perfective or Imperfective aspect.
 
 \begin{examples}
     \ex
@@ -61,9 +65,7 @@ Insert an introduction here. 250-800 characters, including spaces.
     \source Gharib \& Pye 2023
 \end{examples}
 
-Note that Sorani Kurdish changes whether the agent (A) or patient (P) of the verb is marked with the oblique case depending on whether the verb is perfective or imperfective.  For our purposes, it is sufficient to see that examples (1) and (3) show the OBL.2SG clitic attaching to the aspect marker when it is present.  We can use the same system in Tamgwa to satisfy our conflicting features.
-
-(see Gharib \& Pye 2023)\footnote{Gharib, H., \& Pye, C. (2023) The clitic status of person markers in Sorani Kurdish. Kansas Working Papers in Linguistics, 39, 57-65. https://doi.org/10.17161/1808.27692}
+We can see that in Sorani the oblique clitic form is used to mark the patient of imperfective verbs and the agent of perfective verbs.  This is extremely interesting, but perhaps too much to consider at this early stage of Tamgwa.  For now we can keep things simple in Tamgwa and implement a basic clitic system that simply attaches to the first verb/adverb in the verb phrase regardless of aspect.  Thus for our purposes, it is sufficient to see that examples (1) and (3) show the OBL.2SG clitic attaching to the aspect marker if it is present, and the verb if not.  We can now implement this system in Tamgwa to satisfy our conflicting features.
 
 \begin{table}[H]
 	\centering
@@ -117,11 +119,7 @@ From this randomized starting point, we can look for patterns and rearrange the 
     \tr I see you.
 \end{examples}
 
-\section*{Resolving the tense situation} % * for unnumbered section
-
-\lipsum[6]
-
-\section*{Other randomization ideas} % * for unnumbered section
+\section*{More randomization ideas} % * for unnumbered section
 
 \lipsum[7]
 
