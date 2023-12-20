@@ -41,7 +41,7 @@ With features randomized for most of the WALS chapters, there was a surprising l
 
 A simple solution might be to throw out one or the other of these features and either randomly generate a new value or simply choose one myself.  However, there are some details in the WALS definitions that can also help us resolve this contradiction.  In Chapter 26, Prefixing vs Suffixing in Inflectional Morphology, the authors clarify that for verbal person markers they did not include clitics that can also attach to non-verbs as part of the affix index calculation.  On the other hand Chapter 102, Verbal Person Marking, does include clitics as part of the analysis as long as the clitics sometimes attach to the verb.  Therefore, if at least one of the person markers is a clitic then the affix index won't go above 2 and both of the features can be satisfied.
 
-In order to implement this in Tamgwa, it would be nice to have a example of how this works in real-world languages.  A quick internet search produced the paper \textit{The clitic status of person markers in Sorani Kurdish}(Gharib \& Pye 2023).\footnote{Gharib, H., \& Pye, C. (2023) The clitic status of person markers in Sorani Kurdish. Kansas Working Papers in Linguistics, 39, 57-65. https://doi.org/10.17161/1808.27692}  This paper goes into depth about person markers in the Sorani dialect of Kurdish, where one of the persons is marked by an affix on the verb and the other person is marked by a clitic on either the verb or a preceding adverb.  Whether the clitic is marking the agent (A) or the patient (P) of the action depends on whether it is using the Perfective or Imperfective aspect.
+In order to implement this in Tamgwa, it would be nice to have an example of how this works in real-world languages.  A quick internet search produced the paper \textit{The clitic status of person markers in Sorani Kurdish}(Gharib \& Pye 2023).\footnote{Gharib, H., \& Pye, C. (2023) The clitic status of person markers in Sorani Kurdish. Kansas Working Papers in Linguistics, 39, 57-65. https://doi.org/10.17161/1808.27692}  This paper goes into depth about person markers in the Sorani dialect of Kurdish, where one of the persons is marked by an affix on the verb and the other person is marked by a clitic on either the verb or a preceding adverb.  Whether the clitic is marking the agent (A) or the patient (P) of the action depends on whether it is using the Perfective or Imperfective aspect.
 
 \begin{examples}
     \ex
@@ -67,7 +67,21 @@ We can see that in Sorani the oblique clitic form is used to mark the patient of
 
 \section*{Selecting Sounds}
 
-\lipsum[4]
+\begin{itemize}
+    \item 26-33 consonants
+    \item 2-4 vowels
+    \item Velar nasal contrastive, and allowed word-initially
+
+I will be romanizing the IPA in the following way:
+
+\begin{itemize}
+    \item Labialized plosives written with following 'w', \textit{e.g.} /tw/ as <tw>
+    \item Palatalized plosives written with following 'y', \textit{e.g.} /pj/ as <py>
+    \item Velar nasals written with following 'j', \textit{e.g.} /nj/ as <nj>
+    \item Voiceless nasals written with preceding 'h', \textit{e.g.} /m/ as <hm>
+    \item Voiceless lateral fricative written as <hl>
+
+Thus, a words such as /hnjibwahl/ are written as <hnjibwahl>
 
 \lipsum[5]
 
