@@ -98,15 +98,15 @@ Stress always falls on second syllable of word
 - Plural pronouns also take the pluralizing particle/affix
 - Idefinite pronouns ("someone", "something") derived from interrogatives
 
-| PRONOUNS | NOM      | Clitic | ACC      | Affix  | GEN    |
+| PRONOUNS | NOM      | Affix  | OBL      | Clitic | GEN    |
 |---       |---       |---     |---       |---     |---     |
-| 1SG      | hnja     | =nji   | hnja     | -njar  | hnjanj |
-| 1PL.INC  | tu tyan  | =ti    | re tyan  | -na    | tenj   |
-| 1PL.EXC  | xa tyan  | =ki    | gya tyan | -ga    | bya    |
-| 2SG      | fe       | =pe    | pwax     | -pwa   | pix    |
-| 2PL      | bwa tyan | =be    | bwa tyan | -ba    | bihl   |
-| 3SG      | bes      | =hla   | hmuhl    | -hma   | man    |
-| 3PL      | pu tyan  | =le    | pu tyan  | -le    | lam    |
+| 1SG      | hnja     | -nji   | hnja     | =njar  | hnjanj |
+| 1PL.INC  | tu tyan  | -ti    | re tyan  | =na    | tenj   |
+| 1PL.EXC  | xa tyan  | -ki    | gya tyan | =ga    | bya    |
+| 2SG      | fe       | -pe    | pwax     | =pwa   | pix    |
+| 2PL      | bwa tyan | -be    | bwa tyan | =ba    | bihl   |
+| 3SG      | bes      | -hla   | hmuhl    | =hma   | man    |
+| 3PL      | pu tyan  | -le    | pu tyan  | =le    | lam    |
 
 ### Verbs
 
@@ -184,50 +184,50 @@ Possesives are marked by a specially inflected pronoun e.g. "John his book"
 ## Syntax Sentences
 
 ``````
-kepil kwa=hla       bwahlelel
-sun   REAL.IMPF=3SG shine
+kepil kwa       bwahlelel-hla
+sun   REAL.IMPF shine-3SG
 "The sun shines."
 ``````
 
 ``````
-kepil kwa=hla       sa  bwahlelel
-sun   REAL.IMPF=3SG REL shine
+kepil kwa       sa  bwahlelel-hla
+sun   REAL.IMPF REL shine-3SG
 "The sun is shining."
 ``````
 
 ``````
-kepil bwahlelel=hla
-sun   shine=3SG
+kepil bwahlelel-hla
+sun   shine-3SG
 "The sun shone."
 ``````
 
 ``````
-kepil pi=hla       bwahlelel
-sun   IRR.IMPF=3SG shine
+kepil pi       bwahlelel-hla
+sun   IRR.IMPF shine-3SG
 "The sun will shine."
 ``````
 
 ``````
-kepil kwa=hla       sa  bwahlelel
-sun   REAL.IMPF=3SG REL shine
+kepil kwa       sa  bwahlelel-hla
+sun   REAL.IMPF REL shine-3SG
 "The sun has been shining."
 ``````
 
 ``````
-xekupe kepil kwa=hla       sa  bwahlelel
-again  sun   REAL.IMPF=3SG REL shine
+xekupe kepil kwa       sa  bwahlelel-hla
+again  sun   REAL.IMPF REL shine-3SG
 "The sun is shining again."
 ``````
 
 ``````
-benji    kepil pi=hla       bwahlelel
-tomorrow sun   IRR.IMPF=3SG shine
+benji    kepil pi       bwahlelel-hla
+tomorrow sun   IRR.IMPF shine-3SG
 "The sun will shine tomorrow."
 ``````
 
 ``````
-kepil pi=hla        bwahlelel fabwa
-sun   REAL.IMPF=3SG shine     bright
+kepil pi        bwahlelel-hla fabwa
+sun   REAL.IMPF shine     bright-3SG
 "The sun shines brightly."
 ``````
 
