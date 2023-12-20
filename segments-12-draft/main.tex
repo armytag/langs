@@ -69,7 +69,27 @@ Note that Sorani Kurdish changes whether the agent (A) or patient (P) of the ver
 	\centering
 	\begin{tabu}{$>{\bfseries}l|^c^c^c^c^c}
 	\rowstyle{\bfseries}
-        & NOM & Affix & OBL & Clitic & GEN \\
+        & NOM & Affix & ACC & Clitic & GEN \\
+		\hline
+        1SG     & hnja      & ki    & gya       & hnja  & hma    \\
+        2SG     & lam       & man   & ba        & be    & pu     \\
+        3SG     & le        & na    & bwa       & nji   & pe     \\
+        1PL.INC & ga        & fe    & hmuhl     & pix   & re     \\
+        1PL.EXC & pwa       & tenj  & hla       & le    & pu     \\
+        2PL     & bihl      & tu    & bya       & bes   & hnjanj \\
+        3PL     & xa        & ti    & pawx      & njar  & bwa    \\
+	\end{tabu}
+	\caption{Random pronoun table}
+	\label{rand-pronoun}
+\end{table}
+
+From this randomized starting point, we can look for patterns and rearrange the table until we're satisfied.  Personally, I latched onto the two \textbf{hnja} in the 1SG row, so I moved all the words beginning with \textbf{hnj} or \textbf{nj} into that row.  This continued with other patters, such as voiceless labials for 2SG and closed syllables for GEN.  The final table is printed below, with obligatory plural marker \textbf{tyan} added to NOM and ACC columns.
+
+\begin{table}[H]
+	\centering
+	\begin{tabu}{$>{\bfseries}l|^c^c^c^c^c}
+	\rowstyle{\bfseries}
+        & NOM & Affix & ACC & Clitic & GEN \\
 		\hline
         1SG     & hnja      & -nji  & hnja      & =njar & hnjanj \\
         2SG     & fe        & -pe   & pawx      & =pwa  & pix    \\
@@ -79,9 +99,23 @@ Note that Sorani Kurdish changes whether the agent (A) or patient (P) of the ver
         2PL     & bwa tyan  & -be   & bwa tyan  & =ba   & bihl   \\
         3PL     & pu tyan   & -le   & pu tyan   & =le   & lam    \\
 	\end{tabu}
-	\caption{A single table}
-	\label{cons-inv}
+	\caption{Rearranged pronoun table}
+	\label{arr-pronoun}
 \end{table}
+
+\begin{examples}
+    \ex
+    \lect Tamgwa
+    \words \MC3 kyamunjipwa
+    \bits kyamu -nji =pwa
+    \gloss see 1SG.NOM 2SG.ACC
+    \tr I saw you.
+    \ex
+    \words \MC2 kwapwa \MC2 kyamunji
+    \bits kwa =pwa kyamu -nji
+    \gloss IPFV 2SG.ACC see 1SG.NOM
+    \tr I see you.
+\end{examples}
 
 \section*{Resolving the tense situation} % * for unnumbered section
 
