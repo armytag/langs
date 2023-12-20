@@ -65,27 +65,11 @@ In order to implement this in Tamgwa, it would be nice to have an example of how
 
 We can see that in Sorani the oblique clitic form is used to mark the patient of imperfective verbs and the agent of perfective verbs.  This is extremely interesting, but perhaps too much to consider at this early stage of Tamgwa.  For now we can keep things simple in Tamgwa and implement a basic clitic system that attaches to the first verb/adverb in the verb phrase regardless of aspect.  Thus for our purposes, it is sufficient to see that examples (1) and (3) show the OBL.2SG clitic attaching to the aspect marker if it is present, and the verb if not.  We can now implement this system in Tamgwa to satisfy our conflicting features.
 
-\section*{Selecting Sounds}
-
-\begin{itemize}
-    \item 26-33 consonants
-    \item 2-4 vowels
-    \item Velar nasal contrastive, and allowed word-initially
-
-I will be romanizing the IPA in the following way:
-
-\begin{itemize}
-    \item Labialized plosives written with following 'w', \textit{e.g.} /tw/ as <tw>
-    \item Palatalized plosives written with following 'y', \textit{e.g.} /pj/ as <py>
-    \item Velar nasals written with following 'j', \textit{e.g.} /nj/ as <nj>
-    \item Voiceless nasals written with preceding 'h', \textit{e.g.} /m/ as <hm>
-    \item Voiceless lateral fricative written as <hl>
-
-Thus, a words such as /hnjibwahl/ are written as <hnjibwahl>
-
-\lipsum[5]
-
 \section*{Producing Pronouns}
+
+Now that we have an idea of how verbal person marking will work in Tamgwa, we're ready to pick some pronouns and put the system to the test.  Of course this process will involve some randomization too!  There are plenty of ways to generate a list of words and syllables, such as the online tool Vulgarlang\footnote{https://www.vulgarlang.com}, but I've written a simple Python script that will give me a certain number of words based on the phonology and phonotactics of Tamgwa.
+
+Based on the features we generated at the beginning, Tamgwa will need indepent pronoun words with person-number stems including a clusivity distinction in 1PL pronouns.  Since we will be marking agent and patient on the verb, we may as well make separate nominative and accusative forms of the pronouns as well.  Finally, we will also indicate possession with a specially inflected pronoun, so we also need some kind of genetive form.  Altogether that makes 7 person-number combinations and 5 forms (3 cases, 1 affix, and 1 clitic form) for a total of 35 distinct "words".  After telling the Python script to generate 35 words we can put the results into a table to better visualize the pronouns we've just created.
 
 \begin{table}[H]
 	\centering
@@ -106,7 +90,7 @@ Thus, a words such as /hnjibwahl/ are written as <hnjibwahl>
 	\label{rand-pronoun}
 \end{table}
 
-From this randomized starting point, we can look for patterns and rearrange the table until we're satisfied.  Personally, I latched onto the two \textbf{hnja} in the 1SG row, so I moved all the words beginning with \textbf{hnj} or \textbf{nj} into that row.  This continued with other patters, such as voiceless labials for 2SG and closed syllables for GEN.  The final table is printed below, with obligatory plural marker \textbf{tyan} added to NOM and ACC columns.
+    This table is, obviously, totally random and nonsensical.  Keep in mind, though, that the randomization is merely meant to give us a starting point.  From here we can look for patterns and rearrange the table to fit it into something more reasonable.  Personally, I immediately latched onto the two \textbf{hnja} in the 1SG row and decided to move all the words beginning with \textbf{hnj} or \textbf{nj} into that row.  From there we continue forming other patters, such as voiceless labial onsets for 2SG and closed syllables for GEN.  The arrangement I finally settled on is printed below, with obligatory plural marker \textbf{tyan}\footnote{\textit{N.B.}\textbf{tyan} is an optional plural marker for all nouns, but is only obligatory for plural pronouns.  The feature was randomly generated for Chapter 35 of WALS.} added to NOM and ACC forms of plural pronouns.
 
 \begin{table}[H]
 	\centering
