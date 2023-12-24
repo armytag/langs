@@ -149,7 +149,9 @@ Based on the features we generated at the beginning, \textbf{Tamgwa} will need i
 
 \section*{Revealing Results}
 
-    Now that we have a full set of personal pronouns generated, we just need some preverbal tense-aspects words for the clitics to attach to, and then we'll be able to fully test our new syntax.  I've decided to have \textbf{Tamgwa} use the same set of aspect words as described in Timothy Ajani's 2001 paper.\footnote{Ajani, T. 2001. \textit{Aspect in Yoruba and Nigerian English}}  According to this analysis, we will need 4 aspect words marking Realis Imperfective, Irrealis Perfective, and Irrealis Imperfective, and Relational.  The Realis Perfective is unmarked and all thus assumed when none of these explicit aspect words occur.  Unlike when we generated the whole set of personal pronouns and reorganized them afterward, when I'm creating just a handful of words I like to generate 2-3 times the number of words I need and manually pick from the resulting list.  The results are listed in the table below.  
+    Now that we have a full set of personal pronouns generated, we just need some preverbal tense-aspects words for the clitics to attach to, and then we'll be able to fully test our new syntax.  I've decided to have \textbf{Tamgwa} use the same set of aspect words as described in Timothy Ajani's 2001 paper.\footnote{Ajani, T. 2001. \textit{Aspect in Yoruba and Nigerian English}}  According to this analysis, we will need 4 aspect words marking Realis Imperfective, Irrealis Perfective, and Irrealis Imperfective, and Relational aspects.  The Realis Perfective is unmarked and thus assumed when none of these explicit aspect words occur.  The aspect words can co-occur to create more nuanced aspectual distinctions, such as Realis Imperfective and Irrealis Imperfective together denoting a Habitual aspect.  For more details on how this works, please see Ajani's analysis on the original Yoruba system.
+
+    Unlike when we generated the whole set of personal pronouns and reorganized them afterward, when I'm creating just a handful of words I like to generate 2-3 times the number of words I need and manually pick from the resulting list.  The results are listed in the table below.  
 
 \begin{table}[H]
 	\centering
@@ -158,17 +160,17 @@ Based on the features we generated at the beginning, \textbf{Tamgwa} will need i
 	\rowstyle{\bfseries}
         Aspect & Word \\
 		\hline
-        REAL.PERF & <none> \\
-        REAL.IMPF & kwa    \\
-        IRRL.PERF & hna    \\
-        IRRL.IMPF & pi     \\
-        REL       & gya    \\
+        RLS.PFV  & <none> \\
+        RLS.IPFV & kwa    \\
+        IRR.PFV  & hna    \\
+        IRR.IPFV & pi     \\
+        REL      & gya    \\
 	\end{tabu}
 	\caption{Aspect words in Tamgwa}
 	\label{aspect-words}
 \end{table}
 
-With both the personal pronouns and aspect words 
+With both the personal pronouns and aspect words, we can finally test how the person-marking clitic interacts with the verbal aspect system.  We've decided that the clitics will attach at the end of the first word in the aspect-verb structure.  Below are some examples of what that looks like.
 
 \begin{examples}
     \ex
@@ -180,8 +182,18 @@ With both the personal pronouns and aspect words
     \ex
     \words \MC2 kwapwa \MC2 kyamunji
     \bits kwa =pwa kyamu -nji
-    \gloss IPFV 2SG.ACC see 1SG.NOM
+    \gloss RLS.IPFV 2SG.ACC see 1SG.NOM
     \tr I see you.
+    \ex
+    \words \MC2 pipwa \MC2 kyamunji
+    \bits pi =pwa kyamu -nji
+    \gloss IRR.IPFV 2SG.ACC see 1SG.NOM
+    \tr I will see you.
+    \ex
+    \words \MC2 pipwa kwa \MC2 kyamunji
+    \bits  pi =pwa kwa kyamu -nji
+    \gloss IRR.IPFV 2SG.ACC RLS.IPFV see 1SG.NOM
+    \tr I generally (habitually) see you.
 \end{examples}
 
 \lipsum[3]
