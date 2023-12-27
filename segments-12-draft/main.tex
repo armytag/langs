@@ -103,9 +103,9 @@
 
 \section*{Producing Pronouns}
 
-    Now that we have an idea of how verbal person marking will work in \textbf{Tamgwa}, we're ready to pick some pronouns and put the system to the test.  Of course this process will involve some randomization too!  There are plenty of ways to generate a list of words and syllables, such as the online tool Vulgarlang\footnote{https://www.vulgarlang.com}, but I've written a simple Python script that will give me a certain number of words based on the phonology and phonotactics of \textbf{Tamgwa}.
+    Based on the person-marking system outlined above, a full set of pronouns, affixes, and clitics can be generated.  It was previously determined that \textbf{Tamgwa} will need indepent pronoun words with person-number stems and a clusivity distinction in 1PL pronouns.  It will have nominative and accusative forms for the pronouns to match the A and P person-markers, and will also have a form to indicate possession; these will be called nominative, accusative, and genetive forms (although there is no case system for general nouns).  Altogether this entails 7 person-number combinations and 5 forms (3 cases, 1 affix, and 1 clitic form) for a total of 35 distinct "words".
 
-    Based on the features we generated at the beginning, \textbf{Tamgwa} will need indepent pronoun words with person-number stems including a clusivity distinction in 1PL pronouns.  Since we will be marking agent and patient on the verb, we may as well make separate nominative and accusative forms of the pronouns as well.  Finally, we will also indicate possession with a specially inflected pronoun, so we also need some kind of genetive form.  Altogether that makes 7 person-number combinations and 5 forms (3 cases, 1 affix, and 1 clitic form) for a total of 35 distinct "words".  After telling the Python script to generate 35 words we can put the results into a table to better visualize the pronouns we've just created.
+    There are plenty of ways to generate a list of words and syllables, such as the online tool Vulgarlang\footnote{https://www.vulgarlang.com}, but Tamgwa uses a Python script that is tailored to its phonology and phonotactics.  In this case the script generated 35 words that were randomly assigned to the different pronoun forms needed, which can be seen in the table below.
 
 \begin{table}[H]
 	\centering
@@ -126,7 +126,7 @@
 	\label{rand-pronoun}
 \end{table}
 
-    This table is, obviously, totally random and nonsensical.  Keep in mind, though, that the randomization is merely meant to give us a starting point.  From here we can look for patterns and rearrange the table to fit it into something more reasonable.  Personally, I immediately latched onto the two \textbf{hnja} in the 1SG row and decided to move all the words beginning with \textbf{hnj} or \textbf{nj} into that row.  From there we continue forming other patters, such as voiceless labial onsets for 2SG and closed syllables for GEN.  The arrangement I finally settled on is printed below, with obligatory plural marker \textbf{tyan}\footnote{\textit{N.B.}\textbf{tyan} is an optional plural marker for all nouns, but is only obligatory for plural pronouns.  The feature was randomly generated for Chapter 35 of WALS.} added to NOM and ACC forms of plural pronouns.
+    Although there are some similar (even identical) words in the table, there is no immediate pattern.  To add more consistency after the randomization, the words can be manually rearrange. For example, all of the words beginning with \textbf{hnj} or \textbf{nj} could be moved into the same row, or words with closed syllables could be moved to the GEN column.  The final rearranged table for Tamgwa is printed below, with obligatory plural marker \textbf{tyan}\footnote{\textit{N.B.}\textbf{tyan} is an optional plural marker for all nouns, but is only obligatory for plural pronouns.  The feature was randomly generated for Chapter 35 of WALS.} added to NOM and ACC forms of plural pronouns.
 
 \begin{table}[H]
 	\centering
