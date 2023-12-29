@@ -96,7 +96,7 @@
 
     Based on the person-marking system outlined above, a full set of pronouns, affixes, and clitics can be generated.  \textbf{Tamgwa} pronouns were randomized to use indepent words with person-number stems and a clusivity distinction in 1PL pronouns.  These will have nominative and accusative forms to match the separate A and P person-markers, as well as a form to indicate possession; the forms will be called nominative, accusative, and genetive forms respectively (although there is no case system for general nouns).  Altogether this entails 7 person-number combinations and 5 forms (3 cases, 1 affix, and 1 clitic form) for a total of 35 distinct "words".
 
-    There are plenty of ways to generate a list of words and syllables, such as the online tool Vulgarlang\footnote{https://www.vulgarlang.com}, but \textbf{Tamgwa} uses a Python script that is tailored to its phonology and phonotactics.  In this case the script generated 35 words that were randomly assigned to the different pronoun forms needed, which can be seen in the table below.
+    There are plenty of ways to generate a list of words and syllables, including digital tools such as Vulgarlang\footnote{https://www.vulgarlang.com}, but for \textbf{Tamgwa} I have created a Python script that is tailored to its phonology and phonotactics.  This script was used to generate 35 words that were randomly assigned to the different pronoun forms needed, as shown in the table below.
 
 \begin{table}[H]
 	\centering
@@ -117,7 +117,7 @@
 	\label{rand-pronoun}
 \end{table}
 
-    Although there are some similar (even identical) words in the table, there is no immediate pattern.  To add more consistency after the randomization, the words can be manually rearrange. For example, all of the words beginning with \textbf{hnj} or \textbf{nj} could be moved into the same row, or words with closed syllables could be moved to the GEN column.  The final rearranged table for \textbf{Tamgwa} is printed below, with obligatory plural marker \textbf{tyan}\footnote{\textit{N.B.}\textbf{tyan} is an optional plural marker for all nouns, but is only obligatory for plural pronouns.  The feature was randomly generated for Chapter 35 of WALS.} added to NOM and ACC forms of plural pronouns.
+    Although there are some similar (even identical) words in the table, there is no immediate pattern.  These words were manually rearranged after the randomization to add more consistency. For example, all of the words beginning with \textbf{hnj} or \textbf{nj} were moved into the same row, or words with closed syllables were moved to the GEN column.  The final rearranged table for \textbf{Tamgwa} is printed below, with obligatory plural marker \textbf{tyan}\footnote{\textit{N.B.}\textbf{tyan} is an optional plural marker for all nouns, but is obligatory for plural pronouns.  The feature was randomly generated for WALS chapter 35.} added to NOM and ACC forms of plural pronouns.
 
 \begin{table}[H]
 	\centering
@@ -140,9 +140,9 @@
 
 \section*{Revealing Results}
 
-    To fully illustrate \textbf{Tamgwa}'s new person-marking syntax there needs to be a set of preverbal tense-aspects words for the clitics to attach to.  Once again pulling from real-world examples, \textbf{Tamgwa} will mirror the same set of aspect words as described in Timothy Ajani's 2001 paper on Yoruba.\footnote{Ajani, T. 2001. \textit{Aspect in Yoruba and Nigerian English}}  According to this analysis, we will need 4 aspect words marking Realis Imperfective, Irrealis Perfective, and Irrealis Imperfective, and Relational aspects.  The Realis Perfective is unmarked and thus assumed when none of these explicit aspect words occur.  The aspect words can co-occur to create more nuanced aspectual distinctions, such as Realis Imperfective and Irrealis Imperfective together denoting a Habitual aspect.  For more details on this system, please refer to Ajani's paper.
+    In addition to these pronominal forms, a set of preverbal tense-aspects words are required for the clitics to attach to in order to fully illustrate \textbf{Tamgwa}'s new person-marking syntax.  Once again pulling from real-world examples, \textbf{Tamgwa} will mirror the set of aspect distinctions described in Timothy Ajani's 2001 paper on Yoruba.\footnote{Ajani, T. 2001. \textit{Aspect in Yoruba and Nigerian English}}  According to this analysis, we will need 4 aspect words marking Realis Imperfective, Irrealis Perfective, Irrealis Imperfective, and Relational aspects.  The Realis Perfective is unmarked and thus assumed when none of these separate aspect words occur.  The aspect words can also occur together to create more nuanced aspectual distinctions, such as Realis Imperfective and Irrealis Imperfective denoting a Habitual aspect when used together.  For more details on this system, please refer to Ajani's paper.
 
-    The same Python script can be used to generate these 4 aspect words.  However, because the number of words is relatively small, the script can be set to generate 2-3 times as many words and the final choices can be manually selected.  The results are listed in the table below.  
+    The same Python script used to generate the pronouns can be used to generate these 4 aspect words.  However, because the number of words is relatively small, the script can be set to generate 2-3 times as many words and the final choices can be manually selected.  The results are listed in the table below.  
 
 \begin{table}[H]
 	\centering
