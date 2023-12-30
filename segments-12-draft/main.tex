@@ -92,9 +92,67 @@
 
     In Sorani Kurdish the oblique clitic is used to mark the patient of imperfective verbs and the agent of perfective verbs.  \textbf{Tamgwa} can use a simpler system, where the clitic marks the same verbal argument and attaches to the first verb/adverb in the verb phrase regardless of aspect.  Thus for our purposes, it is sufficient to see that examples (1) and (3) show the OBL.2SG clitic attaching to the aspect marker if it is present, and the verb if it is not.
 
+\section*{Phonology}
+
+    Based on the person-marking system outlined above it is possible to start generating a full set of pronouns, affixes, and clitics, but first the phonology of \textbf{Tamgwa} must be established.  WALS has nineteen chapters dedicated to phonology, all of which have been randomized in \textbf{Tamgwa}.  Here are some of the more significant results:
+
+\begin{itemize}
+    \item Moderately large consonant inventory (26-33 consonants)
+    \item Small vowel inventory (2-4 vowels)
+    \item Voicing distinction in plosives but not fricatives
+    \item Missing some of /p t k b d g/ but not exactly /p/, /g/, or both
+    \item Has all common consonants (bilabials, fricatives, and nasals)
+    \item Has no uncommon consonants (clicks, labial-velars, pharyngeals, or 'th' sounds)
+    \item Has no uvulars
+    \item Has no glottals
+    \item Has lateral /l/ as well as obstruent laterals
+    \item Has velar nasal, including word-initially
+    \item No contrastive vowel nasalization
+    \item No front rounded vowels
+    \item Moderately complex syllable structure (up to CCVC)
+\end{itemize}
+
+    Although it would be feasible to further randomize the phonology by generating random phonemes until all the features are met, I preferred to choose the phonemes manually.  Given the large consonant inventory and small vowel inventory, I decided to take inspiration from the 2-vowel analysis of Mandarin phonology.  This means \textbf{Tamgwa} will have two underlying vowels /a/ and /ə/, but a set of labialized and palatalized consonants will trigger /ə/ to be realized as /u/ or /i/ respectively while losing their secondary articulation.  For examples the syllables /tʷə/ and /tʲə/ would become /tu/ and /ti/, but /ta/, /tʷa/, /tʲa/, and /tə/ would remain unchanged.  From here more consonants were added to fill out the rest of the consonant requirements, ultimately giving the table below.
+
+\begin{table}[H]
+	\centering
+	% \begin{tabu}{$>{\bfseries}l|^c^c^c}
+	\begin{tabu}{>{\bfseries}l|^c^c^c}
+	\rowstyle{\bfseries}
+        & Labial & Alveolar & Velar \\
+		\hline
+        Nassals              & m̥ m   & n̥ n & ŋ̊ ŋ   \\
+        Plosives             & p b   & t   & k g   \\
+        Labialized Plosives  & pʷ bʷ & tʷ  & kʷ gʷ \\
+        Palatalized Plosives & pʲ bʲ & tʲ  & kʲ gʲ \\
+        Fricatives           & f     & s   & x     \\
+        Trill                &       & r   &       \\
+        Laterals             &       & ɬ l &       \\
+	\end{tabu}
+	\caption{Consonants in Tamgwa}
+	\label{consonants}
+\end{table}
+
+    As for vowels, \textbf{Tamgwa} can be analyzed as having two underlying vowels or four surface vowels, but either analysis falls within the feature randomized before.  Here is a table with the four-vowel analysis.
+
+\begin{table}[H]
+	\centering
+	% \begin{tabu}{$>{\bfseries}l|^c^c^c}
+	\begin{tabu}{>{\bfseries}l|^c^c^c}
+	\rowstyle{\bfseries}
+        & Front & Central & Back \\
+		\hline
+        High & i &   & u \\
+        Mid  &   & ə &   \\
+        Low  &   & a &   \\
+	\end{tabu}
+	\caption{Vowels in Tamgwa}
+	\label{vowels}
+\end{table}
+
 \section*{Producing Pronouns}
 
-    Based on the person-marking system outlined above, a full set of pronouns, affixes, and clitics can be generated.  \textbf{Tamgwa} pronouns were randomized to use indepent words with person-number stems and a clusivity distinction in 1PL pronouns.  These will have nominative and accusative forms to match the separate A and P person-markers, as well as a form to indicate possession; the forms will be called nominative, accusative, and genetive forms respectively (although there is no case system for general nouns).  Altogether this entails 7 person-number combinations and 5 forms (3 cases, 1 affix, and 1 clitic form) for a total of 35 distinct "words".
+    The features for \textbf{Tamgwa} were randomized such that pronouns will use words with distinct person-number stems and a clusivity distinction in 1PL pronouns.  The pronouns will have nominative and accusative forms in line with the separate A and P person-markers, as well as a form to indicate possession; the forms will be called nominative, accusative, and genetive forms respectively (although there is no case system for general nouns).  Altogether this entails 7 person-number combinations and 5 forms (3 cases, 1 affix, and 1 clitic form) for a total of 35 distinct "words".
 
     There are plenty of ways to generate a list of words and syllables, including digital tools such as Vulgarlang\footnote{https://www.vulgarlang.com}, but for \textbf{Tamgwa} I have created a Python script that is tailored to its phonology and phonotactics.  This script was used to generate 35 words that were randomly assigned to the different pronoun forms needed, as shown in the table below.
 
