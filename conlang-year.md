@@ -10,6 +10,10 @@ Make a language for an ancient but technologically-sophisticated fictional socie
 
 Myself, and readers of possible stories involving the language.  MyConlang will be shared via written content, including poetry and stories.
 
+## Conworld
+
+Speakers are human on an Earth-like world. They live in a river valley among some mountains, not far from the sea.
+
 ## Phonology
 
 ### Consonants
