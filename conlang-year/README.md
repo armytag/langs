@@ -20,7 +20,7 @@ Speakers are human on an Earth-like world. They live in a river valley among som
 
 | CONSONANTS  | Bilabial | Alveolar | Velar |
 |---          |---       |---       |---    |
-| Nasal       | m        | n        | ŋ     |
+| Nasal       | m        | n        |       |
 | Plosive     | p        | t d      | k     |
 | Fricative   | ɸ        | s z      | x     |
 | Approximant | w        | r        |       |
