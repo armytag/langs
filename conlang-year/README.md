@@ -18,12 +18,13 @@ Speakers are human on an Earth-like world. They live in a river valley among som
 
 ### Consonants
 
-| CONSONANTS | Bilabial | Alveolar | Velar |
-|---         |---       |---       |---    |
-| Nasal      | m        | n        | ŋ     |
-| Plosive    | p        | t d      | k     |
-| Fricative  | ɸ        | s z      | x     |
-| Lateral    |          | l        |       |
+| CONSONANTS  | Bilabial | Alveolar | Velar |
+|---          |---       |---       |---    |
+| Nasal       | m        | n        | ŋ     |
+| Plosive     | p        | t d      | k     |
+| Fricative   | ɸ        | s z      | x     |
+| Approximant | w        | r        |       |
+| Lateral     |          | l        |       |
 
 ### Vowels
 
