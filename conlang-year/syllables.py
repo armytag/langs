@@ -37,6 +37,7 @@ def generate_syllable(onset_shape, coda_shape):
             [PLOSIVES, APPROXIMANTS],
             [PLOSIVES, FRICATIVES],
             [FRICATIVES, APPROXIMANTS],
+            [NASALS, APPROXIMANTS],
         ])
         for part in shape:
             onset += rand.choice(part)
@@ -48,6 +49,13 @@ def generate_syllable(onset_shape, coda_shape):
         coda = rand.choice(rand.choice([
             NASALS, FRICATIVES, APPROXIMANTS
         ]))
+    if coda == 'w':
+        if vowel == 'i':
+            vowel = 'o'
+            coda = 'j'
+        # if vowel == 'e':
+        #     vowel = 'ju'
+        #     coda = ''
     syll = onset + vowel + coda
     return syll
 
@@ -68,14 +76,15 @@ if __name__ == "__main__":
     # phonemes = NASALS # + FRICATIVES + PLOSIVES + APPROXIMANTS
     # print(phonemes)
     # print(generate_frequencies(phonemes))
-    word_count = 20
+    word_count = 50
     words = []
     for idx in range(word_count):
         syll_count = rand.choice(SYLL_COUNTS)
         word = ''
-        for idx in range(syll_count):
+        for idxx in range(syll_count):
             structure = rand.choice(SYLL_STRUCTS)
             syllable = get_syllable(structure)
             word += syllable
         words.append(word)
-        print(word)
+        if 'j' in word:
+            print(word)
