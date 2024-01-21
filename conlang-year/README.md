@@ -38,3 +38,59 @@ Speakers are human on an Earth-like world. They live in a river valley among som
 
 - Maximum CCVC
 - Onset clusters only stop-fricative, stop-approximant, nasal-approximant, or fricative-approximant
+
+## Lexicon
+
+### Body parts
+
+ko - head
+
+sɹiɸ - arm/hand
+
+liŋ - leɡ/foot
+
+tɹox - chest/torso
+
+lu - eye
+
+pa - mouth
+
+rol - hair
+
+ɸlex - back
+
+### Terrain
+
+kɸaɹ - river
+
+tɹel - stream/creek
+
+ɸi - lake/pond
+
+ŋɹal - mountain
+
+kɸe - valley
+
+sin - plain
+
+punoɹ - forest
+
+tlu - cave
+
+### Weather
+
+tlax - sun
+
+ɸɹiɹ - moon
+
+pusal - star
+
+kɹa - cloud/overcast
+
+xles - rain
+
+pen - wind
+
+tsiɹ - storm
+
+rixxo - earthquake

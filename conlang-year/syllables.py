@@ -17,16 +17,16 @@ VOWELS = [
     "i", "e", "a", "o", "u",
 ]
 SYLL_STRUCTS = []
-SYLL_STRUCTS += ['V'] * 0
+SYLL_STRUCTS += ['V'] * 2
 SYLL_STRUCTS += ['CV'] * 3
 SYLL_STRUCTS += ['CVC'] * 3
 SYLL_STRUCTS += ['CCV'] * 2
 SYLL_STRUCTS += ['CCVC'] * 2
 SYLL_COUNTS = []
-SYLL_COUNTS += [1] * 3
+SYLL_COUNTS += [1] * 1
 SYLL_COUNTS += [2] * 1
-SYLL_COUNTS += [3] * 0
-SYLL_COUNTS += [4] * 0
+SYLL_COUNTS += [3] * 1
+SYLL_COUNTS += [4] * 1
 
 def generate_syllable(onset_shape, coda_shape):
     onset = ''
@@ -69,7 +69,7 @@ if __name__ == "__main__":
     # phonemes = NASALS # + FRICATIVES + PLOSIVES + APPROXIMANTS
     # print(phonemes)
     # print(generate_frequencies(phonemes))
-    word_count = 16
+    word_count = 20
     words = []
     for idx in range(word_count):
         syll_count = rand.choice(SYLL_COUNTS)
