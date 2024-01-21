@@ -2,16 +2,16 @@ import math
 import random as rand
 
 NASALS = [
-    "m", "n"
+    "m", "n", "ŋ"
 ]
 PLOSIVES = [
-    "p", "t", "d", "k",
+    "p", "t", "k",
 ]
 FRICATIVES = [
-    "f", "s", "z", "x",
+    "ɸ", "s", "x",
 ]
 APPROXIMANTS = [
-    "w", "r", "l", 
+    "r", "l", 
 ]
 VOWELS = [
     "i", "e", "a", "o", "u",
@@ -36,6 +36,7 @@ def generate_syllable(onset_shape, coda_shape):
         shape = rand.choice([
             [PLOSIVES, APPROXIMANTS],
             [PLOSIVES, FRICATIVES],
+            [NASALS, APPROXIMANTS],
             [FRICATIVES, APPROXIMANTS],
         ])
         for part in shape:

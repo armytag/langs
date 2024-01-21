@@ -20,10 +20,10 @@ Speakers are human on an Earth-like world. They live in a river valley among som
 
 | CONSONANTS  | Bilabial | Alveolar | Velar |
 |---          |---       |---       |---    |
-| Nasal       | m        | n        |       |
-| Plosive     | p        | t d      | k     |
-| Fricative   | ɸ        | s z      | x     |
-| Approximant | w        | r        |       |
+| Nasal       | m        | n        | ŋ     |
+| Plosive     | p        | t        | k     |
+| Fricative   | ɸ        | s        | x     |
+| Approximant |          | r        |       |
 | Lateral     |          | l        |       |
 
 ### Vowels
@@ -33,3 +33,8 @@ Speakers are human on an Earth-like world. They live in a river valley among som
 | Close  | i     |        | u    |
 | Mid    | e     |        | o    |
 | Open   |       | a      |      |
+
+### Syllables
+
+- Maximum CCVC
+- Onset clusters only stop-fricative, stop-approximant, nasal-approximant, or fricative-approximant
