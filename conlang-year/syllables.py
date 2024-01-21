@@ -17,16 +17,16 @@ VOWELS = [
     "i", "e", "a", "o", "u",
 ]
 SYLL_STRUCTS = []
-SYLL_STRUCTS += ['V'] * 2
+SYLL_STRUCTS += ['V'] * 0
 SYLL_STRUCTS += ['CV'] * 3
 SYLL_STRUCTS += ['CVC'] * 3
 SYLL_STRUCTS += ['CCV'] * 2
 SYLL_STRUCTS += ['CCVC'] * 2
 SYLL_COUNTS = []
-SYLL_COUNTS += [1] * 1
+SYLL_COUNTS += [1] * 3
 SYLL_COUNTS += [2] * 1
-SYLL_COUNTS += [3] * 1
-SYLL_COUNTS += [4] * 1
+SYLL_COUNTS += [3] * 0
+SYLL_COUNTS += [4] * 0
 
 def generate_syllable(onset_shape, coda_shape):
     onset = ''
@@ -34,11 +34,10 @@ def generate_syllable(onset_shape, coda_shape):
     coda = ''
     if len(onset_shape) == 2:
         shape = rand.choice([
-            [PLOSIVES, APPROXIMANTS],
             [PLOSIVES, FRICATIVES],
+            [PLOSIVES, APPROXIMANTS],
             [NASALS, APPROXIMANTS],
             [FRICATIVES, APPROXIMANTS],
-            [NASALS, APPROXIMANTS],
         ])
         for part in shape:
             onset += rand.choice(part)
@@ -50,13 +49,6 @@ def generate_syllable(onset_shape, coda_shape):
         coda = rand.choice(rand.choice([
             NASALS, FRICATIVES, APPROXIMANTS
         ]))
-    if coda == 'w':
-        if vowel == 'i':
-            vowel = 'o'
-            coda = 'j'
-        # if vowel == 'e':
-        #     vowel = 'ju'
-        #     coda = ''
     syll = onset + vowel + coda
     return syll
 
@@ -77,15 +69,14 @@ if __name__ == "__main__":
     # phonemes = NASALS # + FRICATIVES + PLOSIVES + APPROXIMANTS
     # print(phonemes)
     # print(generate_frequencies(phonemes))
-    word_count = 50
+    word_count = 16
     words = []
     for idx in range(word_count):
         syll_count = rand.choice(SYLL_COUNTS)
         word = ''
-        for idxx in range(syll_count):
+        for idx2 in range(syll_count):
             structure = rand.choice(SYLL_STRUCTS)
             syllable = get_syllable(structure)
             word += syllable
         words.append(word)
-        if 'j' in word:
-            print(word)
+        print(word)
