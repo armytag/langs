@@ -11,22 +11,22 @@ FRICATIVES = [
     "ɸ", "s", "x",
 ]
 APPROXIMANTS = [
-    "r", "l", 
+    "ɹ", "l", 
 ]
 VOWELS = [
     "i", "e", "a", "o", "u",
 ]
 SYLL_STRUCTS = []
 SYLL_STRUCTS += ['V'] * 2
-SYLL_STRUCTS += ['CV'] * 3
-SYLL_STRUCTS += ['CVC'] * 3
+SYLL_STRUCTS += ['CV'] * 2
+SYLL_STRUCTS += ['CVC'] * 2
 SYLL_STRUCTS += ['CCV'] * 2
 SYLL_STRUCTS += ['CCVC'] * 2
 SYLL_COUNTS = []
-SYLL_COUNTS += [1] * 1
+SYLL_COUNTS += [1] * 2
 SYLL_COUNTS += [2] * 1
-SYLL_COUNTS += [3] * 1
-SYLL_COUNTS += [4] * 1
+SYLL_COUNTS += [3] * 0
+SYLL_COUNTS += [4] * 0
 
 def generate_syllable(onset_shape, coda_shape):
     onset = ''
@@ -69,14 +69,18 @@ if __name__ == "__main__":
     # phonemes = NASALS # + FRICATIVES + PLOSIVES + APPROXIMANTS
     # print(phonemes)
     # print(generate_frequencies(phonemes))
-    word_count = 20
+    word_count = 8 * 7
     words = []
-    for idx in range(word_count):
+    # for idx in range(word_count):
+    idx = 0
+    while idx < word_count:
         syll_count = rand.choice(SYLL_COUNTS)
         word = ''
         for idx2 in range(syll_count):
             structure = rand.choice(SYLL_STRUCTS)
             syllable = get_syllable(structure)
             word += syllable
-        words.append(word)
-        print(word)
+        if len(word) > 1 and word not in words:
+            words.append(word)
+            print(word)
+            idx += 1

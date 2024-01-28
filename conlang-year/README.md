@@ -23,7 +23,7 @@ Speakers are human on an Earth-like world. They live in a river valley among som
 | Nasal       | m        | n        | ŋ     |
 | Plosive     | p        | t        | k     |
 | Fricative   | ɸ        | s        | x     |
-| Approximant |          | r        |       |
+| Approximant |          | ɹ        |       |
 | Lateral     |          | l        |       |
 
 ### Vowels
@@ -43,54 +43,77 @@ Speakers are human on an Earth-like world. They live in a river valley among som
 
 ### Body parts
 
-ko - head
-
-sɹiɸ - arm/hand
-
-liŋ - leɡ/foot
-
-tɹox - chest/torso
-
-lu - eye
-
-pa - mouth
-
-rol - hair
-
-ɸlex - back
+- *ses*
+- *pim*
+- *ɹiɹ*
+- *xleta*
+- *lostɹu*
+- *ŋiɸpɹaɹ*
+- *ŋlex*
+- *sikɸen*
 
 ### Terrain
 
-kɸaɹ - river
-
-tɹel - stream/creek
-
-ɸi - lake/pond
-
-ŋɹal - mountain
-
-kɸe - valley
-
-sin - plain
-
-punoɹ - forest
-
-tlu - cave
+- *xɹul*
+- *psiŋɹim*
+- *ɸɹu*
+- *ɹou*
+- *pɸi*
+- *mɹu*
+- *kɹaŋ*
+- *luŋe*
 
 ### Weather
 
-tlax - sun
+- *xɹelkax*
+- *ŋunɸɹa*
+- *kxo*
+- *nɹo*
+- *naxa*
+- *xla*
+- *sa*
+- *kɹi*
 
-ɸɹiɹ - moon
+### Flora
 
-pusal - star
+- *ɸi*
+- *so*
+- *ɸɹe*
+- *ɸɹuŋ*
+- *xix*
+- *moxoɹ*
+- *ŋu*
+- *tɹoɹ*
 
-kɹa - cloud/overcast
+### Fauna
 
-xles - rain
+- *tsokɹo*
+- *tee*
+- *nɹuɹxɹa*
+- *ɸe*
+- *pses*
+- *koɸ*
+- *po*
+- *ɹalu*
 
-pen - wind
+### Transitive Verbs
 
-tsiɹ - storm
+- *unil*
+- *tsolnɹe*
+- *nɹusŋo*
+- *mi*
+- *kxel*
+- *ulu*
+- *xiɹpɸoɸ*
+- *pe*
 
-rixxo - earthquake
+### Intransitive Verbs
+
+- *kɹun*
+- *tlu*
+- *moɹ*
+- *mɹoɹ*
+- *xi*
+- *nosɹaɸ*
+- *sɹo*
+- *mlu*
