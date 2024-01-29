@@ -43,91 +43,91 @@ Speakers are human on an Earth-like world. They live in a river valley among som
 
 ### Body parts
 
-- *lilun*
-- *xix*
-- *ɹini*
-- *sin*
-- *ɸunɸloɹ*
-- *ŋlotɹiɹ*
-- *ɸa*
-- *ɸi*
-- *ɸɹe*
-- *tlix*
+- *lilun* - head
+- *xix* - eye
+- *ɹini* - mouth
+- *sin* - ear
+- *ɸunɸloɹ* - arm
+- *ŋlotɹiɹ* - leg
+- *ɸa* - hand
+- *ɸi* - stomach
+- *ɸɹe* - chest
+- *tlix* - back
 
 ### Terrain
 
-- *keɹ*
-- *nu*
-- *ɸene*
-- *pɸekal*
-- *plol*
-- *kɹolksel*
-- *mlu*
-- *ɹes*
-- *iŋin*
-- *akɸim*
+- *keɹ* - river
+- *nu* - ocean
+- *ɸene* - bay
+- *pɸekal* - island
+- *plol* - mountain
+- *kɹolksel* - cave
+- *mlu* - monolith
+- *ɹes* - hill
+- *iŋin* - meadow
+- *akɸim* - beach
 
 ### Weather
 
-- *psil*
-- *na*
-- *uɸuɹ*
-- *ŋɹaɹa*
-- *ŋi*
-- *lix*
-- *ɸɹu*
+- *psil* - rain
+- *ŋɹaɹa* - lightning
+- *uɸuɹ* - storm
+- *na* - sun
+- *ŋi* - moon
+- *lix* - star
+- *ɸɹu* - cloud
 - *ɸo*
 - *tu*
 - *mli*
 
 ### Flora
 
-- *tɸeu*
-- *xɹa*
-- *pel*
-- *ŋes*
-- *nasu*
-- *sla*
-- *kemɸɹe*
-- *mil*
-- *kɸeɹsɹa*
-- *ɸilksu*
+- *tɸeu* - root vegetable
+- *xɹa* - cereal
+- *pel* - nut
+- *ŋes* - fruit
+- *nasu* - bamboo
+- *sla* - tree
+- *kemɸɹe* - leaf
+- *mil* - medicinal plant
+- *kɸeɹsɹa* - poisonous plant
+- *ɸilksu* - irritating plant
 
 ### Fauna
 
-- *nɹi*
-- *ŋu*
-- *ɸe*
-- *ali*
-- *muo*
-- *txusa*
-- *ɹiso*
-- *iu*
-- *soɹ*
-- *txa*
+- *nɹi* - primate
+- *ŋu* - large cat
+- *ɸe* - large bird
+- *ali* - cattle
+- *muo* - sheep
+- *txusa* - small bird
+- *ɹiso* - fish
+- *iu* - biting insect
+- *soɹ* - annoying (harmless insect)
+- *txa* - leech
 
 ### Transitive Verbs
 
-- *liɹ*
-- *ŋen*
-- *nili*
-- *ŋɹol*
-- *piɹ*
-- *loŋ*
-- *ɸu*
-- *kɹa*
-- *mo*
-- *nɹiɹ*
+- *liɹ* - hunt
+- *ŋen* - gather
+- *nili* - hold / pick up
+- *ŋɹol* - wash
+- *piɹ* - roast
+- *loŋ* - grind
+- *ɸu* - bake
+- *kɹa* - bite
+- *mo* - weave
+- *nɹiɹ* - tie
 
 ### Intransitive Verbs
 
-- *aɹaŋ*
-- *moke*
-- *ɸuŋ*
-- *nɹoɸ*
-- *le*
-- *ta*
-- *kxul*
-- *kuŋse*
-- *pas*
-- *ŋle*
+- *aɹaŋ* - walk
+- *moke* - run
+- *ɸuŋ* - swim
+- *nɹoɸ* - fly
+- *le* - sit
+- *ta* - stand
+- *kxul* - lie
+- *kuŋse* - sleep
+- *pas* - talk
+- *ŋle* - breathe
