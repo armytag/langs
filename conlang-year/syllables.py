@@ -23,7 +23,7 @@ SYLL_STRUCTS += ['CVC'] * 2
 SYLL_STRUCTS += ['CCV'] * 2
 SYLL_STRUCTS += ['CCVC'] * 2
 SYLL_COUNTS = []
-SYLL_COUNTS += [1] * 2
+SYLL_COUNTS += [1] * 3
 SYLL_COUNTS += [2] * 1
 SYLL_COUNTS += [3] * 0
 SYLL_COUNTS += [4] * 0
@@ -69,7 +69,7 @@ if __name__ == "__main__":
     # phonemes = NASALS # + FRICATIVES + PLOSIVES + APPROXIMANTS
     # print(phonemes)
     # print(generate_frequencies(phonemes))
-    word_count = 8 * 7
+    word_count = 10 * 7
     words = []
     # for idx in range(word_count):
     idx = 0

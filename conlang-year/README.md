@@ -43,77 +43,91 @@ Speakers are human on an Earth-like world. They live in a river valley among som
 
 ### Body parts
 
-- *ses*
-- *pim*
-- *ɹiɹ*
-- *xleta*
-- *lostɹu*
-- *ŋiɸpɹaɹ*
-- *ŋlex*
-- *sikɸen*
+- *lilun*
+- *xix*
+- *ɹini*
+- *sin*
+- *ɸunɸloɹ*
+- *ŋlotɹiɹ*
+- *ɸa*
+- *ɸi*
+- *ɸɹe*
+- *tlix*
 
 ### Terrain
 
-- *xɹul*
-- *psiŋɹim*
-- *ɸɹu*
-- *ɹou*
-- *pɸi*
-- *mɹu*
-- *kɹaŋ*
-- *luŋe*
+- *keɹ*
+- *nu*
+- *ɸene*
+- *pɸekal*
+- *plol*
+- *kɹolksel*
+- *mlu*
+- *ɹes*
+- *iŋin*
+- *akɸim*
 
 ### Weather
 
-- *xɹelkax*
-- *ŋunɸɹa*
-- *kxo*
-- *nɹo*
-- *naxa*
-- *xla*
-- *sa*
-- *kɹi*
+- *psil*
+- *na*
+- *uɸuɹ*
+- *ŋɹaɹa*
+- *ŋi*
+- *lix*
+- *ɸɹu*
+- *ɸo*
+- *tu*
+- *mli*
 
 ### Flora
 
-- *ɸi*
-- *so*
-- *ɸɹe*
-- *ɸɹuŋ*
-- *xix*
-- *moxoɹ*
-- *ŋu*
-- *tɹoɹ*
+- *tɸeu*
+- *xɹa*
+- *pel*
+- *ŋes*
+- *nasu*
+- *sla*
+- *kemɸɹe*
+- *mil*
+- *kɸeɹsɹa*
+- *ɸilksu*
 
 ### Fauna
 
-- *tsokɹo*
-- *tee*
-- *nɹuɹxɹa*
+- *nɹi*
+- *ŋu*
 - *ɸe*
-- *pses*
-- *koɸ*
-- *po*
-- *ɹalu*
+- *ali*
+- *muo*
+- *txusa*
+- *ɹiso*
+- *iu*
+- *soɹ*
+- *txa*
 
 ### Transitive Verbs
 
-- *unil*
-- *tsolnɹe*
-- *nɹusŋo*
-- *mi*
-- *kxel*
-- *ulu*
-- *xiɹpɸoɸ*
-- *pe*
+- *liɹ*
+- *ŋen*
+- *nili*
+- *ŋɹol*
+- *piɹ*
+- *loŋ*
+- *ɸu*
+- *kɹa*
+- *mo*
+- *nɹiɹ*
 
 ### Intransitive Verbs
 
-- *kɹun*
-- *tlu*
-- *moɹ*
-- *mɹoɹ*
-- *xi*
-- *nosɹaɸ*
-- *sɹo*
-- *mlu*
+- *aɹaŋ*
+- *moke*
+- *ɸuŋ*
+- *nɹoɸ*
+- *le*
+- *ta*
+- *kxul*
+- *kuŋse*
+- *pas*
+- *ŋle*
