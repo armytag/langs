@@ -76,9 +76,9 @@ Speakers are human on an Earth-like world. They live in a river valley among som
 - *ŋi* - moon
 - *lix* - star
 - *ɸɹu* - cloud
-- *ɸo*
-- *tu*
-- *mli*
+- *ɸo* - flood
+- *tu* - tide
+- *mli* - wind
 
 ### Flora
 
@@ -125,9 +125,9 @@ Speakers are human on an Earth-like world. They live in a river valley among som
 - *moke* - run
 - *ɸuŋ* - swim
 - *nɹoɸ* - fly
-- *le* - sit
+- *le* - sit / lie
 - *ta* - stand
-- *kxul* - lie
+- *kxul* - eat
 - *kuŋse* - sleep
 - *pas* - talk
 - *ŋle* - breathe
