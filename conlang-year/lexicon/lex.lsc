@@ -1,0 +1,38 @@
+Feature low, high, front, back
+Feature type(*cons, vowel)
+Feature voicing(unvoiced, voiced)
+Feature place(labial, alveolar, velar)
+Feature manner(stop, fricative, nasal, approximant)
+Feature +lateral
+Symbol a [+low -high -front -back vowel]
+Symbol e [-low -high +front -back vowel]
+Symbol i [-low +high +front -back vowel]
+Symbol o [-low -high -front +back vowel]
+Symbol u [-low +high -front +back vowel]
+Symbol p [unvoiced labial stop]
+Symbol t [unvoiced alveolar stop]
+Symbol k [unvoiced velar stop]
+Symbol b [voiced labial stop]
+Symbol d [voiced alveolar stop]
+Symbol ɡ [voiced velar stop]
+Symbol ɸ [unvoiced labial fricative]
+Symbol s [unvoiced alveolar fricative]
+Symbol x [unvoiced velar fricative]
+Symbol β [voiced labial fricative]
+Symbol z [voiced alveolar fricative]
+Symbol ɣ [voiced velar fricative]
+Symbol m [labial nasal]
+Symbol n [alveolar nasal]
+Symbol ŋ [velar nasal]
+Symbol w [voiced labial approximant]
+Symbol ɹ [voiced alveolar approximant]
+Symbol l [voiced alveolar approximant +lateral]
+
+velar-nasal-fortition:
+ŋ => ɡ // [vowel] _
+
+intervocalic-voicing:
+[unvoiced stop] => [voiced] / [vowel] _ [vowel]
+
+# lateralization:
+# [approximant -lateral] => [+lateral]
