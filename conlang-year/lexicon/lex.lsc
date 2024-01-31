@@ -1,7 +1,7 @@
 Feature low, high, front, back
 Feature type(*cons, vowel)
 Feature voicing(unvoiced, voiced)
-Feature place(labial, alveolar, velar)
+Feature place(labial, alveolar, retroflex, palatal, velar, glottal)
 Feature manner(stop, fricative, nasal, approximant)
 Feature +lateral
 Symbol a [+low -high -front -back vowel]
@@ -24,9 +24,14 @@ Symbol ɣ [voiced velar fricative]
 Symbol m [labial nasal]
 Symbol n [alveolar nasal]
 Symbol ŋ [velar nasal]
-Symbol w [voiced labial approximant]
-Symbol ɹ [voiced alveolar approximant]
-Symbol l [voiced alveolar approximant +lateral]
+Symbol w [labial approximant]
+Symbol ɹ [alveolar approximant]
+Symbol l [alveolar approximant +lateral]
+Symbol ɬ [unvoiced alveolar fricative +lateral]
+Symbol j [palatal approximant]
+Symbol ʂ [unvoiced retroflex fricative]
+Symbol ʐ [voiced retroflex fricative]
+Symbol h [unvoiced glottal fricative]
 
 velar-nasal-fortition:
 ŋ => ɡ // [vowel] _
@@ -34,5 +39,37 @@ velar-nasal-fortition:
 intervocalic-voicing:
 [unvoiced stop] => [voiced] / [vowel] _ [vowel]
 
-# lateralization:
-# [approximant -lateral] => [+lateral]
+retroflex-mutation:
+{s, t} => {ʂ, tʂ} / _ ɹ
+
+fricative-vocalization:
+{ɸ, s, x} => {β, z, ɣ} / $ _
+
+s-reduction:
+s => h
+
+lateral-mutation:
+t l => tɬ
+h l => ɬ
+
+nasal-deletion:
+[nasal] => * / _ [+lateral]
+
+labial-fricative-reduction:
+ɸ => w / [stop] _
+ɸ => * / _ [vowel]
+
+lateral-fortification:
+l => n / $ _ [vowel] [nasal]
+Else:
+l => d / $ _ [vowel] [cons]
+
+velar-fricative-reduction:
+x => j / [cons] _ [vowel]
+
+rhotic-fricativation:
+ɹ => ʐ / {$, [cons !fricative]} _ [vowel]
+
+vowel-epenthesis:
+* => j / i _ [vowel]
+* => w / u _ [vowel]
