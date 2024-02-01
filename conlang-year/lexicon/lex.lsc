@@ -1,3 +1,6 @@
+# For combining two files together
+# pr -tmJS proto.wli proto-rand.wli > proto-compound.wli
+
 Feature low, high, front, back
 Feature type(*cons, vowel)
 Feature voicing(unvoiced, voiced)
@@ -5,6 +8,8 @@ Feature place(labial, alveolar, postalveolar, retroflex, palatal, velar, glottal
 Feature manner(stop, fricative, affricate, nasal, approximant)
 Feature +lateral
 Feature (syllable) +stress, (syllable) +heavy
+Feature +nasal
+Diacritic ̃ (floating) [+nasal]
 Diacritic ' (before) [+stress]
 Diacritic " (floating) [+heavy]
 Symbol a [+low -high -front -back vowel]
@@ -69,17 +74,16 @@ lateral-mutation:
 {s l, t l} => {ɬ, tɬ} / _ [vowel]
 {s, t} => {ʃ, tʃ} / _ ɹ i
 
+nasalization:
+[vowel] => [+nasal] / _ [nasal]
+
 nasal-deletion:
 [nasal] => * / _ [+lateral]
+n => * / _ ɹ
 
 intervocalic-epenthesis:
 * => j / i _ [vowel]
 * => w / u _ [vowel]
-
-lateral-fortification:
-l => n / $ _ [vowel] [nasal]
-Else:
-l => d / $ _ [vowel] [cons]
 
 vowel-lowering:
 {a, e, i, o, u} => {ə, a, e, a, o} / _ [cons] a
