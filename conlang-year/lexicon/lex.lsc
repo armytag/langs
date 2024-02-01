@@ -1,7 +1,7 @@
 Feature low, high, front, back
 Feature type(*cons, vowel)
 Feature voicing(unvoiced, voiced)
-Feature place(labial, alveolar, retroflex, palatal, velar, glottal)
+Feature place(labial, alveolar, postalveolar, retroflex, palatal, velar, glottal)
 Feature manner(stop, fricative, affricate, nasal, approximant)
 Feature +lateral
 Feature (syllable) +stress, (syllable) +heavy
@@ -33,6 +33,10 @@ Symbol ɹ [alveolar approximant]
 Symbol l [alveolar approximant +lateral]
 Symbol ɬ [unvoiced alveolar fricative +lateral]
 Symbol j [palatal approximant]
+Symbol ʃ [unvoiced postalveolar fricative]
+Symbol ʒ [voiced postalveolar fricative]
+Symbol tʃ [unvoiced postalveolar affricate]
+Symbol dʒ [voiced postalveolar affricate]
 Symbol ʂ [unvoiced retroflex fricative]
 Symbol ʐ [voiced retroflex fricative]
 Symbol h [unvoiced glottal fricative]
@@ -62,8 +66,8 @@ intervocalic-voicing:
 [unvoiced stop] => [voiced] / [vowel] _ [vowel]
 
 lateral-mutation:
-t l => tɬ
-s l => ɬ
+{s l, t l} => {ɬ, tɬ} / _ [vowel]
+{s, t} => {ʃ, tʃ} / _ ɹ i
 
 nasal-deletion:
 [nasal] => * / _ [+lateral]
