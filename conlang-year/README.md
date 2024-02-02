@@ -131,3 +131,16 @@ Speakers are human on an Earth-like world. They live in a river valley among som
 - *kuŋse* - sleep
 - *pas* - talk
 - *ŋle* - breathe
+
+### Animate Nouns
+
+- *enɹuɹ* - 
+- *lula* - 
+- *xa* - 
+- *pɹe* - 
+- *tɹaŋlaŋ* - 
+- *ŋo* - 
+- *ɸɹul* - 
+- *lilŋaɹ* - 
+- *la* - 
+- *sliloɹ* - 

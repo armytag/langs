@@ -69,7 +69,7 @@ if __name__ == "__main__":
     # phonemes = NASALS # + FRICATIVES + PLOSIVES + APPROXIMANTS
     # print(phonemes)
     # print(generate_frequencies(phonemes))
-    word_count = 10 * 7
+    word_count = 10 * 2
     words = []
     # for idx in range(word_count):
     idx = 0
