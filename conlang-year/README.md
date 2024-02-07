@@ -134,13 +134,13 @@ Speakers are human on an Earth-like world. They live in a river valley among som
 
 ### Animate Nouns
 
-- *enɹuɹ* - 
-- *lula* - 
-- *xa* - 
-- *pɹe* - 
-- *tɹaŋlaŋ* - 
-- *ŋo* - 
-- *ɸɹul* - 
-- *lilŋaɹ* - 
+- *enɹuɹ* - dog
+- *lula* - chicken
+- *xa* - reptile
+- *pɹe* - rabbit
+- *tɹaŋlaŋ* - child
+- *ŋo* - person/human
+- *ɸɹul* - fire
+- *lilŋaɹ* - fungus/mushroom
 - *la* - 
 - *sliloɹ* - 

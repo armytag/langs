@@ -1,0 +1,99 @@
+# For combining two files together
+# pr -tmJS proto.wli proto-rand.wli > proto-compound.wli
+
+Feature low, high, front, back
+Feature type(*cons, vowel)
+Feature voicing(unvoiced, voiced)
+Feature place(labial, alveolar, postalveolar, retroflex, palatal, velar, glottal)
+Feature manner(stop, fricative, affricate, nasal, approximant)
+Feature +lateral
+Feature (syllable) +stress, (syllable) +heavy
+Feature +nasal
+Diacritic ̃ (floating) [+nasal]
+Diacritic ' (before) [+stress]
+Diacritic " (floating) [+heavy]
+Symbol a [+low -high -front -back vowel]
+Symbol e [-low -high +front -back vowel]
+Symbol i [-low +high +front -back vowel]
+Symbol o [-low -high -front +back vowel]
+Symbol u [-low +high -front +back vowel]
+Symbol ə [-low -high -front -back vowel]
+Symbol p [unvoiced labial stop]
+Symbol t [unvoiced alveolar stop]
+Symbol k [unvoiced velar stop]
+Symbol b [voiced labial stop]
+Symbol d [voiced alveolar stop]
+Symbol ɡ [voiced velar stop]
+Symbol ɸ [unvoiced labial fricative]
+Symbol s [unvoiced alveolar fricative]
+Symbol x [unvoiced velar fricative]
+Symbol β [voiced labial fricative]
+Symbol z [voiced alveolar fricative]
+Symbol ɣ [voiced velar fricative]
+Symbol m [labial nasal]
+Symbol n [alveolar nasal]
+Symbol ŋ [velar nasal]
+Symbol w [labial approximant]
+Symbol ɹ [alveolar approximant]
+Symbol l [alveolar approximant +lateral]
+Symbol ɬ [unvoiced alveolar fricative +lateral]
+Symbol j [palatal approximant]
+Symbol ʃ [unvoiced postalveolar fricative]
+Symbol ʒ [voiced postalveolar fricative]
+Symbol tʃ [unvoiced postalveolar affricate]
+Symbol dʒ [voiced postalveolar affricate]
+Symbol ʂ [unvoiced retroflex fricative]
+Symbol ʐ [voiced retroflex fricative]
+Symbol h [unvoiced glottal fricative]
+# Symbol pɸ [unvoiced labial affricate]
+# Symbol ts [unvoiced alveolar affricate]
+# Symbol kx [unvoiced velar affricate]
+# Symbol bβ [voiced labial affricate]
+# Symbol dz [voiced alveolar affricate]
+# Symbol ɡɣ [voiced velar affricate]
+# Symbol tʂ [unvoiced retroflex affricate]
+# Symbol dʐ [voiced retroflex affricate]
+Symbol tɬ [unvoiced alveolar affricate +lateral]
+Syllables:
+{[cons !approximant]? [cons approximant]?, [cons stop] [cons fricative]}? [vowel] [cons !stop] => [+heavy]
+{[cons !approximant]? [cons approximant]?, [cons stop] [cons fricative]}? [vowel]
+
+assign-stress:
+<syl> => [+stress] / $ <syl>&[-heavy] _
+Else:
+<syl> => [+stress] / $ _
+
+velar-nasal-fortition:
+ŋ => ɡ // [vowel] _
+#ŋ&[-stress] => ɡ // [vowel] _
+
+intervocalic-voicing:
+[unvoiced stop] => [voiced] / [vowel] _ [vowel]
+
+lateral-mutation:
+{s l, t l} => {ɬ, tɬ} / _ [vowel]
+{s, t} => {ʃ, tʃ} / _ ɹ i
+
+nasalization:
+[vowel] => [+nasal] / _ [nasal]
+
+nasal-deletion:
+[nasal] => * / _ [+lateral]
+n => * / _ ɹ
+
+intervocalic-epenthesis:
+* => j / i _ [vowel]
+* => w / u _ [vowel]
+
+vowel-lowering:
+{a, e, i, o, u} => {ə, a, e, a, o} / _ [cons] a
+
+fricative-reduction:
+{ɸ, x} => {w, j} / [cons] _ [vowel]
+
+Syllables:
+clear
+
+#romanizer:
+#[+heavy] => [-heavy]
+
