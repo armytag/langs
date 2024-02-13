@@ -8,23 +8,26 @@ PLOSIVES = [
     "p", "b", "t", "d", "k", "ɡ",
 ]
 FRICATIVES = [
-    "ɸ", "s", "z", "x",
+    "f", "s", "ʃ", "x",
+]
+APPROXIMANTS = [
+    "l", "j"
 ]
 RHOTICS = [
     "r",
 ]
 VOWELS = [
-    "i", "e", "ɛ", "u", "o", "ɔ"
+    "i", "e", "u", "o", "a", "ə"
 ]
 SYLL_STRUCTS = []
 SYLL_STRUCTS += ['V'] * 0
-SYLL_STRUCTS += ['CV'] * 2
-SYLL_STRUCTS += ['CVC'] * 2
+SYLL_STRUCTS += ['CV'] * 4
+SYLL_STRUCTS += ['CVC'] * 1
 SYLL_STRUCTS += ['CCV'] * 0
 SYLL_STRUCTS += ['CCVC'] * 0
 SYLL_COUNTS = []
-SYLL_COUNTS += [1] * 3
-SYLL_COUNTS += [2] * 1
+SYLL_COUNTS += [1] * 1
+SYLL_COUNTS += [2] * 9
 SYLL_COUNTS += [3] * 0
 SYLL_COUNTS += [4] * 0
 
@@ -37,17 +40,19 @@ def generate_syllable(onset_shape, coda_shape):
     coda = ''
     if len(onset_shape) == 2:
         shape = rand.choice([
-
+            [PLOSIVES, flatten_matrix(
+                [APPROXIMANTS, RHOTICS]
+            )]
         ])
         for part in shape:
             onset += rand.choice(part)
     elif len(onset_shape) == 1:
         onset = rand.choice(flatten_matrix(
-            [PLOSIVES, NASALS, FRICATIVES, RHOTICS]
+            [PLOSIVES, NASALS, FRICATIVES, APPROXIMANTS, RHOTICS]
         ))
     if len(coda_shape) == 1:
         coda = rand.choice(flatten_matrix(
-            [NASALS, RHOTICS]
+            [NASALS, APPROXIMANTS, RHOTICS]
         ))
     syll = onset + vowel + coda
     return syll
