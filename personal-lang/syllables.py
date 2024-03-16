@@ -23,7 +23,7 @@ VOWELS = [
     "i", "e", "ɛ", "u", "o", "ɔ", "a",
 ]
 SYLL_STRUCTS = []
-SYLL_STRUCTS += ['V'] * 1
+SYLL_STRUCTS += ['V'] * 0
 SYLL_STRUCTS += ['CV'] * 4
 SYLL_STRUCTS += ['CVC'] * 0
 SYLL_STRUCTS += ['CCV'] * 0
@@ -65,7 +65,7 @@ if __name__ == "__main__":
     # phonemes = NASALS # + FRICATIVES + PLOSIVES + RHOTICS
     # print(phonemes)
     # print(generate_frequencies(phonemes))
-    word_count = 10 * 2
+    word_count = 10 * 10
     words = []
     # for idx in range(word_count):
     w = 0
