@@ -26,7 +26,7 @@ Speaker is myself, in the everyday environment I find myself in.
 | Fricative  | f      | s        | ʂ         | x     | χ      | h       |
 | Resonant   | w      | ɾ        | ɽ         | ʟ     |        |         |
 
-*Distinction between velar fricative /x/ and uvular fricative /χ/ attested in (Tlingit language)[https://en.wikipedia.org/wiki/Tlingit_language#Consonants]
+*Distinction between velar fricative /x/ and uvular fricative /χ/ attested in the [Tlingit language](https://en.wikipedia.org/wiki/Tlingit_language#Consonants)
 
 ### Vowels
 
