@@ -18,26 +18,28 @@ Speaker is myself, in the everyday environment I find myself in.
 
 ### Consonants
 
-| CONSONANTS  | Labial | Alveolar | Palatal | Velar |
-|---          |---     |---       |---      |---    |
-| Nasal       | m      | n        |         | ŋ     |
-| Plosive     | p b    | t d      |         | k ɡ   |
-| Fricative   | f      | s        | ʃ       | x     |
-| Approximant |        | l        | j       |       |
-| Trill/Tap   |        | r        |         |       |
+| CONSONANTS | Labial | Alveolar | Retroflex | Velar | Uvular | Glottal |
+|---         |---     |---       |---        |---    |---     |---      |
+| Nasal      | m      | n        | ɳ         |       |        |         |
+| Plosive    | p b    | t d      | ʈ ɖ       | k     |        |         |
+| Affricate  |        | ts       | ʈʂ        |       |        |         |
+| Fricative  | f      | s        | ʂ         | x     | χ      | h       |
+| Resonant   | w      | ɾ        | ɽ         | ʟ     |        |         |
+
+*Distinction between velar fricative /x/ and uvular fricative /χ/ attested in (Tlingit language)[https://en.wikipedia.org/wiki/Tlingit_language#Consonants]
 
 ### Vowels
 
-| VOWELS | Front | Central | Back |
-|---     |---    |---      |---   |
-| Close  | i     |         | u    |
-| Mid    | e     | ə       | o    |
-| Open   |       | a       |      |
+| VOWELS   | Front | Back |
+|---       |---    |---   |
+| Close    | i     | u    |
+| Mid-High | e     | o    |
+| Mid-Low  | ɛ     | ɔ    |
+| Open     |       | ɑ    |
 
 ### Syllables
 
-- Maximum CVC
-- Onset clusters only stop-fricative, stop-approximant, nasal-approximant, or fricative-approximant
+- Maximum CV
 
 ## Lexicon
 
