@@ -11,7 +11,7 @@ AFFRICATES = [
     "ts", "ʈʂ",
 ]
 FRICATIVES = [
-    "f", "s", "ʂ", "x", "χ", "h",
+    "ɸ", "s", "ʂ", "x", "χ", "h",
 ]
 APPROXIMANTS = [
     "w", "ʟ",
@@ -30,9 +30,9 @@ SYLL_STRUCTS += ['CCV'] * 0
 SYLL_STRUCTS += ['CCVC'] * 0
 SYLL_COUNTS = []
 SYLL_COUNTS += [1] * 1
-SYLL_COUNTS += [2] * 3
+SYLL_COUNTS += [2] * 5
 SYLL_COUNTS += [3] * 2
-SYLL_COUNTS += [4] * 2
+SYLL_COUNTS += [4] * 0
 
 def flatten_matrix(matrix):
     return [item for array in matrix for item in array]

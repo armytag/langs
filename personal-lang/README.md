@@ -23,7 +23,7 @@ Speaker is myself, in the everyday environment I find myself in.
 | Nasal      | m      | n        | ɳ         |       |        |         |
 | Plosive    | p b    | t d      | ʈ ɖ       | k     |        |         |
 | Affricate  |        | ts       | ʈʂ        |       |        |         |
-| Fricative  | f      | s        | ʂ         | x     | χ      | h       |
+| Fricative  | ɸ      | s        | ʂ         | x     | χ      | h       |
 | Resonant   | w      | ɾ        | ɽ         | ʟ     |        |         |
 
 *Distinction between velar fricative /x/ and uvular fricative /χ/ attested in the [Tlingit language](https://en.wikipedia.org/wiki/Tlingit_language#Consonants)
@@ -41,105 +41,122 @@ Speaker is myself, in the everyday environment I find myself in.
 
 - Maximum CV
 
+## Sound Changes
+
+- Vowel harmony based on final vowel
+- Word final vowel loss
+
+### Assimilating Changes
+
+### Leniting Changes
+
+### Fortifying Changes
+
+### Vowel Changes
+
+- u → \* / N\_ ! \_{ɾ,ɽ}
+
+### Stress-based Changes
+
 ## Lexicon
 
-ʈukɔda
-χame
-di
-neɳɔtɔtɛ
-ʂatsuɖɛtse
-ɽu
-mɛboχatse
-weʈisake
-sexɛ
-χoʂi
-χɔtsobe
-sɛte
-niheʈʂi
-naɾiɾi
-ɾitsaɖi
-ɾo
-ʈʂɛ
-bewɔ
-duɾo
-meʈʂoʈɔ
-nupiɽimɔ
-ɽunebɛbu
-ɳɔɖa
-neʈɛ
-ɳa
-xadɔbaʈʂe
-tɔdiɳɛ
-ʟibɔ
-moma
-tsunu
-ɾɔʟuʟoʈʂo
-xobeɖuda
-bikɔɽuχu
-ʈewɔʈʂini
-peʂɛ
-ʂexo
-fo
-pakɛmida
-baʈama
-tsebɔ
-bɔhu
-χodapɔ
-sɔmiɖo
-ɳohu
-hima
-ʈeɖɛkakɔ
-mɛfɔnɛɽu
-ɽaʂɛɳe
-ʂemɛsawa
-ɖutaɽinu
-wɛɳoʈido
-he
-ɖehe
-nibɔʟo
-ʈuko
-ʟi
-xuɽɛsɛ
-ɳuχa
-ʟuʈʂi
-ɖɛfimi
-waɽaχi
-ʈɛ
-saɳamesɛ
-ɽɛtsahɛɖe
-bɔ
-χu
-ʂɔdu
-kaɳita
-wɛɽo
-boʂo
-to
-ʈeɽiwɔ
-muʈʂidu
-ʈʂado
-ɾiɾi
-pise
-pifeɳo
-ʟɛ
-nɔ
-χiχɔpu
-ʂenɛdo
-kaʈʂi
-ɖɔ
-kopope
-huʂɔ
-wubiʟuti
-xifɔ
-ɾuniɖɔ
-dumida
-ɽɛɽɛʂi
-biʂɔtsɔ
-ʟiχinɔ
-satɔɖɔha
-ʂaʈutaʈʂɛ
-ɾɔɳi
-deχoʈɔ
-peʈe
-ʂuɽito
-ʟa
-dɔʂefɛ
+hetsɛ
+xoba
+ɽoɾu
+ʈoʂu
+bedu
+mu
+hɔtede
+ʈʂɛɽenɔ
+ʈʂɔ
+tsaɳoʈʂu
+ɖimɔ
+ʈʂu
+dɔki
+χɛtsi
+xi
+wiʈʂu
+ɖuwe
+tsiɾi
+ɳɛɳɔ
+hɛnɔɾe
+ɸiɽɔɖɛ
+ʂiɾu
+dɛki
+ʂo
+ʈʂiɳeɸɔ
+paɸuʂu
+ʈoʟu
+towe
+ʟosa
+ɾɛɳɛ
+pona
+kɛtsa
+ɽini
+ɳina
+ʟɛɾɛ
+hɛbɔ
+hatsa
+ɽɛχɛtu
+ɽexɔɾu
+kɔʈɔ
+χɔ
+bedo
+ʈʂɛhɔ
+hɛbiʟɔ
+wexɛtsɔ
+buʈʂe
+neɽu
+χewiwɛ
+wuɽi
+nake
+tseki
+ɾiɸɛ
+hemɔ
+tɛsuʂɛ
+ɖotene
+biχatu
+ʂoʈʂu
+wuɖɔxu
+xabe
+ɽehɛ
+pomo
+ximudɛ
+mɔpuki
+dabuχe
+kɔtse
+sɔheɖi
+ɳaɸami
+noɖu
+χo
+ʈaɾe
+ɳɔbuʈʂɔ
+ɸɛ
+niʈo
+tse
+dɛpɛ
+hɛsi
+ʈahɔ
+hosɛ
+ʂɔne
+dɛʈʂɛdu
+ʈɔwe
+noɖa
+bɔmɔʂe
+ɾiʈoʂɛ
+xɛʂixo
+hoka
+seɽeʂe
+kebo
+ʈawoʂa
+xɛ
+χɔmɔtɔ
+paɾɛ
+χitsɔ
+se
+hoɖe
+haʟima
+χeʈuɳo
+wo
+sɔteɸu
+ʈʂɔmokɛ
