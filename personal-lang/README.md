@@ -18,7 +18,7 @@ Speaker is myself, in the everyday environment I find myself in.
 
 Inspiration:
 - bɛnɛt
-- m̩tʃ͜arabi
+- mtʃarabi
 
 Sounds from inspiration:
 - syllabic nasal
@@ -51,8 +51,20 @@ Sounds from inspiration:
 
 ## Sound Changes
 
-- Vowel harmony based on final vowel
-- Word final vowel loss
+- Final vowel loss
+    1. Vowel harmony based on final vowel
+    1. Word final vowel loss
+- Retroflex introduction
+    1. n → ɳ / C[+sonorant]V_
+    1. C → C̩ / ɳ_
+    1. VN → V[+high tone]
+    1. (optional) l → ɭ, then C → C̩ / ɭ_
+- ɛ creation
+    1. e(C)V[+low] → ɛCɛ (Proto-Oceanic to Vera'a)
+    1. oCa → ɔCɔ (Proto-Oceanic to Vera'a)
+    1. eCV[+mid] → ɛC (Proto-Oceanic to Lemerig)
+    1. aCV[+high] → ɛC (Proto-Oceanic to Lemerig)
+
 
 ### Assimilating Changes
 
