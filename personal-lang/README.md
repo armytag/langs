@@ -14,15 +14,42 @@ Myself, and readers of possible stories involving the language.  HeartClong will
 
 Speaker is myself, in the everyday environment I find myself in.
 
-## Phonology
+## Phonology Ideas
 
 Inspiration:
 - bɛnɛt
+    - beŋan → bɛnɛt
 - mtʃarabi
+    - mutʃarabi
 
 Sounds from inspiration:
 - syllabic nasal
 - coda alveolar stop
+
+## Proto Phonology
+
+### Consonants
+
+| CONSONANTS | Labial | Alveolar | Velar |
+|---         |---     |---       |---    |
+| Nasal      | m      | n        | ŋ     |
+| Plosive    | p b    | t d      | k g   |
+| Fricative  | ɸ      | s        | x     |
+| Resonant   | w      | l        | ɰ     |
+
+### Vowels
+
+| VOWELS | Front | Back |
+|---     |---    |---   |
+| Close  | i     | u    |
+| Mid    | e     | o    |
+| Open   |       | ɑ    |
+
+### Syllables
+
+- Maximum CVN
+
+## Modern Phonology
 
 ### Consonants
 
@@ -51,16 +78,21 @@ Sounds from inspiration:
 
 ## Sound Changes
 
-- Final vowel loss
-    1. Vowel harmony based on final vowel
-    1. Word final vowel loss
+- Syllabic nasals
+    1. u → \* / m\_
+    1. i → \* / n\_
+- Velar fronting
+    1. n t → t ts / ! \_C
+    1. ŋ → n
+    1. ɰ → ʟ
 - Retroflex introduction
-    1. n → ɳ / C[+sonorant]V_ (Proto-Indo-Iranian to Proto-Indo-Aryan)
-    1. C → C̩ / ɳ_ (Proto-Indo-Iranian to Proto-Indo-Aryan)
-    1. VN → V[+high tone]
-    1. (optional) l → ɭ, then C → C̩ / ɭ_
+    1. n → ɳ / C[+sonorant]V\_ (Proto-Indo-Iranian to Proto-Indo-Aryan)
+    1. C[+alveolar] → C[+retroflex] / ɳ\_ (Proto-Indo-Iranian to Proto-Indo-Aryan)
+    1. VN → V[+high tone] / \_%
+- L flapping
+    1. l ɭ → ɾ ɽ / V\_V
 - ɛ creation
-    1. e(C)V[+low] → ɛCɛ (Proto-Oceanic to Vera'a)
+    1. eCa → ɛCɛ (Proto-Oceanic to Vera'a)
     1. oCa → ɔCɔ (Proto-Oceanic to Vera'a)
     1. eCV[+mid] → ɛC (Proto-Oceanic to Lemerig)
     1. aCV[+high] → ɛC (Proto-Oceanic to Lemerig)
