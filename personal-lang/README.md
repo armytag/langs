@@ -81,15 +81,17 @@ Sounds from inspiration:
 - Syllabic nasals
     1. u → \* / m\_
     1. i → \* / n\_
-- Velar fronting
+- Stop coda creation
     1. n t → t ts / ! \_C
     1. ŋ → n
-    1. ɰ → ʟ
+- Velar Backing
+    1. g k x ɰ → k x χ h
 - Retroflex introduction
     1. n → ɳ / C[+sonorant]V\_ (Proto-Indo-Iranian to Proto-Indo-Aryan)
     1. C[+alveolar] → C[+retroflex] / ɳ\_ (Proto-Indo-Iranian to Proto-Indo-Aryan)
     1. VN → V[+high tone] / \_%
-- L flapping
+- Lateral flapping
+    1. l → ʟ / ! N\_
     1. l ɭ → ɾ ɽ / V\_V
 - ɛ creation
     1. eCa → ɛCɛ (Proto-Oceanic to Vera'a)
