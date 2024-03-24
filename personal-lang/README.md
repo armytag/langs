@@ -55,8 +55,8 @@ Sounds from inspiration:
     1. Vowel harmony based on final vowel
     1. Word final vowel loss
 - Retroflex introduction
-    1. n → ɳ / C[+sonorant]V_
-    1. C → C̩ / ɳ_
+    1. n → ɳ / C[+sonorant]V_ (Proto-Indo-Iranian to Proto-Indo-Aryan)
+    1. C → C̩ / ɳ_ (Proto-Indo-Iranian to Proto-Indo-Aryan)
     1. VN → V[+high tone]
     1. (optional) l → ɭ, then C → C̩ / ɭ_
 - ɛ creation
