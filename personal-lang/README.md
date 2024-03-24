@@ -16,6 +16,14 @@ Speaker is myself, in the everyday environment I find myself in.
 
 ## Phonology
 
+Inspiration:
+- bɛnɛt
+- m̩tʃ͜arabi
+
+Sounds from inspiration:
+- syllabic nasal
+- coda alveolar stop
+
 ### Consonants
 
 | CONSONANTS | Labial | Alveolar | Retroflex | Velar | Uvular | Glottal |
