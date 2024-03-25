@@ -136,12 +136,12 @@ Sounds from inspiration:
 | ni | | | |
 | ninsi    | niɳ.ʂi     | ni'.ʂi     | nïʂi |
 | siŋso    | sin.so     | si'.so     | sïso |
-| nundelon | nuɳ.ɖe.ʟoɳ | nu'.ɖe.ʟo' | nüɖeʟö |
+| nundelon | nuɳ.ɖe.ʟot | nu'.ɖe.ʟot | nüɖeʟot |
 | dixe     | di.χe      | di.χe      | diχe |
 | binŋo    | bin.no     | bi'.no     | bïno |
 | so | | | |
 | ɰema     | he.ma      | he.ma      | hɛmɛ |
-| poxon    | po.χon     | po.χo'     | poχö |
+| poxon    | po.χot     | po.χot     | poχot |
 | neŋxu    | neɳ.χu     | ne'.χu     | nëχu |
 | dimkembi | din.xem.bi | di'.xe'.bi | dïxëbi |
 | biɰoŋ    | bi.hoɳ     | bi.ho'     | bihö |
@@ -155,17 +155,17 @@ Sounds from inspiration:
 | xupinu   | χu.pi.tu   | χu.pi.tu   | χupitu |
 | taŋŋo    | tan.no     | ta'.no     | täno |
 | ɰimne    | hiɳ.ʈe     | hi'.ʈe     | hïʈe |
-| disen    | di.sen     | di.se'     | disë |
+| disen    | di.set     | di.set     | diset |
 | simuɰe   | si.mu.he   | si.mu.he   | simuhe |
 | sowinsu  | so.wiɳ.ʂu  | so.wi'.ʂu  | sowïʂu |
 | ŋeta     | ne.tsa     | ne.tsa     | nɛtsɛ |
-| ŋanti    | naɳ.tʂi    | na'.tʂi    | nätʂi |
+| ŋanti    | naɳ.ʈʂi    | na'.ʈʂi    | näʈʂi |
 | lixo     | ʟi.χo      | ʟi.χo      | ʟiχo |
 | lekudaŋ  | ʟe.xu.dan  | ʟe.xu.da'  | ʟexudä |
 | nila     | ni.ʟa      | ni.ʟa      | niʟa |
 | kiŋwo    | xim.wo     | xi'.wo     | xïwo |
 | ɰobe     | ho.be      | ho.be      | hobe |
-| ɰeɰetun  | he.he.tsun | he.he.tsu' | hehetsü |
+| ɰeɰetun  | he.he.tsut | he.he.tsut | hehetsut |
 | weŋbi    | wem.bi     | we'.bi     | wëbi |
 | xule     | χu.ʟe      | χu.ʟe      | χuʟe |
 | semem    | se.mem     | se.me'     | semë |
@@ -173,47 +173,48 @@ Sounds from inspiration:
 | wiŋu     | wi.ɳu      | wi.ɳu      | wiɳu |
 | du | | | |
 | sa | | | |
-| neɸan    | ne.ɸan     | ne.ɸa'     | nɛɸɛ̈ |
+| neɸan    | ne.ɸat     | ne.ɸat     | nɛɸɛt |
 | soŋlupe  | son.lu.pe  | so'.lu.pe  | söɾupe |
 | palo     | pa.ʟo      | pa.ʟo      | paʟo |
-| dowan    | do.waɳ     | do.wa'     | dɔwɔ̈ |
+| dowan    | do.wat     | do.wat     | dɔwɔt |
 | daluma   | da.ʟu.ma   | da.ʟu.ma   | daʟuma |
 | dibankiŋ | di.ban.xin | di.ba'.xi' | dibäxï |
 | suke     | su.xe      | su.xe      | suxe |
 | gumpa    | kum.pa     | ku'.pa     | küpa |
 | kinte    | xin.tse    | xi'.tse    | xïtse |
 | ɰosim    | ho.sim     | ho.si'     | hosï |
-| senwun   | sem.wuɳ    | se'.wu'    | sëwü |
+| senwun   | sem.wut    | se'.wut    | sëwut |
 | teti     | te.tsi     | te.tsi     | tetsi |
 | newi     | ne.wi      | ne.wi      | newi |
-| ŋuŋonom  | nu.ɳo.tom  | nu.ɳo.to'  | nuɳotö |
+| ŋuŋonom  | nu.ɳo.ʈom  | nu.ɳo.ʈo'  | nuɳoʈö |
 | meɰo     | me.ho      | me.ho      | meho |
 | ŋoduŋ    | no.dun     | no.du'     | nodü |
 | deŋti    | den.tsi    | de'.tsi    | dëtsi |
 | moŋam    | mo.ɳam     | mo.ɳa'     | mɔɳɔ̈ |
 | konxe    | xon.χe     | xo'.χe     | xöχe |
-| ŋanluŋun | naɳ.ɭu.ɳuɳ | na'.ɭu.ɳu' | näɽuɳü |
+| ŋanluŋun | naɳ.ɭu.ɳuʈ | na'.ɭu.ɳuʈ | näɽuɳuʈ |
 | salem    | sa.ʟem     | sa.ʟe'     | saʟë |
 | nomŋeŋwu | noɳ.ɳem.wu | no'.ɳe'.wu | nöɳëwu |
-| nin      | niɳ        | ni'        | nï |
+| nin      | nit        | nit        | nit |
 | daŋlum   | dan.lum    | da'.lu'    | däɾü |
 | mu | | | |
 | be | | | |
 | wisi     | wi.si      | wi.si      | wisi |
-| nenkan   | neɳ.xan    | ne'.xa'    | nɛ̈xɛ̈ |
+| nenkan   | neɳ.xat    | ne'.xat    | nɛ̈xɛt |
 | ɸeŋɸe    | ɸem.ɸe     | ɸe'.ɸe     | ɸëɸe |
-| xen      | χen        | χe'        | χë |
+| xen      | χet        | χet        | χet |
 | tutana   | tu.tsa.ta  | tu.tsa.ta  | tutsata |
 | togi     | to.ki      | to.ki      | toki |
-| nan      | naɳ        | na'        | nä |
+| nan      | nat        | nat        | nat |
 | luxe     | ʟu.χe      | ʟu.χe      | ʟuχe |
 | puse     | pu.se      | pu.se      | puse |
 | ɸunsi    | ɸun.si     | ɸu'.si     | ɸüsi |
 | gu       | ku         | ku         | ku |
 | pomaŋ    | po.maɳ     | po.ma'     | pɔmɔ̈ |
-| pamun    | pa.muɳ     | pa.mu'     | pamü |
+| pamun    | pa.mut     | pa.mut     | pamut |
 | lenŋupem | ʟeɳ.ɳu.pem | ʟe'.ɳu.pe' | ʟëɳupë |
 | ɸogom    | ɸo.kom     | ɸo.ko'     | ɸokö |
 | kanseŋ   | xan.sen    | xa'.se'    | xäsë |
 | dinam    | di.tam     | di.ta'     | ditä |
-
+| beŋan    | be.nat     | be.nat     | bɛnɛt |
+| benŋan   | ben.nat    | be'.nat    | bɛ̈nɛt |

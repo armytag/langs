@@ -46,8 +46,8 @@ Symbol ɾ [alveolar tap]
 Symbol ɽ [retroflex tap]
 Symbol ʈ [unvoiced retroflex stop]
 Symbol ɖ [voiced retroflex stop]
-Symbol tʂ [unvoiced retroflex affricate]
-Symbol dʐ [voiced retroflex affricate]
+Symbol ʈʂ [unvoiced retroflex affricate]
+Symbol ɖʐ [voiced retroflex affricate]
 Symbol ʂ [unvoiced retroflex fricative]
 Symbol ʐ [voiced retroflex fricative]
 Symbol χ [unvoiced uvular fricative]
@@ -79,11 +79,11 @@ nasal-assimilation:
 [nasal] => [$place] / _ [cons $place]
 
 stop-coda-creation:
-{n, t} => {t, ts} / _ [vowel] // $ _
+{n, t} => {t, ts} / _ {[vowel], $} // $ _
 ŋ => n
 
 Syllables:
-[cons] [vowel] {[nasal], t}?
+[cons] [vowel] {[nasal], [unvoiced stop]}?
 
 nasal-retroflexification:
 n => ɳ / {[nasal], [approximant]} [vowel] _
@@ -95,7 +95,7 @@ lateral-backing:
 l => ʟ // [nasal] _
 
 retroflex-spread:
-[alveolar] => [retroflex] / ɳ _
+[alveolar] => [retroflex] / ɳ [vowel]? _
 
 romanizer-unnasalized:
 unchanged
