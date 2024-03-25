@@ -115,6 +115,7 @@ Sounds from inspiration:
 ## Lexicon
 
 | proto | pre-nasal | post-nasal | final |
+|--- |--- |--- |--- |
 | pino     | pi.to      | pi.to      | pito |
 | toŋxo    | ton.χo     | to'.χo     | töχo |
 | doŋnu    | don.tu     | do'.tu     | dötu |
