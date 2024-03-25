@@ -9,9 +9,9 @@ Feature place(labial, alveolar, retroflex, velar, uvular, glottal)
 Feature manner(nasal, stop, affricate, fricative, approximant, tap)
 Feature +lateral
 Feature (syllable) +stress, (syllable) +heavy
-Feature +nasal
-Diacritic ̃ (floating) [+nasal]
-Diacritic ' (before) [+stress]
+Feature +hightone
+Diacritic ' (floating) [+hightone]
+# Diacritic ' (before) [+stress]
 Diacritic " (floating) [+heavy]
 Symbol a [low  -mid -front -back vowel]
 Symbol e [high +mid +front -back vowel]
@@ -37,6 +37,7 @@ Symbol n [alveolar nasal]
 Symbol ɳ [retroflex nasal]
 Symbol ŋ [velar nasal]
 Symbol w [labial approximant]
+Symbol ɰ [velar approximant]
 # Symbol ɹ [alveolar approximant]
 Symbol l [alveolar approximant +lateral]
 Symbol ɭ [retroflex approximant +lateral]
@@ -44,7 +45,7 @@ Symbol ʟ [velar approximant +lateral]
 Symbol ɾ [alveolar tap]
 Symbol ɽ [retroflex tap]
 Symbol ʈ [unvoiced retroflex stop]
-Symbol ɖ [unvoiced retroflex stop]
+Symbol ɖ [voiced retroflex stop]
 Symbol tʂ [unvoiced retroflex affricate]
 Symbol dʐ [voiced retroflex affricate]
 Symbol ʂ [unvoiced retroflex fricative]
@@ -52,7 +53,7 @@ Symbol ʐ [voiced retroflex fricative]
 Symbol χ [unvoiced uvular fricative]
 Symbol h [unvoiced glottal fricative]
 # Symbol pɸ [unvoiced labial affricate]
-# Symbol ts [unvoiced alveolar affricate]
+Symbol ts [unvoiced alveolar affricate]
 # Symbol kx [unvoiced velar affricate]
 # Symbol bβ [voiced labial affricate]
 # Symbol dz [voiced alveolar affricate]
@@ -67,45 +68,54 @@ Symbol h [unvoiced glottal fricative]
 # Symbol ɬ [unvoiced alveolar fricative +lateral]
 # Symbol tɬ [unvoiced alveolar affricate +lateral]
 Syllables:
-{[cons !approximant]? [cons approximant]?, [cons stop] [cons fricative]}? [vowel] [cons !stop] => [+heavy]
-{[cons !approximant]? [cons approximant]?, [cons stop] [cons fricative]}? [vowel]
+[cons] [vowel] [nasal]?
 
-assign-stress:
-<syl> => [+stress] / $ <syl>&[-heavy] _
-Else:
-<syl> => [+stress] / $ _
+# assign-stress:
+# <syl> => [+stress] / $ <syl>&[-heavy] _
+# Else:
+# <syl> => [+stress] / $ _
 
-velar-nasal-fortition:
-ŋ => ɡ // [vowel] _
-#ŋ&[-stress] => ɡ // [vowel] _
+nasal-assimilation:
+[nasal] => [$place] / _ [cons $place]
 
-intervocalic-voicing:
-[unvoiced stop] => [voiced] / [vowel] _ [vowel]
+stop-coda-creation:
+{n, t} => {t, ts} / _ [vowel] // $ _
+ŋ => n
 
-lateral-mutation:
-{s l, t l} => {ɬ, tɬ} / _ [vowel]
-{s, t} => {ʃ, tʃ} / _ ɹ i
+Syllables:
+[cons] [vowel] {[nasal], t}?
 
-nasalization:
-[vowel] => [+nasal] / _ [nasal]
+nasal-retroflexification:
+n => ɳ / {[nasal], [approximant]} [vowel] _
 
-nasal-deletion:
-[nasal] => * / _ [+lateral]
-n => * / _ ɹ
+velar-backing:
+{g, k, x, ɰ} => {k, x, χ, h}
 
-intervocalic-epenthesis:
-* => j / i _ [vowel]
-* => w / u _ [vowel]
+lateral-backing:
+l => ʟ // [nasal] _
 
-vowel-lowering:
-{a, e, i, o, u} => {ə, a, e, a, o} / _ [cons] a
+retroflex-spread:
+[alveolar] => [retroflex] / ɳ _
 
-fricative-reduction:
-{ɸ, x} => {w, j} / [cons] _ [vowel]
+romanizer-unnasalized:
+unchanged
+
+nasal-tonogenesis:
+[vowel] [nasal] => [vowel +hightone] * / _ .
+
+romanizer-nasalization:
+unchanged
+
+lateral-flapping:
+{l, ɭ} => {ɾ, ɽ} / [vowel] _ [vowel]
+
+openmid-creatation:
+e [cons] a => ɛ [cons] ɛ
+o [cons] a => ɔ [cons] ɔ
 
 Syllables:
 clear
 
-#romanizer:
-#[+heavy] => [-heavy]
+romanizer:
+[vowel +hightone] * => [vowel -hightone] ̈
 

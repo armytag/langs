@@ -3,16 +3,16 @@ import random as rand
 
 # Proto phonology
 NASALS = [
-    "m", "n", "ŋ",
+    "m", "n", "n", "ŋ",
 ]
 PLOSIVES = [
-    "p", "b", "t", "d", "k", "g"
+    "p", "b", "t", "d", "t", "d", "k", "g"
 ]
 FRICATIVES = [
-    "ɸ", "s", "x",
+    "ɸ", "s", "s", "x",
 ]
 APPROXIMANTS = [
-    "w", "l", "ɰ",
+    "w", "l", "l", "ɰ",
 ]
 VOWELS = [
     "i", "e", "u", "o", "a",
@@ -51,8 +51,8 @@ SYLL_STRUCTS += ['CCVC'] * 0
 SYLL_COUNTS = []
 SYLL_COUNTS += [1] * 1
 SYLL_COUNTS += [2] * 5
-SYLL_COUNTS += [3] * 3
-SYLL_COUNTS += [4] * 2
+SYLL_COUNTS += [3] * 1
+SYLL_COUNTS += [4] * 0
 
 def flatten_matrix(matrix):
     return [item for array in matrix for item in array]
