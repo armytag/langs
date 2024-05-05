@@ -1,34 +1,57 @@
 import math
 import random as rand
 
+# Proto phonology
 NASALS = [
-    "m", "n", "ŋ",
+    "m", "n", "n", "ŋ",
 ]
 PLOSIVES = [
-    "p", "b", "t", "d", "k", "ɡ",
+    "p", "b", "t", "d", "t", "d", "k", "g"
 ]
 FRICATIVES = [
-    "f", "s", "ʃ", "x",
+    "ɸ", "s", "s", "x",
 ]
 APPROXIMANTS = [
-    "l", "j"
-]
-RHOTICS = [
-    "r",
+    "w", "l", "l", "ɰ",
 ]
 VOWELS = [
-    "i", "e", "u", "o", "a", "ə"
+    "i", "e", "u", "o", "a",
 ]
+
+# Modern phonology
+"""
+NASALS = [
+    "m", "n", "ɳ",
+]
+PLOSIVES = [
+    "p", "b", "t", "d", "ʈ", "ɖ", "k",
+]
+AFFRICATES = [
+    "ts", "ʈʂ",
+]
+FRICATIVES = [
+    "ɸ", "s", "ʂ", "x", "χ", "h",
+]
+APPROXIMANTS = [
+    "w", "ʟ",
+]
+RHOTICS = [
+    "ɾ", "ɽ",
+]
+VOWELS = [
+    "i", "e", "ɛ", "u", "o", "ɔ", "a",
+]
+"""
 SYLL_STRUCTS = []
 SYLL_STRUCTS += ['V'] * 0
 SYLL_STRUCTS += ['CV'] * 4
-SYLL_STRUCTS += ['CVC'] * 1
+SYLL_STRUCTS += ['CVC'] * 2
 SYLL_STRUCTS += ['CCV'] * 0
 SYLL_STRUCTS += ['CCVC'] * 0
 SYLL_COUNTS = []
 SYLL_COUNTS += [1] * 1
-SYLL_COUNTS += [2] * 9
-SYLL_COUNTS += [3] * 0
+SYLL_COUNTS += [2] * 5
+SYLL_COUNTS += [3] * 1
 SYLL_COUNTS += [4] * 0
 
 def flatten_matrix(matrix):
@@ -38,21 +61,13 @@ def generate_syllable(onset_shape, coda_shape):
     onset = ''
     vowel = rand.choice(VOWELS)
     coda = ''
-    if len(onset_shape) == 2:
-        shape = rand.choice([
-            [PLOSIVES, flatten_matrix(
-                [APPROXIMANTS, RHOTICS]
-            )]
-        ])
-        for part in shape:
-            onset += rand.choice(part)
-    elif len(onset_shape) == 1:
+    if len(onset_shape) == 1:
         onset = rand.choice(flatten_matrix(
-            [PLOSIVES, NASALS, FRICATIVES, APPROXIMANTS, RHOTICS]
+            [PLOSIVES, NASALS, APPROXIMANTS, FRICATIVES,]
         ))
     if len(coda_shape) == 1:
         coda = rand.choice(flatten_matrix(
-            [NASALS, APPROXIMANTS, RHOTICS]
+            [NASALS,]
         ))
     syll = onset + vowel + coda
     return syll
@@ -74,18 +89,18 @@ if __name__ == "__main__":
     # phonemes = NASALS # + FRICATIVES + PLOSIVES + RHOTICS
     # print(phonemes)
     # print(generate_frequencies(phonemes))
-    word_count = 10 * 8
+    word_count = 10 * 10
     words = []
     # for idx in range(word_count):
-    idx = 0
-    while idx < word_count:
+    w = 0
+    while w < word_count:
         syll_count = rand.choice(SYLL_COUNTS)
         word = ''
-        for idx2 in range(syll_count):
+        for s in range(syll_count):
             structure = rand.choice(SYLL_STRUCTS)
             syllable = get_syllable(structure)
             word += syllable
         if len(word) > 1 and word not in words:
             words.append(word)
             print(word)
-            idx += 1
+            w += 1
