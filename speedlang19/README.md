@@ -69,7 +69,7 @@ Consonants:
         - Lateral (H)
         - Lateral aspirated (H)
     - Approximant
-        - Unvoiced (M, N, S)
+        - Voiced (M, N, S)
 - Labiodental
     - Fricative
         - Unvoiced (H, K, M, S)
@@ -166,36 +166,16 @@ Consonants:
     - Fricative
         - Unvoiced (H, M, N, S)
 
-- Bilabial
-    - Nasal
-    - Unvoiced stop
-    - Aspirated stop
-    - Voiced stop
-- Labiodental
-    - Unvoiced fricative
-- Dental
-    - Unvoiced stop
-    - Aspirated stop
-    - Voiced stop
-- Alveolar
-    - Nasal
-    - Unvoiced fricative
-    - Voiced lateral approximant
-- Retroflex
-    - Unvoiced stop
-    - Aspirated stop
-    - Voiced stop
-- Palatal
-    - Unvoiced stop
-    - Aspirated stop
-    - Voiced stop
-- Velar
-    - Nasal
-    - Unvoiced stop
-    - Aspirated stop
-    - Voiced stop
-- Glottal
-    - Unvoiced fricative
+| CONSONANTS  | Bilabial | Dental | Alveolar | Retroflex | Palatal | Velar | Glottal |
+|---          |---       |---     |---       |---        |---      |---    |---      |
+| Nasal       | m        |        | n        |           |         | ŋ     |         |
+| Plosive     | p b      | t d    |          | ʈ ɖ       | c ɟ     | k g   |         |
+| Asp. Plos.  | pʰ       | tʰ     |          | ʈʰ        | cʰ      | kʰ    |         |
+| Fricative   | f        |        | s        |           |         |       | h       |
+| Approximant | w        |        |          |           | j       |       |         |
+| Rhotic      |          |        | ɾ/r      |           |         |       |         |
+| Lateral     |          |        | l        |           |         |       |         |
+
 
 | LANGUAGE FEATURES | Newar | Hmong | Madurese | Sinhala | Kannada |
 |---                |---    |---    |---       |---      |---      |
