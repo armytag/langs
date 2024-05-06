@@ -53,6 +53,119 @@ Languages:
 - Gallus sonneratii
     - Kannada (Dravidian)
 
+Consonants:
+- Bilabial
+    - Nasal (H, K, M, N, S)
+    - Stop
+        - Unvoiced (H, K, M, N, S)
+        - Aspirated (H, K, M, N)
+        - Voiced (K, M, N, S)
+        - Murmured (K, N)
+        - Lateral (H)
+        - Lateral aspirated (H)
+    - Prenasalized stop
+        - Unvoiced (H)
+        - Aspirated (H)
+        - Lateral (H)
+        - Lateral aspirated (H)
+    - Approximant
+        - Unvoiced (M, N, S)
+- Labiodental
+    - Fricative
+        - Unvoiced (H, K, M, S)
+        - Voiced (H)
+    - Approximant
+        - Voiced (K)
+- Dental
+    - Stop
+        - Unvoiced (K, M, N, S)
+        - Aspirated (K, M, N)
+        - Voiced (K, M, N, S)
+        - Murmured (K, N)
+- Alveolar
+    - Nasal (H, K, M, N, S)
+    - Stop
+        - Unvoiced (H)
+        - Aspirated (H)
+        - Lateral (H)
+        - Lateral aspirated (H)
+    - Prenasalized stop
+        - Unvoiced (H)
+        - Aspirated (H)
+    - Fricative
+        - Unvoiced (H, K, M, N, S)
+        - Voiced (K)
+    - Affricate
+        - Unvoiced (H)
+        - Aspirated (H)
+        - Prenasalized unvoiced (H)
+        - Prenasalized aspirated (H)
+    - Tap (K, S)
+    - Trill (M)
+    - Lateral approximant
+        - Unvoiced (H)
+        - Voiced (H, K, M, N, S)
+- Retroflex
+    - Nasal (K)
+    - Stop
+        - Unvoiced (H, K, M, N, S)
+        - Aspirated (H, K, M, N)
+        - Voiced (K, M, N, S)
+        - Murmured (K, N)
+    - Prenasalized stop
+        - Unvoiced (H)
+        - Aspirated (H)
+    - Fricative
+        - Unvoiced (H, K)
+        - Voiced (H)
+    - Affricate
+        - Unvoiced (H)
+        - Aspirated (H)
+        - Prenasalized unvoiced (H)
+        - Prenasalized aspirated (H)
+    - Tap (N)
+    - Lateral approximant
+        - Voiced (K)
+- Palatal
+    - Nasal (H, M)
+    - Stop
+        - Unvoiced (H, K, M, N)
+        - Aspirated (H, K, M, N)
+        - Voiced (K, M, N)
+        - Murmured (K, N)
+    - Prenasalized stop
+        - Unvoiced (H)
+        - Aspirated (H)
+    - Fricative
+        - Unvoiced (H, S)
+        - Voiced (H)
+    - Affricate
+        - Unvoiced (K, S)
+        - Voiced (K, S)
+    - Approximant (K, M, N, S)
+- Velar
+    - Nasal (H, M, N, S)
+    - Stop
+        - Unvoiced (H, M, N, S)
+        - Aspirated (H, M, N)
+        - Voiced (M, N, S)
+        - Murmured (N)
+    - Prenasalized stop
+        - Unvoiced (H)
+        - Aspirated (H)
+- Uvular
+    - Stop
+        - Unvoiced (H)
+        - Aspirated (H)
+    - Prenasalized stop
+        - Unvoiced (H)
+        - Aspirated (H)
+- Glottal
+    - Stop
+        - Unvoiced (M)
+    - Fricative
+        - Unvoiced (H, M, N, S)
+
 | LANGUAGE FEATURES | Newar | Hmong | Madurese | Sinhala | Kannada |
 |---                |---    |---    |---       |---      |---      |
 | Word order        | SOV   | SVO   | SVO      | SOV     | SOV     |
