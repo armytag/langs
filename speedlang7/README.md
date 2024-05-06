@@ -52,3 +52,7 @@ Languages:
     - Sinhala (Indo-European)
 - Gallus sonneratii
     - Kannada (Dravidian)
+
+| LANGUAGE FEATURES | Newar | Hmong | Madurese | Sinhala | Kannada |
+|---                |---    |---    |---       |---      |---      |
+| Word order        | SOV   | SVO   | SVO      | SOV     | SOV     |
