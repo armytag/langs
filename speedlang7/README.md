@@ -166,6 +166,37 @@ Consonants:
     - Fricative
         - Unvoiced (H, M, N, S)
 
+- Bilabial
+    - Nasal
+    - Unvoiced stop
+    - Aspirated stop
+    - Voiced stop
+- Labiodental
+    - Unvoiced fricative
+- Dental
+    - Unvoiced stop
+    - Aspirated stop
+    - Voiced stop
+- Alveolar
+    - Nasal
+    - Unvoiced fricative
+    - Voiced lateral approximant
+- Retroflex
+    - Unvoiced stop
+    - Aspirated stop
+    - Voiced stop
+- Palatal
+    - Unvoiced stop
+    - Aspirated stop
+    - Voiced stop
+- Velar
+    - Nasal
+    - Unvoiced stop
+    - Aspirated stop
+    - Voiced stop
+- Glottal
+    - Unvoiced fricative
+
 | LANGUAGE FEATURES | Newar | Hmong | Madurese | Sinhala | Kannada |
 |---                |---    |---    |---       |---      |---      |
 | Word order        | SOV   | SVO   | SVO      | SOV     | SOV     |
