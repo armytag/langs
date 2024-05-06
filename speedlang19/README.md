@@ -176,7 +176,26 @@ Consonants:
 | Rhotic      |          |        | ɾ/r      |           |         |       |         |
 | Lateral     |          |        | l        |           |         |       |         |
 
+Vowels:
+- Basic 5 vowels (H, K, M, N, S*) *Sinhala doesn't have /e/*
+- Schwa (M, N, S)
+- High central unrounded vowel (H, ~M)
+- Mid-high central unrounded vowel (~M)
+- Low front unrounded vowel (K, S)
+- Nasal distinction (H, N)
+- Length distinction (K, ~N, S)
+- Vowel harmonization (~M, N)
 
-| LANGUAGE FEATURES | Newar | Hmong | Madurese | Sinhala | Kannada |
-|---                |---    |---    |---       |---      |---      |
-| Word order        | SOV   | SVO   | SVO      | SOV     | SOV     |
+| VOWELS | Front | Central | Back |
+|---     |---    |---      |---   |
+| Close  | i     | ɨ       | u    |
+| Mid    | e     | ə       | o    |
+| Open   |       | a       |      |
+
+Phonotactics:
+- CCVC maximal structure
+
+| LANGUAGE FEATURES  | Hmong  | Kannada | Newar | Madurese | Sinhala |
+|---                 |---     |---      |---    |---       |---      |
+| Word order         | SVO    | SOV     | SOV   | SVO      | SOV     |
+| Syllable Structure | CCCCVC | CCCVCCC | CGV   | CCVC     | CVC     |
