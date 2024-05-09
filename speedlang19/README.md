@@ -45,7 +45,6 @@ Species:
 Languages:
 - Gallus gallus
     - Newar (Sino-Tibetan)
-    - Hmong (Hmongic)
 - Gallus varius
     - Madurese (Austronesian)
 - Gallus lafayettii
@@ -55,25 +54,17 @@ Languages:
 
 Consonants:
 - Bilabial
-    - Nasal (H, K, M, N, S)
+    - Nasal (K, M, N, S)
     - Stop
-        - Unvoiced (H, K, M, N, S)
-        - Aspirated (H, K, M, N)
+        - Unvoiced (K, M, N, S)
+        - Aspirated (K, M, N)
         - Voiced (K, M, N, S)
         - Murmured (K, N)
-        - Lateral (H)
-        - Lateral aspirated (H)
-    - Prenasalized stop
-        - Unvoiced (H)
-        - Aspirated (H)
-        - Lateral (H)
-        - Lateral aspirated (H)
     - Approximant
         - Voiced (M, N, S)
 - Labiodental
     - Fricative
-        - Unvoiced (H, K, M, S)
-        - Voiced (H)
+        - Unvoiced (K, M, S)
     - Approximant
         - Voiced (K)
 - Dental
@@ -83,88 +74,51 @@ Consonants:
         - Voiced (K, M, N, S)
         - Murmured (K, N)
 - Alveolar
-    - Nasal (H, K, M, N, S)
-    - Stop
-        - Unvoiced (H)
-        - Aspirated (H)
-        - Lateral (H)
-        - Lateral aspirated (H)
-    - Prenasalized stop
-        - Unvoiced (H)
-        - Aspirated (H)
+    - Nasal (K, M, N, S)
     - Fricative
-        - Unvoiced (H, K, M, N, S)
+        - Unvoiced (K, M, N, S)
         - Voiced (K)
-    - Affricate
-        - Unvoiced (H)
-        - Aspirated (H)
-        - Prenasalized unvoiced (H)
-        - Prenasalized aspirated (H)
     - Tap (K, S)
     - Trill (M)
     - Lateral approximant
-        - Unvoiced (H)
-        - Voiced (H, K, M, N, S)
+        - Voiced (K, M, N, S)
 - Retroflex
     - Nasal (K)
     - Stop
-        - Unvoiced (H, K, M, N, S)
-        - Aspirated (H, K, M, N)
+        - Unvoiced (K, M, N, S)
+        - Aspirated (K, M, N)
         - Voiced (K, M, N, S)
         - Murmured (K, N)
-    - Prenasalized stop
-        - Unvoiced (H)
-        - Aspirated (H)
     - Fricative
-        - Unvoiced (H, K)
-        - Voiced (H)
-    - Affricate
-        - Unvoiced (H)
-        - Aspirated (H)
-        - Prenasalized unvoiced (H)
-        - Prenasalized aspirated (H)
+        - Unvoiced (K)
     - Tap (N)
     - Lateral approximant
         - Voiced (K)
 - Palatal
-    - Nasal (H, M)
+    - Nasal (M)
     - Stop
-        - Unvoiced (H, K, M, N)
-        - Aspirated (H, K, M, N)
+        - Unvoiced (K, M, N)
+        - Aspirated (K, M, N)
         - Voiced (K, M, N)
         - Murmured (K, N)
-    - Prenasalized stop
-        - Unvoiced (H)
-        - Aspirated (H)
     - Fricative
-        - Unvoiced (H, S)
-        - Voiced (H)
+        - Unvoiced (S)
     - Affricate
         - Unvoiced (K, S)
         - Voiced (K, S)
     - Approximant (K, M, N, S)
 - Velar
-    - Nasal (H, M, N, S)
+    - Nasal (M, N, S)
     - Stop
-        - Unvoiced (H, M, N, S)
-        - Aspirated (H, M, N)
+        - Unvoiced (M, N, S)
+        - Aspirated (M, N)
         - Voiced (M, N, S)
         - Murmured (N)
-    - Prenasalized stop
-        - Unvoiced (H)
-        - Aspirated (H)
-- Uvular
-    - Stop
-        - Unvoiced (H)
-        - Aspirated (H)
-    - Prenasalized stop
-        - Unvoiced (H)
-        - Aspirated (H)
 - Glottal
     - Stop
         - Unvoiced (M)
     - Fricative
-        - Unvoiced (H, M, N, S)
+        - Unvoiced (M, N, S)
 
 | CONSONANTS  | Bilabial | Dental | Alveolar | Retroflex | Palatal | Velar | Glottal |
 |---          |---       |---     |---       |---        |---      |---    |---      |
@@ -177,12 +131,12 @@ Consonants:
 | Lateral     |          |        | l        |           |         |       |         |
 
 Vowels:
-- Basic 5 vowels (H, K, M, N, S*) *Sinhala doesn't have /e/*
+- Basic 5 vowels (K, M, N, S*) *Sinhala doesn't have /e/*
 - Schwa (M, N, S)
-- High central unrounded vowel (H, ~M)
+- High central unrounded vowel (~M)
 - Mid-high central unrounded vowel (~M)
 - Low front unrounded vowel (K, S)
-- Nasal distinction (H, N)
+- Nasal distinction (N)
 - Length distinction (K, ~N, S)
 - Vowel harmonization (~M, N)
 
@@ -195,7 +149,9 @@ Vowels:
 Phonotactics:
 - CCVC maximal structure
 
-| LANGUAGE FEATURES  | Hmong  | Kannada | Newar | Madurese | Sinhala |
-|---                 |---     |---      |---    |---       |---      |
-| Word order         | SVO    | SOV     | SOV   | SVO      | SOV     |
-| Syllable Structure | CCCCVC | CCCVCCC | CGV   | CCVC     | CVC     |
+| LANGUAGE FEATURES  | Kannada | Newar | Madurese | Sinhala |
+|---                 |---      |---    |---       |---      |
+| Word order         | SOV     | SOV   | SVO      | SOV     |
+| Syllable Structure | CCCVCCC | CGV   | CCVC     | CVC     |
+| Nominal Number     | S, P    | S, P  | S, P     | S, P    |
+| Nominal Cases      | 8       | 6     | 0        | 5-7     |
