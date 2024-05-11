@@ -138,7 +138,7 @@ Vowels:
 - Low front unrounded vowel (K, S)
 - Nasal distinction (N)
 - Length distinction (K, ~N, S)
-- Vowel harmonization (~M, N)
+- Vowel harmonization (M, ~N)
 
 | VOWELS | Front | Central | Back |
 |---     |---    |---      |---   |
@@ -148,10 +148,22 @@ Vowels:
 
 Phonotactics:
 - CCVC maximal structure
+- Gemination (K)
+- Onset second-consonant restrictions
+    - Approximants (N, S)
+    - Liquids (K, M)
+    - Trill (S)
+- Coda restrictions
+    - Unvoiced stops except retroflex/palatal (M, N, S)
+    - Nasals (K, M, N, S)
+    - Liquids (K, M, N)
+    - Approximants (M, N)
+    - /s/ (M, N, S)
 
-| LANGUAGE FEATURES  | Kannada | Newar | Madurese | Sinhala |
-|---                 |---      |---    |---       |---      |
-| Word order         | SOV     | SOV   | SVO      | SOV     |
-| Syllable Structure | CCCVCCC | CGV   | CCVC     | CVC     |
-| Nominal Number     | S, P    | S, P  | S, P     | S, P    |
-| Nominal Cases      | 8       | 6     | 0        | 5-7     |
+| LANGUAGE FEATURES   | Kannada | Newar | Madurese | Sinhala |
+|---                  |---      |---    |---       |---      |
+| Word order          | SOV     | SOV   | SVO      | SOV     |
+| Syllable Structure  | CCCVC   | CGVC  | CCVC     | CVC     |
+| Nominal Number      | S, P    | S, P  | S, P     | S, P    |
+| Nominal Cases       | 8       | 6     | 0        | 5-7     |
+| Lexical Root Length | 8       | 2-3   | 2        | 5-7     |
