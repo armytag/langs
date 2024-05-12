@@ -45,8 +45,9 @@ Species:
 Languages:
 - Gallus gallus
     - Newar (Sino-Tibetan)
+    - Thai (Kra-Dai)
 - Gallus varius
-    - Madurese (Austronesian)
+    - Javanese (Austronesian)
 - Gallus lafayettii
     - Sinhala (Indo-European)
 - Gallus sonneratii
