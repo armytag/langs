@@ -54,117 +54,30 @@ Languages:
     - Kannada (Dravidian)
 
 Consonants:
-- Bilabial
-    - Nasal (K, M, N, S)
-    - Stop
-        - Unvoiced (K, M, N, S)
-        - Aspirated (K, M, N)
-        - Voiced (K, M, N, S)
-        - Murmured (K, N)
-    - Approximant
-        - Voiced (M, N, S)
-- Labiodental
-    - Fricative
-        - Unvoiced (K, M, S)
-    - Approximant
-        - Voiced (K)
-- Dental
-    - Stop
-        - Unvoiced (K, M, N, S)
-        - Aspirated (K, M, N)
-        - Voiced (K, M, N, S)
-        - Murmured (K, N)
-- Alveolar
-    - Nasal (K, M, N, S)
-    - Fricative
-        - Unvoiced (K, M, N, S)
-        - Voiced (K)
-    - Tap (K, S)
-    - Trill (M)
-    - Lateral approximant
-        - Voiced (K, M, N, S)
-- Retroflex
-    - Nasal (K)
-    - Stop
-        - Unvoiced (K, M, N, S)
-        - Aspirated (K, M, N)
-        - Voiced (K, M, N, S)
-        - Murmured (K, N)
-    - Fricative
-        - Unvoiced (K)
-    - Tap (N)
-    - Lateral approximant
-        - Voiced (K)
-- Palatal
-    - Nasal (M)
-    - Stop
-        - Unvoiced (K, M, N)
-        - Aspirated (K, M, N)
-        - Voiced (K, M, N)
-        - Murmured (K, N)
-    - Fricative
-        - Unvoiced (S)
-    - Affricate
-        - Unvoiced (K, S)
-        - Voiced (K, S)
-    - Approximant (K, M, N, S)
-- Velar
-    - Nasal (M, N, S)
-    - Stop
-        - Unvoiced (M, N, S)
-        - Aspirated (M, N)
-        - Voiced (M, N, S)
-        - Murmured (N)
-- Glottal
-    - Stop
-        - Unvoiced (M)
-    - Fricative
-        - Unvoiced (M, N, S)
 
 | CONSONANTS  | Bilabial | Dental | Alveolar | Retroflex | Palatal | Velar | Glottal |
 |---          |---       |---     |---       |---        |---      |---    |---      |
 | Nasal       | m        |        | n        |           |         | ŋ     |         |
-| Plosive     | p b      | t d    |          | ʈ ɖ       | c ɟ     | k g   |         |
-| Asp. Plos.  | pʰ       | tʰ     |          | ʈʰ        | cʰ      | kʰ    |         |
+| Plosive     | p b      | t d    |          | ʈ ɖ       | tɕ dʑ   | k g   |         |
+| Asp. Plos.  | pʰ bʰ    | tʰ dʰ  |          | ʈʰ ɖʰ     | tɕʰ dʑʰ | kʰ gʰ |         |
 | Fricative   | f        |        | s        |           |         |       | h       |
 | Approximant | w        |        |          |           | j       |       |         |
 | Rhotic      |          |        | ɾ/r      |           |         |       |         |
 | Lateral     |          |        | l        |           |         |       |         |
 
 Vowels:
-- Basic 5 vowels (K, M, N, S*) *Sinhala doesn't have /e/*
-- Schwa (M, N, S)
-- High central unrounded vowel (~M)
-- Mid-high central unrounded vowel (~M)
-- Low front unrounded vowel (K, S)
-- Nasal distinction (N)
-- Length distinction (K, ~N, S)
-- Vowel harmonization (M, ~N)
 
 | VOWELS | Front | Central | Back |
 |---     |---    |---      |---   |
-| Close  | i     | ɨ       | u    |
+| Close  | i     |         | u    |
 | Mid    | e     | ə       | o    |
-| Open   |       | a       |      |
+| Open   | (ɛ)   | a       | (ɔ)  |
 
 Phonotactics:
-- CCVC maximal structure
-- Gemination (K)
-- Onset second-consonant restrictions
-    - Approximants (N, S)
-    - Liquids (K, M)
-    - Trill (S)
-- Coda restrictions
-    - Unvoiced stops except retroflex/palatal (M, N, S)
-    - Nasals (K, M, N, S)
-    - Liquids (K, M, N)
-    - Approximants (M, N)
-    - /s/ (M, N, S)
 
-| LANGUAGE FEATURES   | Kannada | Newar | Madurese | Sinhala |
-|---                  |---      |---    |---       |---      |
-| Word order          | SOV     | SOV   | SVO      | SOV     |
-| Syllable Structure  | CCCVC   | CGVC  | CCVC     | CVC     |
-| Nominal Number      | S, P    | S, P  | S, P     | S, P    |
-| Nominal Cases       | 8       | 6     | 0        | 5-7     |
-| Lexical Root Length | 8       | 2-3   | 2        | 5-7     |
+| LANGUAGE FEATURES   | Javanese | Kannada | Newar | Sinhala | Thai |
+|---                  |---       |---      |---    |---      |---   |
+| Word order          | SVO      | SOV     | SOV   | SOV     | SVO  |
+| Syllable Structure  | CCVC     | CCCVC   | CGVC  | CVC     | CCVC |
+| Nominal Number      | S, P     | S, P    | S, P  | S, P    | S, P |
+| Nominal Cases       | 0        | 8       | 6     | 5-7     | 0    |
