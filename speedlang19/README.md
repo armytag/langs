@@ -55,23 +55,24 @@ Languages:
 
 Consonants:
 
-| CONSONANTS  | Bilabial | Dental | Alveolar | Retroflex | Palatal | Velar | Glottal |
-|---          |---       |---     |---       |---        |---      |---    |---      |
-| Nasal       | m        |        | n        |           |         | ŋ     |         |
-| Plosive     | p b      | t d    |          | ʈ ɖ       | tɕ dʑ   | k g   |         |
-| Asp. Plos.  | pʰ bʰ    | tʰ dʰ  |          | ʈʰ ɖʰ     | tɕʰ dʑʰ | kʰ gʰ |         |
-| Fricative   | f        |        | s        |           |         |       | h       |
-| Approximant | w        |        |          |           | j       |       |         |
-| Rhotic      |          |        | ɾ/r      |           |         |       |         |
-| Lateral     |          |        | l        |           |         |       |         |
+| CONSONANTS    | Bilabial | Dental | Alveolar | Retroflex | Palatal | Velar | Glottal |
+|---            |---       |---     |---       |---        |---      |---    |---      |
+| Nasal         | m        |        | n        |           |         | ŋ     |         |
+| Breathy Plos. | bʱ       | dʱ     |          | ɖʱ        | dʑʱ     | gʱ    |         |
+| Modal Plos.   | b        | d      |          | ɖ         | dʑ      | g     |         |
+| Creaky Plos.  | b˷       | d˷     |          | ɖ˷        | dʑ˷     | g˷    |         |
+| Fricative     |          |        | s        |           |         |       | h       |
+| Approximant   | w        |        |          |           | j       |       |         |
+| Rhotic        |          |        | ɾ/r      |           |         |       |         |
+| Lateral       |          |        | l        |           |         |       |         |
 
 Vowels:
 
 | VOWELS | Front | Central | Back |
 |---     |---    |---      |---   |
-| Close  | i     |         | u    |
-| Mid    | e     | ə       | o    |
-| Open   | (ɛ)   | a       | (ɔ)  |
+| Close  | i iː  |         | u uː |
+| Mid    | e eː  | ə əː    | o oː |
+| Open   | æ æː  |         | ɑ ɑː |
 
 Phonotactics:
 
