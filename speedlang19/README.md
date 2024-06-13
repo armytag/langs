@@ -82,3 +82,35 @@ Phonotactics:
 | Syllable Structure  | CCVC     | CCCVC   | CGVC  | CVC     | CCVC |
 | Nominal Number      | S, P     | S, P    | S, P  | S, P    | S, P |
 | Nominal Cases       | 0        | 8       | 6     | 5-7     | 0    |
+
+## Newar
+
+### Nouns
+- Basic form: root + derivative-suffix + inflectional-suffix
+    - Derivation from verbal, adjectival, adverbial, and nominal bases.  Most derivation is verbal.
+    - Inflection for number and case
+        - Unmarked singular and marked plural
+        - Many cases suffixes also involve a preceing oblique suffix
+        - Cases suffixes for nominative (unmarked), agentive, instrumental, ablative, dative, locative, genitive
+- Nominal bases can combine to form compounds
+    - Nominal compounds are either subordinate, coordinate, or idiomatic
+        - Subordinate compounds are determinative ('one who...'), comparative ('which are like...'), appositional ('green + bird = parrot'), numeral ('two + hundred')
+        - Coordinate compounds are collective ('wife and husband = spouse') or contrastive ('water and fire = enmity') *(this seems similar to Mandarin)*
+        - Idiomatice compounds have a different meaning from the components ('gold + bird = person from whom one can make a profit')
+- Pronouns are personal, demonstrative/interrogative, and other
+    - Personal pronouns distinguish between first, second, and third persons
+        - Personal plural pronouns are formed by adding plural suffix
+        - Personal first person pronouns have clusivity distinction
+        - Second and third person pronouns have honorific and non-honorific forms
+    - Demonstrative pronouns are third person pronouns with remote and proximate distinctions
+    - Interrogative pronouns for humans, non-human beings, and non-beings
+    - Interrogative pronouns form the base for conjuctive constructions ('John, who...') and indefinite pronouns
+    - Demonstrative and interrogative pronouns form distributive plurals through reduplication of the base
+- Monomorphemic numerals for 'one' to 'ten' and 'hundred', 'thousand', 'lakh', and 'crore'.  Other numbers are compounds.
+    - Some basic numerals occur after nouns to create a specific meaning like measures of distance
+    - Teens are formed by 'ten' + /-n-/ + basic numeral
+    - Multiples of 10 are formed by basic numeral + reduced form of 'ten'
+    - Multiples of 100 or 1,000 are formed by basic numeral + 'hundred'/'thousand'
+    - Final basic digit is added where relevant (e.g. 'three-ten four' for 34)
+    - Further structures for fractions are listed
+
