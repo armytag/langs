@@ -96,7 +96,7 @@ Phonotactics:
     - Nominal compounds are either subordinate, coordinate, or idiomatic
         - Subordinate compounds are determinative ('one who...'), comparative ('which are like...'), appositional ('green + bird = parrot'), numeral ('two + hundred')
         - Coordinate compounds are collective ('wife and husband = spouse') or contrastive ('water and fire = enmity') *(this seems similar to Mandarin)*
-        - Idiomatice compounds have a different meaning from the components ('gold + bird = person from whom one can make a profit')
+        - Idiomatic compounds have a different meaning from the components ('gold + bird = person from whom one can make a profit')
 - Pronouns are personal, demonstrative/interrogative, and other
     - Personal pronouns distinguish between first, second, and third persons
         - Personal plural pronouns are formed by adding plural suffix
@@ -114,3 +114,61 @@ Phonotactics:
     - Final basic digit is added where relevant (e.g. 'three-ten four' for 34)
     - Further structures for fractions are listed
 
+### Verbs
+- Basic form: root + (causitive) + inflectional-suffix
+    - Verbs derive through auxiliary words, not morphological suffixes
+    - Verbs do not inflect for person
+    - Verbal roots are monosyllabic
+- Verbal derivation can be transitivization or causativization
+    - Transitivization occurs through voicing changes
+    - Causativization occurs through causitive suffix /-k/ and sometimes additionally another preceding suffix
+- Verbal inflections
+    - Conjunct denotes first-person subject (occurs for past, non-past, and imperative)
+    - Disjunct denotes second-person or third-person subjects (occurs for past, non-past, and imperative)
+    - Past forms include a proximate/remote suffix (e.g. verbal-base + past-disjunct-suffix + proximate/remote-suffix)
+    - Infinitive denotes a verbal noun
+    - Past participle takes an auxiliary verb and denotes an incomplete action
+    - Habitual denotes habitual actions
+- Compound verbs are idiomatic or auxiliary
+    - Idiomatic verbs occur as noun followed by a main verb, and has meaning different from components (e.g. 'head + prop(infinitive) = work hard')
+    - Auxiliary verbs can denote permissive, causitive, perfective aspect, continuation, beginning of work, or work in advance
+        - When joined with an auxiliary verb, the main verb will be in infinitive, past-participle, or habitual form (with different results)
+
+### Adjectives
+- Demonstrative and interrogative roots are basically adjectival in function
+- Comparatives and superlatives are by adding specific words before the adjective
+- Adjectives can be derived from verbs, nouns, or from other adjectives
+- Demonstrative bases for proximate-to-addresser, proximate-to-addressee, remote, and extremely-remote
+    - Demonstratives can combine with other adjectives to convey a certain amount/degree of that adjective
+- Interrogative bases for humans, animate-non-humans and inanimates (including abstract nouns), and locations
+
+### Adverbs
+- Simple adverbs are monomorphemic
+- Adverbs can be derived from verbal, adjectival, onomatopoeic, and phonesthetic bases
+    - Onomatopoeic and phonesthetic bases are used to convey momentary or continuing aspects
+    - Base reduplication can convey repeated actions
+
+### Particles and Postpositions
+- Particles can convey emphatic, conjunctive, quotative, expletive, negative, prohibitive, benedictive, determinative, exclamatory, hortative, initiative, responsive, vocative, questions, interrogative, honorific, intensifier, nullifier, and sentence nullifier
+    - Conjunctive particles are either coordinative or subordinative
+        - Coordinative particles can be cumulative ('and'), alternative ('or'), adversative ('even though'), or illative ('therefore')
+- Postpositions come after nouns, pronouns, adjectives, certain adverbs, and non-finite verbs to indicate place, direction, source, method, etc.
+
+### Classifiers
+- Verbal classifiers convey aspectual distinctions ('once', 'suddenly')
+- Nominatal classifiers denote qualities of the noun, and are used when quantifying the noun
+
+### Reduplication
+- Interrogative, demonstrative, reflexive, and indefinite nominal/pronominal bases can be reduplicated to convey distributive plural
+- Numerals with classifiers can be reduplicated to indicate distributions ('one by one')
+- Classifiers without numerals can be reduplicated to indicate emphasized innumerable distribution ('many of X' or 'many times')
+- Verbs in past and non-past forms can be reduplicated to bring emphasis
+- Verbs in past-participle form can be reduplicated to imply repeated continuous action
+- Verbs in imperative and habitual forms can be reduplicated to indicate more intensive action
+- Verbs reduplicated with emphatic particle between reduplication indicates intensified repetition of the action
+- Verbs in non-finite form can be reduplicated to give sense of continuity of past-participle incompletive form
+- Adjectives can be reduplicated to *reduce* intensity ('sour' to 'sourish')
+- Adverbs can be reduplicated to indicate repeated action
+    - Final syllable can be triplicated to indicate continuous fast action
+- Postpositions can be reduplicated to *increase* degree
+- Nouns can be reduplicated with slight sound change (echo) to generalize the meaning ('house' to 'houses etc.')
