@@ -172,3 +172,14 @@ Phonotactics:
     - Final syllable can be triplicated to indicate continuous fast action
 - Postpositions can be reduplicated to *increase* degree
 - Nouns can be reduplicated with slight sound change (echo) to generalize the meaning ('house' to 'houses etc.')
+
+## Sinhala
+
+### Typology
+- Highly consistent OV language, with modifiers preceding heads
+- Predicates can be verbal or non-verbal
+    - Non-verbal predicates do not need a copula
+- Clause types classified by verb classes and by number of valency relations
+    - Combined with this is an active-inactive dichotomy
+- Adjectives do not inflect for degree but take adverbs instead
+- More standard identifiers precede variable elements (e.g. family name before given name before title)
