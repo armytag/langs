@@ -183,3 +183,164 @@ Phonotactics:
     - Combined with this is an active-inactive dichotomy
 - Adjectives do not inflect for degree but take adverbs instead
 - More standard identifiers precede variable elements (e.g. family name before given name before title)
+- Noun modifiers precede nouns, except for numerals
+- Focus can be shifted (emphasized) by moving the focused constituent to the end of the sentence
+- Simple questions are formed with question particle or interrogative pronouns
+- Negative sentences are formed with negative particles added to the right of the predicate
+    - Non-verbal predicates also have other ways to form negation
+- Adverbials appear to the left of the predicate
+    - Sentence adverbs appear in sentence-initial position
+- Aspect and mood always involve an auxiliary verb preceded by the main verb
+- Clause combination involves participles, suffixed forms of verbs, and particles
+    - Dependant clauses generally preced the main clause
+    - Clauses precede the subordinating conjunction
+- Although word order is generally SOV, it can be relatively free if there's no ambiguity
+- Widespread ellipsis of both subject and object (including dative 'experiencers') when possible
+    - Subjects will only be included for emphasis or clarity
+    - When a negative marker is present, the entire verbal predicate can be deleted
+- Both subject and direct object appear in the unmarked nominative case in active clauses
+- Phrases are sometimes repeated with opposite constituent order to emphasize repetition ('he me-DAT hit me-DAT he hit' = 'He hit me repeatedly')
+- There are some instances of reduplication, including rhyming expressions reminiscent of Newar echo reduplication
+
+### Nouns
+- Nouns inflect for case, definiteness, and number
+- Inflection falls into two classes based on animacy
+    - Animacy is most obvious in numeral phrases where different number forms are used
+- Nouns have 5 cases: Nominative, Accusative, Dative, Instrumental, and Genitive/Locative
+    - Accusative is usually optional and is only used for animate nouns
+- Definiteness is unmarked, while indefinite nouns take an indefinite marker
+- Personal prounouns are classified by person and number
+    - Scond person pronouns have three levels of respect/intimacy
+- Demonstratives have four deictic levels:
+    - Close to speaker
+    - Close to addressee
+    - Distant but visible to both speaker and addressee
+    - Distant and not visible, or anaphoric
+- Demonstrative pronouns at each deictic level exist for inanimate nouns, animals (derogatory for humans), and humans
+- Interrogative pronouns follow the same pattern as demonstrative pronouns
+- Nouns can be derived from verbs
+    - Most productive system involves adding particle to verbal adjective
+    - Nominalized verb can take slightly different meaning depending on transitivity of verb stem
+
+### Adjectives
+- Adjectives occur in three classes: descriptive, nominal, and verbal
+    - Descriptive adjectives denote qualities or attributes
+    - Nominal adjectives can occur as full-fledged nouns, but do not inflect like nouns when used as adjectives
+    - Verbal adjectives denote actions, states, or experiences
+    - Nominal and verbal adjectives appear in identical form to the nominative-case nouns and non-past verbs, so they are not "pure adjectives" like descriptive adjectives
+- Adjectives can occur predicatively, but require an assertion marker
+- Demonstrative pronouns and interrogative pronouns function similar to adjectives syntactically
+
+### Verbs
+- Verbs inflect for past tense and non-past tense
+- Verbs also occur as one of three types: Active, Passive, and Causative
+    - Some verbal stems can occur in all of the three types, but others only create full verbs in a subset of the three
+    - This roughly corresponds to a distinction between dynamic/active verbs (Active & Causitive) and stative/processive verbs (Passive)
+
+### Adverbs
+- There is an open class of adverbs for indicating time, place, manner, degree, and cause
+- Most adverbs are derived from another grammatical category, with a small set of non-derivied primitive forms
+- Adverbs can sometimes inflect similar to nouns
+- Complex adverbial phrases are created by combining an adjective/noun with another nominal form
+
+### Particles
+- Particles are postpositional words without inflection that attach mainly to nominals
+    - Case particles connecting nominals to predicate, such as 'by (causitive)'
+    - Predicative particles connecting noun phrases to predicate, such as 'throughout'
+    - Highlighting particles, such as 'indeed'
+    - Conjunctive particles, such as 'or'
+    - Discourse particles for textual relationships, such as 'besides'
+    - Interrogative particles to form questions
+    - Quotative particles after verbal clauses
+    - Negative particles
+
+### Affixes
+- Prefixes
+    - Nouns can be modified, like 'con-' or 'mal-'
+    - Adjectives can be modified, like 'very' or 'un-'
+    - Verbs can be modified, like 'de-' or 'con-'
+- Suffixes
+    - Nouns can be modified to denote lexical meanings
+    - Adjectives can be modified to denote grammatical meanings like comparative, superlative, nominal sense, and diminutive
+    - Verbs can be modified inflectionally to denote verbal actions or verbal objects ('type-writer')
+
+### Interjections
+- Interjections are short sudden expressions of emotion, mental attitude, response, or sometimes emphatic effect via reduplication
+
+### Numerals
+- Numerals inflect for case, number, and definiteness
+- Numerals generally occur as a combination of base forms with particles, suffixes, or measure words
+- Lower numerals follow decimal multiples ('100 + 20 + 3') except for teen numbers ('1 + 10', '2 + 10')
+- Ordinal numbers are formed by adding a suffix
+- When counting animals or humans, numeral classifiers are added to the base before placing it after the noun
+- Numerals forms inherently denote definiteness and must be marked for indefinite meanings
+- Classifiers appear in singular form while the common noun appears in plural form ('men three-person')
+- Measure words are also used with numerals to describe weight, length, duration, etc.
+    - Structure of measure phrases is noun + measure word + classified numeral ('bread pounds two')
+    - Common nouns can also be used as quantifiers, such as 'bottle' or 'box'
+- Two consecutive indefinite numerals denotes alternation between the two ('two or three')
+
+### Kinship terms
+- Kinship terms can be extended to the whole society
+- Same-gendered siblings use the same terms of address
+    - Father and father's brothers all addressed with same term, but mother and father's sisters use different terms ('mother' vs 'aunt')
+
+### Verb morphology
+- Verbs are composed of lexical stems and grammatical suffixes to form usable verb forms
+- Verbs inflect for tense between past and non-past
+- Other finite forms (tied to a specific location in time relative to time of speaking)
+    - Imperative mood for commands and requests, usually does not have a suffix
+    - Permissive form functions similar to Imperative form but for third-persons (with different suffix)
+    - Hortative form functions similar to Imperative form but for first-person plural
+    - Optative mood functions like Imperative for first-person, but also changes to intransitive/involitive form
+        - A Volitional Optative can also be formed with a different suffix
+    - Inferential mood expresses futurity, and is generally used with second-person or third-person subjects
+    - Exclamatory mood expresses surprise towards an action
+- Non-finite forms are not tied to a specific location in time
+    - Adjectival form
+    - Focus form
+    - Conditional form
+    - Concessive form
+    - Temporal form
+    - Perfect participial form
+    - Perfect Adjectival form
+    - Reduplicated form
+    - Infinitive form
+- Although non-finite forms may have past and non-past suffixes, they never express actual past/non-past meaning
+    - Instead they depend on the tense of the finite verb for temporality
+- Verbs can take passive/intransitive suffix or causitive suffix to change the verb stem
+
+### Noun morphology
+- Nouns are divided into animate and inanimate classes
+- Nouns inflect for case, number, and definiteness
+- Inanimate nouns inflect for Nominative, Dative, Instrumental, and Locative cases
+- Animate nouns inflect for Nominative, Accusative, Dative, Ablative, Genitive, and Vocative cases
+    - Accusative case is optional and usually reserved for specific situations
+- There are other ways of expressing case besides morphology, such as postpositions and particles
+- Nouns inflect for singular and plural
+    - For singular animate nouns, a feminine/masculine distinction is sometimes made
+    - Number information is sometimes fused with the case information in a single suffix
+    - Sometimes nouns add a null suffix (i.e. don't change form) for number
+    - Some plural forms mean either genuine plurality ('several mothers') or inclusive plurality ('mother and others')
+- Definiteness is unmarked, indefinite meaning must be marked
+    - (In)definite suffix usually precedes case suffix
+- Nouns can be derived from adjectives or other nouns using suffixes
+    - Nouns derived from adjectives inflect for case, number, and definiteness just like ordinary nouns
+- Nouns can be derived from verbs using suffixes
+- Nouns can take prefixes that affect qualities of the noun but don't affect the lexical category
+- Nouns can form compounds, where the head noun appears on the right
+    - Only the head noun undergoes case inflection
+    - Adjectival compounds ('red' + 'flowers' = 'a certain species of red flower')
+    - Numeral compounds ('two' + 'period in the day' = 'morning and evening')
+        - The order of numeral and noun is opposite of typical numeral phrases
+    - Collective compounds ('fly' + 'mosquito' = 'bugs')
+
+## Thai
+
+## Kannada
+
+## Javanese
+
+
+
+
