@@ -335,11 +335,12 @@ Phonotactics:
         - The order of numeral and noun is opposite of typical numeral phrases
     - Collective compounds ('fly' + 'mosquito' = 'bugs')
 
+## Javanese
+
 ## Thai
 
 ## Kannada
 
-## Javanese
 
 
 
