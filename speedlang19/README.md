@@ -353,6 +353,62 @@ Phonotactics:
 - Adjectives and adverbs reduplicated to intensify
 - Nouns reduplicated to denote graduality, separateness, or plurality
 
+### Argument structure
+- Predicate occupies the final position in the sentence
+- Constituents are ommited when the referent is understood
+    - Second-person pronouns are often replaced by names, titles, or kinship terms
+- Argument structure types are classified by the following criteria:
+    - Class of predicate
+    - Lexical-semantic character of predicate
+    - Lexical-semantic character of nominal arguments
+    - Grammatical markings
+    - Relative prominence of participants
+- Possible argument structure types are enumerated in table on page 101 of the reference grammar
+- Copula is not required for predication
+- Noun phrases that do not qualify as arguments of the predicate are used optionally to modify the predicate
+    - Dative is used for purpose, source, time, standard, etc.
+    - Instrumental/ablative is used for instrument, duration of time, and various sources
+    - Locative is used for location of activity or of states
+    - Genitive is used for possessive relationships between one noun phrase and another noun phrase
+        - Only used for animate nouns; locative case is used for inanimate nouns
+    - Vocative is not used within a sentence but rather to address a referent
+- Postpositional phrases convey spatial meanings, and follow their referent
+- Case markings do not indicate relations like subject and object
+    - Subjects can be in nominative, accusative, dative, or instrumental case depending on the situation
+    - For this reason, Sinhala has been described as being ergative
+    - The subject is better identified by the focus system (described later)
+    - Case marking mainly depends on the lexical requirements of the predicate, particularly theta roles (volitivity)
+- When an animate/human noun takes an unaccustomed role (i.e. undergoer) it is marked with the accusative
+
+### Phrase construction
+- Noun phrases are connected through case markings
+- Modifiers of nouns can be nouns, adjectives, or verbs
+    - Word order is critical to interpretting these phrases, with head noun occuring at the end of the phrase
+    - Verbal modifiers appear in adjectival form
+- Relative clauses are verb-final, so they don't need extra connecting morphemes
+    - Relative clauses use a gapping strategy, so there is no overt indication of the relative relationship between clauses (no pronouns or particles)
+    - Relative clauses can be embedded within other relative clauses using the case system
+- Verb phrase modifiers can occur both before and after the the verb
+    - Interrogative particle can occur sentence-initially or sentence-finally
+    - Negative particle is added after the predicate
+    - Negation of individual segments of the sentence occur before the negated segment as a prefix
+- Some auxiliary verbs occur after the principal verb (in the perfect participle form)
+    - For example, 'child wet-PAST' = 'the child wet something', but 'child wet-PP take-PAST' = 'this child wet himself'
+    - Sinhala reflexives have a strong non-volitional sense
+- Certain verbs and adjectives are used as modal auxiliaries
+    - Necessitative mood comes from Infinitive verb + 'be'/'become'
+        - Animate participants appear in dative form to reinforce non-volitional obligation
+    - Deontic and epistemic mood comes from Infinitive verb + 'need/want'
+        - Participant in dative form expresses desire
+        - Participant in nominative form expresses deontic obligation
+    - Ability/possibility comes from Infinitive verb + 'able' with dative subject
+- Tense appears as past or non-past, but can convey more nuanced aspects depending on the verbs type (Active, Passive, Causitive)
+- Adjectives do not inflect for tense even if they are predicates
+    - Instead the adjective is nominalized with dative/instrumental case, and an inflected copula is added
+- Non-finite verbs depend on finite clauses for their location in time
+- Aspectual distinctions are indicated with Perfect Participle verb + auxiliary verb
+    - Aspects include perfective, resultative, completive, inchoative, processive, progressive, and inceptive, all with their own respective auxiliary verbs
+
 ## Javanese
 
 ## Thai
