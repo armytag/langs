@@ -309,6 +309,11 @@ Phonotactics:
 - Although non-finite forms may have past and non-past suffixes, they never express actual past/non-past meaning
     - Instead they depend on the tense of the finite verb for temporality
 - Verbs can take passive/intransitive suffix or causitive suffix to change the verb stem
+- Verbs can have Active form, Passive form, Causative form, or Causative-passive form
+    - Passive form and Causative-passive form are often interchangeable
+    - Intransitive stems are transitivized by adding a Causative morpheme
+    - Passive forms can be obtained from most Causative forms and function like detransitivization or involitivization
+- Basic differentiation of verbs occurs between Active and Passive forms
 
 ### Noun morphology
 - Nouns are divided into animate and inanimate classes
@@ -334,6 +339,19 @@ Phonotactics:
     - Numeral compounds ('two' + 'period in the day' = 'morning and evening')
         - The order of numeral and noun is opposite of typical numeral phrases
     - Collective compounds ('fly' + 'mosquito' = 'bugs')
+    - Opposite compounds ('take' + 'give' = 'transactions')
+    - Rhyme compounds ('car' + nonsense rhyme = 'vehicles')
+    - Idiomatic compounds, with meaning unrelated to components ('three' + 'five' = 'blended spice')
+    - Compounds are abundant and can be formed with more than just two components
+
+### Reduplication
+- Verbs can be reduplicated to perform different syntactic or semantic functions
+    - Infinitive form reduplicated to denote iterativity or continuity
+    - Past participle form reduplicated to denote iterativity or durativity
+    - Past participial form with additional suffix reduplicated to denote only iterativity
+    - Verbal adjectives reduplicated to express individuality and emphasis
+- Adjectives and adverbs reduplicated to intensify
+- Nouns reduplicated to denote graduality, separateness, or plurality
 
 ## Javanese
 
