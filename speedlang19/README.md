@@ -409,6 +409,17 @@ Phonotactics:
 - Aspectual distinctions are indicated with Perfect Participle verb + auxiliary verb
     - Aspects include perfective, resultative, completive, inchoative, processive, progressive, and inceptive, all with their own respective auxiliary verbs
 
+### Grammatical constructions
+- Valency changing devices
+- Sinhala lacks a major morphological passive voice mechanism
+    - Involative construction superficially resembles passive structure
+        - Use of 'atin' with involative verb form
+        - No change in case assignment
+    - Inactive/agentless construction can seem like passive
+    - Object can be moved to topic position without changing verb tense
+        - 'shoe dog eat-PAST' = 'the shoe was eaten by dogs'
+
+
 ## Javanese
 
 ## Thai
