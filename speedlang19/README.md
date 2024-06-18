@@ -418,6 +418,11 @@ Phonotactics:
     - Inactive/agentless construction can seem like passive
     - Object can be moved to topic position without changing verb tense
         - 'shoe dog eat-PAST' = 'the shoe was eaten by dogs'
+    - Object can sometimes be ommitted in transitive sentences
+        - 'mosquitoes eat-IND' = '(I am) bitten by mosquitoes'
+    - Object may develop from the source concept as an ablative subject
+- Sinhala is fundamentally an ergative language
+- The 'atin' structure has greater association with ruling out a participant's volition
 
 
 ## Javanese
