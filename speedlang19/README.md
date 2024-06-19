@@ -485,6 +485,110 @@ Phonotactics:
 
 ## Javanese
 
+### Terms
+- *Simple words* do not involve any affixation
+    - Verbs take obligatory affixation as soon as a formation process starts
+- *Composed words* involve an extension of a simple word via affixation, reduplication, or combination
+- A *nuclear word* is closely tied to the valency of a verb
+- A *peripheral word* is an option word whose function is not implied by the verb
+- Some monosyllabic words involve an optional affix or a euphonising appendage
+    - There are only a few monosyllabic words in Javanese
+- Non-monosyllabic words are usually not more than three syllables
+- Expansion of a simple word into a composed word usually only occurs for nuclear words
+- Verbs can be combined with verbs or nouns to form new verbs
+- Nouns can be combined with similar or unrelated nouns to form new nouns
+
+### Reduplication
+- Verbs can be reduplicated to convey brief/informall actions or repeated actions
+- Nouns can be reduplicated to convey plurality, affectivity (emphasis), or collections
+
+### Verb specification
+- Verbs have inherent features (specification) that affect how they inflect and are interpretted
+- Verbs have a certain valency that implies relation to nouns, all of which are nuclear words
+    - NOTE: Order of rules do *not* indicate word order
+    - State: V → V N(patient)
+        - Indicates a state that the patient noun is in (e.g. 'dirty')
+        - Non-real states take additional suffix
+    - Action: V → V N(agent)
+        - Indicates an action instigated by an agent noun
+        - Hortative commands take additional suffix
+    - Process: V → V N(patient)
+        - Indicates a change in the patient noun
+        - Transitory (temporally limited) process take an infix
+    - Action-Process: V → V N(patient) N(agent)
+        - Indicates an action which the agent noun performs on the patient noun
+    - State-Experiential: V → V N(patient) N(experience)
+        - Indicates a patient which undergoes a psychological experience (e.g. 'bored')
+    - State-Benefactive: V → V N(patient) N(beneficiary)
+        - Indicates a possessor (beneficiary) noun and a possession (patient) noun
+    - State-Locative: V → V N(location) N(patient)
+        - Indicates the patient noun is located relative to the location noun
+    - Action-Experiential: V → V N(patient) N(agent)
+        - Indicates an experience (implied by the verb) which the agent noun causes in the patient noun
+    - Action-Benefactive: V → V N(patient) N(beneficiary)
+        - Indicates an manipulation of the (possessed) patient noun by the beneficiary noun
+        - Verb can take a prefix to add a recipient noun to the phrase
+    - Action-Locative: V → V N(location) N(agent)
+        - Indicates an action by the agent noun with an origin or goal in the location noun
+    - Process-Experiential: V → V N(patient) N(experience)
+        - Indicates the patient noun undergoes a non-static psychological experience (e.g. 'remember')
+    - Process-Benefactive: V → V N(patient) N(beneficiary)
+        - Indicates the gain/loss of the patient noun by the beneficiary noun
+    - Process-Locative: V → V N(location) N(patient)
+        - Indicates the change of location by the patient noun
+    - Action-Process-Experiential: V → V N(patient) N(experience)
+        - Indicates a change in the psychological experience of the patient noun (e.g. 'learn', 'ask')
+    - Action-Process-Benefactive: V → V N(patient) N(beneficiary) N(agent)
+        - Indicates a change in the possession of the patient noun by the beneficiary noun caused by the agent noun
+    - Action-Process-Locative: V → V N(location) N(patient) N(agent)
+        - Indicates a change in the location of the patient noun caused by the agent noun
+
+### Noun specification
+- Noun specification as patient, agent, experiencer, beneficiary, or location does not involve affixation
+    - Instead of affixation, nouns inherently have certain qualities lexically
+- Nouns specify for count, potent, animate, human, feminine, and unique
+    - Count nouns can take numerals directly, but non-count nouns need a quantifier
+    - Potent nouns can occur as the instigator of an action
+    - Some countable potent nouns can be animate
+    - Some countable potent animate nouns can be human
+        - Only singular human nouns can be pronominalized
+    - Feminine is not usually inflected but can be inherent to the noun
+        - There is a special case of 'rooster' vs 'hen', two non-human words differentiated by gender
+    - A unique noun usually refers to a human noun represented by a proper name, but can sometimes include certain domestic animals which take proper names
+
+### Derivation
+- Verb → verb
+    - Intensification indicates more or less intense action via affix or separate word
+    - Transitivization via affix
+    - Intentionalization via affix
+    - Reciprocalization indicates actions between two nouns applied to each other via reduplication and affix together
+- Verb → noun
+    - Direct nominalization into an abstract noun via affix or inflection
+    - Displaced nominalization into a physical object via affix
+- Noun → noun
+    - Collection indicates collection of individually countable nouns via reduplication with an affix
+    - Location indicates place or general location of the noun via affix
+    - Imitation indicates a copy of a reality conveyed by the original noun via reduplication with an affix
+        - 'house' → 'toy house', 'child' → 'doll'
+- Noun → verb
+    - Enactment indicates performance with the noun as the object/instrument/upshot via affix (including infix)
+    - Provision indicates noun as object of provision/supply via affix
+    - Orientation indicates movement towards directions or locations via affix
+    - Predication indicates a state or condition via placement after the patient noun
+        - This allows nominal predicates without copula
+
+### Peripheral words (including particles)
+- Emotives indicate the state of emotion of the speaker
+- Conjunctives combine two sentences or two words within a sentence
+    - Alternative conjunctives indicate choice between two elements, and appear between the elements
+    - Inclusive conjunctives indicate union of two elements into a relatively larger entity, and appear between the elements
+    - Contrastive conjunctives indicate contrast between two elements, and appear between the elements
+    - Conditional conjunctives indicate a condition or implication of one sentence on another sentence, and appear at the beginning of the sentence with the condition
+    - Temporal conjunctives indicate a temporal relationship of one sentence on another sentence, and appear at the beginning of the temporal sentence
+    - Explanatory conjunctives indicate that one sentence is the source or target of explanation for another sentence, and appear at the beginning of the explanation sentence
+    - Relator conjunctives indicate joins a sentence to an antecedent element, and appears at the beginning of the relativized sentence
+- Specifiers provide further diagnostics of a nuclear word
+
 ## Thai
 
 ## Kannada
