@@ -423,7 +423,65 @@ Phonotactics:
     - Object may develop from the source concept as an ablative subject
 - Sinhala is fundamentally an ergative language
 - The 'atin' structure has greater association with ruling out a participant's volition
+- Most lexical transitive verbs have a corresponding intransitive counterpart
+    - Appears to be minor vowel harmony between the counterparts
+        - /bandinəwa/ vs. /bœndenəwa/, /kapənəwa/ vs. /kœpenəwa/
+- Causative constructions derive from transitive or active intransitive verbs using the causative form of the verb
+    - Active intransitive: NP1(sbj) V → NP0(sbj) NP1(obj) V
+    - Transitive: NP1(sbj) NP2(obj) V → NP0(sbj) (NP1(obl)) NP2(obj) V
+- Morphological causatives divide between degrees of forcefulness
+    - This distinction is largely lexical, and some verbs have both interpretations
+    - Passive verbs can have morphological causatives if they don't have a lexical causative counterpart
+- Additional levels of causatives can be added with intermediate-agent/causee markers
+    - Chitra child-DAT milk drink.CAUS-IND = 'Chitra is feeding the child milk."
+    - mother Chitra *by* child-DAT milk drink.CAUS-IND = 'Mother is getting Chitra to feed the child milk."
+- For simple benefactive constructions, benefactor appears in nominative while beneficiary appears in dative form
+- Indirect causation is only realized through periphrastic causatives
+    - Placing verb in inifinitive form and adding a special auxiliary verb
+        - 'father trees cut-INF salassə.PAST' = 'Father caused the trees to be cut'
 
+### Expanded sentences
+- Compound sentences consist of two or more coordinate clauses which are reversible and enumerable
+    - Collateral coordination allow clauses to appear side-by-side without any inflectional suffixing
+        - Can involve identical noun deletion, or contrasts ('they work we play')
+    - Particles can be used at the end of each clause
+    - Conjunctive endings (including clitics) can be added to the end of each clause
+        - Perfect Participle (PP) form is often used for coordinating clauses
+        - 'mother Ranjit-DAT shirt-CONJ Chitra-DAT gown-CONJ buy.PP give.PAST' = 'Mother bought a shirt for Ranjit and a gown for Chitra'
+        - If the two clauses involve the same subject and simultaneously occuring events, the Reduplicated Perfect Participle form can be used for one of the verbs
+            - 'Chitra laugh-RPP run.PAST' = 'Chitra ran while laughing'
+            - Seems similar to Mandarin *zhe* particle
+- Complex sentences consist of one main clause and one subordinate clause
+    - Subordinate clauses generally precede main clauses
+    - Clauses can be nominalized and then used as noun phrases in the main clause
+    - Adnominal clauses are predicates that become modifiers for noun phrases
+        - Similar to English 'that' or 'who'
+    - Adverbial clauses are used to convey time, cause/reason, condition, concession, purpose/intention, proportion, and manner
+        - Subordination occurs through verbal endings, inflectional forms plus particles, and case markers
+- Mixed sentences consist of both compound sentences and complex sentences
+    - Here is an example of several compound/complex clauses combined using the strategies above (page 204)
+        - house-servant-INDF take.PAST-*when* work *do.CONC no.CONC* he-DAT wage pay-*INF* must food give-*INF* must ill b.PAST-COND medicine *buy.PP* give-INF must
+        - 'When we employ a house-servant, whether he works or not, we have to pay him a wage, feed him, and buy him medicine in case he becomes ill.'
+
+### Information structure
+- Initial position of sentence is generally the topic position
+- For existential constructions, location is generally place first
+    - 'yard-LOC dog-INDF be-IND' for SOV (Sinhala), 'yard have dog' for SVO (Mandarin)
+    - In Sinhala, placing the locative second sounds weird for locative to appear second ('dog-INDF yard-LOC be-IND')
+        - This can be remidied with a contrastive particle ('dog-INDF yard-LOC CONTR be-IND')
+    - Normal locative can be used with postpositions rather than locative
+        - This creates a sense of a single linear exclamation rather than a topic-comment structure
+- Focus forms can be used with verbs to add focus to one of the constituents
+    - The new focus is usually the object, since the subject (at the front of the sentence) would normally be the focus anyway
+    - The subject can be further focused by adding a focus marking particle after the noun
+        - The subject could instead be moved to the end of the sentence to indicate focus
+        - There are a range of focus-marking particles including interrogatives, emphatic, hearsay, etc.
+    - A focus verb form can be used in a direct response to some else in order to question the validity of the other's statement (page 218)
+
+### Deixis
+- Deixis is important for integrating contextual information
+- Deixis distinguishes between four levels: proximal-to-speaker, proximal-to-hearer, distal-in-sight, and distal-out-of-sight
+    - There are deictic demonstratives for each level, which decline for different semantic categories
 
 ## Javanese
 
