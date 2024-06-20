@@ -503,6 +503,47 @@
     - Explanatory conjunctives indicate that one sentence is the source or target of explanation for another sentence, and appear at the beginning of the explanation sentence
     - Relator conjunctives indicate joins a sentence to an antecedent element, and appears at the beginning of the relativized sentence
 - Specifiers provide further diagnostics of a nuclear word
+    - Negative specifier for verbs ('not')
+    - Frequency specifiers for verbs ('once', 'seldom')
+    - Stage specifiers for verbs ('yet', 'in the process of')
+    - Negative specifier for nouns
+    - Prepositions for nouns
+        - 'in' can attach as an affix to directions to create complex prepositions
+        - 'to' indicates goal of some movement, and can allow the movement verb to be deleted
+
+### Sentence structure
+- Verbs can occur with zero or more nouns, sometimes without changing form
+    - Zero-place verbs denote contextual occurances like weather, and don't need any dummy arguments
+    - One-place verbs can be state verbs, action verbs, or process verbs
+        - Normal order: N V
+        - Emphatic order: V N
+    - Two-place verbs are a combination of state, action, or process with experiential, benefactive, or locative, or action-process or action-process-experiential
+        - Normal order: N1 V N2
+        - Emphatic order: V N2 N1 (topicalization of verb structure)
+    - Three-place verbs usually add an agent to the two-place verbs, but can also involve expansion of a locative verb with a second locative noun
+        - Benefactive three-place verbs can be direct or indirect
+            - Direct transfer indicates transfer of object between the agent noun and the beneficiary noun, via 'to'
+            - Indirect transfer indicates the transfer of an object consecutive to a service, via 'for'
+            - Agent-focused order: N(agt) V N(pat) 'to/for' N(ben)
+            - Beneficiary-focused order: N(ben) V N(pat) 'by' N(agt)
+        - Complemental three-place verbs indicate a change in condition of the patient instigated by the agent
+            - Agent-focused order: N(agt) V N(pat) N(compl)
+            - Patient-focused order: N(pat) V N(compl) 'by' N(agt)
+            - Compliment noun cannot be topicalized
+        - Action-Locative three-place verbs indicate a change in location of the agent
+            - Depending on the focus, one or both location noun (origin or goal) can be dropped
+            - Locations (origin or goal) cannot be topicalized
+            - Agent-focused order: N(agt) V (N(org)) (N(goal))
+            - Verb-focused order: V (N(org)) (N(goal)) N(agt) 
+        - Experiential three-place verbs indicate an experience instigated by an agent to a patient
+            - Agent-focused order: N(agt) V N(exp) 'to' N(pat)
+            - Patient-focused order: N(pat) V N(exp) 'by' N(agt)
+        - Process-Locative three-place verbs indicate motion between an origin location and a goal location
+            - Depending on the focus, one or both location noun (origin or goal) can be dropped
+            - Locations (origin or goal) cannot be topicalized
+            - Patient-focused order: N(pat) V (N(org)) (N(goal))
+            - Verb-focused order: V (N(org)) (N(goal)) N(pat) 
+    - Four-place, five-place, and further verbs can be created by adding further location nouns to the phrase
 
 ## Thai
 
