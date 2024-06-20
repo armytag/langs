@@ -544,6 +544,20 @@
             - Patient-focused order: N(pat) V (N(org)) (N(goal))
             - Verb-focused order: V (N(org)) (N(goal)) N(pat) 
     - Four-place, five-place, and further verbs can be created by adding further location nouns to the phrase
+- Simple sentences have a single verb and are an affirmative statement (not a command, question, or negative statement)
+- Modified simple sentences are derived from simple sentences by an optional process without additional verbal constructions
+    - Possible modifications include negation, frequency, stage, time, question, command, potentiality, or further specification of a noun
+- Compound sentences combine two or more simple sentences
+    - Identical elements are not repeated
+    - None of the conjoined elements modify or subordinate any other
+    - Conjoining occurs through a single conjunctive particle
+    - Examples of word order with conjunction
+        - {N1 V1 N2 N3} + {N4 V1 N5 N3} → {N1 V1 N2 N3 Con N4 N5}
+        - {N1 V1 N2 N3} + {N4 V2 N5 N3} → {N1 V1 N2 N3 Con V2 N4 N5}
+        - {N1 V1 N2 N3} + {N2 V1 N2 N4} → {N1 V1 N2 N3 Con N4}
+        - {N1 V1 N2 N3} + {N1 V2 N4 N3} → {N1 V1 N2 Con V2 N4 N3}
+        - {N1 V1 N2 N3} + {N4 V1 N2 N3} → {N1 Con N4 V1 N2 N3}
+- Complex sentences combine two simple sentences where one sentence is embedded in another (called the matrix sentence)
 
 ## Thai
 
