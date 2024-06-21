@@ -578,6 +578,30 @@
         - {N1 V1 N2 N3} + {N1 V2 N4 N3} → {N1 V1 N2 Con V2 N4 N3}
         - {N1 V1 N2 N3} + {N4 V1 N2 N3} → {N1 Con N4 V1 N2 N3}
 - Complex sentences combine two simple sentences where one sentence is embedded in another (called the matrix sentence)
+    - Non-state matrix verbs can only take noun complementation, state matrix verbs can take both verb complementation and noun complementation
+    - Patient noun complementation via 'which'
+        - 'father bury trash *which* be garden' = 'Father buried the trash which was in the garden'
+    - Agent noun complementation via 'who'
+        - 'kid (*who*) sit that make kite' = 'The kid who is sitting there is making a kite'
+    - Patient noun complementation with a process verb via 'which'
+        - 'timber *which* fall float' = 'The timber which fell down is floating'
+    - Verb complementation via replacing patient noun with non-passive sentence
+        - 'Sardi like help mother' = 'Sardi likes to help his mother'
+    - Antecedents can be deleted if clear from context
+    - Conditional sentences are marked by a conditional conjunctive
+        - Usually delete a noun from the matrix sentence if present in the conditional sentence
+        - 'if you sick permitted stop' = 'If you are sick, you make take a break'
+    - Locative sentence complements a locative noun via the marker 'who/which'
+        - 'hour nine I must depart to place *which* already marked twig bamboo' = 'At nine I must already have gone to the place which was previously marked with a bamboo twig'
+    - Manner sentence complements matrix verbs via peripheral word
+        - 'back itch *like* stung bee' = 'My back is itching as if it were stung by a bee'
+    - Temporal sentence places martix sentence in relation to time, via temporal word
+        - Temporality can be sequential, coincidental, future, or past
+
+### Speech decorum (registers)
+- Complex system of address references, vocabulary, and affixation
+- Developed from a complex pronoun system and word-ending variation
+- Influenced by factors such as formality, intimacy, respect, courtesy, and status difference/equality
 
 ## Thai
 
