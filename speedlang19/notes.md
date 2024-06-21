@@ -1,3 +1,23 @@
+## Phonetics
+
+### Stop phonation
+- Modal voicing typically requires more energetic effort to produce sustained vocal vibration compared to English
+- Thai voiced phones are typically pronounced stiff or creaky during onset
+- With stiff voice, vocal folds come together well before release and closure lasts longer than non-stiff
+- Breathy voice manifests only during the release of a closure
+- Breathy stops followed by vowel display an acoustically noisy but periodic interval as the glottal gesture overlaps with the articulation of the vowel
+- Peak glottal aperture occurs before release in voiceless-unaspirated stops, at release in voiceless-aspirated stops, and after release in voiced breathy stops
+- Vowels before breathy stops tend to be slightly longer than before modal stops
+- Javanese stops in initial position don't have vocal fold vibration during the closure regardless of stiff/slack
+    - Arytenoids remained close together for stiff voiced stops
+    - Vocal folds are noticably more open for slack voiced stops
+    - Acoustic difference manifests at the release, affecting the phonation type at the onset of the following vowel
+        - Slack voiced stops cause following vowels to manifest with slack/breathy voice
+- Voiceless aspirated stops have a long voice-onset-time before the start of modal voicing for the following sound
+- Although there may be no occurence of voiceless phonation, aspiration can be defined as a period after the release of a stricture in which the vocal folds are markedly further apart
+    - Timing-based definition of aspiration is appropriate for languages like Hindi which also have breathy voiced stops, grouping the aspirated and breathy stops into voiceless-aspirated and voiced-aspirated respectively
+- Relative to modal voicing of vowels, creaky vowels have lower amplitude and breathy vowels have much higher amplitude
+
 ## Newar
 
 ### Nouns
