@@ -4,6 +4,7 @@
 - Modal voicing typically requires more energetic effort to produce sustained vocal vibration compared to English
 - Thai voiced phones are typically pronounced stiff or creaky during onset
 - With stiff voice, vocal folds come together well before release and closure lasts longer than non-stiff
+    - Voice onset after stiff voice is very sharp due to the increased tension of the vocal folds
 - Breathy voice manifests only during the release of a closure
 - Breathy stops followed by vowel display an acoustically noisy but periodic interval as the glottal gesture overlaps with the articulation of the vowel
 - Peak glottal aperture occurs before release in voiceless-unaspirated stops, at release in voiceless-aspirated stops, and after release in voiced breathy stops
