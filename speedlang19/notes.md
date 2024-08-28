@@ -604,9 +604,36 @@
 - Developed from a complex pronoun system and word-ending variation
 - Influenced by factors such as formality, intimacy, respect, courtesy, and status difference/equality
 
-## Thai
-
 ## Kannada
+
+### Syntax
+
+#### Questions
+- Direct quotes inidicated by word/verb after the quote
+    - Quotative word ('anta') in other situations, and generally indicates "cogitations" like 'anxious', 'assume', etc.
+    - Can combine with verbs as a suffix for narrative purposes
+- Neutral yes-no questions indicated by clitic at end of statement
+    - The clitic can attach to an contituent to focus the question on that constituent
+- Alternatively, question word 'what' can be cliticized to right of statement
+    - Optionally a vocative clitic can be added which is specific to the sex of the addressee and the relationship between speaker and addressee
+    - To question a specific constituent, it must occur in a cleft sentence (the verb is put in gerund form) and the constituent is moved to the right of the rest of the sentence
+- Leading questions expecting an affirmative answer use a particle at the end of the statement
+    - To focus a specific constituent, it must occur in a cleft sentence
+- Alternative questions ('or') add a clitic to the right of each constituent
+    - In nonequational sentences, alternatives are entire clauses and shared non-constituent parts are deleted
+    - If a verb and its negation are the alternatives, only the negation with a clitics occurs as the second constituent
+- Question words can be substituted for any questioned constituent
+    - When more than one of the thing is expected (e.g. 'Which books do you like?') the question word is reduplicated
+- When the verb is questioned, a special question verb is inflected and used
+    - Separate verb for transitive and intransitive verbs
+- In copular sentences, any constituent except the copula can be questioned
+- In infinitive clauses, any constituent except the subject can be questioned
+- In participial clauses, any constituent except the subject can be questioned
+- In gerundive clauses, any constituent can be questioned
+- In noun phrases, any constituent except a classifier can be questioned
+- Elements of juxtaposed and cliticized coordinated sentences cannot have any of their constituents questioned
+
+## Thai
 
 
 
