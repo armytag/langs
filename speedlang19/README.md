@@ -71,8 +71,8 @@ Vowels:
 | VOWELS | Front | Central | Back |
 |---     |---    |---      |---   |
 | Close  | i iː  |         | u uː |
-| Mid    | e eː  | ə əː    | o oː |
-| Open   | æ æː  |         | ɑ ɑː |
+| Mid    | e eː  | ə       | o oː |
+| Open   | (æ)   | a aː    |      |
 
 Phonotactics:
 

@@ -19,6 +19,73 @@
     - Timing-based definition of aspiration is appropriate for languages like Hindi which also have breathy voiced stops, grouping the aspirated and breathy stops into voiceless-aspirated and voiced-aspirated respectively
 - Relative to modal voicing of vowels, creaky vowels have lower amplitude and breathy vowels have much higher amplitude
 
+| Language | i | e | æ | ʉ | ə | a | u | o | ɑ |
+|---       |---|---|---|---|---|---|---|---|---|
+| Newar    | B | B | * |   | B | B | B |   |   |
+| Sinhala  | B | B | B |   | s | B | B | B |   |
+| Javanese | s | s |   |   | s | s | s | s |   |
+| Kannada  | B | B |   |   |   | B | B | B |   |
+| Thai     | B | B | B | B | B | B | B | B | B |
+
+| Language               | N | S | J | K | T |
+|---                     |---|---|---|---|---|
+| Clusters with glides   | Y | s | Y |   | Y |
+| Clusters with liquids  | Y |   | Y |   | Y |
+| Medial geminate cons.  | Y | Y |   | Y | ~ |
+| Nasal-stop clusters    |   | Y | i |   |   |
+| Word-final nasals      | Y | s | Y |   | Y |
+| Word-final liquids     | Y |   | Y |   |   |
+| Word-final plosives    | Y |   | Y |   | Y |
+
+### Newar phonology
+- i, e, u, ə, a
+- /æ/ exists but is fundamentally a sequence of /ae/
+- Diphthongs are /ui/, /əi/, and /əu/ with second vowel non-syllabic
+- Medial geminate consonants
+- Labial stops are affricated when they are followed by /u/ or /w/
+- Alveolar stops are dental when occuring after a nasal
+- Trill becomes tap intervocallicly
+- Word-final nasal with schwa (e.g. /-nə/) becomes /ŋ/
+- Long vowels don't occur with geminates (i.e. VːC became VCC historically)
+- Medial clusters across syllables include geminates along with stop-stop, stop-nasal, stop-liquid, nasal-stop, nasal-liquid, liquid-stop, liquid-nasal, liquid-liquid
+- Vowel sequences əi, ai, əu, au, əe, ui, ae, iu
+- Syllable types V, VC, VV, CV, CVC, CVV, CCV, CGVC, CGVV
+
+### Sinhala
+- /ə/ occurs mostly in complementary distribution with /a/
+    - /ə/ occurs preceding single consonants
+    - /a/ occurs before double consonants or another vowel
+    - Only /a/ occurs after /h/
+    - /ə/ rarely occurs in initial syllables
+- Word-final long vowels tend to be shortened
+- Vowel sequences ei, æi, ai, oi, ui, iu, eu, æu, au, ou, ae
+- Glides /j/ and /w/ articulated like /i/ and /ə/ respectively
+    - /w/ has lips closer together, closer like /v/ than a typical /w/ would be
+- Within consonant clusters, the first consonant is pronounced long
+- Nasal-stop clusters are special, and depend on the whether the nasal is long or short
+    - Clusters with long nasals (e.g. /tammbə/) are like other clusters where the first consonant (the nasal) is long
+    - Clusters with short nasals are almost like prenasalized stops and fully joins the subsequent syllable (e.g. /ta.mbə/)
+- Word-final long vowels shorten unless word is disyllabic and initial syllable has a short vowel
+- Syllable-final nasals assimilate place-of-articulation when combined with a following consonant
+- When /w/ becomes preceded by a syllable-final stop, it assimilates to the stop to create a geminate of that stop
+- Voicless stops assimilate with following voiced stops to create a geminate of that voiced stop
+- Nasals before a word boundary (with or without intervening schwa) become velarized, e.g. /paanə/ → /paaŋ/
+- Colloquially, initial or medial /s/ becomes /h/ which can trigger changes of following /ə/ to become either /æ/ or /a/
+- Syllables can be V, VC, CV, CVC
+
+### Javanese
+- No diphthongs
+- No word-final consonant clusters
+- Word-initial consonant clusters
+    - Plain orifice / s, + r
+    - Plain orifice (except ʈ and ɖ) / s, + l
+    - Labial consonant / dorsal consonant (except g), + y
+    - Laminal consonant / s / k / d, + w
+    - Nasal, + voiced plosive
+
+### Kannada
+- Long vowels rarely occur word-finally except as grammatical morphemes
+
 ## Newar
 
 ### Nouns
