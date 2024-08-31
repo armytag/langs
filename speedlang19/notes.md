@@ -632,6 +632,25 @@
 - In gerundive clauses, any constituent can be questioned
 - In noun phrases, any constituent except a classifier can be questioned
 - Elements of juxtaposed and cliticized coordinated sentences cannot have any of their constituents questioned
+- Disjunctive structures do not allow their constituents to be questioned
+- It is possible to question any number of elements in a sentence
+- Plural nouns with a distributive meaning can use a reduplicated question word ("howmuch-howmuch money to whom?")
+- Within coordinate structures, multiple questions are not permitted
+- Both main and subordinate clauses can have question words
+    - 'you-obl-loc who where-dat go-pst-ptpl what did compl who-dat know?' = "Who knows who among you went where and did what?"
+- Yes-no echo questions (asking for clarification) can simply repeat the unclear constituent with the question clitic attached, or by putting the suspected statement in a quotation with question clitic attached to the quotation verb
+    - Any element of a sentence could be part of an echo question
+
+#### Answers
+- The agreement and disagreement response morphemes (hu~ and uhu~) contain nasal vowels which are not found anywhere else in the language
+- Answers to question-word questions usually contain only the constituent required
+- It is very common to delete subjects, objects, and other major constituents if they are clear from verb marking, anaphora, or context
+- "Eat" is phrased as 'meal become-3sn' (it becomes a meal)
+- Different affirmative/negative answer words may be used depending on the kind of question (request vs interrogative)
+- Answers to leading questions depend on if the speaker agrees or disagrees with the underlying assumption, rather than the positive/negative polarity of the tag
+    - In other words, consider the question in statement form, then answer if that statement is true
+
+#### Imperatives
 
 ## Thai
 
