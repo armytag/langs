@@ -11,7 +11,7 @@
     - Vowels (5): plain, length
     - Stops: voiceless, voiced, ejective, implosive, prenasalized, some lablialized
     - Affricate: voiceless, voiced, ejective, lateral-ejective (lick a click), prenasalized, some labialized
-    - Fricatives: central, lateral
+    - Fricatives: voiceless, lateral
     - Clicks (alveolar): plain, glottalized, labialized
     - Approximants, Nasals, and Trill
     - Tone: pitch accent (one per word)
@@ -20,7 +20,7 @@
     - Vowels (5): plain, nasal
     - Stops: voiceless, aspirated, voiced
     - Affricates: ejective
-    - Fricatives: central
+    - Fricatives: voiceless
     - Clicks:
         - dental, alveolar, lateral, palatal
         - voiceless, nasal, glottalized, aspirated, voiced, aspirated-K, velar-affricate, velar-ejective-affricate, velar-fricative
