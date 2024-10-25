@@ -10,7 +10,6 @@
 | CONSONANTS  | Bilabial | Dental | Alveolar  | Velar  | Glottal |
 |---          |---       |---     |---        |---     |---      |
 | Nasal       | m        | n      |           |        |         |
-| Click       |          | ǀ      | ǃ         |        |         |
 | Implosive   | ɓ        | ɗ      |           | ɠ      |         |
 | Plosive     | p b ᵐb   | t d ⁿd | ts dz ⁿdz | k g ᵑg | ʔ       |
 | Fricative   | f v      |        | s z       |        | h       |
