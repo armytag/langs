@@ -11,8 +11,9 @@
 |---          |---       |---     |---        |---     |---      |
 | Nasal       | m        | n      |           |        |         |
 | Implosive   | ɓ        | ɗ      |           | ɠ      |         |
-| Plosive     | p b ᵐb   | t d ⁿd | ts dz ⁿdz | k g ᵑg | ʔ       |
-| Fricative   | f v      |        | s z       |        | h       |
+| Plosive     | p b      | t d    | ts dz     | k g    | ʔ       |
+| Prenasal    | ᵐp ᵐb    | ⁿt ⁿd  | ⁿts ⁿdz   | ᵑk ᵑg  |         |
+| Fricative   | f v      |        | s z       | x ɣ    | h       |
 | Approximant | w        |        | l         | j      |         |
 | Trill       |          |        | r         |        |         |
 
