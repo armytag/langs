@@ -23,3 +23,9 @@
 | Glottal       | ǀˀ     | ǃˀ       | ǁˀ      |
 | Nasal         | ⁿǀ     | ⁿǃ       | ⁿǁ      |
 | Nasal Glottal | ⁿǀˀ    | ⁿǃˀ      | ⁿǁˀ     |
+
+| VOWELS | Front | Central | Back |
+|---     |---    |---      |---   |
+| Close  | i ĩ   |         | u ũ  |
+| Mid    | e ẽ   |         | o õ  |
+| Open   |       | a ã     |      |
