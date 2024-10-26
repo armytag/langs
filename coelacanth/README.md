@@ -7,15 +7,15 @@
 
 ## Phonology
 
-| CONSONANTS  | Bilabial | Dental | Alveolar  | Velar  | Glottal |
-|---          |---       |---     |---        |---     |---      |
-| Nasal       | m        | n      |           |        |         |
-| Implosive   | ɓ        | ɗ      |           | ɠ      |         |
-| Plosive     | p b      | t d    | ts dz     | k g    | ʔ       |
-| Prenasal    | ᵐp ᵐb    | ⁿt ⁿd  | ⁿts ⁿdz   | ᵑk ᵑg  |         |
-| Fricative   | f v      |        | s z       | x ɣ    | h       |
-| Approximant | w        |        | l         | j      |         |
-| Trill       |          |        | r         |        |         |
+| CONSONANTS  | Bilabial | Dental | Alveolar | Velar  | Glottal |
+|---          |---       |---     |---       |---     |---      |
+| Nasal       | m        | n      |          |        |         |
+| Implosive   | ɓ        | ɗ      |          | ɠ      |         |
+| Plosive     | p b      | t d    | ts dz    | k g    | ʔ       |
+| Prenasal    | ᵐp ᵐb    | ⁿt ⁿd  | ⁿts ⁿdz  | ᵑk ᵑg  |         |
+| Fricative   | f v      |        | s z      | x ɣ    | h       |
+| Approximant | w        |        | l        | j      |         |
+| Trill       |          |        | r        |        |         |
 
 | CLICKS        | Dental | Alveolar | Lateral |
 |---            |---     |---       |---      |
