@@ -1,7 +1,18 @@
+## Phonology
 
-| CONSONANTS          | Bilabial | Alveolar | Velar | Glottal |
-|---                  |---       |---       |---    |---      |
-| Normal Release Stop | ɓ̥        | ɗ̥        | ɠ̥     | ʔ       |
-| Labiodental Release | pᶿ       | sᶿ       | kᶿ    | ɠ̥͜ɓ̥ᶿ     |
-| Fricative           |          | s        |       | h       |
-| Lateral Fricative   |          | ɬ        |       |         |
+| VOWELS | Back |
+|---     |---   |
+| Close  | u̥    |
+| Open   | ḁ    |
+
+| CONSONANTS          | Bilabial | Alveolar | Velar    | Cursed     |
+|---                  |---       |---       |---       |---         |
+| Nasal               | m̥ <m>    |          |          |            |
+| Normal Release Stop | ɓ̥ <p>    | ɗ̥ <t>    | ɠ̥ <k>    |            |
+| Labiodental Release | pᶿ <pth> | sᶿ <sth> | kᶿ <kth> | ɠ̥͜ɓ̥ᶿ <kpth> |
+| Fricative           |          | s <s>    |          | h̪͆ <h>      |
+| Lateral Fricative   |          | ɬ <lh>   |          |            |
+
+## Phonotactics
+
+- (C)V(h|m)
