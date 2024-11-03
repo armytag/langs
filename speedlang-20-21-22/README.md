@@ -10,7 +10,7 @@
 - No phonemic /u/
 - CV syllables
 - No more than two phonemes whose mosts common realization is a fricative (/h/ and /ɦ/ count as fricatives)
-    - One will already be /ɬ/
+    - Will need to be /θ/ and /ɬ/
 - Have at least one non-pulmonic consonant
 - Have a place of articulation contrast within one of the categories of labial, coronal, and dorsal
 - Have a voicing pattern distinction only in plosive XOR in everything but plosives
