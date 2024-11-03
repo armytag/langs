@@ -1,3 +1,4 @@
+*.pdf
 reddit-scraper.py
 segments-12-draft/*
 !segments-12-draft/main.tex
