@@ -3,6 +3,7 @@
 - No phonemic /u/
 - CV syllables
 - Paucal number
+    - Number coded by multiple morphological processes without one dominant
 - Instrumental case
 - Morphological mood, but no morphological tense
 - Object argument marking
