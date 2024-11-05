@@ -27,6 +27,7 @@
     - Number only for people, and optional
 - Instrumental case
 - Have propositional nominal TAM (tense, aspect, and/or mood marked on the noun phrase)
+    - [Nordlinger & Sadler 2003](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=463dbb55a115210535370d2ce37d288640b6d85f)
 - Have grammatical gender / noun class
     - *(bonus)* have exactly 4-6 classes
     - *(bonus)* have some classes merge depending on plurality
@@ -60,6 +61,7 @@
 ### Semantics/Lexicon
 - Create at least two words for emotions that don't have a clear one-to-one label in English
     - *(bonus)* write a longer section on cognitively-based feelings, including descriptions of at least five feelings, one or more "bodily images" (e.g. boiling with rage), and different ways of framing emotions grammatically (e.g. "they worried" vs "they were worried")
+    - [Wierzbicka 1999](https://ddd.uab.cat/pub/landes/11394218v2/11394218v2p23.pdf)
 
 ### Documentation
 - Use the character \<λ\> in the documentation somewhere

@@ -23,3 +23,10 @@
 
 - Simple tone system?
 - Have phonological changes (e.g. vowel dropping or consonant devoicing) dependant on something higher than Prosodic Word level (e.g. Intonation Phrase level or Utterance level)
+
+### Nouns
+
+### Verbs
+- Noun incorporation
+
+### Syntax
