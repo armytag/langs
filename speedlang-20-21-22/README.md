@@ -25,8 +25,20 @@
 - Have phonological changes (e.g. vowel dropping or consonant devoicing) dependant on something higher than Prosodic Word level (e.g. Intonation Phrase level or Utterance level)
 
 ### Nouns
+- Nominal tense (3+ morphemes)
+- 6 noun classes (3 singular, 2 paucal, 1 plural)
+- 8-9 noun cases (symmetrical)
+    - Nominative
+    - Accusative (unmarked)
+    - Oblique
+    - Genitive
+    - Locative
+    - Instrumental
 
 ### Verbs
 - Noun incorporation
+    - Types 1, 2, and 3 (and 4?)
+- Verbal mood (3+ morphemes)
+- Object marking
 
 ### Syntax
