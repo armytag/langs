@@ -60,19 +60,23 @@ p'agigap'i → p'egegep'i
 
 ### Nouns
 - Nominal tense (3+ morphemes)
-- 6 noun classes (3 singular, 2 paucal, 1 plural)
+- 6 noun classes (animacy hierarchy)
 - 8-9 noun cases (symmetrical)
     - Nominative
     - Accusative (unmarked)
-    - Oblique
-    - Genitive
-    - Locative
     - Instrumental
 
 ### Verbs
 - Noun incorporation
     - Types 1, 2, and 3 (and 4?)
-- Verbal mood (3+ morphemes)
+- Verbal mood and aspect (3+ morphemes)
 - Object marking
 
 ### Syntax
+- Verb initial
+- Nouns order by higher animacy before lower animacy, and 2P before 1P before 3P
+- Prepositions
+- Nouns before relative clause ("the boy *that* lived")
+- Adjective before or after noun both viable
+- Perverbal negative word (clause initial)
+- Symmetric and assymetric negation depending on some other factor (e.g. tense)
