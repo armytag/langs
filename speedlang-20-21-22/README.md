@@ -51,7 +51,7 @@
 - pʼapu → pʼopu → pʼopo
 - qapaka → qapaka
 - pʼidukʼa → pʼidokʼa
-- pʼibabʼu → pʼebobʼu → pʼebobʼu
+- pʼibabʼu → pʼebobʼu → pʼebobʼo
 - qʼapʼi → qʼepʼi
 - lapa → lapa
 - gumuθi → gumoθi → gemoθi
