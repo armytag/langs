@@ -42,21 +42,21 @@
 - tani → teni
 - tanu → tono
 
-makiqu → mekiqu → mekiqo
-gaki → geki
-θuɬa → θoɬa
-tap'uqu → tap'uqu → top'eqo
-pukanibi → pokenibi
-bana → bana
-p'apu → p'opu → p'opo
-qapaka → qapaka
-p'iduk'a → p'idok'a
-p'ibab'u → p'ebob'u → p'ebob'u
-q'ap'i → q'ep'i
-lapa → lapa
-gumuθi → gumoθi → gemoθi
-ɬit'u → ɬit'u → ɬit'o
-p'agigap'i → p'egegep'i
+- makiqu → mekiqu → mekiqo
+- gaki → geki
+- θuɬa → θoɬa
+- tap'uqu → tap'uqu → top'eqo
+- pukanibi → pokenibi
+- bana → bana
+- p'apu → p'opu → p'opo
+- qapaka → qapaka
+- p'iduk'a → p'idok'a
+- p'ibab'u → p'ebob'u → p'ebob'u
+- q'ap'i → q'ep'i
+- lapa → lapa
+- gumuθi → gumoθi → gemoθi
+- ɬit'u → ɬit'u → ɬit'o
+- p'agigap'i → p'egegep'i
 
 ### Nouns
 - Nominal tense (3+ morphemes)
