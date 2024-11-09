@@ -12,17 +12,51 @@
 | Mid    | e     | o    |
 | Open   |       | a    |
 
-| CONSONANTS  | Labial | Dental | Alveolar | Velar |
-|---          |---     |---     |---       |---    |
-| Nasals      | m      |        | n        |       |
-| Plosives    | p b    | t̪ d̪    | t d      | k ɡ   |
-| Ejectives   | pʼ     | t̪ʼ     |          | kʼ    |
-| Implosive   | ɓ      |        | ɗ        | ɠ     |
-| Fricatives  |        | θ      | ɬ        |       |
-| Approximant |        | l      |          |       |
+| CONSONANTS  | Labial | Dental | Velar | Uvular |
+|---          |---     |---     |---    |---     |
+| Nasals      | m      | n      |       |        |
+| Plosives    | p b    | t d    | k ɡ   | q      |
+| Ejectives   | pʼ     | tʼ     | kʼ    | qʼ     |
+| Implosive   | ɓ      | ɗ      | ɠ     |        |
+| Fricatives  |        | θ      |       |        |
+| Lat. Fric.  |        | ɬ      |       |        |
+| Approximant |        | l      |       |        |
 
 - Simple tone system?
 - Have phonological changes (e.g. vowel dropping or consonant devoicing) dependant on something higher than Prosodic Word level (e.g. Intonation Phrase level or Utterance level)
+
+#### Losing Phonemic /u/
+| Vowel | \_Ca | \_Ci | \_Cu |
+|---    |---   |---   |---   |
+| i     | eCa  |      | iCo  |
+| u     | oCa  | oCi  | eCo  |
+| a     |      | eCi  | oCo  |
+
+- tina → tena
+- tini → tini
+- tinu → tino
+- tuna → tona
+- tuni → toni
+- tunu → teno
+- tana → tana
+- tani → teni
+- tanu → tono
+
+makiqu → mekiqu → mekiqo
+gaki → geki
+θuɬa → θoɬa
+tap'uqu → tap'uqu → top'eqo
+pukanibi → pokenibi
+bana → bana
+p'apu → p'opu → p'opo
+qapaka → qapaka
+p'iduk'a → p'idok'a
+p'ibab'u → p'ebob'u → p'ebob'u
+q'ap'i → q'ep'i
+lapa → lapa
+gumuθi → gumoθi → gemoθi
+ɬit'u → ɬit'u → ɬit'o
+p'agigap'i → p'egegep'i
 
 ### Nouns
 - Nominal tense (3+ morphemes)
