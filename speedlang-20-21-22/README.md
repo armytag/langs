@@ -45,18 +45,18 @@
 - makiqu → mekiqu → mekiqo
 - gaki → geki
 - θuɬa → θoɬa
-- tap'uqu → tap'uqu → top'eqo
+- tapʼuqu → tapʼuqu → topʼeqo
 - pukanibi → pokenibi
 - bana → bana
-- p'apu → p'opu → p'opo
+- pʼapu → pʼopu → pʼopo
 - qapaka → qapaka
-- p'iduk'a → p'idok'a
-- p'ibab'u → p'ebob'u → p'ebob'u
-- q'ap'i → q'ep'i
+- pʼidukʼa → pʼidokʼa
+- pʼibabʼu → pʼebobʼu → pʼebobʼu
+- qʼapʼi → qʼepʼi
 - lapa → lapa
 - gumuθi → gumoθi → gemoθi
-- ɬit'u → ɬit'u → ɬit'o
-- p'agigap'i → p'egegep'i
+- ɬitʼu → ɬitʼu → ɬitʼo
+- pʼagigapʼi → pʼegegepʼi
 
 ### Nouns
 - Nominal tense (3+ morphemes)
