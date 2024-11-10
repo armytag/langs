@@ -32,6 +32,36 @@
 | u     | oCa  | oCi  | eCo  |
 | a     |      | eCi  | oCo  |
 
+| Order | \_Ca  | \_Ci  | \_Cu  | \_Cu  |
+|---    |---    |---    |---    |---    |
+| iCiCi |       |       |       | iCiCi |
+| iCiCa | iCeCa |       |       | iCeCa |
+| iCiCu |       |       | iCiCo | iCiCo |
+| iCaCi | eCaCi | eCeCi |       | eCeCi |
+| iCaCa | eCaCa |       |       | eCaCa |
+| iCaCu | eCaCu |       | eCoCo | eCoCo |
+| iCuCi |       | iCoCi | iCoCi | iCoCi |
+| iCuCa | iCoCa |       | iCoCa | iCoCa |
+| iCuCu |       |       | iCoCo | iCeCo |
+| aCiCi |       | eCiCi |       | eCiCi |
+| aCiCa | aCeCa | eCiCa |       | eCiCa |
+| aCiCu |       | eCiCu | eCiCo | eCiCo |
+| aCaCi |       | aCeCi |       | aCeCi |
+| aCaCa |       |       |       | aCaCa |
+| aCaCu |       |       | aCoCo | aCoCo |
+| aCuCi |       | aCoCi | oCoCi | oCoCi |
+| aCuCa | aCoCa |       | oCoCa | oCoCa |
+| aCuCu |       |       | oCoCo | oCoCo |
+| uCiCi |       | oCiCi |       | oCiCi |
+| uCiCa | uCeCa | oCiCa |       | oCiCa |
+| uCiCu |       | oCiCu | oCiCo | oCiCo |
+| uCaCi | oCaCi | oCeCi |       | oCeCi |
+| uCaCa | oCaCa |       |       | oCaCa |
+| uCaCu | oCaCu |       | oCoCo | oCoCo |
+| uCuCi |       | uCoCi | eCoCi | eCoCi |
+| uCuCa | uCoCa |       | eCoCa | eCoCa |
+| uCuCu |       |       | eCeCo | eCeCo |
+
 - tina → tena
 - tini → tini
 - tinu → tino
