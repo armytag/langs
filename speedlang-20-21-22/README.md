@@ -17,7 +17,7 @@
 | Nasals      | m      | n      |       |        |
 | Plosives    | p b    | t d    | k ɡ   | q      |
 | Ejectives   | pʼ     | tʼ     | kʼ    | qʼ     |
-| Implosive   | ɓ      | ɗ      | ɠ     |        |
+| Implosive   | ɓ      | ɗ      |       |        |
 | Fricatives  |        | θ      |       |        |
 | Lat. Fric.  |        | ɬ      |       |        |
 | Approximant |        | l      |       |        |
@@ -30,37 +30,43 @@
 |---    |---   |---   |---   |
 | i     | eCa  |      | iCo  |
 | u     | oCa  | oCi  | eCo  |
-| a     |      | eCi  | oCo  |
+| a     |      | eCi  | aCo  |
 
-| Order | \_Ca  | \_Ci  | \_Cu  | \_Cu  |
-|---    |---    |---    |---    |---    |
-| iCiCi |       |       |       | iCiCi |
-| iCiCa | iCeCa |       |       | iCeCa |
-| iCiCu |       |       | iCiCo | iCiCo |
-| iCaCi | eCaCi | eCeCi |       | eCeCi |
-| iCaCa | eCaCa |       |       | eCaCa |
-| iCaCu | eCaCu |       | eCoCo | eCoCo |
-| iCuCi |       | iCoCi | iCoCi | iCoCi |
-| iCuCa | iCoCa |       | iCoCa | iCoCa |
-| iCuCu |       |       | iCoCo | iCeCo |
-| aCiCi |       | eCiCi |       | eCiCi |
-| aCiCa | aCeCa | eCiCa |       | eCiCa |
-| aCiCu |       | eCiCu | eCiCo | eCiCo |
-| aCaCi |       | aCeCi |       | aCeCi |
-| aCaCa |       |       |       | aCaCa |
-| aCaCu |       |       | aCoCo | aCoCo |
-| aCuCi |       | aCoCi | oCoCi | oCoCi |
-| aCuCa | aCoCa |       | oCoCa | oCoCa |
-| aCuCu |       |       | oCoCo | oCoCo |
-| uCiCi |       | oCiCi |       | oCiCi |
-| uCiCa | uCeCa | oCiCa |       | oCiCa |
-| uCiCu |       | oCiCu | oCiCo | oCiCo |
-| uCaCi | oCaCi | oCeCi |       | oCeCi |
-| uCaCa | oCaCa |       |       | oCaCa |
-| uCaCu | oCaCu |       | oCoCo | oCoCo |
-| uCuCi |       | uCoCi | eCoCi | eCoCi |
-| uCuCa | uCoCa |       | eCoCa | eCoCa |
-| uCuCu |       |       | eCeCo | eCeCo |
+1. Lower high vowels before /a/
+1. Centralize back vowels before /i/
+1. Lower /u/ after /i/ or /a/
+1. Turn /u/ into /e/ before /u/ or /o/
+1. Lower /u/ everywhere else
+
+| Order | \_Ca  | \_Ci  | Mid   | \_Cu  | Final |
+|---    |---    |---    |---    |---    |---    |
+| iCiCi |       |       | iCiCi |       | iCiCi |
+| iCiCa | iCeCa |       | iCeCa |       | iCeCa |
+| iCiCu |       |       | iCiCu | iCiCo | iCiCo |
+| iCaCi | eCaCi | eCeCi | eCeCi |       | eCeCi |
+| iCaCa | eCaCa |       | eCaCa |       | eCaCa |
+| iCaCu | eCaCu |       | eCaCu | eCaCo | eCaCo |
+| iCuCi |       | iCoCi | iCoCi |       | iCoCi |
+| iCuCa | iCoCa |       | iCoCa |       | iCoCa |
+| iCuCu |       |       | iCuCu | iCoCo | iCoCo |
+| aCiCi |       | eCiCi | eCiCi |       | eCiCi |
+| aCiCa | aCeCa | eCiCa | eCiCa |       | eCiCa |
+| aCiCu |       | eCiCu | eCiCu | eCiCo | eCiCo |
+| aCaCi |       | aCeCi | aCeCi |       | aCeCi |
+| aCaCa |       |       | aCaCa |       | aCaCa |
+| aCaCu |       |       | aCaCu | aCaCo | aCaCo |
+| aCuCi |       | aCoCi | aCoCi |       | aCoCi |
+| aCuCa | aCoCa |       | aCoCa |       | aCoCa |
+| aCuCu |       |       | aCuCu | aCoCo | aCoCo |
+| uCiCi |       | oCiCi | oCiCi |       | oCiCi |
+| uCiCa | uCeCa | uCeCa | uCeCa | oCeCa | oCeCa |
+| uCiCu |       | oCiCu | oCiCu | oCiCo | oCiCo |
+| uCaCi | oCaCi | oCeCi | oCeCi |       | oCeCi |
+| uCaCa | oCaCa |       | oCaCa |       | oCaCa |
+| uCaCu | oCaCu |       | oCaCu | oCaCo | oCaCo |
+| uCuCi |       | uCoCi | uCoCi | eCoCi | eCoCi |
+| uCuCa | uCoCa |       | uCoCa | eCoCa | eCoCa |
+| uCuCu |       |       | uCuCu | eCeCo | eCeCo |
 
 - tina → tena
 - tini → tini
