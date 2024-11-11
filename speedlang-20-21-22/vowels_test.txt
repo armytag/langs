@@ -1,27 +1,27 @@
-iCiCi
-iCeCa
-iCiCo
-eCeCi
-eCaCa
-eCaCo
-iCoCi
-iCoCa
-iCoCo
-eCiCi
-eCiCa
-eCiCo
-aCeCi
-aCaCa
-aCaCo
-aCoCi
-aCoCa
-aCoCo
-oCiCi
-oCeCa
-oCiCo
-oCeCi
-oCaCa
-oCaCo
-eCoCi
-eCoCa
-eCeCo
+iCiCi → iCiCi
+iCiCa → iCeCa
+iCiCu → iCiCo
+iCaCi → eCeCi
+iCaCa → eCaCa
+iCaCu → eCaCo
+iCuCi → iCoCi
+iCuCa → iCoCa
+iCuCu → iCoCo
+aCiCi → eCiCi
+aCiCa → eCiCa
+aCiCu → eCiCo
+aCaCi → aCeCi
+aCaCa → aCaCa
+aCaCu → aCaCo
+aCuCi → aCoCi
+aCuCa → aCoCa
+aCuCu → aCoCo
+uCiCi → oCiCi
+uCiCa → oCeCa
+uCiCu → oCiCo
+uCaCi → oCeCi
+uCaCa → oCaCa
+uCaCu → oCaCo
+uCuCi → eCoCi
+uCuCa → eCoCa
+uCuCu → eCeCo

@@ -38,61 +38,21 @@
 1. Turn /u/ into /e/ before /u/ or /o/
 1. Lower /u/ everywhere else
 
-| Order | \_Ca  | \_Ci  | Mid   | \_Cu  | Final |
-|---    |---    |---    |---    |---    |---    |
-| iCiCi |       |       | iCiCi |       | iCiCi |
-| iCiCa | iCeCa |       | iCeCa |       | iCeCa |
-| iCiCu |       |       | iCiCu | iCiCo | iCiCo |
-| iCaCi | eCaCi | eCeCi | eCeCi |       | eCeCi |
-| iCaCa | eCaCa |       | eCaCa |       | eCaCa |
-| iCaCu | eCaCu |       | eCaCu | eCaCo | eCaCo |
-| iCuCi |       | iCoCi | iCoCi |       | iCoCi |
-| iCuCa | iCoCa |       | iCoCa |       | iCoCa |
-| iCuCu |       |       | iCuCu | iCoCo | iCoCo |
-| aCiCi |       | eCiCi | eCiCi |       | eCiCi |
-| aCiCa | aCeCa | eCiCa | eCiCa |       | eCiCa |
-| aCiCu |       | eCiCu | eCiCu | eCiCo | eCiCo |
-| aCaCi |       | aCeCi | aCeCi |       | aCeCi |
-| aCaCa |       |       | aCaCa |       | aCaCa |
-| aCaCu |       |       | aCaCu | aCaCo | aCaCo |
-| aCuCi |       | aCoCi | aCoCi |       | aCoCi |
-| aCuCa | aCoCa |       | aCoCa |       | aCoCa |
-| aCuCu |       |       | aCuCu | aCoCo | aCoCo |
-| uCiCi |       | oCiCi | oCiCi |       | oCiCi |
-| uCiCa | uCeCa | uCeCa | uCeCa | oCeCa | oCeCa |
-| uCiCu |       | oCiCu | oCiCu | oCiCo | oCiCo |
-| uCaCi | oCaCi | oCeCi | oCeCi |       | oCeCi |
-| uCaCa | oCaCa |       | oCaCa |       | oCaCa |
-| uCaCu | oCaCu |       | oCaCu | oCaCo | oCaCo |
-| uCuCi |       | uCoCi | uCoCi | eCoCi | eCoCi |
-| uCuCa | uCoCa |       | uCoCa | eCoCa | eCoCa |
-| uCuCu |       |       | uCuCu | eCeCo | eCeCo |
-
-- tina → tena
-- tini → tini
-- tinu → tino
-- tuna → tona
-- tuni → toni
-- tunu → teno
-- tana → tana
-- tani → teni
-- tanu → tono
-
-- makiqu → mekiqu → mekiqo
-- gaki → geki
-- θuɬa → θoɬa
-- tapʼuqu → tapʼuqu → topʼeqo
-- pukanibi → pokenibi
-- bana → bana
-- pʼapu → pʼopu → pʼopo
-- qapaka → qapaka
-- pʼidukʼa → pʼidokʼa
-- pʼibabʼu → pʼebobʼu → pʼebobʼo
-- qʼapʼi → qʼepʼi
-- lapa → lapa
-- gumuθi → gumoθi → gemoθi
-- ɬitʼu → ɬitʼu → ɬitʼo
-- pʼagigapʼi → pʼegegepʼi
+pʼudʼi → pʼodʼi
+tʼabi → tʼebi
+gʼikʼibu → gʼikʼibo
+pʼinu → pʼino
+dʼiligu → dʼiligo
+kʼaɬa → kʼaɬa
+pʼuqʼamuqi → pʼoqʼamoqi
+qagʼu → qagʼo
+daɬiquqa → deɬiqoqa
+gʼagidʼu → gʼegidʼo
+tapitʼugi → tepitʼogi
+ɬila → ɬela
+tʼiku → tʼiko
+kʼupʼitʼuga → kʼopʼitʼoga
+bʼagidʼu → bʼegidʼo
 
 ### Nouns
 - Nominal tense (3+ morphemes)
