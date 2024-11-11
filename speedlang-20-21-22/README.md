@@ -38,25 +38,35 @@
 1. Turn /u/ into /e/ before /u/ or /o/
 1. Lower /u/ everywhere else
 
-pʼudʼi → pʼodʼi
-tʼabi → tʼebi
-gʼikʼibu → gʼikʼibo
-pʼinu → pʼino
-dʼiligu → dʼiligo
-kʼaɬa → kʼaɬa
-pʼuqʼamuqi → pʼoqʼamoqi
-qagʼu → qagʼo
-daɬiquqa → deɬiqoqa
-gʼagidʼu → gʼegidʼo
-tapitʼugi → tepitʼogi
-ɬila → ɬela
-tʼiku → tʼiko
-kʼupʼitʼuga → kʼopʼitʼoga
-bʼagidʼu → bʼegidʼo
+- pʼudʼi → pʼodʼi
+- tʼabi → tʼebi
+- gʼikʼibu → gʼikʼibo
+- pʼinu → pʼino
+- dʼiligu → dʼiligo
+- kʼaɬa → kʼaɬa
+- pʼuqʼamuqi → pʼoqʼamoqi
+- qagʼu → qagʼo
+- daɬiquqa → deɬiqoqa
+- gʼagidʼu → gʼegidʼo
+- tapitʼugi → tepitʼogi
+- ɬila → ɬela
+- tʼiku → tʼiko
+- kʼupʼitʼuga → kʼopʼitʼoga
+- bʼagidʼu → bʼegidʼo
 
 ### Nouns
 - Nominal tense (3+ morphemes)
+- Singular, Paucal, and Plural number
 - 6 noun classes (animacy hierarchy)
+    - 2P = 1P > 3P
+    - Adult humans
+    - Child humans
+    - Animals
+    - Fast non-animals (change visible in a moment)
+        - Water, fire, etc.
+    - Slow non-animals (change visible over time)
+        - Plants, rocks, etc.
+    - Things without shape/size
 - 8-9 noun cases (symmetrical)
     - Nominative
     - Accusative (unmarked)
