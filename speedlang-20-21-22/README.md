@@ -61,6 +61,8 @@
     - Recent past
     - Remote past
 - Singular, Paucal, and Plural number
+    - *Have some classes merge based on plurality*
+    - *Have some of the agreement markers show polarity (e.g. singular A matches plural B)*
 - 6 noun classes (animacy hierarchy)
     - 2P = 1P > 3P
     - Adult humans
