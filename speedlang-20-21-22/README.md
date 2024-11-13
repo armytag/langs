@@ -103,6 +103,8 @@
     - Imperfective
     - Imperative
     - Prohibitive
+    - Optative
+    - Conditional (?)
 - Mark direct object (not subject)
     - Agrees in person, number, and class
 
