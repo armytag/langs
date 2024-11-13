@@ -99,6 +99,10 @@
 - Noun incorporation
     - Types 1, 2, and 3 (and 4?)
 - Verbal mood and aspect (3+ morphemes)
+    - Indicative (perfective)
+    - Imperfective
+    - Imperative
+    - Prohibitive
 - Object marking
 
 ### Syntax
