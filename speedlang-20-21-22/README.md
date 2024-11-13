@@ -70,7 +70,26 @@
 - 8-9 noun cases (symmetrical)
     - Nominative
     - Accusative (unmarked)
+    - Dative
+    - Genitive
     - Instrumental
+    - Locative
+    - Allative
+    - Ablative
+    - Essive
+
+| NOUN CASE      | Thing     | Place     | Time       | State     |
+|---             |---        |---        |---         |---        |
+| *Example Noun* | *"dog"*   | *"city"*  | *"summer"* | *"sad"*   |
+| Nominative     | agent     |           |            |           |
+| Accusative     | patient   |           |            |           |
+| Dative         | recipient |           |            |           |
+| Genitive       | dependant |           |            |           |
+| Instrumental   | using     | via       | through    | cause     |
+| Locative       | at        | at        | at/during  | while     |
+| Allative       | to        | to        | until      | become    |
+| Ablative       | from      | from      | since      | cease     |
+| Essive         | as (temp) | as (temp) | as (temp)  | as (temp) |
 
 ### Verbs
 - Noun incorporation
