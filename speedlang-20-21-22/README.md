@@ -9,7 +9,7 @@
 | VOWELS | Front | Back |
 |---     |---    |---   |
 | Close  | i     |      |
-| Mid    | e     | o    |
+| Mid    | ɛ (e) | o    |
 | Open   |       | a    |
 
 | CONSONANTS  | Labial | Dental | Velar | Uvular |
