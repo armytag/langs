@@ -73,6 +73,16 @@
     - Slow non-animals (change visible over time)
         - Plants, rocks, etc.
     - Things without shape/size
+
+| CLASS\\NUMBER   | Singular | Paucal | Plural |
+|---              |---       |---     |---     |
+| Adult humans    | **A**    | **H**  | **S**  |
+| Child humans    | **B**    | **J**  | **T**  |
+| Animals         | **C**    | **K**  | **W**  |
+| Fast non-animal | **D**    | **L**  | **X**  |
+| Slow non-animal | **E**    | **M**  | **Y**  |
+| Formless        | **F**    | **N**  | **Z**  |
+
 - 8-9 noun cases (symmetrical)
     - Nominative
     - Accusative (unmarked)
