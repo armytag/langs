@@ -59,7 +59,13 @@
     - Future
     - Present
     - Recent past
+        - Somewhat implies that the event still has present repricusions
+        - burndown-PFV house-NOM.C5-PST → *"My house burned down (and now I'm homeless)"*
     - Remote past
+        - Somewhat implies that the event is not longer directly relevant
+        - burndown-PFV house-NOM.C5-REM → *"My house burned down (but now I'm living elsewhere)"*
+        - Regardless of relevance, this form is almost always used for events more than one year prior
+        - burndown-PFV house-NOM.C5-REM → *"My house burned down (last year, and I'm still homeless)"*
 - Singular, Paucal, and Plural number
     - *Have some classes merge based on plurality*
     - *Have some of the agreement markers show polarity (e.g. singular A matches plural B)*
