@@ -118,3 +118,13 @@
 - Symmetric and assymetric negation depending on some other factor (e.g. tense)
 - *Have at least three ways of forming requests/commands, and describe how they differ in use (i.e. which contexts)*
     - *Include at least two ways negative commands can be formed*
+
+### Test Sentences
+"A dog bit me"
+
+bite-PFV-1SG.C1 1SG.C1.ACC dog-NOM.C3-PST
+
+
+"I didn't bite the dog"
+
+NEG-bite-PFV-3SG.C3 1SG.C1-NOM-PST dog-ACC.C3
