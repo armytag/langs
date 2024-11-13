@@ -125,7 +125,8 @@
 - Nouns order by higher animacy before lower animacy, and 2P before 1P before 3P
 - Prepositions
 - Nouns before relative clause ("the boy *that* lived")
-- Adjective before or after noun both viable
+- Adjective after noun
+- Demonstrative after noun
 - Perverbal negative word (clause initial)
 - Symmetric and assymetric negation depending on some other factor (e.g. tense)
 - *Have at least three ways of forming requests/commands, and describe how they differ in use (i.e. which contexts)*
