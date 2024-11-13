@@ -38,22 +38,21 @@
 1. Turn /u/ into /e/ before /u/ or /o/
 1. Lower /u/ everywhere else
 
-- pʼudʼi → pʼodʼi
-    - ⵚuⴹⵉ   ⵚⵓⴹⵉ
-- tʼabi → tʼebi
-- gʼikʼibu → gʼikʼibo
-- pʼinu → pʼino
-- dʼiligu → dʼiligo
-- kʼaɬa → kʼaɬa
-- pʼuqʼamuqi → pʼoqʼamoqi
-- qagʼu → qagʼo
-- daɬiquqa → deɬiqoqa
-- gʼagidʼu → gʼegidʼo
-- tapitʼugi → tepitʼogi
-- ɬila → ɬela
-- tʼiku → tʼiko
-- kʼupʼitʼuga → kʼopʼitʼoga
-- bʼagidʼu → bʼegidʼo
+- pʼudʼi → pʼodʼi (ⵚⵓⴹⵉ)
+- tʼabi → tʼebi (ⵟⴻⴱⵉ)
+- gikʼibu → gikʼibo (ⴳⵉⴿⵉⴱⵓ)
+- pʼinu → pʼino (ⵚⵉⵏⵓ)
+- dʼiligu → dʼiligo (ⴹⵉⵍⵉⴳⵓ)
+- kʼaɬa → kʼaɬa (ⴿⴰⵛⴰ)
+- pʼuqʼamuqi → pʼoqʼamoqi (ⵚⵓⵥⴰⵎⵓⵣⵉ)
+- qagu → qago (ⵣⴰⴳⵓ)
+- daɬiquqa → deɬiqoqa (ⴷⴻⵛⵉⵣⵓⵣⴰ)
+- gagidʼu → gegidʼo (ⴳⴻⴳⵉⴹⵓ)
+- tapitʼugi → tepitʼogi (ⵜⴻⵙⵉⵟⵓⴳⵉ)
+- ɬila → ɬela (ⵛⴻⵍⴰ)
+- tʼiku → tʼiko (ⵟⵉⴽⵓ)
+- kʼupʼitʼuga → kʼopʼitʼoga (ⴿⵓⵚⵉⵟⵓⴳⴰ)
+- bʼagidʼu → bʼegidʼo (ⴲⴻⴳⵉⴹⵓ)
 
 ### Nouns
 - Nominal tense (3+ morphemes)
