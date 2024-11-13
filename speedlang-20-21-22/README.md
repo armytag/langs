@@ -116,3 +116,5 @@
 - Adjective before or after noun both viable
 - Perverbal negative word (clause initial)
 - Symmetric and assymetric negation depending on some other factor (e.g. tense)
+- *Have at least three ways of forming requests/commands, and describe how they differ in use (i.e. which contexts)*
+    - *Include at least two ways negative commands can be formed*
