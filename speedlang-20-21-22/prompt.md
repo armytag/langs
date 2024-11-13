@@ -23,8 +23,6 @@
 
 ### Nouns
 - Paucal number
-    - Number coded by multiple morphological processes without one dominant
-    - Number only for people, and optional
 - Instrumental case
 - Have propositional nominal TAM (tense, aspect, and/or mood marked on the noun phrase)
     - [Nordlinger & Sadler 2003](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=463dbb55a115210535370d2ce37d288640b6d85f)
@@ -64,7 +62,7 @@
     - [Wierzbicka 1999](https://ddd.uab.cat/pub/landes/11394218v2/11394218v2p23.pdf)
 
 ### Documentation
-- Use the character \<λ\> in the documentation somewhere
+- Use the character \<λ\> somewhere in the documentation
     - *(bonus)* use the character \<ƛ\> somewhere in the documentation
 
 ### Tasks
