@@ -56,6 +56,10 @@
 
 ### Nouns
 - Nominal tense (3+ morphemes)
+    - Future
+    - Present
+    - Recent past
+    - Remote past
 - Singular, Paucal, and Plural number
 - 6 noun classes (animacy hierarchy)
     - 2P = 1P > 3P
