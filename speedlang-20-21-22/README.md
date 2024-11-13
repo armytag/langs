@@ -39,6 +39,7 @@
 1. Lower /u/ everywhere else
 
 - pʼudʼi → pʼodʼi
+    - ⵚuⴹⵉ   ⵚⵓⴹⵉ
 - tʼabi → tʼebi
 - gʼikʼibu → gʼikʼibo
 - pʼinu → pʼino
