@@ -103,7 +103,8 @@
     - Imperfective
     - Imperative
     - Prohibitive
-- Object marking
+- Mark direct object (not subject)
+    - Agrees in person, number, and class
 
 ### Syntax
 - Verb initial
