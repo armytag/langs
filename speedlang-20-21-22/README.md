@@ -60,13 +60,13 @@
     - Present
     - Recent past
         - Somewhat implies that the event still has present repricusions
-        - burndown-PFV house-NOM.C5-PST → *"My house burned down (and now I'm homeless)"*
+        - burndown-PFV house-NOM.G5-PST → *"My house burned down (and now I'm homeless)"*
     - Remote past
         - Somewhat implies that the event is not longer directly relevant
-        - burndown-PFV house-NOM.C5-REM → *"My house burned down (but now I'm living elsewhere)"*
+        - burndown-PFV house-NOM.G5-REM → *"My house burned down (but now I'm living elsewhere)"*
         - Regardless of relevance, this form is almost always used for events more than one year prior
-        - burndown-PFV house-NOM.C5-REM → *"My house burned down (last year, and I'm still homeless)"*
-- Singular, Paucal, and Plural number
+        - burndown-PFV house-NOM.G5-REM → *"My house burned down (last year, and I'm still homeless)"*
+- Singular, Dual, Paucal, and Plural number
     - *Have some classes merge based on plurality*
     - *Have some of the agreement markers show polarity (e.g. singular A matches plural B)*
 - 6 noun classes (animacy hierarchy)
@@ -80,14 +80,14 @@
         - Plants, rocks, etc.
     - Things without shape/size
 
-| CLASS\\NUMBER   | Singular | Paucal | Plural |
-|---              |---       |---     |---     |
-| Adult humans    | **A**    | **H**  | **S**  |
-| Child humans    | **B**    | **J**  | **T**  |
-| Animals         | **C**    | **K**  | **W**  |
-| Fast non-animal | **D**    | **L**  | **X**  |
-| Slow non-animal | **E**    | **M**  | **Y**  |
-| Formless        | **F**    | **N**  | **Z**  |
+| CLASS\\NUMBER   | Singular | Dual  | Paucal | Plural |
+|---              |---       |---    |---     |---     |
+| Adult humans    | **A**    | **H** | **L**  | **S**  |
+| Child humans    | **B**    | **J** | **M**  | **S**  |
+| Animals         | **C**    | **K** | **M**  | **T**  |
+| Fast non-animal | **D**    |       | **N**  | **E**  |
+| Slow non-animal | **E**    |       | **N**  | **D**  |
+| Formless        | **F**    |       |        | **Z**  |
 
 - 8-9 noun cases (symmetrical)
     - Nominative
@@ -136,14 +136,19 @@
 - Perverbal negative word (clause initial)
 - Symmetric and assymetric negation depending on some other factor (e.g. tense)
 - *Have at least three ways of forming requests/commands, and describe how they differ in use (i.e. which contexts)*
-    - *Include at least two ways negative commands can be formed*
+    1. Imperative verb (strong/direct)
+    1. Optative verb with desired situation (soft/indirect) ("Hope I have water" rather than "Hope you give me some water")
+    1. Negative prohibitive verb (joking/intimate)
+- *Include at least two ways negative commands can be formed*
+    1. Prohibitive verb (suggestion)
+    1. Negative imperative verb (command)
 
 ### Test Sentences
 "A dog bit me"
 
-bite-PFV-1SG.C1 1SG.C1.ACC dog-NOM.C3-PST
+bite-PFV-1SG.G1 1SG.G1.ACC dog-NOM.G3-PST
 
 
 "I didn't bite the dog"
 
-NEG-bite-PFV-3SG.C3 1SG.C1-NOM-PST dog-ACC.C3
+NEG-bite-PFV-3SG.G3 1SG.G1-NOM-PST dog-ACC.G3
