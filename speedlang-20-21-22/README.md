@@ -113,6 +113,9 @@
 | Ablative       | from      | from      | since      | cease     |
 | Essive         | as (temp) | as (temp) | as (temp)  | as (temp) |
 
+#### Noun Template
+1. nominal_root-G#-CASE-TENSE
+
 ### Verbs
 - Noun incorporation
     - Types 1, 2, and 3 (and 4?)
@@ -125,6 +128,10 @@
     - Conditional (?)
 - Mark direct object (not subject)
     - Agrees in person, number, and class
+
+#### Verb Template
+1. (NEG) verb_root-ASP:MOD-P#G
+1. (NEG) verb_root-direct_object-ASP:MOD-P#G
 
 ### Syntax
 - Verb initial
