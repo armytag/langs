@@ -26,11 +26,11 @@
 - Have phonological changes (e.g. vowel dropping or consonant devoicing) dependant on something higher than Prosodic Word level (e.g. Intonation Phrase level or Utterance level)
 
 #### Losing Phonemic /u/
-| Vowel | \_Ca | \_Ci | \_Cu |
-|---    |---   |---   |---   |
-| i     | eCa  |      | iCo  |
-| u     | oCa  | oCi  | eCo  |
-| a     |      | eCi  | aCo  |
+| Vowel | \_Ca | \_Ci | \_Cu | \_   |
+|---    |---   |---   |---   |---   |
+| i     | eCa  |      | iCo  |      |
+| u     | oCa  | oCi  | eCu  | o    |
+| a     |      | eCi  | aCo  |      |
 
 1. Lower high vowels before /a/
 1. Centralize back vowels before /i/
