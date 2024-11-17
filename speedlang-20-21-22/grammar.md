@@ -1,10 +1,10 @@
-# Q'athob'o -- 𞤗𞥇𞤢𞤬𞤮𞤩𞤮
+<!-- # Q'athob'o -- 𞤗𞥇𞤢𞤬𞤮𞤩𞤮 -->
 
-A speedlang by *armytag*
+<!-- A speedlang by *armytag* -->
 
-## Phonology
+# Phonology
 
-### Vowels
+## Vowels
 
 | VOWELS | Front | Back |
 |---     |---    |---   |
@@ -12,7 +12,7 @@ A speedlang by *armytag*
 | Mid    | ɛ (e) | o    |
 | Open   |       | a    |
 
-### Consonants
+## Consonants
 
 | CONSONANTS  | Labial | Dental | Velar | Uvular |
 |---          |---     |---     |---    |---     |
@@ -24,47 +24,69 @@ A speedlang by *armytag*
 | Lat. Fric.  |        | ɬ      |       |        |
 | Approximant |        | l      |       |        |
 
-### Orthography
+## Orthography
 
-| IPA Sound | Latin symbols | Adlam Symbols |
-|---        |---            |---            |
-| /i/       | i             | 𞤭/𞤋           |
-| /e/       | e             | 𞤫/𞤉           |
-| /o/       | o             | 𞤮/𞤌           |
-| /a/       | a             | 𞤢/𞤀           |
-| /m/       | m             | 𞤥/𞤃           |
-| /n/       | n             | 𞤲/𞤐           |
-| /p/       | p             | 𞤨/𞤆           |
-| /b/       | b             | 𞤦/𞤄           |
-| /t/       | t             | 𞤼/𞤚           | | /d/       | d             | 𞤣/𞤁           |
-| /k/       | k             | 𞤳/𞤑           |
-| /g/       | g             | 𞤺/𞤘           |
-| /q/       | q             | 𞤹/𞤗           |
-| /l/       | l             | 𞤤/𞤂           |
-| /f/       | f             | 𞤬/𞤊           |
-| /h/       | h             | 𞤸/𞤖           |
-| /b'/      | b             | 𞤩/𞤇           |
-| /d'/      | d             | 𞤯/𞤍           |
-| /'/       | '             | 𞥇              |
+| Latin symbols  | IPA Sound | Adlam Symbols |
+|---             |---        |---            |
+| a              | /a/       | 𞤢/𞤀           |
+| b              | /b/       | 𞤦/𞤄           |
+| bʼ             | /ɓ/       | 𞤩/𞤇           |
+| d              | /d/       | 𞤣/𞤁           |
+| dʼ             | /ɗ/       | 𞤯/𞤍           |
+| e              | /ɛ/       | 𞤫/𞤉           |
+| g              | /g/       | 𞤺/𞤘           |
+| hl             | /ɬ/       | 𞤸/𞤖           |
+| i              | /i/       | 𞤭/𞤋           |
+| k              | /k/       | 𞤳/𞤑           |
+| kʼ             | /kʼ/      | 𞤳𞥇/𞤑𞥇           |
+| l              | /l/       | 𞤤/𞤂           |
+| m              | /m/       | 𞤥/𞤃           |
+| n              | /n/       | 𞤲/𞤐           |
+| o              | /o/       | 𞤮/𞤌           |
+| p              | /p/       | 𞤨/𞤆           |
+| pʼ             | /pʼ/      | 𞤨𞥇/𞤆𞥇           |
+| q              | /q/       | 𞤹/𞤗           |
+| qʼ             | /qʼ/      | 𞤹𞥇/𞤗𞥇           |
+| t              | /t/       | 𞤼/𞤚           |
+| tʼ             | /tʼ/      | 𞤼𞥇/𞤚𞥇           |
+| th             | /θ/       | 𞤬/𞤊           |
 
-### Phonological Constraints
+## Phonological Constraints
+
+# Morphology
 
 ## Nouns
 
+### Animacy Groups (Class/Gender)
+
+### Number
+
+### Case
+
+### Pronouns
+
 ## Verbs
 
-## Time
+# Syntax
 
-## Example Texts
+## Expressing Time
 
-## Appendix A: Speedlang Prompts
+# Example Texts
 
-### Sources
+## Lexicon Showcase
+
+## Sentences
+
+## Larger Texts
+
+# Appendix A: Speedlang Prompts
+
+## Sources
 - [Speedlang 20](https://www.reddit.com/r/conlangs/comments/1ecyu0k/20th_speedlang_challenge/)
 - [Speedlang 21](https://drive.google.com/file/d/1AbsBEmmoiRj6NlMd4NmopOiT9Y3csqXM/view)
 - [Speedlang 22](https://mareck.neocities.org/speedlangs/prompts/speedlang%2022%20prompt.pdf)
 
-### Speedlang 20 Requirements
+## Speedlang 20 Requirements
 - Phonemic /θ/ and /ɬ/
 - No phonemic /u/
 - CV syllables
@@ -76,7 +98,7 @@ A speedlang by *armytag*
 - VO word order
 - Write a restaurant review
 
-### Speedlang 21 Requirements
+## Speedlang 21 Requirements
 - No more than two phonemes whose mosts common realization is a fricative (/h/ and /ɦ/ count as fricatives)
 - Have at least one non-pulmonic consonant
 - Have a place of articulation contrast within one of the categories of labial, coronal, and dorsal
@@ -93,7 +115,7 @@ A speedlang by *armytag*
     - [Wierzbicka 1999](https://ddd.uab.cat/pub/landes/11394218v2/11394218v2p23.pdf)
 - Translate and gloss at least five sentence from appropriate sources
 
-### Speedlang 22 Requirements
+## Speedlang 22 Requirements
 - Use the character \<λ\> somewhere in the documentation
     - *(bonus)* use the character \<ƛ\> somewhere in the documentation
 - Have a voicing pattern distinction only in plosive XOR in everything but plosives
