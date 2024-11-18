@@ -28,13 +28,12 @@
 #### Losing Phonemic /u/
 | Vowel | \_Ca | \_Ci | \_Cu | \_   |
 |---    |---   |---   |---   |---   |
-| i     | eCa  |      | iCo  |      |
+| i     | eCa  |      |      |      |
 | u     | oCa  | oCi  | eCu  | o    |
-| a     |      | eCi  | aCo  |      |
+| a     |      | eCi  |      |      |
 
 1. Lower high vowels before /a/
 1. Centralize back vowels before /i/
-1. Lower /u/ after /i/ or /a/
 1. Turn /u/ into /e/ before /u/ or /o/
 1. Lower /u/ everywhere else
 
