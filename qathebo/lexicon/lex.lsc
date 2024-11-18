@@ -1,0 +1,56 @@
+# For combining two files together
+# pr -tmJS proto.wli proto-rand.wli > proto-compound.wli
+
+Feature front, back
+Feature height(low, mid, high)
+Feature type(*cons, vowel)
+Feature voicing(unvoiced, voiced)
+Feature place(labial, alveolar, retroflex, velar, uvular, glottal)
+Feature manner(nasal, stop, affricate, fricative, approximant, tap, ejective, implosive)
+Feature +lateral
+Symbol a [low  -front +back vowel]
+Symbol e [mid  +front -back vowel]
+Symbol i [high +front -back vowel]
+Symbol o [mid  -front +back vowel]
+Symbol u [high -front +back vowel]
+Symbol pʼ [unvoiced labial ejective]
+Symbol tʼ [unvoiced alveolar ejective]
+Symbol kʼ [unvoiced velar ejective]
+Symbol qʼ [unvoiced uvular ejective]
+Symbol p [unvoiced labial stop]
+Symbol t [unvoiced alveolar stop]
+Symbol k [unvoiced velar stop]
+Symbol q [unvoiced uvular stop]
+Symbol b [voiced labial stop]
+Symbol d [voiced alveolar stop]
+Symbol g [voiced velar stop]
+Symbol ɓ [labial implosive]
+Symbol ɗ [alveolar implosive]
+Symbol m [labial nasal]
+Symbol n [alveolar nasal]
+Symbol l [alveolar approximant +lateral]
+Symbol ɬ [unvoiced alveolar fricative +lateral]
+Symbol θ [unvoiced alveolar fricative]
+
+Syllables:
+[cons] [vowel]
+
+# assign-stress:
+# <syl> => [+stress] / $ <syl>&[-heavy] _
+# Else:
+# <syl> => [+stress] / $ _
+
+lowering-before-a:
+{i, u} => {e, o} / _ [cons] a
+
+middling-before-i:
+{a, u} => {e, o} / _ [cons] i
+
+dissimilation-before-back:
+u => e / _ [cons] {u, o}
+
+u-lowering:
+u => o
+
+Syllables:
+clear
