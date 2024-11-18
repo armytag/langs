@@ -39,6 +39,18 @@
 1. Turn /u/ into /e/ before /u/ or /o/
 1. Lower /u/ everywhere else
 
+| Proto | Modern | \+ .i      | \+ .a      | \+ .u      |
+|---    |---     |---         |---         |---         |
+| .i.i  | .i.i   | .i.i.i     | .i.*e*.a   | .i.i.o     |
+| .i.a  | .e.a   | .e.*e*.i   | .e.a.a     | .e.a.o     |
+| .i.u  | .i.o   | .i.o.i     | .i.o.a     | .i.*e*.o   |
+| .a.i  | .e.i   | .e.i.i     | .*a*.*e*.a | .e.i.o     |
+| .a.a  | .a.a   | .a.*e*.i   | .a.a.a     | .a.a.o     |
+| .a.u  | .a.o   | .a.o.i     | .a.o.a     | .i.*e*.o   |
+| .u.i  | .o.i   | .o.i.i     | .o.*e*.a   | .o.i.o     |
+| .u.a  | .o.a   | .o.*e*.i   | .o.a.a     | .o.a.o     |
+| .u.u  | .e.o   | .e.o.i     | .e.o.a     | .e.*e*.o   |
+
 - pʼudʼi → pʼodʼi (𞤨𞥇𞤮𞤯𞤭)
 - tʼabi → tʼebi (𞤼𞥇𞤫𞤦𞤭)
 - gikʼibu → gikʼibo (𞤺𞤭𞤳𞥇𞤭𞤦𞤮)
