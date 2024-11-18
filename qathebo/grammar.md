@@ -162,7 +162,6 @@ A speedlang by *armytag*
 
 This section outlines a proposed sequence of sound changes that can explain the modern Qʼathebʼo vowel system, including its assimilation rules.  It seems that at some prior point, Qʼathebʼo likely had a simple three vowel system with the cardinal vowels /a/, /i/, and /u/ occuring independantly and in roughly equal fequency.  Eventually the vowels started to assimilate according to the antecedant vowel, with /u/ undergoing extensive change, leading ultimately to the current Qʼathebʼo four-vowel system.  This process appears to have occurred in the following stages, ordered from earliest to most recent:
 
-1. Lowering of high vowels before /a/: i u → ɛ o / \_Ca
-1. Centralization of back vowels before /i/: a u → ɛ o / \_Ci
-1. Dissimilation of high back vowel: u → ɛ / \_C\{u,o\}
-1. Lowering of remaining high back vowel: u → o
+1. Lowering of high vowels before /a/: i → ɛ / \_Ca
+1. Centralization of back vowels before /i/: a → ɛ / \_Ci
+1. Dissimilation of high back vowel: o → ɛ / \_Co

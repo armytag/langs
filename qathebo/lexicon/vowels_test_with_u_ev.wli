@@ -1,0 +1,32 @@
+.i.i .i.i.i
+.i.i .i.e.a
+.i.i .i.i.o
+.e.i .e.i.i
+.e.i .a.e.a
+.e.i .e.i.o
+.o.i .o.i.i
+.o.i .o.e.a
+.o.i .o.i.o
+
+.e.a .e.e.i
+.e.a .e.a.a
+.e.a .e.a.o
+.a.a .a.e.i
+.a.a .a.a.a
+.a.a .a.a.o
+.o.a .o.e.i
+.o.a .o.a.a
+.o.a .o.a.o
+
+.i.o .i.o.i
+.i.o .i.o.a
+.i.o .i.e.o
+.a.o .a.o.i
+.a.o .a.o.a
+.a.o .a.e.o
+.e.o .e.o.i
+.e.o .e.o.a
+.e.o .e.e.o
+
+.e.i .a.e.e.i
+.e.o .e.e.e.o

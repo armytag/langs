@@ -41,16 +41,13 @@ Syllables:
 # <syl> => [+stress] / $ _
 
 lowering-before-a:
-{i, u} => {e, o} / _ [cons] a
+i => e / _ [cons] a
 
 middling-before-i:
-{a, u} => {e, o} / _ [cons] i
+a => e / _ [cons] i
 
 dissimilation-before-back:
-u => e / _ [cons] {u, o}
-
-u-lowering:
-u => o
+o => e / _ [cons] o
 
 Syllables:
 clear
