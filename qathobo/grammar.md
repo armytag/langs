@@ -1,6 +1,6 @@
-<!-- # Q'athob'o -- 𞤗𞥇𞤢𞤬𞤮𞤩𞤮 -->
+Q'athob'o -- 𞤗𞥇𞤢𞤬𞤮𞤩𞤮
 
-<!-- A speedlang by *armytag* -->
+A speedlang by *armytag*
 
 # Phonology
 
@@ -70,6 +70,16 @@
 # Syntax
 
 ## Expressing Time
+
+# Discourse
+
+## Expressing Emotions
+
+### Basic Terms
+
+### Bodily Emotions
+
+### Grammatical Distinctions
 
 # Example Texts
 
