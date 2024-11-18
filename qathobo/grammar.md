@@ -89,14 +89,16 @@ A speedlang by *armytag*
 
 ## Larger Texts
 
-# Appendix A: Speedlang Prompts
+# Appendices
 
-## Sources
+## Speedlang Prompts
+
+### Sources
 - [Speedlang 20](https://www.reddit.com/r/conlangs/comments/1ecyu0k/20th_speedlang_challenge/)
 - [Speedlang 21](https://drive.google.com/file/d/1AbsBEmmoiRj6NlMd4NmopOiT9Y3csqXM/view)
 - [Speedlang 22](https://mareck.neocities.org/speedlangs/prompts/speedlang%2022%20prompt.pdf)
 
-## Speedlang 20 Requirements
+### Speedlang 20 Requirements
 - Phonemic /θ/ and /ɬ/
 - No phonemic /u/
 - CV syllables
@@ -108,7 +110,7 @@ A speedlang by *armytag*
 - VO word order
 - Write a restaurant review
 
-## Speedlang 21 Requirements
+### Speedlang 21 Requirements
 - No more than two phonemes whose mosts common realization is a fricative (/h/ and /ɦ/ count as fricatives)
 - Have at least one non-pulmonic consonant
 - Have a place of articulation contrast within one of the categories of labial, coronal, and dorsal
@@ -125,7 +127,7 @@ A speedlang by *armytag*
     - [Wierzbicka 1999](https://ddd.uab.cat/pub/landes/11394218v2/11394218v2p23.pdf)
 - Translate and gloss at least five sentence from appropriate sources
 
-## Speedlang 22 Requirements
+### Speedlang 22 Requirements
 - Use the character \<λ\> somewhere in the documentation
     - *(bonus)* use the character \<ƛ\> somewhere in the documentation
 - Have a voicing pattern distinction only in plosive XOR in everything but plosives
@@ -155,3 +157,12 @@ A speedlang by *armytag*
     - provide an overview of a certain semantic space such as smell, emotions, or events of putting and taking
     - make a semantic division tree/web/cloud and detail some members and how they differ
     - for verbs, you could detial some subset like in [ValPaL](https://valpal.info/), such as [this one for Japanese](https://valpal.info/values/nucl1643-hug-1)
+
+## Diachronic Vowel Analysis
+
+This section outlines a proposed sequence of sound changes that can explain the modern Qʼathebʼo vowel system, including its assimilation rules.  It seems that at some prior point, Qʼathebʼo likely had a simple three vowel system with the cardinal vowels /a/, /i/, and /u/ occuring independantly and in roughly equal fequency.  Eventually the vowels started to assimilate according to the antecedant vowel, with /u/ undergoing extensive change, leading ultimately to the current Qʼathebʼo four-vowel system.  This process appears to have occurred in the following stages, ordered from earliest to most recent:
+
+1. Lowering of high vowels before /a/: i u → ɛ o / \_Ca
+1. Centralization of back vowels before /i/: a u → ɛ o / \_Ci
+1. Dissimilation of high back vowel: u → ɛ / \_C\{u,o\}
+1. Lowering of remaining high back vowel: u → o
