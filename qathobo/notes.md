@@ -1,4 +1,4 @@
-# Q'atheb'o -- 𞤗𞥇𞤢𞤬𞤫𞤩𞤮
+# Qʼathebʼo -- 𞤗𞥇𞤢𞤬𞤫𞤩𞤮
 
 ### Phonology
 - Phonemic /θ/ and /ɬ/, and no other fricatives
