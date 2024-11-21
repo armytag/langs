@@ -96,6 +96,19 @@
 | Slow non-animal | **E**    |       | **N**  | **D**  |
 | Formless        | **F**    |       |        | **Z**  |
 
+| PERSONAL PRONOUNS | Singular | Dual    | Paucal   | Plural    |
+|---                |---       |---      |---       |---        |
+| G1 1st            | qʼata    | qo      | bʼano    | go        |
+| G1 2nd            | ga       | pʼiga   | tiki     | poto      |
+| G1 3rd            | qʼa      | ba      | gata     | pobʼo     |
+| G2 1st            | pidi     | gapʼoba | tʼa      | li        |
+| G2 2nd            | gami     | takaki  | taθo     | daqʼo     |
+| G2 3rd            | qa       | pi      | moqʼatʼa | pʼadʼopʼi |
+| G3 3rd            | qʼoma    | bi      | po       | bigo      |
+| G4 3rd            | gaqi     |         | noto     | nitipʼa   |
+| G5 3rd            | komi     |         | pʼoθa    | θagi      |
+| G6 3rd            | qʼiqʼi   |         |          | bʼatʼi    |
+
 - 8-9 noun cases (symmetrical)
     - Nominative
     - Accusative (unmarked)

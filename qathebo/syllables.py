@@ -20,7 +20,7 @@ APPROXIMANTS = [
     "l",
 ]
 VOWELS = [
-    "i", "u", "a",
+    "i", "o", "a",
 ]
 
 SYLL_STRUCTS = []
@@ -66,7 +66,7 @@ if __name__ == "__main__":
     # phonemes = NASALS # + FRICATIVES + PLOSIVES + RHOTICS
     # print(phonemes)
     # print(generate_frequencies(phonemes))
-    word_count = 20
+    word_count = 36
     words = []
     w = 0
     while w < word_count:
