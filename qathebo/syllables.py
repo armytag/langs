@@ -66,7 +66,7 @@ if __name__ == "__main__":
     # phonemes = NASALS # + FRICATIVES + PLOSIVES + RHOTICS
     # print(phonemes)
     # print(generate_frequencies(phonemes))
-    word_count = 36
+    word_count = 24
     words = []
     w = 0
     while w < word_count:

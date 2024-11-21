@@ -98,13 +98,38 @@
 
 | PERSONAL PRONOUNS | Singular | Dual    | Paucal   | Plural    |
 |---                |---       |---      |---       |---        |
-| G1 1st            | qʼata    | qo      | bʼano    | go        |
-| G1 2nd            | ga       | pʼiga   | tiki     | poto      |
-| G1 3rd            | qʼa      | ba      | gata     | pobʼo     |
-| G2 1st            | pidi     | gapʼoba | tʼa      | li        |
-| G2 2nd            | gami     | takaki  | taθo     | daqʼo     |
-| G2 3rd            | qa       | pi      | moqʼatʼa | pʼadʼopʼi |
-| G3 3rd            | qʼoma    | bi      | po       | bigo      |
+| G1 1st            | A        | H       | Q        | W         |
+| G1 2nd            | B        | J       | R        | X         |
+| G1 3rd            | C        | K       | S        | Y         |
+| G2 1st            | D        | L       | T        | W         |
+| G2 2nd            | E        | M       | U        | X         |
+| G2 3rd            | F        | N       | V        | Y         |
+| G3 3rd            | G        | P       | V        | Z         |
+
+li
+ti
+giɬa
+qi
+dʼoɬa
+qa
+mina
+poda
+dimo
+laθola
+daθa
+kotʼo
+pʼa
+kapiɬo
+qabʼo
+tʼata
+gaka
+θa
+pada
+ɬi
+pʼipi
+po
+gi
+kobi
 
 - 8-9 noun cases (symmetrical)
     - Nominative
