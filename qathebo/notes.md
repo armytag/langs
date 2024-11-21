@@ -105,9 +105,6 @@
 | G2 2nd            | gami     | takaki  | taθo     | daqʼo     |
 | G2 3rd            | qa       | pi      | moqʼatʼa | pʼadʼopʼi |
 | G3 3rd            | qʼoma    | bi      | po       | bigo      |
-| G4 3rd            | gaqi     |         | noto     | nitipʼa   |
-| G5 3rd            | komi     |         | pʼoθa    | θagi      |
-| G6 3rd            | qʼiqʼi   |         |          | bʼatʼi    |
 
 - 8-9 noun cases (symmetrical)
     - Nominative
@@ -173,9 +170,9 @@
 ### Test Sentences
 "A dog bit me"
 
-bite-PFV-1SG.G1 1SG.G1.ACC dog-NOM.G3-PST
+bite-PFV-1SG.G1 1SG-G1.ACC dog-G3.NOM-PST
 
 
 "I didn't bite the dog"
 
-NEG-bite-PFV-3SG.G3 1SG.G1-NOM-PST dog-ACC.G3
+NEG-bite-PFV-3SG.G3 1SG-G1.NOM-PST dog-G3.ACC
