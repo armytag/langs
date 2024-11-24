@@ -55,6 +55,20 @@
 - kʼupʼitʼuga → kʼopʼitʼoga (𞤳𞥇𞤮𞤨𞥇𞤭𞤼𞥇𞤮𞤺𞤢)
 - bʼagidʼu → bʼegidʼo (𞤩𞤫𞤺𞤭𞤯𞤮)
 
+#### Phrase initial lenition
+- Stops to fricatives (keep voicing)
+    - p t k q → f s x ʀ̥
+    - b d g → v z ɣ
+- Ejectives to affricates
+    - pʼ tʼ kʼ qʼ → pf ts kx qʀ̥
+- Implosive prenasalized
+    - ɓ ɗ → mɓ nɗ
+- Fricative lenition
+    - ɬ → h
+    - θ → ∅
+- Sonorants unaffected
+    - m n l → m n l
+
 #### Script Example
 <div>
 <p style="font-weight: bold">𞤼𞤫𞤨𞤭𞤼𞥇𞤮𞤺𞤭 𞤸𞤫𞤤𞤢 𞤼𞥇𞤭𞤳𞤮 𞤳𞥇𞤮𞤨𞥇𞤭𞤼𞥇𞤮𞤺𞤢 𞤩𞤫𞤺𞤭𞤯𞤮</p>
