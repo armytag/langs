@@ -30,9 +30,9 @@ SYLL_STRUCTS += ['CVC'] * 0
 SYLL_STRUCTS += ['CCV'] * 0
 SYLL_STRUCTS += ['CCVC'] * 0
 SYLL_COUNTS = []
-SYLL_COUNTS += [1] * 3
-SYLL_COUNTS += [2] * 6
-SYLL_COUNTS += [3] * 1
+SYLL_COUNTS += [1] * 5
+SYLL_COUNTS += [2] * 0
+SYLL_COUNTS += [3] * 0
 SYLL_COUNTS += [4] * 0
 
 def flatten_matrix(matrix):
@@ -66,7 +66,7 @@ if __name__ == "__main__":
     # phonemes = NASALS # + FRICATIVES + PLOSIVES + RHOTICS
     # print(phonemes)
     # print(generate_frequencies(phonemes))
-    word_count = 36
+    word_count = 14
     words = []
     w = 0
     while w < word_count:

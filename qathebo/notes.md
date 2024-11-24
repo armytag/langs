@@ -89,22 +89,37 @@
 
 | CLASS\\NUMBER   | Singular | Dual  | Paucal | Plural |
 |---              |---       |---    |---     |---     |
-| Adult humans    | **A**    | **H** | **L**  | **S**  |
-| Child humans    | **B**    | **J** | **M**  | **S**  |
-| Animals         | **C**    | **K** | **M**  | **T**  |
-| Fast non-animal | **D**    |       | **N**  | **E**  |
-| Slow non-animal | **E**    |       | **N**  | **D**  |
-| Formless        | **F**    |       |        | **Z**  |
+| Adult humans    | **A**    | **B** | **C**  | **D**  |
+| Child humans    | **E**    | **F** | **C**  | **D**  |
+| Animals         | **F**    | **E** | **G**  | **H**  |
+| Fast non-animal | **I**    | **J** | **J**  | **K**  |
+| Slow non-animal | **L**    | **J** | **J**  | **K**  |
+| Formless        | **M**    | **N** | **N**  | **N**  |
 
-| PERSONAL PRONOUNS | Singular | Dual    | Paucal   | Plural    |
-|---                |---       |---      |---       |---        |
-| G1 1st            | qʼata    | qo      | bʼano    | go        |
-| G1 2nd            | ga       | pʼiga   | tiki     | poto      |
-| G1 3rd            | qʼa      | ba      | gata     | pobʼo     |
-| G2 1st            | pidi     | gapʼoba | tʼa      | li        |
-| G2 2nd            | gami     | takaki  | taθo     | daqʼo     |
-| G2 3rd            | qa       | pi      | moqʼatʼa | pʼadʼopʼi |
-| G3 3rd            | qʼoma    | bi      | po       | bigo      |
+| CLASS\\NUMBER   | Singular | Dual  | Paucal | Plural |
+|---              |---       |---    |---     |---     |
+| Adult humans    | -ba      | -bo   | -pʼi   | -bʼi   |
+| Child humans    | -ka      | -kʼi  | -pʼi   | -bʼi   |
+| Animals         | -kʼi     | -ka   | -ni    | -li    |
+| Fast non-animal | -qa      | -qʼi  | -qʼi   | -gʼi   |
+| Slow non-animal | -pa      | -qʼi  | -qʼi   | -gʼi   |
+| Formless        | -da      | -θi   | -θi    | -θi    |
+
+- Pronouns have person-number stems with pronominal affix
+    - e.g. 
+
+| VERBAL AGREEMENT | Singular | Dual    | Paucal   | Plural    |
+|---               |---       |---      |---       |---        |
+| G1 1st           | qʼata    | qo      | bʼano    | go        |
+| G1 2nd           | ga       | pʼiga   | tiki     | poto      |
+| G1 3rd           | qʼa      | ba      | gata     | pobʼo     |
+| G2 1st           | pidi     | gapʼoba | tʼa      | li        |
+| G2 2nd           | gami     | takaki  | taθo     | daqʼo     |
+| G2 3rd           | qa       | pi      | moqʼatʼa | pʼadʼopʼi |
+| G3 3rd           | qʼoma    | bi      | po       | bigo      |
+| G4 3rd           |          |         |          |           |
+| G5 3rd           |          |         |          |           |
+| G6 3rd           |          |         |          |           |
 
 - 8-9 noun cases (symmetrical)
     - Nominative
@@ -131,7 +146,7 @@
 | Essive         | as (temp) | as (temp) | as (temp)  | as (temp) |
 
 #### Noun Template
-1. nominal_root-G#-CASE-TENSE
+1. nominal_root-G#.NUM-CASE-TENSE
 
 ### Verbs
 - Noun incorporation
@@ -147,8 +162,8 @@
     - Agrees in person, number, and class
 
 #### Verb Template
-1. (NEG) verb_root-ASP:MOD-P#G
-1. (NEG) verb_root-direct_object-ASP:MOD-P#G
+1. (NEG) verb_root-ASP:MOD-P#G:SBJ-P#G:OBJ
+1. (NEG) verb_root-direct_object-ASP:MOD-P#G:SBJ(-P#G:OBJ)
 
 ### Syntax
 - Verb initial
