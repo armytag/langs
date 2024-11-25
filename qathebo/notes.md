@@ -76,6 +76,11 @@
 </div>
 
 ### Nouns
+
+#### Noun Template
+1. λ-NUM-CASE-TENSE
+
+#### Notes
 - Nominal tense (3+ morphemes)
     - Future
     - Present
@@ -122,18 +127,18 @@
 - Pronouns have person-number stems with pronominal affix
     - e.g. 
 
-| VERBAL AGREEMENT | Singular | Dual    | Paucal   | Plural    |
-|---               |---       |---      |---       |---        |
-| G1 1st           | qʼata    | qo      | bʼano    | go        |
-| G1 2nd           | ga       | pʼiga   | tiki     | poto      |
-| G1 3rd           | qʼa      | ba      | gata     | pobʼo     |
-| G2 1st           | pidi     | gapʼoba | tʼa      | li        |
-| G2 2nd           | gami     | takaki  | taθo     | daqʼo     |
-| G2 3rd           | qa       | pi      | moqʼatʼa | pʼadʼopʼi |
-| G3 3rd           | qʼoma    | bi      | po       | bigo      |
-| G4 3rd           |          |         |          |           |
-| G5 3rd           |          |         |          |           |
-| G6 3rd           |          |         |          |           |
+| VERBAL AGREEMENT | Singular | Plural    |
+|---               |---       |---        |
+| G1 1st           |          |           |
+| G1 2nd           |          |           |
+| G1 3rd           |          |           |
+| G2 1st           |          |           |
+| G2 2nd           |          |           |
+| G2 3rd           |          |           |
+| G3 3rd           |          |           |
+| G4 3rd           |          |           |
+| G5 3rd           |          |           |
+| G6 3rd           |          |           |
 
 - 8-9 noun cases (symmetrical)
     - Nominative
@@ -159,10 +164,13 @@
 | Ablative       | from      | from      | since      | cease     |
 | Essive         | as (temp) | as (temp) | as (temp)  | as (temp) |
 
-#### Noun Template
-1. nominal_root-G#.NUM-CASE-TENSE
-
 ### Verbs
+
+#### Verb Template
+1. (NEG) λ-ASP:MOD-PNUM:SBJ-PNUM:OBJ
+1. (NEG) λ-ƛ-ASP:MOD-PNUM:SBJ(-PNUM:OBJ)
+
+#### Notes
 - Noun incorporation
     - Types 1, 2, and 3 (and 4?)
 - Verbal mood and aspect (3+ morphemes)
@@ -174,10 +182,6 @@
     - Conditional (?)
 - Mark direct object (not subject)
     - Agrees in person, number, and class
-
-#### Verb Template
-1. (NEG) verb_root-ASP:MOD-P#G:SBJ-P#G:OBJ
-1. (NEG) verb_root-direct_object-ASP:MOD-P#G:SBJ(-P#G:OBJ)
 
 ### Syntax
 - Verb initial
