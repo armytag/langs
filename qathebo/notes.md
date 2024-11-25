@@ -110,7 +110,6 @@
 | Slow non-animal | **L**    | **J** | **J**  | **K**  |
 | Formless        | **M**    | **N** | **N**  | **N**  |
 
-<<<<<<< HEAD
 | CLASS\\NUMBER   | Singular | Dual  | Paucal | Plural |
 |---              |---       |---    |---     |---     |
 | Adult humans    | -ba      | -bo   | -pʼi   | -bʼi   |
