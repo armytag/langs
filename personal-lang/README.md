@@ -71,6 +71,16 @@ Sounds from inspiration:
 | Approximant | v      | l        | j       | w     |         |
 | Trill       |        | r        |         |       |         |
 
+### Personal Lang
+| CONSONANTS  | Labial | Alveolar | Palatal | Velar | Glottal |
+|---          |---     |---       |---      |---    |---      |
+| Nasal       | m      | n        |         |       |         |
+| Plosive     | p      | t        | tʃ      | k kʲ  | ʔ       |
+| Aspirated   | pʰ     | tʰ       | tʃʰ     | kʰ    |         |
+| Fricative   | f      | s        | ʃ       | x xʲ  | h       |
+| Approximant | v      | l        | j       | w     |         |
+| Trill       |        | r        |         |       |         |
+
 ## Vowels
 
 ### Ch'ol (Mayan)
