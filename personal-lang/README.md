@@ -125,6 +125,5 @@ or
 ### Personal Lang
 | VOWELS | Front | Central | Back |
 |---     |---    |---      |---   |
-| High   | iː    | ɨː      | uː   |
-| Mid    | e     | ə       | o    |
-| Low    | ɛ     | a       | ɔ    |
+| High   | i iː  | ɨ       | u uː |
+| Low    | ɛ ɛː  | a       | ʌ ʌː |
