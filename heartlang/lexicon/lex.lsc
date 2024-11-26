@@ -1,0 +1,121 @@
+# For combining two files together
+# pr -tmJS proto.wli proto-rand.wli > proto-compound.wli
+
+Feature front, back, mid
+Feature height(low, high)
+Feature type(*cons, vowel)
+Feature voicing(unvoiced, voiced)
+Feature place(labial, alveolar, retroflex, velar, uvular, glottal)
+Feature manner(nasal, stop, affricate, fricative, approximant, tap)
+Feature +lateral
+Feature (syllable) +stress, (syllable) +heavy
+Feature +hightone
+Diacritic ' (floating) [+hightone]
+# Diacritic ' (before) [+stress]
+Diacritic " (floating) [+heavy]
+Symbol a [low  -mid -front -back vowel]
+Symbol e [high +mid +front -back vowel]
+Symbol i [high -mid +front -back vowel]
+Symbol o [high +mid -front +back vowel]
+Symbol u [high -mid -front +back vowel]
+Symbol ɛ [low  +mid +front -back vowel]
+Symbol ɔ [low  +mid -front +back vowel]
+Symbol p [unvoiced labial stop]
+Symbol t [unvoiced alveolar stop]
+Symbol k [unvoiced velar stop]
+Symbol b [voiced labial stop]
+Symbol d [voiced alveolar stop]
+Symbol g [voiced velar stop]
+Symbol ɸ [unvoiced labial fricative]
+Symbol s [unvoiced alveolar fricative]
+Symbol x [unvoiced velar fricative]
+# Symbol β [voiced labial fricative]
+# Symbol z [voiced alveolar fricative]
+# Symbol ɣ [voiced velar fricative]
+Symbol m [labial nasal]
+Symbol n [alveolar nasal]
+Symbol ɳ [retroflex nasal]
+Symbol ŋ [velar nasal]
+Symbol w [labial approximant]
+Symbol ɰ [velar approximant]
+# Symbol ɹ [alveolar approximant]
+Symbol l [alveolar approximant +lateral]
+Symbol ɭ [retroflex approximant +lateral]
+Symbol ʟ [velar approximant +lateral]
+Symbol ɾ [alveolar tap]
+Symbol ɽ [retroflex tap]
+Symbol ʈ [unvoiced retroflex stop]
+Symbol ɖ [voiced retroflex stop]
+Symbol ʈʂ [unvoiced retroflex affricate]
+Symbol ɖʐ [voiced retroflex affricate]
+Symbol ʂ [unvoiced retroflex fricative]
+Symbol ʐ [voiced retroflex fricative]
+Symbol χ [unvoiced uvular fricative]
+Symbol h [unvoiced glottal fricative]
+# Symbol pɸ [unvoiced labial affricate]
+Symbol ts [unvoiced alveolar affricate]
+# Symbol kx [unvoiced velar affricate]
+# Symbol bβ [voiced labial affricate]
+# Symbol dz [voiced alveolar affricate]
+# Symbol ɡɣ [voiced velar affricate]
+# Symbol ʃ [unvoiced postalveolar fricative]
+# Symbol ʒ [voiced postalveolar fricative]
+# Symbol tʃ [unvoiced postalveolar affricate]
+# Symbol dʒ [voiced postalveolar affricate]
+# Symbol tʂ [unvoiced retroflex affricate]
+# Symbol dʐ [voiced retroflex affricate]
+# Symbol j [palatal approximant]
+# Symbol ɬ [unvoiced alveolar fricative +lateral]
+# Symbol tɬ [unvoiced alveolar affricate +lateral]
+Syllables:
+[cons] [vowel] [nasal]?
+
+# assign-stress:
+# <syl> => [+stress] / $ <syl>&[-heavy] _
+# Else:
+# <syl> => [+stress] / $ _
+
+nasal-assimilation:
+[nasal] => [$place] / _ [cons $place]
+
+stop-coda-creation:
+{n, t} => {t, ts} / _ {[vowel], $} // $ _
+ŋ => n
+
+Syllables:
+[cons] [vowel] {[nasal], [unvoiced stop]}?
+
+nasal-retroflexification:
+n => ɳ / {[nasal], [approximant]} [vowel] _
+
+velar-backing:
+{g, k, x, ɰ} => {k, x, χ, h}
+
+lateral-backing:
+l => ʟ // [nasal] _
+
+retroflex-spread:
+[alveolar] => [retroflex] / ɳ [vowel]? _
+
+romanizer-unnasalized:
+unchanged
+
+nasal-tonogenesis:
+[vowel] [nasal] => [vowel +hightone] * / _ .
+
+romanizer-nasalization:
+unchanged
+
+lateral-flapping:
+{l, ɭ} => {ɾ, ɽ} / [vowel] _ [vowel]
+
+openmid-creatation:
+e [cons] a => ɛ [cons] ɛ
+o [cons] a => ɔ [cons] ɔ
+
+Syllables:
+clear
+
+romanizer:
+[vowel +hightone] * => [vowel -hightone] ̈
+
