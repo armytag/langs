@@ -121,3 +121,10 @@ or
 | Close-Mid | e     |         | o    |
 | Open-Mid  | ɛ     | ə       | ɔ    |
 | Low       |       |         | ɑ    |
+
+### Personal Lang
+| VOWELS | Front | Central | Back |
+|---     |---    |---      |---   |
+| High   | iː    | ɨː      | uː   |
+| Mid    | e     | ə       | o    |
+| Low    | ɛ     | a       | ɔ    |
