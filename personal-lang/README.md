@@ -75,10 +75,10 @@ Sounds from inspiration:
 | CONSONANTS  | Labial | Alveolar | Palatal | Velar | Glottal |
 |---          |---     |---       |---      |---    |---      |
 | Nasal       | m      | n        |         |       |         |
-| Plosive     | p      | t        | tʃ      | k kʲ  | ʔ       |
-| Aspirated   | pʰ     | tʰ       | tʃʰ     | kʰ    |         |
-| Fricative   | f      | s        | ʃ       | x xʲ  | h       |
-| Approximant | v      | l        | j       | w     |         |
+| Plosive     | p      | t        | tɕ      | k     | ʔ       |
+| Aspirated   | pʰ     | tʰ       | tɕʰ     | kʰ    |         |
+| Fricative   | f      | s        | ɕ       | x     |         |
+| Approximant | ʋ      | l        | j       | w     | ɦ       |
 | Trill       |        | r        |         |       |         |
 
 ## Vowels
