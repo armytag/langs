@@ -39,13 +39,18 @@ Sounds from inspiration:
 | High   | i     | ɨ       | u    |
 | Low    | ɛ     | a       | ʌ    |
 
+- ij → iː
+- uw → uː
+- ʌw → ɔː
+- ɨw → ʉː
+
 ## Phonotactics
 
-- ʋrpelm
+- xrpeʋm
 
 | C3 | C2 | C1  | V | G | K1 |
 |--- |--- |---  |---|---|--- |
-| ʋ  | m  | m   | a | ʋ | m  |
+| x  | m  | m   | a | ʋ | m  |
 |    | s  | n   | ɛ | l | n  |
 |    | r  | ŋ   | i | j | ŋ  |
 |    | l  | p   | u | w |    |
