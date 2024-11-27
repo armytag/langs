@@ -18,12 +18,9 @@ Speaker is myself, in the everyday environment I find myself in.
 
 Inspiration:
 - bɛnɛt
-    - beŋan → bɛnɛt
 - mtʃarabi
-    - mutʃarabi
 
 Sounds from inspiration:
-- syllabic nasal
 - coda alveolar stop
 
 ## Phonology
@@ -44,6 +41,29 @@ Sounds from inspiration:
 
 ## Phonotactics
 
-| C3 | C2 | C1 | V | G | K1 |
-|--- |--- |--- |---|---|--- |
-|    |    |    |   |   |    |
+- ʋrpelm
+
+| C3 | C2 | C1  | V | G | K1 |
+|--- |--- |---  |---|---|--- |
+| ʋ  | m  | m   | a | ʋ | m  |
+|    | s  | n   | ɛ | l | n  |
+|    | r  | ŋ   | i | j | ŋ  |
+|    | l  | p   | u | w |    |
+|    |    | t   | ʌ | ɦ |    |
+|    |    | tɕ  | ɨ |   |    |
+|    |    | k   |   |   |    |
+|    |    | ʔ   |   |   |    |
+|    |    | pʰ  |   |   |    |
+|    |    | tʰ  |   |   |    |
+|    |    | tɕʰ |   |   |    |
+|    |    | kʰ  |   |   |    |
+|    |    | f   |   |   |    |
+|    |    | s   |   |   |    |
+|    |    | ɕ   |   |   |    |
+|    |    | x   |   |   |    |
+|    |    | ʋ   |   |   |    |
+|    |    | l   |   |   |    |
+|    |    | j   |   |   |    |
+|    |    | w   |   |   |    |
+|    |    | ɦ   |   |   |    |
+|    |    | r   |   |   |    |
