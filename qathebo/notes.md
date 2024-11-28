@@ -1,8 +1,8 @@
-# Qʼathebʼo -- 𞤗𞥇𞤢𞤬𞤫𞤩𞤮
+# Qʼatheɓo -- 𞤗𞥇𞤢𞤬𞤫𞤩𞤮
 
 ### Phonology
 - Phonemic /θ/ and /ɬ/, and no other fricatives
-- No phonemic /u/, only /a e i o/
+- No phonemic /u/, only /a ɛ i o/
 - Have a voicing pattern distinction only in plosive
 - Have a place of articulation contrast within one of the categories of labial, coronal, and dorsal
 - Have at least one non-pulmonic consonant
@@ -56,7 +56,7 @@
 #### Script Example
 <div>
 <p style="font-weight: bold">𞤼𞤫𞤨𞤭𞤼𞥇𞤮𞤺𞤭 𞤸𞤫𞤤𞤢 𞤼𞥇𞤭𞤳𞤮 𞤳𞥇𞤮𞤨𞥇𞤭𞤼𞥇𞤮𞤺𞤢 𞤩𞤫𞤺𞤭𞤯𞤮</p>
-<p style="font-style: italic">tepitʼogi ɬela tʼiko kʼopʼitʼoga bʼegidʼo</p>
+<p style="font-style: italic">tepitʼogi ɬela tʼiko kʼopʼitʼoga ɓegiɗo</p>
 </div>
 
 ### Nouns
@@ -66,7 +66,7 @@
 
 #### Notes
 - Nominal tense (3+ morphemes)
-    - Future: *-bʼa*
+    - Future: *-ɓa*
     - Present: *-ki*
     - Recent past: *-mi*
         - Somewhat implies that the event still has present repricusions
@@ -101,8 +101,8 @@
 
 | CLASS\\NUMBER   | Singular | Dual  | Paucal | Plural |
 |---              |---       |---    |---     |---     |
-| Adult humans    | -ba      | -bo   | -pʼi   | -bʼi   |
-| Child humans    | -ka      | -kʼi  | -pʼi   | -bʼi   |
+| Adult humans    | -ba      | -bo   | -pʼi   | -ɓi    |
+| Child humans    | -ka      | -kʼi  | -pʼi   | -ɓi    |
 | Animals         | -kʼi     | -ka   | -ni    | -li    |
 | Fast non-animal | -qa      | -qʼi  | -qʼi   | -gʼi   |
 | Slow non-animal | -pa      | -qʼi  | -qʼi   | -gʼi   |
@@ -120,7 +120,7 @@
 | G2 2nd         | go     | gikʼo | bapa   | beti   |
 | G2 3rd         | θo     | θikʼo | ɬepa   | ɬiti   |
 | G3 2nd         | gi     | gomi  | nena   | moli   |
-| G3 3rd         | θi     | θomi  | dʼona  | dʼoli  |
+| G3 3rd         | θi     | θomi  | ɗona   | ɗoli   |
 
 - Demonstratives
 
@@ -133,10 +133,10 @@
 | G2 2nd         | geko     | gikʼi  |
 | G2 3rd         | θo       | θipʼo  |
 | G3 2nd         | geko     | gomi   |
-| G3 3rd         | dʼeli    | dʼala  |
+| G3 3rd         | ɗeli     | ɗala   |
 
 - 8-9 noun cases (symmetrical)
-    - Nominative: -dʼa
+    - Nominative: -ɗa
     - Accusative (unmarked): -∅
     - Dative: -na
     - Genitive: -li
@@ -174,7 +174,7 @@
     - Imperative: -∅
     - Prohibitive: -na
     - Optative: -pʼi
-    - Conditional (?): -dʼa
+    - Conditional (?): -ɗa
 - Mark direct object (not subject)
     - Agrees in person, number, and class
 
@@ -200,7 +200,7 @@
 
 bite-PFV-G3.3SG-G1.1SG (G1.1SG-ACC) dog-G3.SG-NOM-PST
 
-kidobʼe-qa-G3.3SG-G1.1SG (mo-∅) minibo-kʼe-dʼe-mi
+kidoɓe-qa-G3.3SG-G1.1SG (mo-∅) minibo-kʼe-ɗe-mi
 
 𞤑𞤭𞤣𞤮𞤩𞤫𞤹𞤢-- (𞤥𞤮) 𞤥𞤭𞤲𞤭𞤦𞤮𞤳𞥇𞤫𞤯𞤫𞤥𞤭
 
@@ -209,6 +209,6 @@ kidobʼe-qa-G3.3SG-G1.1SG (mo-∅) minibo-kʼe-dʼe-mi
 
 NEG-bite-PFV-G1.1SG-3SG.G3 G1.1SG-NOM-PST (dog-G3.SG-ACC)
 
-θeni kidobʼe-qa-G1.1SG-3SG.G3 mo-dʼe-mi (minibo-kʼi-∅)
+θeni kidoɓe-qa-G1.1SG-3SG.G3 mo-ɗe-mi (minibo-kʼi-∅)
 
 𞤊𞤫𞤲𞤭 𞤳𞤭𞤣𞤮𞤩𞤫𞤹𞤢-- 𞤥𞤮𞤯𞤫𞤥𞤭 (𞤥𞤭𞤲𞤭𞤦𞤮𞤳𞥇𞤭)
