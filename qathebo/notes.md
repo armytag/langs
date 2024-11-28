@@ -39,22 +39,6 @@
 1. Turn /u/ into /e/ before /u/ or /o/
 1. Lower /u/ everywhere else
 
-- pʼudʼi → pʼodʼi (𞤨𞥇𞤮𞤯𞤭)
-- tʼabi → tʼebi (𞤼𞥇𞤫𞤦𞤭)
-- gikʼibu → gikʼibo (𞤺𞤭𞤳𞥇𞤭𞤦𞤮)
-- pʼinu → pʼino (𞤨𞥇𞤭𞤲𞤮)
-- dʼiligu → dʼiligo (𞤯𞤭𞤤𞤭𞤺𞤮)
-- kʼaɬa → kʼaɬa (𞤳𞥇𞤢𞤸𞤢)
-- pʼuqʼamuqi → pʼoqʼamoqi (𞤨𞥇𞤮𞤹𞥇𞤢𞤥𞤮𞤹𞤭)
-- qagu → qago (𞤹𞤢𞤺𞤮)
-- daɬiquqa → deɬiqoqa (𞤣𞤫𞤸𞤭𞤹𞤮𞤹𞤢)
-- gagidʼu → gegidʼo (𞤺𞤫𞤺𞤭𞤯𞤮)
-- tapitʼugi → tepitʼogi (𞤼𞤫𞤨𞤭𞤼𞥇𞤮𞤺𞤭)
-- ɬila → ɬela (𞤸𞤫𞤤𞤢)
-- tʼiku → tʼiko (𞤼𞥇𞤭𞤳𞤮)
-- kʼupʼitʼuga → kʼopʼitʼoga (𞤳𞥇𞤮𞤨𞥇𞤭𞤼𞥇𞤮𞤺𞤢)
-- bʼagidʼu → bʼegidʼo (𞤩𞤫𞤺𞤭𞤯𞤮)
-
 #### Phrase initial lenition
 - Stops to fricatives (keep voicing)
     - p t k q → f s x ʀ̥
