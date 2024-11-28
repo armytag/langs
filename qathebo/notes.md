@@ -66,12 +66,12 @@
 
 #### Notes
 - Nominal tense (3+ morphemes)
-    - Future
-    - Present
-    - Recent past
+    - Future: *-bʼa*
+    - Present: *-ki*
+    - Recent past: *-mi*
         - Somewhat implies that the event still has present repricusions
         - burndown-PFV house-NOM.G5-PST → *"My house burned down (and now I'm homeless)"*
-    - Remote past
+    - Remote past: *-tʼo*
         - Somewhat implies that the event is not longer directly relevant
         - burndown-PFV house-NOM.G5-REM → *"My house burned down (but now I'm living elsewhere)"*
         - Regardless of relevance, this form is almost always used for events more than one year prior
@@ -136,15 +136,15 @@
 | G3 3rd         | dʼeli    | dʼala  |
 
 - 8-9 noun cases (symmetrical)
-    - Nominative
-    - Accusative (unmarked)
-    - Dative
-    - Genitive
-    - Instrumental
-    - Locative
-    - Allative
-    - Ablative
-    - Essive
+    - Nominative: -dʼa
+    - Accusative (unmarked): -∅
+    - Dative: -na
+    - Genitive: -li
+    - Instrumental: -bi
+    - Locative: -θi
+    - Allative: -bo
+    - Ablative: -ka
+    - Essive: -to
 
 | NOUN CASE      | Thing     | Place     | Time       | State     |
 |---             |---        |---        |---         |---        |
@@ -169,12 +169,12 @@
 - Noun incorporation
     - Types 1, 2, and 3 (and 4?)
 - Verbal mood and aspect (3+ morphemes)
-    - Indicative (perfective)
-    - Imperfective
-    - Imperative
-    - Prohibitive
-    - Optative
-    - Conditional (?)
+    - Indicative (perfective): -qa
+    - Imperfective: -to
+    - Imperative: -∅
+    - Prohibitive: -na
+    - Optative: -pʼi
+    - Conditional (?): -dʼa
 - Mark direct object (not subject)
     - Agrees in person, number, and class
 
@@ -198,10 +198,17 @@
 ### Test Sentences
 "A dog bit me"
 
-bite-PFV-1SG.G1 1SG-G1.ACC dog-G3.NOM-PST
+bite-PFV-G3.3SG-G1.1SG (G1.1SG-ACC) dog-G3.SG-NOM-PST
+
+kidobʼe-qa-G3.3SG-G1.1SG (mo-∅) minibo-kʼe-dʼe-mi
+
+𞤑𞤭𞤣𞤮𞤩𞤫𞤹𞤢-- (𞤥𞤮) 𞤥𞤭𞤲𞤭𞤦𞤮𞤳𞥇𞤫𞤯𞤫𞤥𞤭
 
 
 "I didn't bite the dog"
 
-NEG-bite-PFV-3SG.G3 1SG-G1.NOM-PST dog-G3.ACC
+NEG-bite-PFV-G1.1SG-3SG.G3 G1.1SG-NOM-PST (dog-G3.SG-ACC)
 
+θeni kidobʼe-qa-G1.1SG-3SG.G3 mo-dʼe-mi (minibo-kʼi-∅)
+
+𞤊𞤫𞤲𞤭 𞤳𞤭𞤣𞤮𞤩𞤫𞤹𞤢-- 𞤥𞤮𞤯𞤫𞤥𞤭 (𞤥𞤭𞤲𞤭𞤦𞤮𞤳𞥇𞤭)
