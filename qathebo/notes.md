@@ -126,14 +126,14 @@
 
 | DEMONSTRATIVES | Proximal | Distal |
 |---             |---       |---     |
-| G1 1st         | me       | mabo   |
-| G1 2nd         | bona     | nibi   |
-| G1 3rd         | ɬa       | ɬepa   |
-| G2 1st         | kana     | keko   |
-| G2 2nd         | geko     | gikʼi  |
-| G2 3rd         | θo       | θipʼo  |
-| G3 2nd         | geko     | gomi   |
-| G3 3rd         | ɗeli     | ɗala   |
+| G1 1st         |          |        |
+| G1 2nd         |          |        |
+| G1 3rd         |          |        |
+| G2 1st         |          |        |
+| G2 2nd         |          |        |
+| G2 3rd         |          |        |
+| G3 2nd         |          |        |
+| G3 3rd         |          |        |
 
 - 8-9 noun cases (symmetrical)
     - Nominative: -ɗa
@@ -178,6 +178,17 @@
 - Mark direct object (not subject)
     - Agrees in person, number, and class
 
+| VERB AGREEMENT | Single | Plural |
+|---             |---     |---     |
+| G1 1st         | -mi    | -mo    |
+| G1 2nd         | -na    | -ba    |
+| G1 3rd         | -ɬa    | -ɬi    |
+| G2 1st         | -bo    | -mo    |
+| G2 2nd         | -go    | -ba    |
+| G2 3rd         | -θo    | -ɬi    |
+| G3 2nd         | -gi    | -ka    |
+| G3 3rd         | -θi    | -ɗa    |
+
 ### Syntax
 - Verb initial
 - Nouns order by higher animacy before lower animacy, and 2P before 1P before 3P
@@ -200,15 +211,15 @@
 
 bite-PFV-G3.3SG-G1.1SG (G1.1SG-ACC) dog-G3.SG-NOM-PST
 
-kidoɓe-qa-G3.3SG-G1.1SG (mo-∅) minibo-kʼe-ɗe-mi
+kidoɓe-qe-θi-mo (mo-∅) minibo-kʼe-ɗe-mi
 
-𞤑𞤭𞤣𞤮𞤩𞤫𞤹𞤢-- (𞤥𞤮) 𞤥𞤭𞤲𞤭𞤦𞤮𞤳𞥇𞤫𞤯𞤫𞤥𞤭
+𞤑𞤭𞤣𞤮𞤩𞤫𞤹𞤫𞤬𞤭𞤥𞤮 (𞤥𞤮) 𞤥𞤭𞤲𞤭𞤦𞤮𞤳𞥇𞤫𞤯𞤫𞤥𞤭
 
 
 "I didn't bite the dog"
 
 NEG-bite-PFV-G1.1SG-3SG.G3 G1.1SG-NOM-PST (dog-G3.SG-ACC)
 
-θeni kidoɓe-qa-G1.1SG-3SG.G3 mo-ɗe-mi (minibo-kʼi-∅)
+θeni kidoɓe-qe-mi-θi mo-ɗe-mi (minibo-kʼi-∅)
 
-𞤊𞤫𞤲𞤭 𞤳𞤭𞤣𞤮𞤩𞤫𞤹𞤢-- 𞤥𞤮𞤯𞤫𞤥𞤭 (𞤥𞤭𞤲𞤭𞤦𞤮𞤳𞥇𞤭)
+𞤊𞤫𞤲𞤭 𞤳𞤭𞤣𞤮𞤩𞤫𞤹𞤫𞤥𞤭𞤬𞤭 𞤥𞤮𞤯𞤫𞤥𞤭 (𞤥𞤭𞤲𞤭𞤦𞤮𞤳𞥇𞤭)
