@@ -109,20 +109,31 @@
 | Formless        | -da      | -θi   | -θi    | -θi    |
 
 - Pronouns have person-number stems with pronominal affix
-    - e.g. 
+    - G4-G6 pronouns are derived from demonstratives, and can only be 3rd person
 
-| VERBAL AGREEMENT | Singular | Plural    |
-|---               |---       |---        |
-| G1 1st           |          |           |
-| G1 2nd           |          |           |
-| G1 3rd           |          |           |
-| G2 1st           |          |           |
-| G2 2nd           |          |           |
-| G2 3rd           |          |           |
-| G3 3rd           |          |           |
-| G4 3rd           |          |           |
-| G5 3rd           |          |           |
-| G6 3rd           |          |           |
+| PERS. PRONOUNS | Single | Dual  | Paucal | Plural |
+|---             |---     |---    |---     |---     |
+| G1 1st         | mo     | mabo  | mepa   | moti   |
+| G1 2nd         | bona   | nibo  | bapa   | beti   |
+| G1 3rd         | ɬa     | ɬebo  | ɬepa   | ɬiti   |
+| G2 1st         | bo     | bekʼo | mepa   | moti   |
+| G2 2nd         | go     | gikʼo | bapa   | beti   |
+| G2 3rd         | θo     | θikʼo | ɬepa   | ɬiti   |
+| G3 2nd         | gi     | gomi  | nena   | moli   |
+| G3 3rd         | θi     | θomi  | dʼona  | dʼoli  |
+
+- Demonstratives
+
+| DEMONSTRATIVES | Proximal | Distal |
+|---             |---       |---     |
+| G1 1st         | me       | mabo   |
+| G1 2nd         | bona     | nibi   |
+| G1 3rd         | ɬa       | ɬepa   |
+| G2 1st         | kana     | keko   |
+| G2 2nd         | geko     | gikʼi  |
+| G2 3rd         | θo       | θipʼo  |
+| G3 2nd         | geko     | gomi   |
+| G3 3rd         | dʼeli    | dʼala  |
 
 - 8-9 noun cases (symmetrical)
     - Nominative
@@ -193,3 +204,4 @@ bite-PFV-1SG.G1 1SG-G1.ACC dog-G3.NOM-PST
 "I didn't bite the dog"
 
 NEG-bite-PFV-3SG.G3 1SG-G1.NOM-PST dog-G3.ACC
+
