@@ -53,6 +53,10 @@
 - Sonorants unaffected
     - m n l → m n l
 
+### Orthography
+
+Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
+
 #### Script Example
 <div>
 <p style="font-weight: bold">𞤼𞤫𞤨𞤭𞤼𞥇𞤮𞤺𞤭 𞤸𞤫𞤤𞤢 𞤼𞥇𞤭𞤳𞤮 𞤳𞥇𞤮𞤨𞥇𞤭𞤼𞥇𞤮𞤺𞤢 𞤩𞤫𞤺𞤭𞤯𞤮</p>
@@ -207,19 +211,45 @@
     1. Negative imperative verb (command)
 
 ### Test Sentences
-"A dog bit me"
+<table>
+<tr style="text-align: right; font-weight: bold">
+<td colspan="999">𞤑𞤭𞤣𞤮𞤩𞤫𞤹𞤫𞤬𞤭𞤥𞤭 (𞤥𞤮) 𞤥𞤭𞤲𞤭𞤦𞤮𞤳𞥇𞤫𞤯𞤫𞤥𞤭</td>
+</tr>
+<tr style="font-style: italic">
+<td>θeni</td>
+<td>kidoɓe-qe-θi-mi</td>
+<td>(mo-∅)</td>
+<td>minibo-kʼe-ɗe-mi</td>
+</tr>
+<tr>
+<td>NEG</td>
+<td>bite-PFV-G3.3SG-G1.1SG</td>
+<td>(G1.1SG-ACC)</td>
+<td>dog-G3.SG-NOM-PST</td>
+</tr>
+<tr style="text-align: left">
+<td colspan="999">'A dog bit me.'</td>
+</tr>
+</table>
 
-bite-PFV-G3.3SG-G1.1SG (G1.1SG-ACC) dog-G3.SG-NOM-PST
+<table>
+<tr style="text-align: right; font-weight: bold">
+<td colspan="999">𞤊𞤫𞤲𞤭 𞤳𞤭𞤣𞤮𞤩𞤫𞤹𞤫𞤥𞤭𞤬𞤭 𞤥𞤮𞤯𞤫𞤥𞤭 (𞤥𞤭𞤲𞤭𞤦𞤮𞤳𞥇𞤭)</td>
+</tr>
+<tr style="font-style: italic">
+<td>θeni</td>
+<td>kidoɓe-qe-mi-θi</td>
+<td>mo-ɗe-mi</td>
+<td>(minibo-kʼi-∅)</td>
+</tr>
+<tr>
+<td>NEG</td>
+<td>bite-PFV-G1.1SG-3SG.G3</td>
+<td>G1.1SG-NOM-PST</td>
+<td>(dog-G3.SG-ACC)</td>
+</tr>
+<tr style="text-align: left">
+<td colspan="999">'I didn't bite the dog.'</td>
+</tr>
+</table>
 
-kidoɓe-qe-θi-mi (mo-∅) minibo-kʼe-ɗe-mi
-
-𞤑𞤭𞤣𞤮𞤩𞤫𞤹𞤫𞤬𞤭𞤥𞤭 (𞤥𞤮) 𞤥𞤭𞤲𞤭𞤦𞤮𞤳𞥇𞤫𞤯𞤫𞤥𞤭
-
-
-"I didn't bite the dog"
-
-NEG-bite-PFV-G1.1SG-3SG.G3 G1.1SG-NOM-PST (dog-G3.SG-ACC)
-
-θeni kidoɓe-qe-mi-θi mo-ɗe-mi (minibo-kʼi-∅)
-
-𞤊𞤫𞤲𞤭 𞤳𞤭𞤣𞤮𞤩𞤫𞤹𞤫𞤥𞤭𞤬𞤭 𞤥𞤮𞤯𞤫𞤥𞤭 (𞤥𞤭𞤲𞤭𞤦𞤮𞤳𞥇𞤭)
