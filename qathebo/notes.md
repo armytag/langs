@@ -212,10 +212,12 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
 
 ### Test Sentences
 <table>
-<tr style="text-align: right; font-weight: bold; font-style: italic">
+<tr
+style="text-align: right; font-weight: bold; font-style: italic">
 <td colspan="999">𞤑𞤭𞤣𞤮𞤩𞤫𞤹𞤫𞤬𞤭𞤥𞤭 (𞤥𞤮) 𞤥𞤭𞤲𞤭𞤦𞤮𞤳𞥇𞤫𞤯𞤫𞤥𞤭</td>
 </tr>
-<tr style="font-style: italic">
+<tr
+style="font-style: italic">
 <td>kidoɓe-qe-θi-mi</td>
 <td>(mo-∅)</td>
 <td>minibo-kʼe-ɗe-mi</td>
@@ -225,16 +227,19 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
 <td>(G1.1SG-ACC)</td>
 <td>dog-G3.SG-NOM-PST</td>
 </tr>
-<tr style="text-align: left">
+<tr
+style="text-align: left">
 <td colspan="999">'A dog bit me.'</td>
 </tr>
 </table>
 
 <table>
-<tr style="text-align: right; font-weight: bold; font-style: italic">
+<tr
+style="text-align: right; font-weight: bold; font-style: italic">
 <td colspan="999">𞤊𞤫𞤲𞤭 𞤳𞤭𞤣𞤮𞤩𞤫𞤹𞤫𞤥𞤭𞤬𞤭 𞤥𞤮𞤯𞤫𞤥𞤭 (𞤥𞤭𞤲𞤭𞤦𞤮𞤳𞥇𞤭)</td>
 </tr>
-<tr style="font-style: italic">
+<tr
+style="font-style: italic">
 <td>θeni</td>
 <td>kidoɓe-qe-mi-θi</td>
 <td>mo-ɗe-mi</td>
@@ -246,7 +251,8 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
 <td>G1.1SG-NOM-PST</td>
 <td>(dog-G3.SG-ACC)</td>
 </tr>
-<tr style="text-align: left">
+<tr
+style="text-align: left">
 <td colspan="999">'I didn't bite the dog.'</td>
 </tr>
 </table>
