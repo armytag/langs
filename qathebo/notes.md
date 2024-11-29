@@ -140,15 +140,15 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
 | G3 3rd         |          |        |
 
 - 8-9 noun cases (symmetrical)
-    - Nominative: -ɗa
+    - Nominative: -i 
     - Accusative (unmarked): -∅
-    - Dative: -na
-    - Genitive: -li
-    - Instrumental: -bi
-    - Locative: -θi
-    - Allative: -bo
-    - Ablative: -ka
-    - Essive: -to
+    - Dative: -ɛna
+    - Genitive: -ili
+    - Instrumental: -a
+    - Locative: -ɛθi
+    - Allative: -abo
+    - Ablative: -aka
+    - Essive: -ɛto
 
 | NOUN CASE      | Thing     | Place     | Time       | State     |
 |---             |---        |---        |---         |---        |
@@ -166,32 +166,34 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
 ### Verbs
 
 #### Verb Template
-1. (NEG) λ-ASP:MOD-PNUM:SBJ-PNUM:OBJ
-1. (NEG) λ-ƛ-ASP:MOD-PNUM:SBJ(-PNUM:OBJ)
+1. (NEG) λ-ASP:MOD-PNUM:OBJ
+1. (NEG) λ-ƛ-ASP:MOD(-PNUM:OBJ)
 
 #### Notes
 - Noun incorporation
     - Types 1, 2, and 3 (and 4?)
 - Verbal mood and aspect (3+ morphemes)
-    - Indicative (perfective): -qa
-    - Imperfective: -to
+    - Indicative (perfective): -a
+    - Imperfective: -i
     - Imperative: -∅
-    - Prohibitive: -na
-    - Optative: -pʼi
-    - Conditional (?): -ɗa
+    - Prohibitive: -oqʼa
+    - Optative: -opi
+    - Conditional (?): -oɗa
 - Mark direct object (not subject)
     - Agrees in person, number, and class
 
 | VERB AGREEMENT | Single | Plural |
 |---             |---     |---     |
 | G1 1st         | -mi    | -mo    |
-| G1 2nd         | -na    | -ba    |
+| G2 1st         | -ki    | -mo    |
+| G1 2nd         | -ba    | -bo    |
+| G2 2nd         | -ka    | -bo    |
 | G1 3rd         | -ɬa    | -ɬi    |
-| G2 1st         | -bo    | -mo    |
-| G2 2nd         | -go    | -ba    |
 | G2 3rd         | -θo    | -ɬi    |
-| G3 2nd         | -gi    | -ka    |
 | G3 3rd         | -θi    | -ɗa    |
+| G4 3rd         | -qʼa   | -ɬo    |
+| G5 3rd         | -pʼi   | -ɬo    |
+| G6 3rd         | -na    | -no    |
 
 ### Syntax
 - Verb initial
@@ -218,12 +220,12 @@ style="text-align: right; font-weight: bold; font-style: italic">
 </tr>
 <tr
 style="font-style: italic">
-<td>kidoɓe-qe-θi-mi</td>
+<td>kidoɓ-ɛ-mi</td>
 <td>(mo-∅)</td>
-<td>minibo-kʼe-ɗe-mi</td>
+<td>minibo-kʼɛ-ɗɛ-mi</td>
 </tr>
 <tr>
-<td>bite-PFV-G3.3SG-G1.1SG</td>
+<td>bite-PFV-G1.1SG</td>
 <td>(G1.1SG-ACC)</td>
 <td>dog-G3.SG-NOM-PST</td>
 </tr>
@@ -240,14 +242,14 @@ style="text-align: right; font-weight: bold; font-style: italic">
 </tr>
 <tr
 style="font-style: italic">
-<td>θeni</td>
-<td>kidoɓe-qe-mi-θi</td>
-<td>mo-ɗe-mi</td>
+<td>θɛni</td>
+<td>kidoɓ-ɛ-θi</td>
+<td>mo-ɗɛ-mi</td>
 <td>(minibo-kʼi-∅)</td>
 </tr>
 <tr>
 <td>NEG</td>
-<td>bite-PFV-G1.1SG-3SG.G3</td>
+<td>bite-PFV-3SG.G3</td>
 <td>G1.1SG-NOM-PST</td>
 <td>(dog-G3.SG-ACC)</td>
 </tr>
