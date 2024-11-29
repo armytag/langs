@@ -1,5 +1,5 @@
 
-1. The sun shines.
+## 1. The sun shines.
 
 _shine_-PFV _sun_-G5.SG-NOM-PRS
 
@@ -8,7 +8,7 @@ kaɗaɓ-a gɛdoma-pa-ɗɛ-ki
 𞤑𞤢𞤯𞤢𞤩𞤢 𞤺𞤫𞤣𞤮𞤥𞤢𞤨𞤢𞤯𞤫𞤳𞤭
 
 
-1. The sun is shining.
+## 1. The sun is shining.
 
 _shine_-IPFV _sun_-G5.SG-NOM-PRS
 
@@ -17,7 +17,7 @@ kaɗɛɓ-i gɛdoma-pa-ɗɛ-ki
 𞤑𞤢𞤯𞤫𞤩𞤭 𞤺𞤫𞤣𞤮𞤥𞤢𞤨𞤢𞤯𞤫𞤳𞤭
 
 
-1. The sun shone.
+## 1. The sun shone.
 
 _shine_-PFV _sun_-G5.SG-NOM-PST
 
