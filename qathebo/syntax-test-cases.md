@@ -1,23 +1,48 @@
 
 1. The sun shines.
-_shine_-PFV-G5.3SG _sun_-G5.SG-NOM-PRS
-kaɗaɓɛ-qɛ-pʼi godoma-pa-ɗɛ-ki
+
+_shine_-PFV _sun_-G5.SG-NOM-PRS
+
+kaɗaɓ-a gɛdoma-pa-ɗɛ-ki
+
+𞤑𞤢𞤯𞤢𞤩𞤢 𞤺𞤫𞤣𞤮𞤥𞤢𞤨𞤢𞤯𞤫𞤳𞤭
+
 
 1. The sun is shining.
-_shine_-IPFV-G5.3SG _sun_-G5.SG-NOM-PRS
-kaɗɛɓi-to-pʼi godoma-pa-ɗɛ-ki
+
+_shine_-IPFV _sun_-G5.SG-NOM-PRS
+
+kaɗɛɓ-i gɛdoma-pa-ɗɛ-ki
+
+𞤑𞤢𞤯𞤫𞤩𞤭 𞤺𞤫𞤣𞤮𞤥𞤢𞤨𞤢𞤯𞤫𞤳𞤭
+
 
 1. The sun shone.
-_shine_-PFV-G5.3SG _sun_-G5.SG-NOM-PST
-kaɗaɓɛ-qɛ-pʼi godoma-pa-ɗɛ-mi
+
+_shine_-PFV _sun_-G5.SG-NOM-PST
+
+kaɗaɓ-a gɛdoma-pa-ɗɛ-mi
+
+𞤑𞤢𞤯𞤢𞤩𞤢 𞤺𞤫𞤣𞤮𞤥𞤢𞤨𞤢𞤯𞤫𞤥𞤭
+
 
 1. The sun will shine.
-_shine_-PFV-G5.3SG _sun_-G5.SG-NOM-FUT
-kaɗaɓɛ-qɛ-pʼi godoma-pa-ɗa-ɓa
+
+_shine_-PFV _sun_-G5.SG-NOM-FUT
+
+kaɗaɓ-a gɛdoma-pa-ɗa-ɓa
+
+𞤳𞤢𞤯𞤢𞤩𞤢 𞤺𞤫𞤣𞤮𞤥𞤢𞤨𞤢𞤯𞤢𞤩𞤢
+
 
 1. The sun has been shining.
-HAB _shine_-IPFV-G5.3SG _sun_-G5.SG-NOM-PST
-pʼana kaɗaɓi-to-pʼi godoma-pa-ɗɛ-mi
+
+HAB _shine_-IPFV _sun_-G5.SG-NOM-PST
+
+pʼana kaɗɛɓ-i gɛdoma-pa-ɗɛ-mi
+
+𞤆𞥇𞤢𞤲𞤢 𞤳𞤢𞤯𞤫𞤩𞤭 𞤺𞤫𞤣𞤮𞤥𞤢𞤨𞤢𞤯𞤫𞤥𞤭
+
 
 1. The sun is shining again.
 

@@ -184,13 +184,13 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
 
 | VERB AGREEMENT | Single | Plural |
 |---             |---     |---     |
-| G1 1st         | -mi    | -mo    |
-| G2 1st         | -ki    | -mo    |
+| G1 1st         | -ma    | -mi    |
+| G2 1st         | -ko    | -mi    |
 | G1 2nd         | -ba    | -bo    |
 | G2 2nd         | -ka    | -bo    |
 | G1 3rd         | -ɬa    | -ɬi    |
 | G2 3rd         | -θo    | -ɬi    |
-| G3 3rd         | -θi    | -ɗa    |
+| G3 3rd         | -θa    | -ɗi    |
 | G4 3rd         | -qʼa   | -ɬo    |
 | G5 3rd         | -pʼi   | -ɬo    |
 | G6 3rd         | -na    | -no    |
@@ -216,11 +216,11 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
 <table>
 <tr
 style="text-align: right; font-weight: bold; font-style: italic">
-<td colspan="999">𞤑𞤭𞤣𞤮𞤩𞤫𞤹𞤫𞤬𞤭𞤥𞤭 (𞤥𞤮) 𞤥𞤭𞤲𞤭𞤦𞤮𞤳𞥇𞤫𞤯𞤫𞤥𞤭</td>
+<td colspan="999">𞤑𞤭𞤣𞤮𞤩𞤢𞤥𞤢 (𞤥𞤮) 𞤥𞤭𞤲𞤭𞤦𞤮𞤳𞥇𞤫𞤯𞤫𞤥𞤭</td>
 </tr>
 <tr
 style="font-style: italic">
-<td>kidoɓ-ɛ-mi</td>
+<td>kidoɓ-a-ma</td>
 <td>(mo-∅)</td>
 <td>minibo-kʼɛ-ɗɛ-mi</td>
 </tr>
@@ -238,12 +238,12 @@ style="text-align: left">
 <table>
 <tr
 style="text-align: right; font-weight: bold; font-style: italic">
-<td colspan="999">𞤊𞤫𞤲𞤭 𞤳𞤭𞤣𞤮𞤩𞤫𞤹𞤫𞤥𞤭𞤬𞤭 𞤥𞤮𞤯𞤫𞤥𞤭 (𞤥𞤭𞤲𞤭𞤦𞤮𞤳𞥇𞤭)</td>
+<td colspan="999">𞤊𞤫𞤲𞤭 𞤳𞤭𞤣𞤮𞤩𞤢𞤬𞤢 𞤥𞤮𞤯𞤫𞤥𞤭 (𞤥𞤭𞤲𞤭𞤦𞤮𞤳𞥇𞤭)</td>
 </tr>
 <tr
 style="font-style: italic">
 <td>θɛni</td>
-<td>kidoɓ-ɛ-θi</td>
+<td>kidoɓ-a-θa</td>
 <td>mo-ɗɛ-mi</td>
 <td>(minibo-kʼi-∅)</td>
 </tr>
