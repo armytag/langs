@@ -1,5 +1,4 @@
-
-## 1. The sun shines.
+1. The sun shines.
 
 _shine_-PFV _sun_-G5.SG-NOM-PRS
 
@@ -8,7 +7,7 @@ kaɗaɓ-a gɛdoma-pa-ɗɛ-ki
 𞤑𞤢𞤯𞤢𞤩𞤢 𞤺𞤫𞤣𞤮𞤥𞤢𞤨𞤢𞤯𞤫𞤳𞤭
 
 
-## 1. The sun is shining.
+2. The sun is shining.
 
 _shine_-IPFV _sun_-G5.SG-NOM-PRS
 
@@ -17,7 +16,7 @@ kaɗɛɓ-i gɛdoma-pa-ɗɛ-ki
 𞤑𞤢𞤯𞤫𞤩𞤭 𞤺𞤫𞤣𞤮𞤥𞤢𞤨𞤢𞤯𞤫𞤳𞤭
 
 
-## 1. The sun shone.
+3. The sun shone.
 
 _shine_-PFV _sun_-G5.SG-NOM-PST
 
@@ -26,7 +25,7 @@ kaɗaɓ-a gɛdoma-pa-ɗɛ-mi
 𞤑𞤢𞤯𞤢𞤩𞤢 𞤺𞤫𞤣𞤮𞤥𞤢𞤨𞤢𞤯𞤫𞤥𞤭
 
 
-1. The sun will shine.
+4. The sun will shine.
 
 _shine_-PFV _sun_-G5.SG-NOM-FUT
 
@@ -35,7 +34,7 @@ kaɗaɓ-a gɛdoma-pa-ɗa-ɓa
 𞤳𞤢𞤯𞤢𞤩𞤢 𞤺𞤫𞤣𞤮𞤥𞤢𞤨𞤢𞤯𞤢𞤩𞤢
 
 
-1. The sun has been shining.
+5. The sun has been shining.
 
 HAB _shine_-IPFV _sun_-G5.SG-NOM-PST
 
@@ -44,57 +43,57 @@ pʼana kaɗɛɓ-i gɛdoma-pa-ɗɛ-mi
 𞤆𞥇𞤢𞤲𞤢 𞤳𞤢𞤯𞤫𞤩𞤭 𞤺𞤫𞤣𞤮𞤥𞤢𞤨𞤢𞤯𞤫𞤥𞤭
 
 
-1. The sun is shining again.
+6. The sun is shining again.
 
-1. The sun will shine tomorrow.
+7. The sun will shine tomorrow.
 
-1. The sun shines brightly.
+8. The sun shines brightly.
 
-1. The bright sun shines.
+9. The bright sun shines.
 
-1. The sun is rising now.
+10. The sun is rising now.
 
-1. All the people shouted.
+11. All the people shouted.
 
-1. Some of the people shouted.
+12. Some of the people shouted.
 
-1. Many of the people shouted twice.
+13. Many of the people shouted twice.
 
-1. Happy people often shout.
+14. Happy people often shout.
 
-1. The kitten jumped up.
+15. The kitten jumped up.
 
-1. The kitten jumped onto the table.
+16. The kitten jumped onto the table.
 
-1. My little kitten walked away.
+17. My little kitten walked away.
 
-1. It's raining.
+18. It's raining.
 
-1. The rain came down.
+19. The rain came down.
 
-1. The kitten is playing in the rain.
+20. The kitten is playing in the rain.
 
-1. The rain has stopped.
+21. The rain has stopped.
 
-1. Soon the rain will stop.
+22. Soon the rain will stop.
 
-1. I hope the rain stops soon.
+23. I hope the rain stops soon.
 
-1. Once wild animals lived here.
+24. Once wild animals lived here.
 
-1. Slowly she looked around.
+25. Slowly she looked around.
 
-1. Go away!
+26. Go away!
 
-1. Let's go!
+27. Let's go!
 
-1. You should go.
+28. You should go.
 
-1. I will be happy to go.
+29. I will be happy to go.
 
-1. He will arrive soon.
+30. He will arrive soon.
 
-1. The baby's ball has rolled away.
+31. The baby's ball has rolled away.
 
 1. The two boys are working together.
 
