@@ -163,6 +163,21 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
 | Ablative       | from      | from      | since      | cease     |
 | Essive         | as (temp) | as (temp) | as (temp)  | as (temp) |
 
+### Adjectives
+
+- Adjectives are modifiers that agree with a noun in class
+    - Agreement is consonant of singular/plural noun class marker, with vowel /o/
+- Adjectives come right after the noun they modify
+
+| CLASS | Single | Plural |
+|---    |---     |---     |
+| G1    | -bo    | -ɓo    |
+| G2    | -ko    | -ɓo    |
+| G3    | -kʼo   | -lo    |
+| G4    | -qo    | -gʼo   |
+| G5    | -po    | -gʼo   |
+| G6    | -do    | -θo    |
+
 ### Verbs
 
 #### Verb Template
@@ -202,7 +217,10 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
 - Nouns before relative clause ("the boy *that* lived")
 - Adjective after noun
 - Demonstrative after noun
-- Perverbal negative word (clause initial)
+- Closed class of preverbal adverbs (mostly grammartical)
+    - Negation word (clause initial)
+    - Habitual/repeated aspect
+- Other adverbs (e.g. manner) occur immediately after verb
 - Symmetric and assymetric negation depending on some other factor (e.g. tense)
 - *Have at least three ways of forming requests/commands, and describe how they differ in use (i.e. which contexts)*
     1. Imperative verb (strong/direct)

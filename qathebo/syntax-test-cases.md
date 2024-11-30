@@ -45,11 +45,27 @@ pʼana kaɗɛɓ-i gɛdoma-pa-ɗɛ-mi
 
 6. The sun is shining again.
 
+_again_ _shine_-IPFV _sun_-G5.SG-NOM-PST
+
+__ kaɗɛɓ-i gɛdoma-pa-ɗɛ-mi
+
 7. The sun will shine tomorrow.
+
+_tomorrow_ _shine_-PFV _sun_-G5.SG-NOM-FUT
+
+__ kaɗaɓ-a gɛdoma-pa-ɗa-ɓa
 
 8. The sun shines brightly.
 
+_shine_-PFV _bright_ _sun_-G5.SG-NOM-PRS
+
+kaɗaɓ-a kala gɛdoma-pa-ɗɛ-mi
+
 9. The bright sun shines.
+
+_shine_-PFV _sun_-G5.SG-NOM-PRS _bright_-G5
+
+kaɗaɓ-a gɛdoma-pa-ɗɛ-mi kala-po
 
 10. The sun is rising now.
 
