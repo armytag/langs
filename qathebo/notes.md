@@ -42,7 +42,7 @@
 #### Phrase initial lenition
 - Stops to fricatives (keep voicing)
     - p t k q → f s x ʀ̥
-    - b d g → v z ɣ
+    - b d ɡ → v z ɣ
 - Ejectives to affricates
     - pʼ tʼ kʼ qʼ → pf ts kx qʀ̥
 - Implosive prenasalized
@@ -60,7 +60,7 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
 #### Script Example
 <div>
 <p style="font-weight: bold">𞤼𞤫𞤨𞤭𞤼𞥇𞤮𞤺𞤭 𞤸𞤫𞤤𞤢 𞤼𞥇𞤭𞤳𞤮 𞤳𞥇𞤮𞤨𞥇𞤭𞤼𞥇𞤮𞤺𞤢 𞤩𞤫𞤺𞤭𞤯𞤮</p>
-<p style="font-style: italic">tepitʼogi ɬela tʼiko kʼopʼitʼoga ɓegiɗo</p>
+<p style="font-style: italic">tepitʼoɡi ɬela tʼiko kʼopʼitʼoɡa ɓeɡiɗo</p>
 </div>
 
 ### Nouns
@@ -108,8 +108,8 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
 | Adult humans    | -ba      | -bo   | -pʼi   | -ɓi    |
 | Child humans    | -ka      | -kʼi  | -pʼi   | -ɓi    |
 | Animals         | -kʼi     | -ka   | -ni    | -li    |
-| Fast non-animal | -qa      | -qʼi  | -qʼi   | -gʼi   |
-| Slow non-animal | -pa      | -qʼi  | -qʼi   | -gʼi   |
+| Fast non-animal | -qa      | -qʼi  | -qʼi   | -ɡi   |
+| Slow non-animal | -pa      | -qʼi  | -qʼi   | -ɡi   |
 | Formless        | -da      | -θi   | -θi    | -θi    |
 
 - Pronouns have person-number stems with pronominal affix
@@ -121,9 +121,9 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
 | G1 2nd         | bona   | nibo  | bapa   | beti   |
 | G1 3rd         | ɬa     | ɬebo  | ɬepa   | ɬiti   |
 | G2 1st         | bo     | bekʼo | mepa   | moti   |
-| G2 2nd         | go     | gikʼo | bapa   | beti   |
+| G2 2nd         | ɡo     | ɡikʼo | bapa   | beti   |
 | G2 3rd         | θo     | θikʼo | ɬepa   | ɬiti   |
-| G3 2nd         | gi     | gomi  | nena   | moli   |
+| G3 2nd         | ɡi     | ɡomi  | nena   | moli   |
 | G3 3rd         | θi     | θomi  | ɗona   | ɗoli   |
 
 - Demonstratives
@@ -140,15 +140,15 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
 | G3 3rd         |          |        |
 
 - 8-9 noun cases (symmetrical)
-    - Nominative: -i 
+    - Nominative: -ɗa
     - Accusative (unmarked): -∅
-    - Dative: -ɛna
-    - Genitive: -ili
-    - Instrumental: -a
-    - Locative: -ɛθi
-    - Allative: -abo
-    - Ablative: -aka
-    - Essive: -ɛto
+    - Dative: -pa
+    - Genitive: -pʼa
+    - Instrumental: -ɓi
+    - Locative: -ɬo
+    - Allative: -ɬa
+    - Ablative: -ɬi
+    - Essive: -mi
 
 | NOUN CASE      | Thing     | Place     | Time       | State     |
 |---             |---        |---        |---         |---        |
@@ -174,15 +174,15 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
 | G1    | -bo    | -ɓo    |
 | G2    | -ko    | -ɓo    |
 | G3    | -kʼo   | -lo    |
-| G4    | -qo    | -gʼo   |
-| G5    | -po    | -gʼo   |
+| G4    | -qo    | -ɡo   |
+| G5    | -po    | -ɡo   |
 | G6    | -do    | -θo    |
 
 ### Verbs
 
 #### Verb Template
 1. (NEG) λ-ASP:MOD-PNUM:OBJ
-1. (NEG) λ-ƛ-ASP:MOD(-PNUM:OBJ)
+1. (NEG) ƛ-λ-ASP:MOD(-PNUM:OBJ)
 
 #### Notes
 - Noun incorporation
@@ -193,7 +193,7 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
     - Imperative: -∅
     - Prohibitive: -oqʼa
     - Optative: -opi
-    - Conditional (?): -oɗa
+    - Subordinate: -akʼa
 - Mark direct object (not subject)
     - Agrees in person, number, and class
 
@@ -209,6 +209,21 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
 | G4 3rd         | -qʼa   | -ɬo    |
 | G5 3rd         | -pʼi   | -ɬo    |
 | G6 3rd         | -na    | -no    |
+
+### Numbers
+
+| NUMBER | Cardinal | Ordinal  |
+|---     |---       |---       |
+| one    | θɛqa     | θɛtʼi    |
+| two    | kiti     | qo-kiti  |
+| three  | biqo     | qo-biqo  |
+| four   | pɛtʼa    | qo-pɛtʼa |
+| five   | goqi     | qɛ-goqi  |
+| six    | bokʼa    | qɛ-bokʼa |
+| seven  | lɛpʼi    | qo-lɛpʼi |
+| eight  | ɓoɗi     | qɛ-ɓoɗi  |
+| nine   | qʼɛɓa    | qo-qʼɛɓa |
+| ten    | baθa     | qo-baθa  |
 
 ### Syntax
 - Verb initial
@@ -231,10 +246,10 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
     1. Negative imperative verb (command)
 
 ### Test Sentences
-<table>
+<table style="display: flex; justify-content: center">
 <tr
-style="text-align: right; font-weight: bold; font-style: italic">
-<td colspan="999">𞤑𞤭𞤣𞤮𞤩𞤢𞤥𞤢 (𞤥𞤮) 𞤥𞤭𞤲𞤭𞤦𞤮𞤳𞥇𞤫𞤯𞤫𞤥𞤭</td>
+style="text-align: right; font-weight: bold; font-style: italic; direction: rtl">
+<td colspan="999">𞤑𞤭𞤣𞤮𞤩𞤢𞤥𞤢 (𞤥𞤮) 𞤥𞤭𞤲𞤭𞤦𞤮𞤳𞥇𞤫𞤯𞤫𞤥𞤭.</td>
 </tr>
 <tr
 style="font-style: italic">
@@ -249,14 +264,13 @@ style="font-style: italic">
 </tr>
 <tr
 style="text-align: left">
-<td colspan="999">'A dog bit me.'</td>
+<td colspan="999">"A dog bit me."</td>
 </tr>
 </table>
 
-<table>
-<tr
-style="text-align: right; font-weight: bold; font-style: italic">
-<td colspan="999">𞤊𞤫𞤲𞤭 𞤳𞤭𞤣𞤮𞤩𞤢𞤬𞤢 𞤥𞤮𞤯𞤫𞤥𞤭 (𞤥𞤭𞤲𞤭𞤦𞤮𞤳𞥇𞤭)</td>
+<table style="display: flex; justify-content: center">
+<tr style="text-align: right; font-weight: bold; font-style: italic; direction: rtl">
+<td colspan="999">𞤊𞤫𞤲𞤭 𞤳𞤭𞤣𞤮𞤩𞤢𞤬𞤢 𞤥𞤮𞤯𞤫𞤥𞤭 (𞤥𞤭𞤲𞤭𞤦𞤮𞤳𞥇𞤭).</td>
 </tr>
 <tr
 style="font-style: italic">
@@ -267,13 +281,85 @@ style="font-style: italic">
 </tr>
 <tr>
 <td>NEG</td>
-<td>bite-PFV-3SG.G3</td>
+<td>bite-PFV-G3.3SG</td>
 <td>G1.1SG-NOM-PST</td>
 <td>(dog-G3.SG-ACC)</td>
 </tr>
 <tr
 style="text-align: left">
-<td colspan="999">'I didn't bite the dog.'</td>
+<td colspan="999">"I didn't bite the dog."</td>
 </tr>
 </table>
+
+<table style="display: flex; justify-content: center">
+<tr>
+<td colspan="999">"The material composition or geocultural origin must be specified when discussing noodles."</td>
+</tr>
+<tr style="text-align: right; font-style: italic">
+<td colspan="999">(746th JU5MoYD)</td>
+</tr>
+
+<table style="display: flex; justify-content: center">
+<tr>
+<td colspan="999">"In sum, (I see that) this current disease will not release me."</td>
+</tr>
+<tr style="text-align: right; font-style: italic">
+<td colspan="999">(952nd JU5MoYD)</td>
+</tr>
+
+<table style="display: flex; justify-content: center">
+<tr style="text-align: right; font-weight: bold; font-style: italic; direction: rtl">
+<td colspan="999">𞤐𞤫𞤺𞤫𞤣𞤢𞤸𞤮 𞤹𞤢𞤥𞤮𞤨𞥇𞤮𞤺𞤫𞤯𞤫𞤥𞤭.</td>
+</tr>
+<tr>
+<td>nɛɡɛd-a-ɬo</td>
+<td>qamopʼo-ɡɛ-ɗɛ-mi</td>
+</tr>
+<tr>
+<td>spoil-PFV-G5.3PL</td>
+<td>cheese-G5.PL-NOM-PST</td>
+</tr>
+<tr>
+<td colspan="999">"The cheeses have deteriorated."</td>
+</tr>
+<tr style="text-align: right; font-style: italic">
+<td colspan="999">(1468th JU5MoYD)</td>
+</tr>
+
+<table style="display: flex; justify-content: center">
+<tr style="text-align: right; font-weight: bold; font-style: italic; direction: rtl">
+<td colspan="999">𞤃𞤮𞤯𞤢𞤨𞥇𞤮 𞤬𞤫𞤸𞤢𞤤𞤫𞤣𞤢𞤸𞤮 𞤥𞤭𞤲𞤫𞤬𞤢𞤳𞥇𞤮𞤨𞥇𞤢𞤳𞥇𞤢 𞤹𞤫𞤬𞤮𞤦𞤭𞤹𞥇𞤢 𞤸𞤢𞤯𞤫𞤳𞤭 𞤩𞤫𞤼𞥇𞤮𞤼𞥇𞤢𞤹𞤫𞤩𞤭 𞤹𞤮𞤳𞤭𞤼𞤭.</td>
+</tr>
+<tr>
+<td>mo-ɗa-pʼo</td>
+<td>θɛɬalɛ-da-ɬo</td>
+<td>minɛθa-kʼopʼ-akʼa</td>
+<td>qɛθob-i-qʼa</td>
+<td>ɬa-ɗɛ-ki</td>
+<td>ɓɛtʼotʼa-qɛ-ɓi</td>
+<td>qo-kiti</td>
+</tr>
+<tr>
+<td>G1.1SG-NOM-REL.PST</td>
+<td>yesterday-G6.SG-LOC</td>
+<td>home-go-SUB</td>
+<td>write-G4.SG-IPFV</td>
+<td>G1.3SG-NOM-PRS</td>
+<td>letter-G4.SG-INS</td>
+<td>ORD-two</td>
+</tr>
+<tr>
+<td colspan="999">"When I came home yesterday, he was writing the second letter."</td>
+</tr>
+<tr style="text-align: right; font-style: italic">
+<td colspan="999">(1617th JU5MoYD)</td>
+</tr>
+
+<table style="display: flex; justify-content: center">
+<tr>
+<td colspan="999">"When you know (the answer), it is quite easy indeed."</td>
+</tr>
+<tr style="text-align: right; font-style: italic">
+<td colspan="999">(1940th JU5MoYD)</td>
+</tr>
 
