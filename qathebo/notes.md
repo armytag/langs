@@ -245,6 +245,12 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
     1. Prohibitive verb (suggestion)
     1. Negative imperative verb (command)
 
+#### Subordinate Temporal Clauses
+- Subordinate clause taking time slot in matrix sentence (preceding matrix verb)
+- Subordinate clause is verb-final
+- Subordinate subject takes special relative-tense marking
+- Subordinate verb takes subordinate aspect/mood marking
+
 ### Test Sentences
 <table style="display: flex; justify-content: center">
 <tr
