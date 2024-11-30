@@ -80,6 +80,15 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
         - burndown-PFV house-NOM.G5-REM → *"My house burned down (but now I'm living elsewhere)"*
         - Regardless of relevance, this form is almost always used for events more than one year prior
         - burndown-PFV house-NOM.G5-REM → *"My house burned down (last year, and I'm still homeless)"*
+    - Tenses have special relative forms that appear in temporal subordinate clauses
+
+| TENSE       | Normal | Relative |
+|---          |---     |---       |
+| Future      | -ɓa    | -bo      |
+| Present     | -ki    | -no      |
+| Past        | -mi    | -pʼo     |
+| Remote Past | -tʼo   | -kʼi     |
+
 - Singular, Dual, Paucal, and Plural number
     - *Have some classes merge based on plurality*
     - *Have some of the agreement markers show polarity (e.g. singular A matches plural B)*
@@ -150,18 +159,18 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
     - Ablative: -ɬi
     - Essive: -mi
 
-| NOUN CASE      | Thing     | Place     | Time       | State     |
-|---             |---        |---        |---         |---        |
-| *Example Noun* | *"dog"*   | *"city"*  | *"summer"* | *"sad"*   |
-| Nominative     | agent     |           |            |           |
-| Accusative     | patient   |           |            |           |
-| Dative         | recipient |           |            |           |
-| Genitive       | dependant |           |            |           |
-| Instrumental   | using     | via       | through    | cause     |
-| Locative       | at        | at        | at/during  | while     |
-| Allative       | to        | to        | until      | become    |
-| Ablative       | from      | from      | since      | cease     |
-| Essive         | as (temp) | as (temp) | as (temp)  | as (temp) |
+| NOUN CASE          | Thing     | Place     | Time       | State     |
+|---                 |---        |---        |---         |---        |
+| *Example Noun*     | *"dog"*   | *"city"*  | *"summer"* | *"sad"*   |
+| Nominative (-ɗa)   | agent     |           |            |           |
+| Accusative (-∅)    | patient   |           |            |           |
+| Dative (-pa)       | recipient |           |            |           |
+| Genitive (-pʼa)    | dependant |           |            |           |
+| Instrumental (-ɓi) | using     | via       | through    | cause     |
+| Locative (-ɬo)     | at        | at        | at/during  | while     |
+| Allative (-ɬa)     | to        | to        | until      | become    |
+| Ablative (-ɬi)     | from      | from      | since      | cease     |
+| Essive (-mi)       | as (temp) | as (temp) | as (temp)  | as (temp) |
 
 ### Adjectives
 
@@ -211,6 +220,8 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
 | G6 3rd         | -na    | -no    |
 
 ### Numbers
+
+- Numbers take adjective-style agreement when they modify nouns
 
 | NUMBER | Cardinal | Ordinal  |
 |---     |---       |---       |
@@ -334,7 +345,7 @@ style="text-align: left">
 
 <table style="display: flex; justify-content: center">
 <tr style="text-align: right; font-weight: bold; font-style: italic; direction: rtl">
-<td colspan="999">𞤃𞤮𞤯𞤢𞤨𞥇𞤮 𞤬𞤫𞤸𞤢𞤤𞤫𞤣𞤢𞤸𞤮 𞤥𞤭𞤲𞤫𞤬𞤢𞤳𞥇𞤮𞤨𞥇𞤢𞤳𞥇𞤢 𞤹𞤫𞤬𞤮𞤦𞤭𞤹𞥇𞤢 𞤸𞤢𞤯𞤫𞤳𞤭 𞤩𞤫𞤼𞥇𞤮𞤼𞥇𞤢𞤹𞤫𞤩𞤭 𞤹𞤮𞤳𞤭𞤼𞤭.</td>
+<td colspan="999">𞤃𞤮𞤯𞤢𞤨𞥇𞤮 𞤬𞤫𞤸𞤢𞤤𞤫𞤣𞤢𞤸𞤮 𞤥𞤭𞤲𞤫𞤬𞤢𞤳𞥇𞤮𞤨𞥇𞤢𞤳𞥇𞤢 𞤹𞤫𞤬𞤮𞤦𞤭𞤹𞥇𞤢 𞤸𞤢𞤯𞤫𞤳𞤭 𞤩𞤫𞤼𞥇𞤮𞤼𞥇𞤢𞤹𞤫𞤩𞤭 𞤹𞤮𞤳𞤭𞤼𞤭𞤹𞤮.</td>
 </tr>
 <tr>
 <td>mo-ɗa-pʼo</td>
@@ -343,7 +354,7 @@ style="text-align: left">
 <td>qɛθob-i-qʼa</td>
 <td>ɬa-ɗɛ-ki</td>
 <td>ɓɛtʼotʼa-qɛ-ɓi</td>
-<td>qo-kiti</td>
+<td>qo-kiti-qo</td>
 </tr>
 <tr>
 <td>G1.1SG-NOM-REL.PST</td>
@@ -352,7 +363,7 @@ style="text-align: left">
 <td>write-G4.SG-IPFV</td>
 <td>G1.3SG-NOM-PRS</td>
 <td>letter-G4.SG-INS</td>
-<td>ORD-two</td>
+<td>ORD-two-G4.SG</td>
 </tr>
 <tr>
 <td colspan="999">"When I came home yesterday, he was writing the second letter."</td>
