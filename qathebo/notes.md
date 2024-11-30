@@ -172,21 +172,6 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
 | Ablative (-ɬi)     | from      | from      | since      | cease     |
 | Essive (-mi)       | as (temp) | as (temp) | as (temp)  | as (temp) |
 
-### Adjectives
-
-- Adjectives are modifiers that agree with a noun in class
-    - Agreement is consonant of singular/plural noun class marker, with vowel /o/
-- Adjectives come right after the noun they modify
-
-| CLASS | Single | Plural |
-|---    |---     |---     |
-| G1    | -bo    | -ɓo    |
-| G2    | -ko    | -ɓo    |
-| G3    | -kʼo   | -lo    |
-| G4    | -qo    | -ɡo   |
-| G5    | -po    | -ɡo   |
-| G6    | -do    | -θo    |
-
 ### Verbs
 
 #### Verb Template
@@ -218,6 +203,21 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
 | G4 3rd         | -qʼa   | -ɬo    |
 | G5 3rd         | -pʼi   | -ɬo    |
 | G6 3rd         | -na    | -no    |
+
+### Adjectives
+
+- Adjectives are modifiers that agree with a noun in class
+    - Agreement is consonant of singular/plural noun class marker, with vowel /o/
+- Adjectives come right after the noun they modify
+
+| CLASS | Single | Plural |
+|---    |---     |---     |
+| G1    | -bo    | -ɓo    |
+| G2    | -ko    | -ɓo    |
+| G3    | -kʼo   | -lo    |
+| G4    | -qo    | -ɡo   |
+| G5    | -po    | -ɡo   |
+| G6    | -do    | -θo    |
 
 ### Numbers
 
