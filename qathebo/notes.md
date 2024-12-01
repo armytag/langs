@@ -190,8 +190,9 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
 | G5 3rd         | -pʼi   | -ɬo    |
 | G6 3rd         | -na    | -no    |
 
-### Adjectives
+### Modifiers
 
+- Modifiers can apply to verbs (as adverbs) or nouns (as adjectives)
 - Adjectives are modifiers that agree with a noun in class
     - Agreement is consonant of singular/plural noun class marker, with vowel /o/
 - Adjectives come right after the noun they modify
@@ -201,9 +202,19 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
 | G1    | -bo    | -ɓo    |
 | G2    | -ko    | -ɓo    |
 | G3    | -kʼo   | -lo    |
-| G4    | -qo    | -ɡo   |
-| G5    | -po    | -ɡo   |
+| G4    | -qo    | -ɡo    |
+| G5    | -po    | -ɡo    |
 | G6    | -do    | -θo    |
+
+#### Colors
+
+| BASIC COLORS | Term |
+|---           |---   |
+| white        |      |
+| black        |      |
+| red          |      |
+| yellow       |      |
+| green/blue   |      |
 
 ### Numbers
 
