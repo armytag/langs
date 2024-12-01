@@ -202,13 +202,13 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
 
 ### Colors
 
-| BASIC COLORS | Term |
-|---           |---   |
-| white        |      |
-| black        |      |
-| red          |      |
-| yellow       |      |
-| green/blue   |      |
+| BASIC COLORS | Term  |
+|---           |---    |
+| white        | bɛda  |
+| black        | taqʼo |
+| red          | dɛɡo  |
+| yellow       | tʼiθo |
+| green/blue   | tɛqʼo |
 
 ## Numbers
 
