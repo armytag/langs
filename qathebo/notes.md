@@ -121,19 +121,6 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
 | G3 2nd         | ɡi     | ɡomi  | nena   | moli   |
 | G3 3rd         | θi     | θomi  | ɗona   | ɗoli   |
 
-- Demonstratives
-
-| DEMONSTRATIVES | Proximal | Distal |
-|---             |---       |---     |
-| G1 1st         |          |        |
-| G1 2nd         |          |        |
-| G1 3rd         |          |        |
-| G2 1st         |          |        |
-| G2 2nd         |          |        |
-| G2 3rd         |          |        |
-| G3 2nd         |          |        |
-| G3 3rd         |          |        |
-
 - 8-9 noun cases (symmetrical)
     - Nominative: -ɗa
     - Accusative (unmarked): -∅
