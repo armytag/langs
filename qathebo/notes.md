@@ -265,7 +265,7 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
 - Subordinate verb takes subordinate aspect/mood marking
 
 ### Test Sentences
-<table style="display: flex; justify-content: center">
+<table style="">
 <tr
 style="text-align: right; font-weight: bold; font-style: italic; direction: rtl">
 <td colspan="999">𞤑𞤭𞤣𞤮𞤩𞤢𞤥𞤢 (𞤥𞤮) 𞤥𞤭𞤲𞤭𞤦𞤮𞤳𞥇𞤫𞤯𞤫𞤥𞤭.</td>
@@ -287,7 +287,7 @@ style="text-align: left">
 </tr>
 </table>
 
-<table style="display: flex; justify-content: center">
+<table style="">
 <tr style="text-align: right; font-weight: bold; font-style: italic; direction: rtl">
 <td colspan="999">𞤊𞤫𞤲𞤭 𞤳𞤭𞤣𞤮𞤩𞤢𞤬𞤢 𞤥𞤮𞤯𞤫𞤥𞤭 (𞤥𞤭𞤲𞤭𞤦𞤮𞤳𞥇𞤭).</td>
 </tr>
@@ -310,7 +310,7 @@ style="text-align: left">
 </tr>
 </table>
 
-<table style="display: flex; justify-content: center">
+<table style="">
 <tr>
 <td>noodle-G5.PL-NOM-REL:PRS</td>
 <td>discuss-SUB</td>
@@ -328,7 +328,7 @@ style="text-align: left">
 <td colspan="999">(746th JU5MoYD)</td>
 </tr>
 
-<table style="display: flex; justify-content: center">
+<table style="">
 <tr>
 <td colspan="999">"In sum, (I see that) this current disease will not release me."</td>
 </tr>
@@ -336,7 +336,7 @@ style="text-align: left">
 <td colspan="999">(952nd JU5MoYD)</td>
 </tr>
 
-<table style="display: flex; justify-content: center">
+<table style="">
 <tr style="text-align: right; font-weight: bold; font-style: italic; direction: rtl">
 <td colspan="999">𞤐𞤫𞤺𞤫𞤣𞤢𞤸𞤮 𞤹𞤢𞤥𞤮𞤨𞥇𞤮𞤺𞤫𞤯𞤫𞤥𞤭.</td>
 </tr>
@@ -355,7 +355,7 @@ style="text-align: left">
 <td colspan="999">(1468th JU5MoYD)</td>
 </tr>
 
-<table style="display: flex; justify-content: center">
+<table style="">
 <tr style="text-align: right; font-weight: bold; font-style: italic; direction: rtl">
 <td colspan="999">𞤃𞤮𞤯𞤢𞤨𞥇𞤮 𞤬𞤫𞤸𞤢𞤤𞤫𞤣𞤢𞤸𞤮 𞤥𞤭𞤲𞤫𞤬𞤢𞤳𞥇𞤮𞤨𞥇𞤢𞤳𞥇𞤢 𞤹𞤫𞤬𞤮𞤦𞤭𞤹𞥇𞤢 𞤸𞤢𞤯𞤫𞤳𞤭 𞤩𞤫𞤼𞥇𞤮𞤼𞥇𞤢𞤹𞤫𞤩𞤭 𞤹𞤮𞤳𞤭𞤼𞤭𞤹𞤮.</td>
 </tr>
@@ -384,7 +384,7 @@ style="text-align: left">
 <td colspan="999">(1617th JU5MoYD)</td>
 </tr>
 
-<table style="display: flex; justify-content: center">
+<table style="">
 <tr>
 <td colspan="999">"When you know (the answer), it is quite easy indeed."</td>
 </tr>
