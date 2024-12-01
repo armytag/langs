@@ -312,6 +312,16 @@ style="text-align: left">
 
 <table style="display: flex; justify-content: center">
 <tr>
+<td>noodle-G5.PL-NOM-REL:PRS</td>
+<td>discuss-SUB</td>
+<td>clarify-PFV-PASS-G5.PL</td>
+<td>necessary</td>
+<td>_or_-composition-G5.SG-ACC</td>
+<td>material-G5.SG</td>
+<td>_or_-origin-G5.SG-ACC</td>
+<td>cultural-G5.SG</td>
+</tr>
+<tr>
 <td colspan="999">"The material composition or geocultural origin must be specified when discussing noodles."</td>
 </tr>
 <tr style="text-align: right; font-style: italic">
