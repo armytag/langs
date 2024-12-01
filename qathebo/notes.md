@@ -161,8 +161,8 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
 ### Verbs
 
 #### Verb Template
-1. (NEG) λ-ASP:MOD-PNUM:OBJ
-1. (NEG) ƛ-λ-ASP:MOD(-PNUM:OBJ)
+1. (NEG) λ-ASP:MOD(-PASS)-PNUM:OBJ
+1. (NEG) ƛ-λ-ASP:MOD(-PASS)(-PNUM:OBJ)
 
 #### Notes
 - Noun incorporation
@@ -170,7 +170,7 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
 - Verbal mood and aspect (3+ morphemes)
     - Indicative (perfective): -a
     - Imperfective: -i
-    - Imperative: -∅
+    - Imperative: -o
     - Prohibitive: -oqʼa
     - Optative: -opi
     - Subordinate: -akʼa
@@ -252,6 +252,11 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
 - *Include at least two ways negative commands can be formed*
     1. Prohibitive verb (suggestion)
     1. Negative imperative verb (command)
+
+#### Comparatives
+- Formed with verb meaning 'exceed' which takes the measure of comparison as an modifier adverb
+    - exceed-PFV-G3.SG big G1.1SG-NOM-PRS dog-G3.SG-ACC
+    - "I am bigger than a dog"
 
 #### Subordinate Temporal Clauses
 - Subordinate clause taking time slot in matrix sentence (preceding matrix verb)
@@ -354,7 +359,7 @@ style="text-align: left">
 <td>qo-kiti-qo</td>
 </tr>
 <tr>
-<td>G1.1SG-NOM-REL.PST</td>
+<td>G1.1SG-NOM-REL:PST</td>
 <td>yesterday-G6.SG-LOC</td>
 <td>home-go-SUB</td>
 <td>write-G4.SG-IPFV</td>
