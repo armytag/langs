@@ -150,6 +150,7 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
 |---       |---          |
 | and      | pʼi-        |
 | or       | θo-         |
+| xor      | ɬa-         |
 
 ## Verbs
 
