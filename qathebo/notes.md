@@ -39,20 +39,6 @@
 1. Turn /u/ into /e/ before /u/ or /o/
 1. Lower /u/ everywhere else
 
-#### Phrase initial lenition
-- Stops to fricatives (keep voicing)
-    - p t k q → f s x ʀ̥
-    - b d ɡ → v z ɣ
-- Ejectives to affricates
-    - pʼ tʼ kʼ qʼ → pf ts kx qʀ̥
-- Implosive prenasalized
-    - ɓ ɗ → mɓ nɗ
-- Fricative lenition
-    - ɬ → h
-    - θ → ∅
-- Sonorants unaffected
-    - m n l → m n l
-
 ### Orthography
 
 Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
