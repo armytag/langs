@@ -9,7 +9,7 @@ A speedlang by *armytag*
 | VOWELS | Front | Back |
 |---     |---    |---   |
 | Close  | i     |      |
-| Mid    | ɛ (e) | o    |
+| Mid    | ɛ     | o    |
 | Open   |       | a    |
 
 ## Consonants
@@ -26,30 +26,30 @@ A speedlang by *armytag*
 
 ## Orthography
 
-| Latin symbols  | IPA Sound | Adlam Symbols |
-|---             |---        |---            |
-| a              | /a/       | 𞤢/𞤀           |
-| b              | /b/       | 𞤦/𞤄           |
-| bʼ             | /ɓ/       | 𞤩/𞤇           |
-| d              | /d/       | 𞤣/𞤁           |
-| dʼ             | /ɗ/       | 𞤯/𞤍           |
-| e              | /ɛ/       | 𞤫/𞤉           |
-| g              | /g/       | 𞤺/𞤘           |
-| hl             | /ɬ/       | 𞤸/𞤖           |
-| i              | /i/       | 𞤭/𞤋           |
-| k              | /k/       | 𞤳/𞤑           |
-| kʼ             | /kʼ/      | 𞤳𞥇/𞤑𞥇           |
-| l              | /l/       | 𞤤/𞤂           |
-| m              | /m/       | 𞤥/𞤃           |
-| n              | /n/       | 𞤲/𞤐           |
-| o              | /o/       | 𞤮/𞤌           |
-| p              | /p/       | 𞤨/𞤆           |
-| pʼ             | /pʼ/      | 𞤨𞥇/𞤆𞥇           |
-| q              | /q/       | 𞤹/𞤗           |
-| qʼ             | /qʼ/      | 𞤹𞥇/𞤗𞥇           |
-| t              | /t/       | 𞤼/𞤚           |
-| tʼ             | /tʼ/      | 𞤼𞥇/𞤚𞥇           |
-| th             | /θ/       | 𞤬/𞤊           |
+| Adlam Symbols | IPA Sound | Latin symbols  |
+|---            |---        |---             |
+| 𞤢/𞤀           | /a/       | a              |
+| 𞤦/𞤄           | /b/       | b              |
+| 𞤩/𞤇           | /ɓ/       | b'             |
+| 𞤣/𞤁           | /d/       | d              |
+| 𞤯/𞤍           | /ɗ/       | d'             |
+| 𞤫/𞤉           | /ɛ/       | e              |
+| 𞤺/𞤘           | /g/       | g              |
+| 𞤸/𞤖           | /ɬ/       | hl             |
+| 𞤭/𞤋           | /i/       | i              |
+| 𞤳/𞤑           | /k/       | k              |
+| 𞤳𞥇/𞤑𞥇           | /kʼ/      | k'             |
+| 𞤤/𞤂           | /l/       | l              |
+| 𞤥/𞤃           | /m/       | m              |
+| 𞤲/𞤐           | /n/       | n              |
+| 𞤮/𞤌           | /o/       | o              |
+| 𞤨/𞤆           | /p/       | p              |
+| 𞤨𞥇/𞤆𞥇           | /pʼ/      | p'             |
+| 𞤹/𞤗           | /q/       | q              |
+| 𞤹𞥇/𞤗𞥇           | /qʼ/      | q'             |
+| 𞤼/𞤚           | /t/       | t              |
+| 𞤼𞥇/𞤚𞥇           | /tʼ/      | t'             |
+| 𞤬/𞤊           | /θ/       | th             |
 
 ## Phonological Constraints
 
@@ -66,6 +66,12 @@ A speedlang by *armytag*
 ### Pronouns
 
 ## Verbs
+
+## Modifiers
+
+### Adverbs
+
+### Adjectives
 
 # Syntax
 
