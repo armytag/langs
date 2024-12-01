@@ -158,6 +158,13 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
 | Ablative (-ɬi)     | from      | from      | since      | cease     |
 | Essive (-mi)       | as (temp) | as (temp) | as (temp)  | as (temp) |
 
+#### Conjunction
+
+| RELATION | Conjunction |
+|---       |---          |
+| and      | pʼi-        |
+| or       | θo-         |
+
 ### Verbs
 
 #### Verb Template
@@ -312,13 +319,23 @@ style="text-align: left">
 
 <table style="">
 <tr>
+<td>lɛkitʼo-ɡɛ-ɗa-no</td>
+<td>tagoɬ-akʼɛ-pi</td>
+<td>kʼadom-ɛ-pi</td>
+<td>piθo</td>
+<td>pʼi-motɛɓa-pa-ɗɛ-ki</td>
+<td>pʼotʼɛmi-po</td>
+<td>pʼi-lodipɛ-pa-ɗɛ-ki</td>
+<td>toɗitʼi-po</td>
+</tr>
+<tr>
 <td>noodle-G5.PL-NOM-REL:PRS</td>
 <td>discuss-SUB</td>
-<td>clarify-PFV-PASS-G5.PL</td>
+<td>clarify-PFV-PASS</td>
 <td>necessary</td>
-<td>_or_-composition-G5.SG-ACC</td>
-<td>material-G5.SG</td>
-<td>_or_-origin-G5.SG-ACC</td>
+<td>_or_-material-G5.SG-NOM-PRS</td>
+<td>composed-G5.SG</td>
+<td>_or_-origin-G5.SG-NOM-PRS</td>
 <td>cultural-G5.SG</td>
 </tr>
 <tr>
@@ -342,7 +359,7 @@ style="text-align: left">
 </tr>
 <tr>
 <td>nɛɡɛd-a-ɬo</td>
-<td>qamopʼo-ɡɛ-ɗɛ-mi</td>
+<td>qamɛpʼo-ɡɛ-ɗɛ-mi</td>
 </tr>
 <tr>
 <td>spoil-PFV-G5.3PL</td>
