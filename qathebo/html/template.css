@@ -101,9 +101,11 @@ li > ol, li > ul {
 	margin-left: 0;
 }
 
-.interlinear .abbr {
+.interlinear .abbr,
+.interlinear abbr {
 	text-transform: lowercase;
-	font-variant: small-caps;
+	font-variant-caps: small-caps;
+	font-variant-numeric: oldstyle-nums;
 }
 
 .english {

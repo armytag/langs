@@ -267,22 +267,11 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
 </div>
 
 <div class="example-sentence">
-<div class="adlam"><p>adlam</p></div>
-<div class="interlinear">
-<div>
-<p class="phonetic">phonetic</p>
-<p class="gloss">gloss</p>
-</div>
-</div>
-<div class="english"><p>english</p></div>
-</div>
-
-<div class="example-sentence">
 <p class="adlam">𞤑𞤭𞤣𞤮𞤩𞤢𞤥𞤢 (𞤥𞤮) 𞤥𞤭𞤲𞤭𞤦𞤮𞤳𞥇𞤫𞤯𞤫𞤥𞤭.</p>
 <div class="interlinear">
-<dl> <dt>kidoɓ-a-ma</dt> <dd>bite-PFV-G1.1SG</dd> </dl>
-<dl> <dt>(mo-∅)</dt> <dd>(G1.1SG-ACC)</dd> </dl>
-<dl> <dt>minibo-kʼɛ-ɗɛ-mi</dt> <dd>dog-G3.SG-NOM-PST</dd> </dl>
+<dl> <dt>kidoɓ-a-ma</dt> <dd>bite-<abbr>PFV-G1.1SG</abbr></dd> </dl>
+<dl> <dt>(mo-∅)</dt> <dd><abbr>(G1.1SG-ACC)</abbr></dd> </dl>
+<dl> <dt>minibo-kʼɛ-ɗɛ-mi</dt> <dd>dog-<abbr>G3.SG-NOM-PST</abbr></dd> </dl>
 </div>
 <p class="english">"A dog bit me."</p>
 </div>
