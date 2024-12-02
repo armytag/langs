@@ -79,7 +79,6 @@ li > ol, li > ul {
 	direction: rtl;
 	font-weight: bold;
 	font-style: italic;
-	text-align: center;
 }
 
 .interlinear {
@@ -109,7 +108,7 @@ li > ol, li > ul {
 }
 
 .freetranslation {
-	text-align: center;
+	text-align: left;
 }
 
 .source {

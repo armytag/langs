@@ -259,167 +259,74 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
 # Test Sentences
 
 <div class="example-sentence">
-<p class="original">original</p>
-<div class="interlinear">
-<dl><dt>phonetic</dt><dd>gloss</dd>
-</div>
-<p class="freetranslation">freetranslation</p>
-</div>
-
-<div class="example-sentence">
-<p class="adlam">𞤑𞤭𞤣𞤮𞤩𞤢𞤥𞤢 (𞤥𞤮) 𞤥𞤭𞤲𞤭𞤦𞤮𞤳𞥇𞤫𞤯𞤫𞤥𞤭.</p>
+<p class="original">𞤑𞤭𞤣𞤮𞤩𞤢𞤥𞤢 (𞤥𞤮) 𞤥𞤭𞤲𞤭𞤦𞤮𞤳𞥇𞤫𞤯𞤫𞤥𞤭.</p>
 <div class="interlinear">
 <dl> <dt>kidoɓ-a-ma</dt> <dd>bite-<abbr>PFV-G1.1SG</abbr></dd> </dl>
 <dl> <dt>(mo-∅)</dt> <dd><abbr>(G1.1SG-ACC)</abbr></dd> </dl>
 <dl> <dt>minibo-kʼɛ-ɗɛ-mi</dt> <dd>dog-<abbr>G3.SG-NOM-PST</abbr></dd> </dl>
 </div>
-<p class="english">"A dog bit me."</p>
+<p class="freetranslation">"A dog bit me."</p>
 </div>
 
 <div class="example-sentence">
-<div class="adlam"><p>𞤑𞤭𞤣𞤮𞤩𞤢𞤥𞤢 (𞤥𞤮) 𞤥𞤭𞤲𞤭𞤦𞤮𞤳𞥇𞤫𞤯𞤫𞤥𞤭.</p></div>
+<p class="original">𞤊𞤫𞤲𞤭 𞤳𞤭𞤣𞤮𞤩𞤢𞤬𞤢 𞤥𞤮𞤯𞤫𞤥𞤭 (𞤥𞤭𞤲𞤭𞤦𞤮𞤳𞥇𞤭).</p>
 <div class="interlinear">
-<div>
-<p class="phonetic">kidoɓ-a-ma</p>
-<p class="gloss">bite-PFV-G1.1SG</p>
+<dl> <dt>θɛni</dt> <dd><abbr>NEG</abbr></dd> </dl>
+<dl> <dt>kidoɓ-a-θa</dt> <dd>bite-<abbr>PFV-G3.3SG</abbr></dd> </dl>
+<dl> <dt>mo-ɗɛ-mi</dt> <dd><abbr>G1.1SG-NOM-PST</abbr></dd> </dl>
+<dl> <dt>(minibo-kʼi-∅)</dt> <dd>(dog-<abbr>G3.SG-ACC</abbr>)</dd> </dl>
 </div>
-<div>
-<p class="phonetic">(mo-∅)</p>
-<p class="gloss">(G1.1SG-ACC)</p>
-</div>
-<div>
-<p class="phonetic">minibo-kʼɛ-ɗɛ-mi</p>
-<p class="gloss">dog-G3.SG-NOM-PST</p>
-</div>
-</div>
-<div class="english"><p>"A dog bit me."</p></div>
+<p class="freetranslation">"I didn't bite the dog."</p>
 </div>
 
 <div class="example-sentence">
-<div class="adlam"><p>𞤊𞤫𞤲𞤭 𞤳𞤭𞤣𞤮𞤩𞤢𞤬𞤢 𞤥𞤮𞤯𞤫𞤥𞤭 (𞤥𞤭𞤲𞤭𞤦𞤮𞤳𞥇𞤭).</p></div>
+<p class="original">𞤂𞤫𞤳𞤭𞤼𞥇𞤮𞤺𞤫𞤯𞤢𞤲𞤮 𞤼𞤢𞤺𞤮𞤸𞤢𞤳𞥇𞤫𞤨𞤭 𞤳𞥇𞤢𞤣𞤮𞤥𞤫𞤨𞤭 𞤨𞤭𞤬𞤮 𞤨𞥇𞤭𞤥𞤮𞤼𞤫𞤩𞤢𞤨𞤢𞤯𞤫𞤳𞤭 𞤨𞥇𞤮𞤼𞥇𞤫𞤥𞤭𞤨𞤮 𞤨𞥇𞤭𞤤𞤮𞤣𞤭𞤨𞤫𞤨𞤢𞤯𞤫𞤳𞤭 𞤼𞤮𞤯𞤭𞤼𞥇𞤭𞤨𞤮.</p>
 <div class="interlinear">
-<div>
-<p class="phonetic">θɛni</p>
-<p class="gloss">NEG</p>
+<dl> <dt>lɛkitʼo-ɡɛ-ɗa-no</dt> <dd>noodle-<abbr>G5.PL-NOM-REL:PRS</abbr></dd> </dl>
+<dl> <dt>tagoɬ-akʼɛ-pi</dt> <dd>discuss-<abbr>SUB</abbr></dd> </dl>
+<dl> <dt>kʼadom-ɛ-pi</dt> <dd>clarify-<abbr>PFV-PASS</abbr></dd> </dl>
+<dl> <dt>piθo</dt> <dd>necessary</dd> </dl>
+<dl> <dt>pʼi-motɛɓa-pa-ɗɛ-ki</dt> <dd>_or_-material-<abbr>G5.SG-NOM-PRS</abbr></dd> </dl>
+<dl> <dt>pʼotʼɛmi-po</dt> <dd>composed-<abbr>G5.SG</abbr></dd> </dl>
+<dl> <dt>pʼi-lodipɛ-pa-ɗɛ-ki</dt> <dd>_or_-origin-<abbr>G5.SG-NOM-PRS</abbr></dd> </dl>
+<dl> <dt>toɗitʼi-po</dt> <dd>cultural-<abbr>G5.SG</abbr></dd> </dl>
 </div>
-<div>
-<p class="phonetic">kidoɓ-a-θa</p>
-<p class="gloss">bite-PFV-G3.3SG</p>
-</div>
-<div>
-<p class="phonetic">mo-ɗɛ-mi</p>
-<p class="gloss">G1.1SG-NOM-PST</p>
-</div>
-<div>
-<p class="phonetic">(minibo-kʼi-∅)</p>
-<p class="gloss">(dog-G3.SG-ACC)</p>
-</div>
-</div>
-<div class="english"><p>"I didn't bite the dog."</p></div>
+<p class="freetranslation">"The material composition or geocultural origin must be specified when discussing noodles."</p>
+<p class="source">(746th JU5MoYD)</p>
 </div>
 
 <div class="example-sentence">
-<div class="adlam"><p>𞤂𞤫𞤳𞤭𞤼𞥇𞤮𞤺𞤫𞤯𞤢𞤲𞤮 𞤼𞤢𞤺𞤮𞤸𞤢𞤳𞥇𞤫𞤨𞤭 𞤳𞥇𞤢𞤣𞤮𞤥𞤫𞤨𞤭 𞤨𞤭𞤬𞤮 𞤨𞥇𞤭𞤥𞤮𞤼𞤫𞤩𞤢𞤨𞤢𞤯𞤫𞤳𞤭 𞤨𞥇𞤮𞤼𞥇𞤫𞤥𞤭𞤨𞤮 𞤨𞥇𞤭𞤤𞤮𞤣𞤭𞤨𞤫𞤨𞤢𞤯𞤫𞤳𞤭 𞤼𞤮𞤯𞤭𞤼𞥇𞤭𞤨𞤮.</p></div>
+<p class="freetranslation">"In sum, (I see that) this current disease will not release me."</p>
+<p class="source">(952nd JU5MoYD)</p>
+</div>
+
+<div class="example-sentence">
+<p class="original">𞤐𞤫𞤺𞤫𞤣𞤢𞤸𞤮 𞤹𞤢𞤥𞤮𞤨𞥇𞤮𞤺𞤫𞤯𞤫𞤥𞤭.</p>
 <div class="interlinear">
-<div>
-<p class="phonetic">lɛkitʼo-ɡɛ-ɗa-no</p>
-<p class="gloss">noodle-<span class="abbr">G5.PL-NOM-REL:PRS</span></p>
+<dl> <dt>nɛɡɛd-a-ɬo</dt> <dd>spoil-<abbr>PFV-G5.3PL</abbr></dd> </dl>
+<dl> <dt>qamɛpʼo-ɡɛ-ɗɛ-mi</dt> <dd>cheese-<abbr>G5.PL-NOM-PST</abbr></dd> </dl>
 </div>
-<div>
-<p class="phonetic">tagoɬ-akʼɛ-pi</p>
-<p class="gloss">discuss-<span class="abbr">SUB</span></p>
-</div>
-<div>
-<p class="phonetic">kʼadom-ɛ-pi</p>
-<p class="gloss">clarify-<span class="abbr">PFV-PASS</span></p>
-</div>
-<div>
-<p class="phonetic">piθo</p>
-<p class="gloss">necessary</p>
-</div>
-<div>
-<p class="phonetic">pʼi-motɛɓa-pa-ɗɛ-ki</p>
-<p class="gloss">_or_-material-<span class="abbr">G5.SG-NOM-PRS</span></p>
-</div>
-<div>
-<p class="phonetic">pʼotʼɛmi-po</p>
-<p class="gloss">composed-<span class="abbr">G5.SG</span></p>
-</div>
-<div>
-<p class="phonetic">pʼi-lodipɛ-pa-ɗɛ-ki</p>
-<p class="gloss">_or_-origin-<span class="abbr">G5.SG-NOM-PRS</span>
-</p>
-</div>
-<div>
-<p class="phonetic">toɗitʼi-po</p>
-<p class="gloss">cultural-<span class="abbr">G5.SG</span></p>
-</div>
-</div>
-<div class="english"><p>"The material composition or geocultural origin must be specified when discussing noodles."</p></div>
-<div class="source"><p>(746th JU5MoYD)</p></div>
+<p class="freetranslation">"The cheeses have deteriorated."</p>
+<p class="source">(1468th JU5MoYD)</p>
 </div>
 
-<table style="">
-<tr>
-<td colspan="999">"In sum, (I see that) this current disease will not release me."</td>
-</tr>
-<tr style="text-align: right; font-style: italic">
-<td colspan="999">(952nd JU5MoYD)</td>
-</tr>
+<div class="example-sentence">
+<p class="original">𞤃𞤮𞤯𞤢𞤨𞥇𞤮 𞤬𞤫𞤸𞤢𞤤𞤫𞤣𞤢𞤸𞤮 𞤥𞤭𞤲𞤫𞤬𞤢𞤳𞥇𞤮𞤨𞥇𞤢𞤳𞥇𞤢 𞤹𞤫𞤬𞤮𞤦𞤭𞤹𞥇𞤢 𞤸𞤢𞤯𞤫𞤳𞤭 𞤩𞤫𞤼𞥇𞤮𞤼𞥇𞤢𞤹𞤫𞤩𞤭 𞤹𞤮𞤳𞤭𞤼𞤭𞤹𞤮.</p>
+<div class="interlinear">
+<dl> <dt>mo-ɗa-pʼo</dt> <dd><abbr>G1.1SG-NOM-REL:PST</abbr></dd> </dl>
+<dl> <dt>θɛɬalɛ-da-ɬo</dt> <dd>yesterday-<abbr>G6.SG-LOC</abbr></dd> </dl>
+<dl> <dt>minɛθa-kʼopʼ-akʼa</dt> <dd>home-go-<abbr>SUB</abbr></dd> </dl>
+<dl> <dt>qɛθob-i-qʼa</dt> <dd>write-<abbr>G4.SG-IPFV</abbr></dd> </dl>
+<dl> <dt>ɬa-ɗɛ-ki</dt> <dd><abbr>G1.3SG-NOM-PRS</abbr></dd> </dl>
+<dl> <dt>ɓɛtʼotʼa-qɛ-ɓi</dt> <dd>letter-<abbr>G4.SG-INS</abbr></dd> </dl>
+<dl> <dt>qo-kiti-qo</dt> <dd><abbr>ORD</abbr>-two-<abbr>G4.SG</abbr></abbr></dd> </dl>
+</div>
+<p class="freetranslation">"When I came home yesterday, he was writing the second letter."</p>
+<p class="source">(1617th JU5MoYD)</p>
+</div>
 
-<table style="">
-<tr style="text-align: right; font-weight: bold; font-style: italic; direction: rtl">
-<td colspan="999">𞤐𞤫𞤺𞤫𞤣𞤢𞤸𞤮 𞤹𞤢𞤥𞤮𞤨𞥇𞤮𞤺𞤫𞤯𞤫𞤥𞤭.</td>
-</tr>
-<tr>
-<td>nɛɡɛd-a-ɬo</td>
-<td>qamɛpʼo-ɡɛ-ɗɛ-mi</td>
-</tr>
-<tr>
-<td>spoil-PFV-G5.3PL</td>
-<td>cheese-G5.PL-NOM-PST</td>
-</tr>
-<tr>
-<td colspan="999">"The cheeses have deteriorated."</td>
-</tr>
-<tr style="text-align: right; font-style: italic">
-<td colspan="999">(1468th JU5MoYD)</td>
-</tr>
-
-<table style="">
-<tr style="text-align: right; font-weight: bold; font-style: italic; direction: rtl">
-<td colspan="999">𞤃𞤮𞤯𞤢𞤨𞥇𞤮 𞤬𞤫𞤸𞤢𞤤𞤫𞤣𞤢𞤸𞤮 𞤥𞤭𞤲𞤫𞤬𞤢𞤳𞥇𞤮𞤨𞥇𞤢𞤳𞥇𞤢 𞤹𞤫𞤬𞤮𞤦𞤭𞤹𞥇𞤢 𞤸𞤢𞤯𞤫𞤳𞤭 𞤩𞤫𞤼𞥇𞤮𞤼𞥇𞤢𞤹𞤫𞤩𞤭 𞤹𞤮𞤳𞤭𞤼𞤭𞤹𞤮.</td>
-</tr>
-<tr>
-<td>mo-ɗa-pʼo</td>
-<td>θɛɬalɛ-da-ɬo</td>
-<td>minɛθa-kʼopʼ-akʼa</td>
-<td>qɛθob-i-qʼa</td>
-<td>ɬa-ɗɛ-ki</td>
-<td>ɓɛtʼotʼa-qɛ-ɓi</td>
-<td>qo-kiti-qo</td>
-</tr>
-<tr>
-<td>G1.1SG-NOM-REL:PST</td>
-<td>yesterday-G6.SG-LOC</td>
-<td>home-go-SUB</td>
-<td>write-G4.SG-IPFV</td>
-<td>G1.3SG-NOM-PRS</td>
-<td>letter-G4.SG-INS</td>
-<td>ORD-two-G4.SG</td>
-</tr>
-<tr>
-<td colspan="999">"When I came home yesterday, he was writing the second letter."</td>
-</tr>
-<tr style="text-align: right; font-style: italic">
-<td colspan="999">(1617th JU5MoYD)</td>
-</tr>
-
-<table style="">
-<tr>
-<td colspan="999">"When you know (the answer), it is quite easy indeed."</td>
-</tr>
-<tr style="text-align: right; font-style: italic">
-<td colspan="999">(1940th JU5MoYD)</td>
-</tr>
+<div class="example-sentence">
+<p class="freetranslation">"When you know (the answer), it is quite easy indeed."</p>
+<p class="source">(1940th JU5MoYD)</p>
+</div>
 
