@@ -36,6 +36,15 @@ li > ol, li > ul {
 	margin-top: 0;
 }
 
+.author {
+	padding-left: 2ch;
+}
+
+.author::before {
+	content: "by";
+	padding: 0 0.5ch;
+}
+
 #TOC ul {
 	padding-left: 1.3em;
 }
