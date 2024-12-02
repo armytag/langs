@@ -1,6 +1,3 @@
-% Qʼatheɓo -- 𞤗𞥇𞤢𞤬𞤫𞤩𞤮
-% armytag
-
 # Phonology
 
 ## Vowels
