@@ -5,7 +5,7 @@ html {
 
 body {
 	margin: 0 auto;
-	max-width: 36em;
+	max-width: 60ch;
 	padding-left: 50px;
 	padding-right: 50px;
 	padding-top: 50px;
@@ -68,10 +68,11 @@ li > ol, li > ul {
 .example-sentence {
 	display: flex;
 	flex-direction: column;
-	width: max-content;
 	margin: 2ch auto;
 	border-top: 1px solid black;
 	border-bottom: 1px solid black;
+	align-content: center;
+	justify-content: center;
 }
 
 .adlam {
@@ -83,15 +84,25 @@ li > ol, li > ul {
 
 .interlinear {
 	display: flex;
-	gap: 1em;
+	flex-wrap: wrap;
+	gap: 0.25em 0.5em;
 }
 
 .interlinear .phonetic {
 	font-style: italic;
 }
 
+.interlinear .abbr {
+	text-transform: lowercase;
+	font-variant: small-caps;
+}
+
 .english {
 	text-align: center;
+}
+
+.source {
+	text-align: right;
 }
 
 table {

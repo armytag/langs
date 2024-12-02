@@ -257,6 +257,18 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
 - Subordinate verb takes subordinate aspect/mood marking
 
 # Test Sentences
+
+<div class="example-sentence">
+<div class="adlam"><p>adlam</p></div>
+<div class="interlinear">
+<div>
+<p class="phonetic">phonetic</p>
+<p class="gloss">gloss</p>
+</div>
+</div>
+<div class="english"><p>english</p></div>
+</div>
+
 <div class="example-sentence">
 <div class="adlam"><p>𞤑𞤭𞤣𞤮𞤩𞤢𞤥𞤢 (𞤥𞤮) 𞤥𞤭𞤲𞤭𞤦𞤮𞤳𞥇𞤫𞤯𞤫𞤥𞤭.</p></div>
 <div class="interlinear">
@@ -299,36 +311,46 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
 <div class="english"><p>"I didn't bite the dog."</p></div>
 </div>
 
-<table style="">
-<tr style="text-align: right; font-weight: bold; font-style: italic; direction: rtl">
-<td colspan="999">𞤂𞤫𞤳𞤭𞤼𞥇𞤮𞤺𞤫𞤯𞤢𞤲𞤮 𞤼𞤢𞤺𞤮𞤸𞤢𞤳𞥇𞤫𞤨𞤭 𞤳𞥇𞤢𞤣𞤮𞤥𞤫𞤨𞤭 𞤨𞤭𞤬𞤮 𞤨𞥇𞤭𞤥𞤮𞤼𞤫𞤩𞤢𞤨𞤢𞤯𞤫𞤳𞤭 𞤨𞥇𞤮𞤼𞥇𞤫𞤥𞤭𞤨𞤮 𞤨𞥇𞤭𞤤𞤮𞤣𞤭𞤨𞤫𞤨𞤢𞤯𞤫𞤳𞤭 𞤼𞤮𞤯𞤭𞤼𞥇𞤭𞤨𞤮.</td>
-</tr>
-<tr>
-<td>lɛkitʼo-ɡɛ-ɗa-no</td>
-<td>tagoɬ-akʼɛ-pi</td>
-<td>kʼadom-ɛ-pi</td>
-<td>piθo</td>
-<td>pʼi-motɛɓa-pa-ɗɛ-ki</td>
-<td>pʼotʼɛmi-po</td>
-<td>pʼi-lodipɛ-pa-ɗɛ-ki</td>
-<td>toɗitʼi-po</td>
-</tr>
-<tr>
-<td>noodle-G5.PL-NOM-REL:PRS</td>
-<td>discuss-SUB</td>
-<td>clarify-PFV-PASS</td>
-<td>necessary</td>
-<td>_or_-material-G5.SG-NOM-PRS</td>
-<td>composed-G5.SG</td>
-<td>_or_-origin-G5.SG-NOM-PRS</td>
-<td>cultural-G5.SG</td>
-</tr>
-<tr>
-<td colspan="999">"The material composition or geocultural origin must be specified when discussing noodles."</td>
-</tr>
-<tr style="text-align: right; font-style: italic">
-<td colspan="999">(746th JU5MoYD)</td>
-</tr>
+<div class="example-sentence">
+<div class="adlam"><p>𞤂𞤫𞤳𞤭𞤼𞥇𞤮𞤺𞤫𞤯𞤢𞤲𞤮 𞤼𞤢𞤺𞤮𞤸𞤢𞤳𞥇𞤫𞤨𞤭 𞤳𞥇𞤢𞤣𞤮𞤥𞤫𞤨𞤭 𞤨𞤭𞤬𞤮 𞤨𞥇𞤭𞤥𞤮𞤼𞤫𞤩𞤢𞤨𞤢𞤯𞤫𞤳𞤭 𞤨𞥇𞤮𞤼𞥇𞤫𞤥𞤭𞤨𞤮 𞤨𞥇𞤭𞤤𞤮𞤣𞤭𞤨𞤫𞤨𞤢𞤯𞤫𞤳𞤭 𞤼𞤮𞤯𞤭𞤼𞥇𞤭𞤨𞤮.</p></div>
+<div class="interlinear">
+<div>
+<p class="phonetic">lɛkitʼo-ɡɛ-ɗa-no</p>
+<p class="gloss">noodle-<span class="abbr">G5.PL-NOM-REL:PRS</span></p>
+</div>
+<div>
+<p class="phonetic">tagoɬ-akʼɛ-pi</p>
+<p class="gloss">discuss-<span class="abbr">SUB</span></p>
+</div>
+<div>
+<p class="phonetic">kʼadom-ɛ-pi</p>
+<p class="gloss">clarify-<span class="abbr">PFV-PASS</span></p>
+</div>
+<div>
+<p class="phonetic">piθo</p>
+<p class="gloss">necessary</p>
+</div>
+<div>
+<p class="phonetic">pʼi-motɛɓa-pa-ɗɛ-ki</p>
+<p class="gloss">_or_-material-<span class="abbr">G5.SG-NOM-PRS</span></p>
+</div>
+<div>
+<p class="phonetic">pʼotʼɛmi-po</p>
+<p class="gloss">composed-<span class="abbr">G5.SG</span></p>
+</div>
+<div>
+<p class="phonetic">pʼi-lodipɛ-pa-ɗɛ-ki</p>
+<p class="gloss">_or_-origin-<span class="abbr">G5.SG-NOM-PRS</span>
+</p>
+</div>
+<div>
+<p class="phonetic">toɗitʼi-po</p>
+<p class="gloss">cultural-<span class="abbr">G5.SG</span></p>
+</div>
+</div>
+<div class="english"><p>"The material composition or geocultural origin must be specified when discussing noodles."</p></div>
+<div class="source"><p>(746th JU5MoYD)</p></div>
+</div>
 
 <table style="">
 <tr>
