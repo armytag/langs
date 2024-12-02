@@ -1,6 +1,7 @@
-## Qʼatheɓo -- 𞤗𞥇𞤢𞤬𞤫𞤩𞤮
+% Qʼatheɓo -- 𞤗𞥇𞤢𞤬𞤫𞤩𞤮
+% armytag
 
-## Phonology
+# Phonology
 - Phonemic /θ/ and /ɬ/, and no other fricatives
 - No phonemic /u/, only /a ɛ i o/
 - Have a voicing pattern distinction only in plosive
@@ -27,7 +28,7 @@
 - Simple tone system?
 - Have phonological changes (e.g. vowel dropping or consonant devoicing) dependant on something higher than Prosodic Word level (e.g. Intonation Phrase level or Utterance level)
 
-### Vowel Assimilation
+## Vowel Assimilation
 1. Lower /i/ before /a/
 1. Raise /a/ before /i/
 1. Front /o/ before /o/
@@ -38,22 +39,22 @@
 | i     | eCa  |      |      |
 | u     |      |      | eCo  |
 
-## Orthography
+# Orthography
 
 Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
 
-### Script Example
+## Script Example
 <div>
 <p style="font-weight: bold">𞤼𞤫𞤨𞤭𞤼𞥇𞤮𞤺𞤭 𞤸𞤫𞤤𞤢 𞤼𞥇𞤭𞤳𞤮 𞤳𞥇𞤮𞤨𞥇𞤭𞤼𞥇𞤮𞤺𞤢 𞤩𞤫𞤺𞤭𞤯𞤮</p>
 <p style="font-style: italic">tepitʼoɡi ɬela tʼiko kʼopʼitʼoɡa ɓeɡiɗo</p>
 </div>
 
-## Nouns
+# Nouns
 
-### Noun Template
+## Noun Template
 1. λ-NUM-CASE-TENSE
 
-### Notes
+## Notes
 - Nominal tense (3+ morphemes)
     - Future: *-ɓa*
     - Present: *-ki*
@@ -144,7 +145,7 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
 | Ablative (-ɬi)     | from      | from      | since      | cease     |
 | Essive (-mi)       | as (temp) | as (temp) | as (temp)  | as (temp) |
 
-### Conjunction
+## Conjunction
 
 | RELATION | Conjunction |
 |---       |---          |
@@ -152,13 +153,13 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
 | or       | θo-         |
 | xor      | ɬa-         |
 
-## Verbs
+# Verbs
 
-### Verb Template
+## Verb Template
 1. (NEG) λ-ASP:MOD(-PASS)-PNUM:OBJ
 1. (NEG) ƛ-λ-ASP:MOD(-PASS)(-PNUM:OBJ)
 
-### Notes
+## Notes
 - Noun incorporation
     - Types 1, 2, and 3 (and 4?)
 - Verbal mood and aspect (3+ morphemes)
@@ -184,7 +185,7 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
 | G5 3rd         | -pʼi   | -ɬo    |
 | G6 3rd         | -na    | -no    |
 
-## Modifiers
+# Modifiers
 
 - Modifiers can apply to verbs (as adverbs) or nouns (as adjectives)
 - Adjectives are modifiers that agree with a noun in class
@@ -200,7 +201,7 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
 | G5    | -po    | -ɡo    |
 | G6    | -do    | -θo    |
 
-### Colors
+## Colors
 
 | BASIC COLORS | Term  |
 |---           |---    |
@@ -210,7 +211,7 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
 | yellow       | tʼiθo |
 | green/blue   | tɛqʼo |
 
-## Numbers
+# Numbers
 
 - Numbers take adjective-style agreement when they modify nouns
 
@@ -227,7 +228,7 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
 | nine   | qʼɛɓa    | qo-qʼɛɓa |
 | ten    | baθa     | qo-baθa  |
 
-## Syntax
+# Syntax
 - Verb initial
 - Nouns order by higher animacy before lower animacy, and 2P before 1P before 3P
 - Prepositions
@@ -247,18 +248,18 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
     1. Prohibitive verb (suggestion)
     1. Negative imperative verb (command)
 
-### Comparatives
+## Comparatives
 - Formed with verb meaning 'exceed' which takes the measure of comparison as an modifier adverb
     - exceed-PFV-G3.SG big G1.1SG-NOM-PRS dog-G3.SG-ACC
     - "I am bigger than a dog"
 
-### Subordinate Temporal Clauses
+## Subordinate Temporal Clauses
 - Subordinate clause taking time slot in matrix sentence (preceding matrix verb)
 - Subordinate clause is verb-final
 - Subordinate subject takes special relative-tense marking
 - Subordinate verb takes subordinate aspect/mood marking
 
-## Test Sentences
+# Test Sentences
 <table style="">
 <tr
 style="text-align: right; font-weight: bold; font-style: italic; direction: rtl">
