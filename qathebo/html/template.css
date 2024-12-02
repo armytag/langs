@@ -69,7 +69,7 @@ li > ol, li > ul {
 	display: flex;
 	flex-direction: column;
 	width: max-content;
-	margin: auto;
+	margin: 2ch auto;
 	border-top: 1px solid black;
 	border-bottom: 1px solid black;
 }
@@ -78,6 +78,7 @@ li > ol, li > ul {
 	direction: rtl;
 	font-weight: bold;
 	font-style: italic;
+	text-align: center;
 }
 
 .interlinear {
@@ -87,6 +88,10 @@ li > ol, li > ul {
 
 .interlinear .phonetic {
 	font-style: italic;
+}
+
+.english {
+	text-align: center;
 }
 
 table {

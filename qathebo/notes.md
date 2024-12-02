@@ -258,7 +258,7 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
 
 # Test Sentences
 <div class="example-sentence">
-<div class="adlam"> <p>𞤑𞤭𞤣𞤮𞤩𞤢𞤥𞤢 (𞤥𞤮) 𞤥𞤭𞤲𞤭𞤦𞤮𞤳𞥇𞤫𞤯𞤫𞤥𞤭.</p> </div>
+<div class="adlam"><p>𞤑𞤭𞤣𞤮𞤩𞤢𞤥𞤢 (𞤥𞤮) 𞤥𞤭𞤲𞤭𞤦𞤮𞤳𞥇𞤫𞤯𞤫𞤥𞤭.</p></div>
 <div class="interlinear">
 <div>
 <p class="phonetic">kidoɓ-a-ma</p>
@@ -273,53 +273,31 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
 <p class="gloss">dog-G3.SG-NOM-PST</p>
 </div>
 </div>
-<div class="english"> <p>"A dog bit me."</p> </div>
+<div class="english"><p>"A dog bit me."</p></div>
 </div>
 
-<table style="">
-<tr
-style="text-align: right; font-weight: bold; font-style: italic; direction: rtl">
-<td colspan="999">𞤑𞤭𞤣𞤮𞤩𞤢𞤥𞤢 (𞤥𞤮) 𞤥𞤭𞤲𞤭𞤦𞤮𞤳𞥇𞤫𞤯𞤫𞤥𞤭.</td>
-</tr>
-<tr
-style="font-style: italic">
-<td>kidoɓ-a-ma</td>
-<td>(mo-∅)</td>
-<td>minibo-kʼɛ-ɗɛ-mi</td>
-</tr>
-<tr>
-<td>bite-PFV-G1.1SG</td>
-<td>(G1.1SG-ACC)</td>
-<td>dog-G3.SG-NOM-PST</td>
-</tr>
-<tr
-style="text-align: left">
-<td colspan="999">"A dog bit me."</td>
-</tr>
-</table>
-
-<table style="">
-<tr style="text-align: right; font-weight: bold; font-style: italic; direction: rtl">
-<td colspan="999">𞤊𞤫𞤲𞤭 𞤳𞤭𞤣𞤮𞤩𞤢𞤬𞤢 𞤥𞤮𞤯𞤫𞤥𞤭 (𞤥𞤭𞤲𞤭𞤦𞤮𞤳𞥇𞤭).</td>
-</tr>
-<tr
-style="font-style: italic">
-<td>θɛni</td>
-<td>kidoɓ-a-θa</td>
-<td>mo-ɗɛ-mi</td>
-<td>(minibo-kʼi-∅)</td>
-</tr>
-<tr>
-<td>NEG</td>
-<td>bite-PFV-G3.3SG</td>
-<td>G1.1SG-NOM-PST</td>
-<td>(dog-G3.SG-ACC)</td>
-</tr>
-<tr
-style="text-align: left">
-<td colspan="999">"I didn't bite the dog."</td>
-</tr>
-</table>
+<div class="example-sentence">
+<div class="adlam"><p>𞤊𞤫𞤲𞤭 𞤳𞤭𞤣𞤮𞤩𞤢𞤬𞤢 𞤥𞤮𞤯𞤫𞤥𞤭 (𞤥𞤭𞤲𞤭𞤦𞤮𞤳𞥇𞤭).</p></div>
+<div class="interlinear">
+<div>
+<p class="phonetic">θɛni</p>
+<p class="gloss">NEG</p>
+</div>
+<div>
+<p class="phonetic">kidoɓ-a-θa</p>
+<p class="gloss">bite-PFV-G3.3SG</p>
+</div>
+<div>
+<p class="phonetic">mo-ɗɛ-mi</p>
+<p class="gloss">G1.1SG-NOM-PST</p>
+</div>
+<div>
+<p class="phonetic">(minibo-kʼi-∅)</p>
+<p class="gloss">(dog-G3.SG-ACC)</p>
+</div>
+</div>
+<div class="english"><p>"I didn't bite the dog."</p></div>
+</div>
 
 <table style="">
 <tr style="text-align: right; font-weight: bold; font-style: italic; direction: rtl">
