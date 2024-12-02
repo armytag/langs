@@ -1,0 +1,579 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <meta name="author" content="armytag" />
+  <title>Qʼatheɓo Grammar – 𞤗𞥇𞤢𞤬𞤫𞤩𞤮</title>
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <link rel="stylesheet" href="template.css" />
+</head>
+<body>
+<header id="title-block-header">
+<h1 class="title">Qʼatheɓo Grammar – 𞤗𞥇𞤢𞤬𞤫𞤩𞤮</h1>
+<p class="subtitle">A speedlang from prompts of Speedlangs 20, 21, &amp;
+22</p>
+<p class="author">armytag</p>
+</header>
+<nav id="TOC" role="doc-toc">
+<ul>
+<li><a href="#phonology" id="toc-phonology"><span
+class="toc-section-number">1</span> Phonology</a>
+<ul>
+<li><a href="#vowels" id="toc-vowels"><span
+class="toc-section-number">1.1</span> Vowels</a></li>
+<li><a href="#consonants" id="toc-consonants"><span
+class="toc-section-number">1.2</span> Consonants</a></li>
+<li><a href="#orthography" id="toc-orthography"><span
+class="toc-section-number">1.3</span> Orthography</a></li>
+<li><a href="#phonological-constraints"
+id="toc-phonological-constraints"><span
+class="toc-section-number">1.4</span> Phonological Constraints</a></li>
+</ul></li>
+<li><a href="#morphology" id="toc-morphology"><span
+class="toc-section-number">2</span> Morphology</a>
+<ul>
+<li><a href="#nouns" id="toc-nouns"><span
+class="toc-section-number">2.1</span> Nouns</a>
+<ul>
+<li><a href="#animacy-groups-classgender"
+id="toc-animacy-groups-classgender"><span
+class="toc-section-number">2.1.1</span> Animacy Groups
+(Class/Gender)</a></li>
+<li><a href="#number" id="toc-number"><span
+class="toc-section-number">2.1.2</span> Number</a></li>
+<li><a href="#case" id="toc-case"><span
+class="toc-section-number">2.1.3</span> Case</a></li>
+<li><a href="#pronouns" id="toc-pronouns"><span
+class="toc-section-number">2.1.4</span> Pronouns</a></li>
+</ul></li>
+<li><a href="#verbs" id="toc-verbs"><span
+class="toc-section-number">2.2</span> Verbs</a></li>
+<li><a href="#modifiers" id="toc-modifiers"><span
+class="toc-section-number">2.3</span> Modifiers</a>
+<ul>
+<li><a href="#adverbs" id="toc-adverbs"><span
+class="toc-section-number">2.3.1</span> Adverbs</a></li>
+<li><a href="#adjectives" id="toc-adjectives"><span
+class="toc-section-number">2.3.2</span> Adjectives</a></li>
+</ul></li>
+</ul></li>
+<li><a href="#syntax" id="toc-syntax"><span
+class="toc-section-number">3</span> Syntax</a>
+<ul>
+<li><a href="#expressing-time" id="toc-expressing-time"><span
+class="toc-section-number">3.1</span> Expressing Time</a></li>
+</ul></li>
+<li><a href="#discourse" id="toc-discourse"><span
+class="toc-section-number">4</span> Discourse</a>
+<ul>
+<li><a href="#expressing-emotions" id="toc-expressing-emotions"><span
+class="toc-section-number">4.1</span> Expressing Emotions</a>
+<ul>
+<li><a href="#basic-terms" id="toc-basic-terms"><span
+class="toc-section-number">4.1.1</span> Basic Terms</a></li>
+<li><a href="#bodily-emotions" id="toc-bodily-emotions"><span
+class="toc-section-number">4.1.2</span> Bodily Emotions</a></li>
+<li><a href="#grammatical-distinctions"
+id="toc-grammatical-distinctions"><span
+class="toc-section-number">4.1.3</span> Grammatical
+Distinctions</a></li>
+</ul></li>
+</ul></li>
+<li><a href="#example-texts" id="toc-example-texts"><span
+class="toc-section-number">5</span> Example Texts</a>
+<ul>
+<li><a href="#lexicon-showcase" id="toc-lexicon-showcase"><span
+class="toc-section-number">5.1</span> Lexicon Showcase</a></li>
+<li><a href="#sentences" id="toc-sentences"><span
+class="toc-section-number">5.2</span> Sentences</a></li>
+<li><a href="#larger-texts" id="toc-larger-texts"><span
+class="toc-section-number">5.3</span> Larger Texts</a></li>
+</ul></li>
+<li><a href="#appendices" id="toc-appendices"><span
+class="toc-section-number">6</span> Appendices</a>
+<ul>
+<li><a href="#speedlang-prompts" id="toc-speedlang-prompts"><span
+class="toc-section-number">6.1</span> Speedlang Prompts</a>
+<ul>
+<li><a href="#sources" id="toc-sources"><span
+class="toc-section-number">6.1.1</span> Sources</a></li>
+<li><a href="#speedlang-20-requirements"
+id="toc-speedlang-20-requirements"><span
+class="toc-section-number">6.1.2</span> Speedlang 20
+Requirements</a></li>
+<li><a href="#speedlang-21-requirements"
+id="toc-speedlang-21-requirements"><span
+class="toc-section-number">6.1.3</span> Speedlang 21
+Requirements</a></li>
+<li><a href="#speedlang-22-requirements"
+id="toc-speedlang-22-requirements"><span
+class="toc-section-number">6.1.4</span> Speedlang 22
+Requirements</a></li>
+</ul></li>
+<li><a href="#diachronic-vowel-analysis"
+id="toc-diachronic-vowel-analysis"><span
+class="toc-section-number">6.2</span> Diachronic Vowel Analysis</a></li>
+</ul></li>
+</ul>
+</nav>
+<h1 data-number="1" id="phonology"><span
+class="header-section-number">1</span> Phonology</h1>
+<h2 data-number="1.1" id="vowels"><span
+class="header-section-number">1.1</span> Vowels</h2>
+<table>
+<thead>
+<tr class="header">
+<th>VOWELS</th>
+<th>Front</th>
+<th>Back</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Close</td>
+<td>i</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Mid</td>
+<td>ɛ</td>
+<td>o</td>
+</tr>
+<tr class="odd">
+<td>Open</td>
+<td></td>
+<td>a</td>
+</tr>
+</tbody>
+</table>
+<h2 data-number="1.2" id="consonants"><span
+class="header-section-number">1.2</span> Consonants</h2>
+<table>
+<thead>
+<tr class="header">
+<th>CONSONANTS</th>
+<th>Labial</th>
+<th>Dental</th>
+<th>Velar</th>
+<th>Uvular</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Nasals</td>
+<td>m</td>
+<td>n</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Plosives</td>
+<td>p b</td>
+<td>t d</td>
+<td>k ɡ</td>
+<td>q</td>
+</tr>
+<tr class="odd">
+<td>Ejectives</td>
+<td>pʼ</td>
+<td>tʼ</td>
+<td>kʼ</td>
+<td>qʼ</td>
+</tr>
+<tr class="even">
+<td>Implosive</td>
+<td>ɓ</td>
+<td>ɗ</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Fricatives</td>
+<td></td>
+<td>θ</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Lat. Fric.</td>
+<td></td>
+<td>ɬ</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Approximant</td>
+<td></td>
+<td>l</td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h2 data-number="1.3" id="orthography"><span
+class="header-section-number">1.3</span> Orthography</h2>
+<table>
+<thead>
+<tr class="header">
+<th>Adlam Symbols</th>
+<th>IPA Sound</th>
+<th>Latin symbols</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>𞤢/𞤀</td>
+<td>/a/</td>
+<td>a</td>
+</tr>
+<tr class="even">
+<td>𞤦/𞤄</td>
+<td>/b/</td>
+<td>b</td>
+</tr>
+<tr class="odd">
+<td>𞤩/𞤇</td>
+<td>/ɓ/</td>
+<td>b’</td>
+</tr>
+<tr class="even">
+<td>𞤣/𞤁</td>
+<td>/d/</td>
+<td>d</td>
+</tr>
+<tr class="odd">
+<td>𞤯/𞤍</td>
+<td>/ɗ/</td>
+<td>d’</td>
+</tr>
+<tr class="even">
+<td>𞤫/𞤉</td>
+<td>/ɛ/</td>
+<td>e</td>
+</tr>
+<tr class="odd">
+<td>𞤺/𞤘</td>
+<td>/g/</td>
+<td>g</td>
+</tr>
+<tr class="even">
+<td>𞤸/𞤖</td>
+<td>/ɬ/</td>
+<td>hl</td>
+</tr>
+<tr class="odd">
+<td>𞤭/𞤋</td>
+<td>/i/</td>
+<td>i</td>
+</tr>
+<tr class="even">
+<td>𞤳/𞤑</td>
+<td>/k/</td>
+<td>k</td>
+</tr>
+<tr class="odd">
+<td>𞤳𞥇/𞤑𞥇</td>
+<td>/kʼ/</td>
+<td>k’</td>
+</tr>
+<tr class="even">
+<td>𞤤/𞤂</td>
+<td>/l/</td>
+<td>l</td>
+</tr>
+<tr class="odd">
+<td>𞤥/𞤃</td>
+<td>/m/</td>
+<td>m</td>
+</tr>
+<tr class="even">
+<td>𞤲/𞤐</td>
+<td>/n/</td>
+<td>n</td>
+</tr>
+<tr class="odd">
+<td>𞤮/𞤌</td>
+<td>/o/</td>
+<td>o</td>
+</tr>
+<tr class="even">
+<td>𞤨/𞤆</td>
+<td>/p/</td>
+<td>p</td>
+</tr>
+<tr class="odd">
+<td>𞤨𞥇/𞤆𞥇</td>
+<td>/pʼ/</td>
+<td>p’</td>
+</tr>
+<tr class="even">
+<td>𞤹/𞤗</td>
+<td>/q/</td>
+<td>q</td>
+</tr>
+<tr class="odd">
+<td>𞤹𞥇/𞤗𞥇</td>
+<td>/qʼ/</td>
+<td>q’</td>
+</tr>
+<tr class="even">
+<td>𞤼/𞤚</td>
+<td>/t/</td>
+<td>t</td>
+</tr>
+<tr class="odd">
+<td>𞤼𞥇/𞤚𞥇</td>
+<td>/tʼ/</td>
+<td>t’</td>
+</tr>
+<tr class="even">
+<td>𞤬/𞤊</td>
+<td>/θ/</td>
+<td>th</td>
+</tr>
+</tbody>
+</table>
+<h2 data-number="1.4" id="phonological-constraints"><span
+class="header-section-number">1.4</span> Phonological Constraints</h2>
+<h1 data-number="2" id="morphology"><span
+class="header-section-number">2</span> Morphology</h1>
+<h2 data-number="2.1" id="nouns"><span
+class="header-section-number">2.1</span> Nouns</h2>
+<h3 data-number="2.1.1" id="animacy-groups-classgender"><span
+class="header-section-number">2.1.1</span> Animacy Groups
+(Class/Gender)</h3>
+<h3 data-number="2.1.2" id="number"><span
+class="header-section-number">2.1.2</span> Number</h3>
+<h3 data-number="2.1.3" id="case"><span
+class="header-section-number">2.1.3</span> Case</h3>
+<h3 data-number="2.1.4" id="pronouns"><span
+class="header-section-number">2.1.4</span> Pronouns</h3>
+<h2 data-number="2.2" id="verbs"><span
+class="header-section-number">2.2</span> Verbs</h2>
+<h2 data-number="2.3" id="modifiers"><span
+class="header-section-number">2.3</span> Modifiers</h2>
+<h3 data-number="2.3.1" id="adverbs"><span
+class="header-section-number">2.3.1</span> Adverbs</h3>
+<h3 data-number="2.3.2" id="adjectives"><span
+class="header-section-number">2.3.2</span> Adjectives</h3>
+<h1 data-number="3" id="syntax"><span
+class="header-section-number">3</span> Syntax</h1>
+<h2 data-number="3.1" id="expressing-time"><span
+class="header-section-number">3.1</span> Expressing Time</h2>
+<h1 data-number="4" id="discourse"><span
+class="header-section-number">4</span> Discourse</h1>
+<h2 data-number="4.1" id="expressing-emotions"><span
+class="header-section-number">4.1</span> Expressing Emotions</h2>
+<h3 data-number="4.1.1" id="basic-terms"><span
+class="header-section-number">4.1.1</span> Basic Terms</h3>
+<h3 data-number="4.1.2" id="bodily-emotions"><span
+class="header-section-number">4.1.2</span> Bodily Emotions</h3>
+<h3 data-number="4.1.3" id="grammatical-distinctions"><span
+class="header-section-number">4.1.3</span> Grammatical Distinctions</h3>
+<h1 data-number="5" id="example-texts"><span
+class="header-section-number">5</span> Example Texts</h1>
+<h2 data-number="5.1" id="lexicon-showcase"><span
+class="header-section-number">5.1</span> Lexicon Showcase</h2>
+<h2 data-number="5.2" id="sentences"><span
+class="header-section-number">5.2</span> Sentences</h2>
+<h2 data-number="5.3" id="larger-texts"><span
+class="header-section-number">5.3</span> Larger Texts</h2>
+<h1 data-number="6" id="appendices"><span
+class="header-section-number">6</span> Appendices</h1>
+<h2 data-number="6.1" id="speedlang-prompts"><span
+class="header-section-number">6.1</span> Speedlang Prompts</h2>
+<h3 data-number="6.1.1" id="sources"><span
+class="header-section-number">6.1.1</span> Sources</h3>
+<ul>
+<li><a
+href="https://www.reddit.com/r/conlangs/comments/1ecyu0k/20th_speedlang_challenge/">Speedlang
+20</a></li>
+<li><a
+href="https://drive.google.com/file/d/1AbsBEmmoiRj6NlMd4NmopOiT9Y3csqXM/view">Speedlang
+21</a></li>
+<li><a
+href="https://mareck.neocities.org/speedlangs/prompts/speedlang%2022%20prompt.pdf">Speedlang
+22</a></li>
+</ul>
+<h3 data-number="6.1.2" id="speedlang-20-requirements"><span
+class="header-section-number">6.1.2</span> Speedlang 20
+Requirements</h3>
+<ul>
+<li>Phonemic /θ/ and /ɬ/</li>
+<li>No phonemic /u/</li>
+<li>CV syllables</li>
+<li>Paucal number on nouns</li>
+<li>Instrumental case on nouns</li>
+<li>Morphological mood, but no morphological tense on verbs</li>
+<li>Object argument marking on verbs</li>
+<li>Marked nominative-accusative morphosyntax</li>
+<li>VO word order</li>
+<li>Write a restaurant review</li>
+</ul>
+<h3 data-number="6.1.3" id="speedlang-21-requirements"><span
+class="header-section-number">6.1.3</span> Speedlang 21
+Requirements</h3>
+<ul>
+<li>No more than two phonemes whose mosts common realization is a
+fricative (/h/ and /ɦ/ count as fricatives)</li>
+<li>Have at least one non-pulmonic consonant</li>
+<li>Have a place of articulation contrast within one of the categories
+of labial, coronal, and dorsal</li>
+<li>Have propositional nominal TAM (tense, aspect, and/or mood marked on
+the noun phrase)
+<ul>
+<li><a
+href="https://citeseerx.ist.psu.edu/document?repid=rep1&amp;type=pdf&amp;doi=463dbb55a115210535370d2ce37d288640b6d85f">Nordlinger
+&amp; Sadler 2003</a></li>
+</ul></li>
+<li>Have grammatical gender / noun class
+<ul>
+<li><em>(bonus)</em> have exactly 4-6 classes</li>
+<li><em>(bonus)</em> have some classes merge depending on plurality</li>
+<li><em>(bonus)</em> have some of the agreement markers show polarity
+(e.g. singular A is marked the same as plural B)</li>
+</ul></li>
+<li>Have at least three ways of forming requests/commands, and describe
+how they differ in use (i.e. which contexts)
+<ul>
+<li><em>(bonus)</em> include at least two ways negative commands can be
+formed</li>
+</ul></li>
+<li>Create at least two words for emotions that don’t have a clear
+one-to-one label in English
+<ul>
+<li><em>(bonus)</em> write a longer section on cognitively-based
+feelings, including descriptions of at least five feelings, one or more
+“bodily images” (e.g. boiling with rage), and different ways of framing
+emotions grammatically (e.g. “they worried” vs “they were worried”)</li>
+<li><a
+href="https://ddd.uab.cat/pub/landes/11394218v2/11394218v2p23.pdf">Wierzbicka
+1999</a></li>
+</ul></li>
+<li>Translate and gloss at least five sentence from appropriate
+sources</li>
+</ul>
+<h3 data-number="6.1.4" id="speedlang-22-requirements"><span
+class="header-section-number">6.1.4</span> Speedlang 22
+Requirements</h3>
+<ul>
+<li>Use the character &lt;λ&gt; somewhere in the documentation
+<ul>
+<li><em>(bonus)</em> use the character &lt;ƛ&gt; somewhere in the
+documentation</li>
+</ul></li>
+<li>Have a voicing pattern distinction only in plosive XOR in everything
+but plosives
+<ul>
+<li><em>(bonus)</em> have both, depending on analysis</li>
+</ul></li>
+<li>Have a phonological restriction at domain edges
+<ul>
+<li><a
+href="https://mareck.neocities.org/pdfs/cote%202000%20consonant%20cluster%20phonotactics%20a%20perceptual%20approach%20ch%205%20edge%20effects.PDF">Cote
+2000</a></li>
+<li><a
+href="https://mareck.neocities.org/pdfs/weber%202023%20spelling%20out%20prosodic%20structure%20inside%20of%20polysynthetic%20words.pdf">Weber
+2023</a></li>
+<li><a
+href="https://mareck.neocities.org/pdfs/broselow%202003%20marginal%20phonology%20phonotactics%20on%20the%20edge.pdf">Broselow
+2003</a></li>
+<li><a
+href="https://mareck.neocities.org/pdfs/padgett%202015%20Word-Edge%20Effects%20as%20Overphonologization%20of%20Phrase-Edge%20Effects.pdf">Padgett
+2015</a></li>
+</ul></li>
+<li>Have word order be governed by something other than
+<em>scramble(S,O,V)</em>, for example:
+<ul>
+<li>direct/inverse animacy/empathy hierarchy
+<ul>
+<li><a
+href="https://mareck.neocities.org/pdfs/Direct-Inverse_systems.pdf">Jacques
+&amp; Antonov 2014</a></li>
+<li><a
+href="https://mareck.neocities.org/pdfs/oxford%202023%20a%20tale%20of%20two%20inverses.pdf">Oxford
+2023</a></li>
+<li><a
+href="https://mareck.neocities.org/pdfs/macaulay%202009%20on%20prominence%20hierarchies%20evidence%20from%20algonquian.pdf">Macaulay
+2009</a></li>
+</ul></li>
+<li>topic/focus/whatever prominence
+<ul>
+<li><a
+href="https://mareck.neocities.org/pdfs/paul%20and%20whitman%202017%20topic%20prominence.pdf">Paul
+&amp; Whitman 2017</a></li>
+<li><a
+href="https://mareck.neocities.org/pdfs/sasse%201995%20prominence%20typology.pdf">Sasse
+1995</a></li>
+</ul></li>
+<li>something else
+<ul>
+<li><a
+href="https://mareck.neocities.org/pdfs/baker%202001%20the%20natures%20of%20nonconfigurationality.pdf">Baker
+2001</a></li>
+</ul></li>
+</ul></li>
+<li>Detail how the language expresses phasal polarity
+<ul>
+<li><a
+href="https://mareck.neocities.org/pdfs/lofgren%202018%20phasal%20polarity%20systems%20in%20east%20bantu.pdf">Lofgren
+2018</a></li>
+<li><a
+href="https://mareck.neocities.org/pdfs/kramer%202021%20the%20expression%20of%20phasal%20polarity%20in%20african%20languages.pdf">Kramer
+2021</a></li>
+</ul></li>
+<li>Have fewer than two XOR greater than three tense/aspect morphemes
+<ul>
+<li><em>(bonus)</em> same restriction on mood/evidentiality
+morphemes</li>
+</ul></li>
+<li>Make a ‘lexicon showcase’ of a minimum of five lexemes, in which you
+detail specific lexical items; for example:
+<ul>
+<li>explore colexification and collocation</li>
+<li>provide an overview of a certain semantic space such as smell,
+emotions, or events of putting and taking</li>
+<li>make a semantic division tree/web/cloud and detail some members and
+how they differ</li>
+<li>for verbs, you could detial some subset like in <a
+href="https://valpal.info/">ValPaL</a>, such as <a
+href="https://valpal.info/values/nucl1643-hug-1">this one for
+Japanese</a></li>
+</ul></li>
+</ul>
+<h2 data-number="6.2" id="diachronic-vowel-analysis"><span
+class="header-section-number">6.2</span> Diachronic Vowel Analysis</h2>
+<p>This section outlines a proposed sequence of sound changes that can
+explain the modern Qʼathebʼo vowel system, including its assimilation
+rules. It seems that at some prior point, Qʼathebʼo likely had a simple
+three vowel system with the cardinal vowels /a/, /i/, and /u/ occuring
+independantly and in roughly equal fequency. Eventually the vowels
+started to assimilate according to the antecedant vowel, with /u/
+undergoing extensive change, leading ultimately to the current Qʼathebʼo
+four-vowel system. This process appears to have occurred in the
+following stages, ordered from earliest to most recent:</p>
+<ol type="1">
+<li>Lowering of high vowels before /a/: i → ɛ / _Ca</li>
+<li>Centralization of back vowels before /i/: a → ɛ / _Ci</li>
+<li>Dissimilation of high back vowel: o → ɛ / _Co</li>
+</ol>
+</body>
+</html>
