@@ -257,6 +257,25 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
 - Subordinate verb takes subordinate aspect/mood marking
 
 # Test Sentences
+<div class="example-sentence">
+<div class="adlam"> <p>𞤑𞤭𞤣𞤮𞤩𞤢𞤥𞤢 (𞤥𞤮) 𞤥𞤭𞤲𞤭𞤦𞤮𞤳𞥇𞤫𞤯𞤫𞤥𞤭.</p> </div>
+<div class="interlinear">
+<div>
+<p class="phonetic">kidoɓ-a-ma</p>
+<p class="gloss">bite-PFV-G1.1SG</p>
+</div>
+<div>
+<p class="phonetic">(mo-∅)</p>
+<p class="gloss">(G1.1SG-ACC)</p>
+</div>
+<div>
+<p class="phonetic">minibo-kʼɛ-ɗɛ-mi</p>
+<p class="gloss">dog-G3.SG-NOM-PST</p>
+</div>
+</div>
+<div class="english"> <p>"A dog bit me."</p> </div>
+</div>
+
 <table style="">
 <tr
 style="text-align: right; font-weight: bold; font-style: italic; direction: rtl">
