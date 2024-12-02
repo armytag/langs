@@ -75,7 +75,7 @@ li > ol, li > ul {
 	justify-content: center;
 }
 
-.adlam {
+.original {
 	direction: rtl;
 	font-weight: bold;
 	font-style: italic;
@@ -108,7 +108,7 @@ li > ol, li > ul {
 	font-variant-numeric: oldstyle-nums;
 }
 
-.english {
+.freetranslation {
 	text-align: center;
 }
 

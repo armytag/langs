@@ -259,11 +259,11 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
 # Test Sentences
 
 <div class="example-sentence">
-<p class="adlam">adlam</p>
+<p class="original">original</p>
 <div class="interlinear">
 <dl><dt>phonetic</dt><dd>gloss</dd>
 </div>
-<p class="english">english</p>
+<p class="freetranslation">freetranslation</p>
 </div>
 
 <div class="example-sentence">
