@@ -88,6 +88,9 @@ li > ol, li > ul {
 	gap: 0.25em 0.5em;
 }
 
+.interlinear dl {
+	margin: 0.5ch;
+}
 
 .interlinear .phonetic,
 .interlinear dt {
