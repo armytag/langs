@@ -71,3 +71,18 @@ What are you eating? Are you eating in or out? Is it something your mother alway
 Tell us about what you ate today!
 
 ## Entry
+<div class="gloss">
+<p class="original">𞤍𞤢𞤥𞤢𞤳𞤢 𞤺𞤢𞤣𞤮 𞤨𞥇𞤫𞤹𞤢𞤸𞤮 𞤥𞤮𞤯𞤫𞤳𞤭 𞤨𞥇𞤭𞤨𞥇𞤮𞤤𞤢𞤼𞤮𞤹𞤢 𞤨𞥇𞤫𞤹𞥇𞤢𞤯𞤮𞤬𞤫𞤹𞥇𞤭 𞤨𞥇𞤭𞤼𞥇𞤮𞤨𞤭𞤤𞤫𞤨𞤢 𞤳𞤭𞤬𞤮 𞤣𞤫𞤦𞤢𞤨𞥇𞤢𞤨𞤢𞤸𞤮.</p>
+<div class="interlinear">
+<dl> <dt>ɗamaka</dt> <dd>daily</dd> </dl>
+<dl> <dt>ɡado</dt> <dd>morning</dd> </dl>
+<dl> <dt>pʼɛq-a-ɬo</dt> <dd>eat-PFV-G5.PL</dd> </dl>
+<dl> <dt>mo-ɗɛ-ki</dt> <dd>G1.1SG-NOM-PRS</dd> </dl>
+<dl> <dt>pʼi-pʼolato-qa-∅</dt> <dd>_and_-egg-G4.SG-ACC</dd> </dl>
+<dl> <dt>pʼɛ-qʼaɗoθɛ-qʼi-∅</dt> <dd>_and_-fruit-G5.PAU-ACC</dd> </dl>
+<dl> <dt>pʼi-tʼopilɛ-pa-∅</dt> <dd>_and_-avocado-G5.SG-ACC</dd> </dl>
+<dl> <dt>ki-ɡo</dt> <dd>REL-G5.SG</dd> </dl>
+<dl> <dt>dɛbapʼa-pa-ɬo</dt> <dd>bagel-G5.SG-LOC</dd> </dl>
+</div>
+<p class="freetranslation">"Every day for breakfast I eat an egg, some fruit, avocado on a bagel."</p>
+</div>
