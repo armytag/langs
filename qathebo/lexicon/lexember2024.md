@@ -41,4 +41,20 @@ Tell us about the grass you touched today!
 ### Entry
 
 <div class="gloss">
+<p class="original">𞤃𞤢𞤦𞤮𞤯𞤢𞤨𞥇𞤮 𞤳𞤢𞤤𞤮𞤩𞤫𞤨𞤢𞤸𞤢 𞤼𞥇𞤭𞤣𞤮𞤸𞤭 𞤼𞥇𞤮𞤦𞤮 𞤨𞤭𞤺𞤭𞤳𞥇𞤮𞤨𞥇𞤢𞤳𞥇𞤢 𞤳𞥇𞤮𞤹𞥇𞤭𞤬𞤮 𞤳𞥇𞤮𞤨𞥇𞤢𞤲𞤢 𞤥𞤮𞤯𞤫𞤥𞤭 𞤦𞤮𞤹𞥇𞤢𞤸𞤫𞤯𞤫𞤥𞤭 𞤥𞤮𞤨𞥇𞤢𞤦𞤮 𞤼𞥇𞤢𞤦𞤮𞤹𞤫𞤣𞤢 𞤯𞤢𞤥𞤢𞤳𞤢𞤣𞤮.</p>
+<div class="interlinear">
+<dl> <dt>mabo-ɗa-pʼo</dt> <dd><abbr>G1.DU-NOM-REL:PST</abbr></dd> </dl>
+<dl> <dt>kaloɓɛ-pa-ɬa</dt> <dd>school-<abbr>G5.SG-ALL</abbr></dd> </dl>
+<dl> <dt>tʼido-ɬi</dt> <dd><abbr>G5.DEM-ABL</abbr></dd> </dl>
+<dl> <dt>tʼobo</dt> <dd>additionally</dd> </dl>
+<dl> <dt>piɡi-kʼopʼ-akʼa</dt> <dd>CL.vehicle-go-<abbr>SUB,</abbr></dd> </dl>
+<dl> <dt>kʼoqʼiθo</dt> <dd>evening</dd> </dl>
+<dl> <dt>kʼopʼ-a-na</dt> <dd>go-<abbr>PFV-G6.3SG</abbr></dd> </dl>
+<dl> <dt>mo-ɗɛ-mi</dt> <dd><abbr>G1.1SG-NOM-PST</abbr></dd> </dl>
+<dl> <dt>boqʼaɬɛ-ɗɛ-mi</dt> <dd>partner-<abbr>G1.SG-NOM-PST</abbr></dd> </dl>
+<dl> <dt>mo-pʼa-bo</dt> <dd><abbr>G1.1SG-GEN-G1.SG</abbr></dd> </dl>
+<dl> <dt>tʼaboqɛ-da-∅</dt> <dd>stroll-<abbr>G6.SG-ACC</abbr></dd> </dl>
+<dl> <dt>ɗamaka-do</dt> <dd>daily-<abbr>G6.SG</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"Aside from driving to and from school with my partner, we went for our daily evening walk."</p>
 </div>
