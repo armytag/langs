@@ -8,6 +8,18 @@
 | Mid    | ɛ     | o    |
 | Open   |       | a    |
 
+### Vowel Assimilation
+
+1. Lower /i/ before /a/
+1. Raise /a/ before /i/
+1. Front /o/ before /o/
+
+| Vowel | \_Ca | \_Ci | \_Cu |
+|---    |---   |---   |---   |
+| a     |      | eCi  |      |
+| i     | eCa  |      |      |
+| u     |      |      | eCo  |
+
 ## Consonants
 
 | CONSONANTS  | Labial | Dental | Velar | Uvular |
@@ -158,12 +170,5 @@
     - explore colexification and collocation
     - provide an overview of a certain semantic space such as smell, emotions, or events of putting and taking
     - make a semantic division tree/web/cloud and detail some members and how they differ
-    - for verbs, you could detial some subset like in [ValPaL](https://valpal.info/), such as [this one for Japanese](https://valpal.info/values/nucl1643-hug-1)
+    - for verbs, you could detail some subset like in [ValPaL](https://valpal.info/), such as [this one for Japanese](https://valpal.info/values/nucl1643-hug-1)
 
-## Diachronic Vowel Analysis
-
-This section outlines a proposed sequence of sound changes that can explain the modern Qʼathebʼo vowel system, including its assimilation rules.  It seems that at some prior point, Qʼathebʼo likely had a simple three vowel system with the cardinal vowels /a/, /i/, and /u/ occuring independantly and in roughly equal fequency.  Eventually the vowels started to assimilate according to the antecedant vowel, with /u/ undergoing extensive change, leading ultimately to the current Qʼathebʼo four-vowel system.  This process appears to have occurred in the following stages, ordered from earliest to most recent:
-
-1. Lowering of high vowels before /a/: i → ɛ / \_Ca
-1. Centralization of back vowels before /i/: a → ɛ / \_Ci
-1. Dissimilation of high back vowel: o → ɛ / \_Co
