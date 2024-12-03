@@ -1,6 +1,6 @@
-## Day 1
+# Day 1
 
-### Prompt
+## Prompt
 GETTING DRESSED
 
 Today we’d like you to dress yourself in your most favouritest outfit. Doll yourself up and make yourself feel your best by looking your best!
@@ -9,7 +9,7 @@ What tops and bottoms are you wearing? Do you like to wear hats? What about foot
 
 Tell us about what you wore today!
 
-### Entry
+## Entry
 
 <div class="gloss">
 <p class="original">𞤤𞤢𞤸𞤢𞤲𞤢 𞤬𞤫𞤦𞤫𞤳𞥇𞤭𞤸𞤮 𞤥𞤮𞤯𞤫𞤳𞤭 𞤳𞥇𞤮𞤣𞤫𞤹𞥇𞤢𞤨𞤫𞤥𞤭 𞤼𞤫𞤺𞤫𞤼𞥇𞤭𞤨𞤮 𞤨𞥇𞤭𞤳𞤭𞤩𞤮𞤬𞤫𞤨𞤢 𞤨𞤭𞤨𞥇𞤫𞤳𞤫𞤤𞤫𞤨𞤮 𞤨𞥇𞤭𞤳𞥇𞤫𞤣𞤢𞤹𞥇𞤫𞤨𞤢 𞤺𞤮𞤯𞤭𞤨𞤮𞤼𞤫𞤹𞥇𞤫𞤨𞤮.</p>
@@ -27,9 +27,9 @@ Tell us about what you wore today!
 <p class="freetranslation">"Today I'm wearing brown overalls and a forest-green button-down shirt, my favorite outfit."</p>
 </div>
 
-## Day 2
+# Day 2
 
-### Prompt
+## Prompt
 TOUCHING GRASS
 
 Today we’d like you to step outside and get some fresh air. You don’t have to go on a 12 hour hike if you don’t want to, but you should at least let yourself feel the wind in your hair or the sun on your skin for at least a couple minutes, weather permitting.
@@ -38,7 +38,7 @@ What’s the weather like where you are? Is it sunny, overcast, windy, raining, 
 
 Tell us about the grass you touched today!
 
-### Entry
+## Entry
 
 <div class="gloss">
 <p class="original">𞤃𞤢𞤦𞤮𞤯𞤢𞤨𞥇𞤮 𞤳𞤢𞤤𞤮𞤩𞤫𞤨𞤢𞤸𞤢 𞤼𞥇𞤭𞤣𞤮𞤸𞤭 𞤼𞥇𞤫𞤦𞤮 𞤨𞤭𞤺𞤭𞤳𞥇𞤮𞤨𞥇𞤢𞤳𞥇𞤢 𞤳𞥇𞤮𞤹𞥇𞤭𞤬𞤮 𞤳𞥇𞤮𞤨𞥇𞤢𞤲𞤢 𞤥𞤮𞤯𞤫𞤥𞤭 𞤦𞤮𞤹𞥇𞤢𞤸𞤫𞤯𞤫𞤥𞤭 𞤥𞤮𞤨𞥇𞤢𞤦𞤮 𞤼𞥇𞤢𞤦𞤮𞤹𞤫𞤣𞤢 𞤯𞤢𞤥𞤢𞤳𞤢𞤣𞤮.</p>
@@ -58,3 +58,16 @@ Tell us about the grass you touched today!
 </div>
 <p class="freetranslation">"Aside from driving to and from school with my partner, we went for our daily evening walk."</p>
 </div>
+
+# Day 3
+
+## Prompt
+EATING GOOD
+
+Today we’d like you to make yourself your favourite meal. It doesn’t have to be healthy for you, it just has to make you feel good. Food for the soul, not for the body.
+
+What are you eating? Are you eating in or out? Is it something your mother always made for you growing up, or is it a food you discovered only recently? Is it sweet, savoury, something else?
+
+Tell us about what you ate today!
+
+## Entry
