@@ -1,10 +1,12 @@
 # Phonology
-- Phonemic /θ/ and /ɬ/, and no other fricatives
+- Phonemic /θ/ and /ɬ/, and no other fricatives[^example]
 - No phonemic /u/, only /a ɛ i o/
 - Have a voicing pattern distinction only in plosive
 - Have a place of articulation contrast within one of the categories of labial, coronal, and dorsal
 - Have at least one non-pulmonic consonant
 - Have a phonological restriction at domain edges
+
+[^example]: This is a footnote.
 
 | VOWELS | Front | Back |
 |---     |---    |---   |
