@@ -258,7 +258,7 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
 
 # Test Sentences
 
-<div class="example-sentence">
+<div class="gloss">
 <p class="original">𞤑𞤭𞤣𞤮𞤩𞤢𞤥𞤢 (𞤥𞤮) 𞤥𞤭𞤲𞤭𞤦𞤮𞤳𞥇𞤫𞤯𞤫𞤥𞤭.</p>
 <div class="interlinear">
 <dl> <dt>kidoɓ-a-ma</dt> <dd>bite-<abbr>PFV-G1.1SG</abbr></dd> </dl>
@@ -268,7 +268,7 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
 <p class="freetranslation">"A dog bit me."</p>
 </div>
 
-<div class="example-sentence">
+<div class="gloss">
 <p class="original">𞤊𞤫𞤲𞤭 𞤳𞤭𞤣𞤮𞤩𞤢𞤬𞤢 𞤥𞤮𞤯𞤫𞤥𞤭 (𞤥𞤭𞤲𞤭𞤦𞤮𞤳𞥇𞤭).</p>
 <div class="interlinear">
 <dl> <dt>θɛni</dt> <dd><abbr>NEG</abbr></dd> </dl>
@@ -279,7 +279,7 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
 <p class="freetranslation">"I didn't bite the dog."</p>
 </div>
 
-<div class="example-sentence">
+<div class="gloss">
 <p class="original">𞤂𞤫𞤳𞤭𞤼𞥇𞤮𞤺𞤫𞤯𞤢𞤲𞤮 𞤼𞤢𞤺𞤮𞤸𞤢𞤳𞥇𞤫𞤨𞤭 𞤳𞥇𞤢𞤣𞤮𞤥𞤫𞤨𞤭 𞤨𞤭𞤬𞤮 𞤨𞥇𞤭𞤥𞤮𞤼𞤫𞤩𞤢𞤨𞤢𞤯𞤫𞤳𞤭 𞤨𞥇𞤮𞤼𞥇𞤫𞤥𞤭𞤨𞤮 𞤨𞥇𞤭𞤤𞤮𞤣𞤭𞤨𞤫𞤨𞤢𞤯𞤫𞤳𞤭 𞤼𞤮𞤯𞤭𞤼𞥇𞤭𞤨𞤮.</p>
 <div class="interlinear">
 <dl> <dt>lɛkitʼo-ɡɛ-ɗa-no</dt> <dd>noodle-<abbr>G5.PL-NOM-REL:PRS</abbr></dd> </dl>
@@ -295,12 +295,12 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
 <p class="source">(746th JU5MoYD)</p>
 </div>
 
-<div class="example-sentence">
+<div class="gloss">
 <p class="freetranslation">"In sum, (I see that) this current disease will not release me."</p>
 <p class="source">(952nd JU5MoYD)</p>
 </div>
 
-<div class="example-sentence">
+<div class="gloss">
 <p class="original">𞤐𞤫𞤺𞤫𞤣𞤢𞤸𞤮 𞤹𞤢𞤥𞤮𞤨𞥇𞤮𞤺𞤫𞤯𞤫𞤥𞤭.</p>
 <div class="interlinear">
 <dl> <dt>nɛɡɛd-a-ɬo</dt> <dd>spoil-<abbr>PFV-G5.3PL</abbr></dd> </dl>
@@ -310,7 +310,7 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
 <p class="source">(1468th JU5MoYD)</p>
 </div>
 
-<div class="example-sentence">
+<div class="gloss">
 <p class="original">𞤃𞤮𞤯𞤢𞤨𞥇𞤮 𞤬𞤫𞤸𞤢𞤤𞤫𞤣𞤢𞤸𞤮 𞤥𞤭𞤲𞤫𞤬𞤢𞤳𞥇𞤮𞤨𞥇𞤢𞤳𞥇𞤢 𞤹𞤫𞤬𞤮𞤦𞤭𞤹𞥇𞤢 𞤸𞤢𞤯𞤫𞤳𞤭 𞤩𞤫𞤼𞥇𞤮𞤼𞥇𞤢𞤹𞤫𞤩𞤭 𞤹𞤮𞤳𞤭𞤼𞤭𞤹𞤮.</p>
 <div class="interlinear">
 <dl> <dt>mo-ɗa-pʼo</dt> <dd><abbr>G1.1SG-NOM-REL:PST</abbr></dd> </dl>
@@ -325,7 +325,7 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
 <p class="source">(1617th JU5MoYD)</p>
 </div>
 
-<div class="example-sentence">
+<div class="gloss">
 <p class="freetranslation">"When you know (the answer), it is quite easy indeed."</p>
 <p class="source">(1940th JU5MoYD)</p>
 </div>

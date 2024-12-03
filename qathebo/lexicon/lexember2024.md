@@ -11,7 +11,7 @@ Tell us about what you wore today!
 
 ### Entry
 
-<div class="example-sentence">
+<div class="gloss">
 <p class="original">𞤤𞤢𞤸𞤢𞤲𞤢 𞤬𞤫𞤦𞤫𞤳𞥇𞤭𞤸𞤮 𞤥𞤮𞤯𞤫𞤳𞤭 𞤳𞥇𞤮𞤣𞤫𞤹𞥇𞤢𞤨𞤫𞤥𞤭 𞤼𞤫𞤺𞤫𞤼𞥇𞤭𞤨𞤮 𞤨𞥇𞤭𞤳𞤭𞤩𞤮𞤬𞤫𞤨𞤢 𞤨𞤭𞤨𞥇𞤫𞤳𞤫𞤤𞤫𞤨𞤮 𞤨𞥇𞤭𞤳𞥇𞤫𞤣𞤢𞤹𞥇𞤫𞤨𞤢 𞤺𞤮𞤯𞤭𞤨𞤮𞤼𞤫𞤹𞥇𞤫𞤨𞤮.</p>
 <div class="interlinear">
 <dl> <dt>laɬana</dt> <dd>today</dd> </dl>
@@ -39,3 +39,6 @@ What’s the weather like where you are? Is it sunny, overcast, windy, raining, 
 Tell us about the grass you touched today!
 
 ### Entry
+
+<div class="gloss">
+</div>

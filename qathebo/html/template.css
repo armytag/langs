@@ -65,7 +65,7 @@ li > ol, li > ul {
 	text-decoration: none;
 }
 
-.example-sentence {
+.gloss {
 	display: flex;
 	flex-direction: column;
 	margin: 2ch auto;
