@@ -3,6 +3,11 @@
 ## January 20 - Terrain Features
 
 ## January 21 - Weather
+- sun
+- moon
+- rain
+- snow
+- day
 
 ## January 22 - Flora
 
