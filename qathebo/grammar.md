@@ -61,25 +61,23 @@
 
 ## Phonological Constraints
 
-# Morphology
+# Nouns
 
-## Nouns
+## Animacy Groups (Class/Gender)
 
-### Animacy Groups (Class/Gender)
+## Number
 
-### Number
+## Case
 
-### Case
+## Pronouns
 
-### Pronouns
+# Verbs
 
-## Verbs
+# Modifiers
 
-## Modifiers
+## Adverbs
 
-### Adverbs
-
-### Adjectives
+## Adjectives
 
 # Syntax
 
