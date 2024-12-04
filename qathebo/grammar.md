@@ -2,23 +2,12 @@
 
 ## Vowels
 
-| VOWELS | Front | Back |
-|---     |---    |---   |
-| Close  | i     |      |
-| Mid    | ɛ     | o    |
-| Open   |       | a    |
-
-### Vowel Assimilation
-
-1. Lower /i/ before /a/
-1. Raise /a/ before /i/
-1. Front /o/ before /o/
-
-| Vowel | \_Ca | \_Ci | \_Cu |
-|---    |---   |---   |---   |
-| a     |      | eCi  |      |
-| i     | eCa  |      |      |
-| u     |      |      | eCo  |
+| VOWELS    | Front | Back |
+|---        |---    |---   |
+| Close     | i     |      |
+| Close-Mid |       | o    |
+| Open-Mid  | ɛ     |      |
+| Open      |       | a    |
 
 ## Consonants
 
@@ -75,13 +64,23 @@
 
 # Modifiers
 
-## Adverbs
+Most modifiers in Qʼathebʼo can modify either nouns or verbs.  When modifying verbs, they occur as bare roots before the verb.  When modifying nouns, they occur after the noun with inflection to agree with the number and class of the noun.
 
-## Adjectives
+## Verb Modifiers (Adverbs)
+
+## Noun Modifiers (Adjectives)
 
 # Syntax
 
 ## Expressing Time
+
+### Phasal Polarity
+
+Simple phasal polarity can be expressed through dedicated temporal adverbs.
+
+### Temporal Subordinate Clauses
+
+To express an event that occurs at some time relative to another primary event, the verb of the subordinate event moves to the end of the subordinate clause, and the subordinate verb and noun take special aspect and tense marking.
 
 # Discourse
 
