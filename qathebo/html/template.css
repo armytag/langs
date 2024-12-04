@@ -36,6 +36,16 @@ body {
 	}
 } */
 
+@media print {
+	h1:not(.title) {
+		page-break-before: always;
+	}
+
+	#TOC {
+		page-break-before: always;
+	}
+}
+
 header {
 	text-align: center;
 }
