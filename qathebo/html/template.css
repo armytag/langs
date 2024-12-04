@@ -14,6 +14,7 @@ body {
 	overflow-wrap: break-word;
 	text-rendering: optimizeLegibility;
 	font-kerning: normal;
+	text-align: justify;
 }
 
 @media (max-width: 600px) {
@@ -21,6 +22,31 @@ body {
 		font-size: 0.9em;
 		padding: 12px;
 	}
+}
+
+/* @media (min-width: 1000px) {
+	body {
+		padding-left: 200px;
+	}
+
+	#TOC {
+		position: fixed;
+		left: 1em;
+		top: 2em;
+	}
+} */
+
+header {
+	text-align: center;
+}
+
+h1 {
+	text-align: center;
+	margin-top: 2em;
+}
+
+h1:not(.title) {
+	text-decoration: underline;
 }
 
 p {
