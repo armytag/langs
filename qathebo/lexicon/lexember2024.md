@@ -86,3 +86,14 @@ Tell us about what you ate today!
 </div>
 <p class="freetranslation">"Every day for breakfast I eat an egg, some fruit, avocado on a bagel."</p>
 </div>
+
+# Day 4
+
+## Prompt
+SHOWING GRATITUDE
+
+Today we’d like you to consider some of the things in your life that you’re thankful for. It can be something as small and mundane as being thankful for the food that you get to eat, or something greater.
+
+What are you thankful for? Is it something someone has done for you or given you? Is there even anyone in the world to direct your gratitude towards? What can you do to show your gratitude?
+
+Tell us about what you’re grateful for today! 
