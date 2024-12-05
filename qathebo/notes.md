@@ -27,6 +27,42 @@
 - Simple tone system?
 - Have phonological changes (e.g. vowel dropping or consonant devoicing) dependant on something higher than Prosodic Word level (e.g. Intonation Phrase level or Utterance level)
 
+## Sound Changes
+
+1. [ɬ → s / #_VC](https://chridd.nfshost.com/diachronica/all#Egypto-Berber-%C9%AC)
+1. [q → i / #_V\{Z,C\[+dental\]\}](https://chridd.nfshost.com/diachronica/all#Egypto-Berber-q_2)
+1. [l → n / #_VN](https://chridd.nfshost.com/diachronica/all#Bench-l_2)
+1. [l → d / #_VC](https://chridd.nfshost.com/diachronica/all#Bench-l)
+
+1. i → e / P_Ci
+1. i → e / O\[+labial\]_
+1. uC iC aC → Cw Cj Ca / #_
+1. uCu → iCi
+1. ∅ → e / C_#
+1. ∅ → e / #_r
+
+1. h → ∅ / #_V
+1. w → ∅ / #_
+1. b → ∅ / #_\{u,i\}
+1. q → ∅ / #_V
+1. k → ∅ / #_
+
+
+1. b d g → pʼ tʼ kʼ
+1. k(ʼ) → q(ʼ) / _V\[+low\]
+1. mq nq → ɓ ɗ
+1. \{m,n\} → ʔ / _C
+1. ʔS → Sʼ
+1. m n → v t / _C\[-nasal\]
+1. v → θ / _\{a,e,i\}
+1. v → f / _\{u,o\}
+1. s → ɬ (/ ! #_)
+1. ʔl → ɬ
+1. ʃ → θ
+<!-- 1. \{s,m,n,r\} → ʔ / _C -->
+<!-- 1. \{m,n,s,t,d,k\} → ∅ / _# -->
+<!-- 1. N → h / _S(plosive) -->
+
 ## Vowel Assimilation
 1. Lower /i/ before /a/
 1. Raise /a/ before /i/
