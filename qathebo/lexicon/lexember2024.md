@@ -1,7 +1,6 @@
-# Day 1
+# Day 1 -- GETTING DRESSED
 
 ## Prompt
-GETTING DRESSED
 
 Today we’d like you to dress yourself in your most favouritest outfit. Doll yourself up and make yourself feel your best by looking your best!
 
@@ -27,10 +26,9 @@ Tell us about what you wore today!
 <p class="freetranslation">"Today I'm wearing brown overalls and a forest-green button-down shirt, my favorite outfit."</p>
 </div>
 
-# Day 2
+# Day 2 -- TOUCHING GRASS
 
 ## Prompt
-TOUCHING GRASS
 
 Today we’d like you to step outside and get some fresh air. You don’t have to go on a 12 hour hike if you don’t want to, but you should at least let yourself feel the wind in your hair or the sun on your skin for at least a couple minutes, weather permitting.
 
@@ -59,10 +57,9 @@ Tell us about the grass you touched today!
 <p class="freetranslation">"Aside from driving to and from school with my partner, we went for our daily evening walk."</p>
 </div>
 
-# Day 3
+# Day 3 -- EATING GOOD
 
 ## Prompt
-EATING GOOD
 
 Today we’d like you to make yourself your favourite meal. It doesn’t have to be healthy for you, it just has to make you feel good. Food for the soul, not for the body.
 
@@ -87,13 +84,22 @@ Tell us about what you ate today!
 <p class="freetranslation">"Every day for breakfast I eat an egg, some fruit, avocado on a bagel."</p>
 </div>
 
-# Day 4
+# Day 4 -- SHOWING GRATITUDE
 
 ## Prompt
-SHOWING GRATITUDE
 
 Today we’d like you to consider some of the things in your life that you’re thankful for. It can be something as small and mundane as being thankful for the food that you get to eat, or something greater.
 
 What are you thankful for? Is it something someone has done for you or given you? Is there even anyone in the world to direct your gratitude towards? What can you do to show your gratitude?
 
 Tell us about what you’re grateful for today! 
+
+# Day 5 -- DREAMING
+
+## Prompt
+
+Today we’d like you to pay some attention to the fantastic imagery conjured up by your subconscious each night. Often as we try to recall a dream, it slips through our grasp, intangible and nonsensical. Some people say they don’t dream, or dream very rarely, but, unless your sleep is disrupted in some way, you do dream but likely forget it all. A technique for better remembering dreams is to go over what you can recall in your mind first thing after waking up, ideally even before you open your eyes. Dream journaling helps too. That said, I don’t expect you all to have a particular dream on hand for this activity. You have my permission to make something up, or to come back to this tomorrow after you’ve visited again that strange other world within.
+
+But whatever dreams you recall or invent, let these inspire your words today. You may remember a dream from last night, or a dream from long ago that was important to you—perhaps you’ve even had a dream that seemed prophetic? Or maybe you have a recurring dream or nightmare. Whatever the case, coin words for things you’ve experienced in these dreams, or coin words about dreams themselves, perhaps different kinds or characteristics. For worldbuilding, this is also an opportunity to think about what dreams are to your conpeople.
+
+Tell us about what you dreamed last night, or any night! 
