@@ -47,21 +47,16 @@
 1. q → ∅ / #_V
 1. k → ∅ / #_
 
-
-1. b d g → pʼ tʼ kʼ
-1. k(ʼ) → q(ʼ) / _V\[+low\]
 1. mq nq → ɓ ɗ
 1. \{m,n\} → ʔ / _C
 1. ʔS → Sʼ
-1. m n → v t / _C\[-nasal\]
-1. v → θ / _\{a,e,i\}
-1. v → f / _\{u,o\}
+1. ʔ → h / _C
+
 1. s → ɬ (/ ! #_)
 1. ʔl → ɬ
 1. ʃ → θ
-<!-- 1. \{s,m,n,r\} → ʔ / _C -->
+
 <!-- 1. \{m,n,s,t,d,k\} → ∅ / _# -->
-<!-- 1. N → h / _S(plosive) -->
 
 ## Vowel Assimilation
 1. Lower /i/ before /a/
