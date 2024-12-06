@@ -32,22 +32,17 @@
 1. V\[-stress\] → ∅ / CVʔ_C
 1. ʔT → Tʼ
 1. ʔm ʔn → ɓ ɗ
-1. uʔ iʔ → w j / C_V
+1. ʔs → ɬ
+1. s → θ
 1. uCa iCa → oCo eCe
+1. uʔ iʔ → w j / C_V
+1. pw tw kw qw → b d g kw
 1. ʔ → h / _C
 1. ʔ → ŋ / V0_V0
 1. ʔ → ∅
 1. au ai → oː eː
-1. hl → ɬ
-1. hs → θ
-1. Vh → Vː
-
-1. u i → o e
-1. u → a / P_Ce
-1. i → e / O\[+labial\]_
-1. \{u,a\} → e / _CVC#
-1. ∅ → e / C_#
-1. ∅ → e / #_r
+1. ∅ → o / C_w
+1. ∅ → i / C_j
 
 ## Vowel Assimilation
 1. Lower /i/ before /a/
