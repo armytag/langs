@@ -29,42 +29,25 @@
 
 ## Sound Changes
 
-1. [ɬ → s / #_VC](https://chridd.nfshost.com/diachronica/all#Egypto-Berber-%C9%AC)
-1. [q → i / #_V\{Z,C\[+dental\]\}](https://chridd.nfshost.com/diachronica/all#Egypto-Berber-q_2)
-1. [l → n / #_VN](https://chridd.nfshost.com/diachronica/all#Bench-l_2)
-1. [l → d / #_VC](https://chridd.nfshost.com/diachronica/all#Bench-l)
+1. V\[-stress\] → ∅ / CVʔ_C
+1. ʔT → Tʼ
+1. ʔm ʔn → ɓ ɗ
+1. uʔ iʔ → w j / C_V
+1. uCa iCa → oCo eCe
+1. ʔ → h / _C
+1. ʔ → ŋ / V0_V0
+1. ʔ → ∅
+1. au ai → oː eː
+1. hl → ɬ
+1. hs → θ
+1. Vh → Vː
 
-1. ʔ → ∅ / #_
-1. uC iC aC → Cw Cj Ca / #_ ! before identical vowel
-1. Cuʔ Ciʔ → Cw Cj / _V
-1. u i → w j / a_
 1. u i → o e
 1. u → a / P_Ce
-1. i → e / P_Ci
 1. i → e / O\[+labial\]_
 1. \{u,a\} → e / _CVC#
-1. uCu → iCi
 1. ∅ → e / C_#
 1. ∅ → e / #_r
-
-1. h → ∅ / #_V
-1. w → ∅ / #_
-1. b → ∅ / #_\{u,i\}
-1. q → ∅ / #_V
-1. k → ∅ / #_
-
-1. mʔ nʔ → ɓ ɗ
-1. TT → Tʼ
-1. CVʔVC → CVʔC
-1. \{m,n\} → ʔ / _C
-1. ʔS → Sʼ
-1. ʔ → h / _C
-
-1. s → ɬ (/ ! #_)
-1. ʔl → ɬ
-1. ʃ → θ
-
-<!-- 1. \{m,n,s,t,d,k\} → ∅ / _# -->
 
 ## Vowel Assimilation
 1. Lower /i/ before /a/
