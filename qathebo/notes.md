@@ -34,9 +34,15 @@
 1. [l → n / #_VN](https://chridd.nfshost.com/diachronica/all#Bench-l_2)
 1. [l → d / #_VC](https://chridd.nfshost.com/diachronica/all#Bench-l)
 
+1. ʔ → ∅ / #_
+1. uC iC aC → Cw Cj Ca / #_ ! before identical vowel
+1. Cuʔ Ciʔ → Cw Cj / _V
+1. u i → w j / a_
+1. u i → o e
+1. u → a / P_Ce
 1. i → e / P_Ci
 1. i → e / O\[+labial\]_
-1. uC iC aC → Cw Cj Ca / #_
+1. \{u,a\} → e / _CVC#
 1. uCu → iCi
 1. ∅ → e / C_#
 1. ∅ → e / #_r
@@ -47,7 +53,9 @@
 1. q → ∅ / #_V
 1. k → ∅ / #_
 
-1. mq nq → ɓ ɗ
+1. mʔ nʔ → ɓ ɗ
+1. TT → Tʼ
+1. CVʔVC → CVʔC
 1. \{m,n\} → ʔ / _C
 1. ʔS → Sʼ
 1. ʔ → h / _C
