@@ -1,0 +1,59 @@
+# For combining two files together
+# pr -tmJS proto.wli proto-rand.wli > proto-compound.wli
+
+Feature front, back
+Feature height(low, mid, high)
+Feature type(*cons, vowel)
+Feature voicing(unvoiced, voiced)
+Feature place(labial, alveolar, retroflex, velar, uvular, glottal)
+Feature manner(nasal, stop, affricate, fricative, approximant, trill, ejective, implosive)
+Feature +lateral
+Feature (syllable) +stress
+Diacritic ' (before) [+stress]
+Symbol a [low  -front +back vowel]
+Symbol ɛ [mid  +front -back vowel]
+Symbol i [high +front -back vowel]
+Symbol o [mid  -front +back vowel]
+Symbol u [high -front +back vowel]
+Symbol pʼ [unvoiced labial ejective]
+Symbol tʼ [unvoiced alveolar ejective]
+Symbol kʼ [unvoiced velar ejective]
+Symbol qʼ [unvoiced uvular ejective]
+Symbol p [unvoiced labial stop]
+Symbol t [unvoiced alveolar stop]
+Symbol k [unvoiced velar stop]
+Symbol q [unvoiced uvular stop]
+Symbol b [voiced labial stop]
+Symbol d [voiced alveolar stop]
+Symbol g [voiced velar stop]
+Symbol ɓ [labial implosive]
+Symbol ɗ [alveolar implosive]
+Symbol m [labial nasal]
+Symbol n [alveolar nasal]
+Symbol l [alveolar approximant +lateral]
+Symbol ɬ [unvoiced alveolar fricative +lateral]
+Symbol θ [unvoiced alveolar fricative]
+
+romanizer:
+a => 𞤢
+ɛ => 𞤫
+i => 𞤭
+o => 𞤮
+pʼ => 𞤨𞥇
+tʼ => 𞤼𞥇
+kʼ => 𞤳𞥇
+qʼ => 𞤹𞥇
+p => 𞤨
+t => 𞤼
+k => 𞤳
+q => 𞤹
+b => 𞤦
+d => 𞤣
+g => 𞤺
+ɓ => 𞤩
+ɗ => 𞤯
+m => 𞤥
+n => 𞤲
+l => 𞤤
+ɬ => 𞤸
+θ => 𞤬
