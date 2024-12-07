@@ -104,11 +104,9 @@ But whatever dreams you recall or invent, let these inspire your words today. Yo
 
 Tell us about what you dreamed last night, or any night! 
 
-# Day 6
+# Day 6 -- LEAVING A TOKEN
 
 ## Prompt
-
-LEAVING A TOKEN
 
 Today we’d like you to give a small token of appreciation to a friend and let them know you appreciate them. Feel good by making someone else feel good.
 
@@ -116,11 +114,9 @@ Who are you giving your token to? A parent, sibling, or child? A long time frien
 
 Tell us about who you’re appreciating today and the token you used to let them know! 
 
-# Day 7
+# Day 7 -- FEELING LIKE A KID AGAIN
 
 ## Prompt
-
-FEELING LIKE A KID AGAIN
 
 Today we’d like you to do something that you did in your childhood, something that makes you recall what it was like to see the world through young eyes.
 
