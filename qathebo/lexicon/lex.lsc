@@ -54,10 +54,11 @@ o-assmilation:
 o => ɛ / _ [cons] o
 
 ejective-metathesis:
-p&[+stress] [vowel] pʼ => pʼ [vowel] p
-t&[+stress] [vowel] tʼ => tʼ [vowel] t
-k&[+stress] [vowel] kʼ => kʼ [vowel] k
-q&[+stress] [vowel] qʼ => qʼ [vowel] q
+[unvoiced stop]&[+stress] [vowel] [ejective] => [ejective] [vowel] [unvoiced stop]
+# p&[+stress] [vowel] pʼ => pʼ [vowel] p
+# t&[+stress] [vowel] tʼ => tʼ [vowel] t
+# k&[+stress] [vowel] kʼ => kʼ [vowel] k
+# q&[+stress] [vowel] qʼ => qʼ [vowel] q
 
 a-epenthesis:
 * => a / $ _ [ejective] [vowel]
