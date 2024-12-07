@@ -38,7 +38,8 @@ Symbol ɬ [unvoiced alveolar fricative +lateral]
 Symbol θ [unvoiced alveolar fricative]
 
 Syllables:
-[cons] [vowel] {ʔ}?
+[cons] [vowel]
+[vowel]
 
 assign-stress:
 <syl> => [+stress] / _ <syl> $
@@ -57,6 +58,16 @@ p&[+stress] [vowel] pʼ => pʼ [vowel] p
 t&[+stress] [vowel] tʼ => tʼ [vowel] t
 k&[+stress] [vowel] kʼ => kʼ [vowel] k
 q&[+stress] [vowel] qʼ => qʼ [vowel] q
+
+a-epenthesis:
+* => a / $ _ [ejective] [vowel]
+
+move-stress:
+<syl> => [-stress]
+Then: <syl> => [+stress] / _ <syl> $
+
+romanizer-stressed:
+unchanged
 
 Syllables:
 clear
