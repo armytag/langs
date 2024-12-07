@@ -1,27 +1,29 @@
 import math
 import random as rand
 
-# Proto phonology
 NASALS = [
     "m", "n",
 ]
 PLOSIVES = [
-    "p",  "t",  "k",  "ʔ",
+    "p",  "t",  "k",  "q",
+    "pʼ", "tʼ", "kʼ", "qʼ",
+    "b", "d", "g",
+    "ɓ", "ɗ",
 ]
 FRICATIVES = [
-    "s", "x",
+    "θ", "ɬ",
 ]
 APPROXIMANTS = [
-    "r",
+    "l",
 ]
 VOWELS = [
-    "i", "u", "a",
+    "i", "o", "a",
 ]
 
 SYLL_STRUCTS = []
 SYLL_STRUCTS += ['V'] * 0
 SYLL_STRUCTS += ['CV'] * 4
-SYLL_STRUCTS += ['CVC'] * 1
+SYLL_STRUCTS += ['CVC'] * 0
 SYLL_STRUCTS += ['CCV'] * 0
 SYLL_STRUCTS += ['CCVC'] * 0
 SYLL_COUNTS = []
@@ -30,8 +32,10 @@ SYLL_COUNTS += [2] * 3
 SYLL_COUNTS += [3] * 6
 SYLL_COUNTS += [4] * 4
 
+
 def flatten_matrix(matrix):
     return [item for array in matrix for item in array]
+
 
 def generate_syllable(onset_shape, coda_shape):
     onset = ''
@@ -41,14 +45,14 @@ def generate_syllable(onset_shape, coda_shape):
         onset = rand.choice(flatten_matrix(
             [PLOSIVES, NASALS, APPROXIMANTS, FRICATIVES,]
         ))
-    if len(coda_shape) == 1:
-        coda = 'ʔ'
     syll = onset + vowel + coda
     return syll
+
 
 def get_syllable(s):
     shapes = s.split('V')
     return generate_syllable(shapes[0], shapes[1])
+
 
 def generate_frequencies(phonemes):
     frequencies = []
@@ -56,14 +60,16 @@ def generate_frequencies(phonemes):
         frequencies.append(borodovsky_gusein_zade(i + 1, len(phonemes)))
     return frequencies
 
+
 def borodovsky_gusein_zade(r, n):
     return (1 / n) * (math.log(n + 1) - math.log(r))
+
 
 if __name__ == "__main__":
     # phonemes = NASALS # + FRICATIVES + PLOSIVES + RHOTICS
     # print(phonemes)
     # print(generate_frequencies(phonemes))
-    word_count = 24
+    word_count = 100
     words = []
     w = 0
     while w < word_count:

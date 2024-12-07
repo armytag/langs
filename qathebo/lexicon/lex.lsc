@@ -11,7 +11,7 @@ Feature +lateral
 Feature (syllable) +stress
 Diacritic ' (before) [+stress]
 Symbol a [low  -front +back vowel]
-Symbol e [mid  +front -back vowel]
+Symbol ɛ [mid  +front -back vowel]
 Symbol i [high +front -back vowel]
 Symbol o [mid  -front +back vowel]
 Symbol u [high -front +back vowel]
@@ -43,53 +43,20 @@ Syllables:
 assign-stress:
 <syl> => [+stress] / _ <syl> $
 
-velar-backing:
-x => q
+i-assmilation:
+i => ɛ / _ [cons] a
 
-glottal-changes:
-ʔ ʔ => ʔ
-ʔ [stop] => * [ejective]
-{ʔ m, ʔ n} => {ɓ, ɗ}
-ʔ s => ɬ
-ʔ r => l
+a-assmilation:
+a => ɛ / _ [cons] i
 
-fricative-reduction:
-s => θ
+o-assmilation:
+o => ɛ / _ [cons] o
 
-romanizer-before-velar-nasal:
-unchanged
-
-high-vowel-changes:
-{u [cons] a, i [cons] a} => {o [cons] o, e [cons] e}
-
-glottal-nasalization:
-ʔ => ŋ / [vowel]$1 _ $1
-
-romanizer-after-velar-nasal:
-unchanged
-
-glide-creation:
-{u ʔ, i ʔ} => {w, j} / [cons] _ [vowel]
-Then: {p w, t w, k w, q w} => {b, d, g, k w}
-Syllables:
-[cons] {w, j}? [vowel] {ʔ}?
-
-glottal-stop-loss:
-ʔ => h / [vowel] _ [cons]
-ʔ => *
-Syllables:
-[cons]? {w, j}? [vowel] {h}?
-# 1. au ai → oː eː
-
-glid-loss:
-{w i, j u} => {e, o}
-
-glid-epenthesis:
-* => o / [cons] _ w
-* => i / [cons] _ j
-
-e-epenthesis:
-* => e / $ _ r
+ejective-metathesis:
+p&[+stress] [vowel] pʼ => pʼ [vowel] p
+t&[+stress] [vowel] tʼ => tʼ [vowel] t
+k&[+stress] [vowel] kʼ => kʼ [vowel] k
+q&[+stress] [vowel] qʼ => qʼ [vowel] q
 
 Syllables:
 clear

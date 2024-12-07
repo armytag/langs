@@ -17,8 +17,8 @@
 | CONSONANTS  | Labial | Dental | Velar | Uvular |
 |---          |---     |---     |---    |---     |
 | Nasals      | m      | n      |       |        |
-| Plosives    | b      | t d    | k ɡ   | q      |
-| Ejectives   |        | tʼ     | kʼ    | qʼ     |
+| Plosives    | p b    | t d    | k ɡ   | q      |
+| Ejectives   | pʼ     | tʼ     | kʼ    | qʼ     |
 | Implosive   | ɓ      | ɗ      |       |        |
 | Fricatives  |        | θ      |       |        |
 | Lat. Fric.  |        | ɬ      |       |        |
