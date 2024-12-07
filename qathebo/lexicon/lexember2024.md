@@ -103,3 +103,27 @@ Today we’d like you to pay some attention to the fantastic imagery conjured up
 But whatever dreams you recall or invent, let these inspire your words today. You may remember a dream from last night, or a dream from long ago that was important to you—perhaps you’ve even had a dream that seemed prophetic? Or maybe you have a recurring dream or nightmare. Whatever the case, coin words for things you’ve experienced in these dreams, or coin words about dreams themselves, perhaps different kinds or characteristics. For worldbuilding, this is also an opportunity to think about what dreams are to your conpeople.
 
 Tell us about what you dreamed last night, or any night! 
+
+# Day 6
+
+## Prompt
+
+LEAVING A TOKEN
+
+Today we’d like you to give a small token of appreciation to a friend and let them know you appreciate them. Feel good by making someone else feel good.
+
+Who are you giving your token to? A parent, sibling, or child? A long time friend you haven’t caught up with in a while, or a new friend you haven’t told you appreciate yet? What are you giving as your token? Is it something you made with your own two hands, a new game, a bite to eat, or a comforting hot drink?
+
+Tell us about who you’re appreciating today and the token you used to let them know! 
+
+# Day 7
+
+## Prompt
+
+FEELING LIKE A KID AGAIN
+
+Today we’d like you to do something that you did in your childhood, something that makes you recall what it was like to see the world through young eyes.
+
+What was something you did as a kid? Did you run as fast as you could to see if you could outrun the flying swans? Did you climb trees at every opportunity? Did you go turning over rocks to look for bugs? Did you paint or draw and hang your creations in the kitchen? Did you do cartwheels until you couldn’t walk straight?
+
+Tell us about how you made yourself feel like a kid today! 
