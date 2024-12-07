@@ -17,8 +17,8 @@
 | CONSONANTS  | Labial | Dental | Velar | Uvular |
 |---          |---     |---     |---    |---     |
 | Nasals      | m      | n      |       |        |
-| Plosives    | p b    | t d    | k ɡ   | q      |
-| Ejectives   | pʼ     | tʼ     | kʼ    | qʼ     |
+| Plosives    | b      | t d    | k ɡ   | q      |
+| Ejectives   |        | tʼ     | kʼ    | qʼ     |
 | Implosive   | ɓ      | ɗ      |       |        |
 | Fricatives  |        | θ      |       |        |
 | Lat. Fric.  |        | ɬ      |       |        |
@@ -29,31 +29,7 @@
 
 ## Sound Changes
 
-1. V\[-stress\] → ∅ / CVʔ_C
-1. ʔT → Tʼ
-1. ʔm ʔn → ɓ ɗ
-1. ʔs → ɬ
-1. s → θ
-1. uCa iCa → oCo eCe
-1. uʔ iʔ → w j / C_V
-1. pw tw kw qw → b d g kw
-1. ʔ → h / _C
-1. ʔ → ŋ / V0_V0
-1. ʔ → ∅
-1. au ai → oː eː
-1. ∅ → o / C_w
-1. ∅ → i / C_j
-
-## Vowel Assimilation
-1. Lower /i/ before /a/
-1. Raise /a/ before /i/
-1. Front /o/ before /o/
-
-| Vowel | \_Ca | \_Ci | \_Cu |
-|---    |---   |---   |---   |
-| a     |      | eCi  |      |
-| i     | eCa  |      |      |
-| u     |      |      | eCo  |
+1. 
 
 # Orthography
 

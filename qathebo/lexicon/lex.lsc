@@ -6,8 +6,10 @@ Feature height(low, mid, high)
 Feature type(*cons, vowel)
 Feature voicing(unvoiced, voiced)
 Feature place(labial, alveolar, retroflex, velar, uvular, glottal)
-Feature manner(nasal, stop, affricate, fricative, approximant, tap, ejective, implosive)
+Feature manner(nasal, stop, affricate, fricative, approximant, trill, ejective, implosive)
 Feature +lateral
+Feature (syllable) +stress
+Diacritic ' (before) [+stress]
 Symbol a [low  -front +back vowel]
 Symbol e [mid  +front -back vowel]
 Symbol i [high +front -back vowel]
@@ -21,6 +23,7 @@ Symbol p [unvoiced labial stop]
 Symbol t [unvoiced alveolar stop]
 Symbol k [unvoiced velar stop]
 Symbol q [unvoiced uvular stop]
+Symbol ʔ [unvoiced glottal stop]
 Symbol b [voiced labial stop]
 Symbol d [voiced alveolar stop]
 Symbol g [voiced velar stop]
@@ -28,26 +31,68 @@ Symbol ɓ [labial implosive]
 Symbol ɗ [alveolar implosive]
 Symbol m [labial nasal]
 Symbol n [alveolar nasal]
+Symbol ŋ [velar nasal]
 Symbol l [alveolar approximant +lateral]
+Symbol r [alveolar trill]
 Symbol ɬ [unvoiced alveolar fricative +lateral]
 Symbol θ [unvoiced alveolar fricative]
 
 Syllables:
-[cons] [vowel]
+[cons] [vowel] {ʔ}?
 
-# assign-stress:
-# <syl> => [+stress] / $ <syl>&[-heavy] _
-# Else:
-# <syl> => [+stress] / $ _
+assign-stress:
+<syl> => [+stress] / _ <syl> $
 
-lowering-before-a:
-i => e / _ [cons] a
+velar-backing:
+x => q
 
-middling-before-i:
-a => e / _ [cons] i
+glottal-changes:
+ʔ ʔ => ʔ
+ʔ [stop] => * [ejective]
+{ʔ m, ʔ n} => {ɓ, ɗ}
+ʔ s => ɬ
+ʔ r => l
 
-dissimilation-before-back:
-o => e / _ [cons] o
+fricative-reduction:
+s => θ
+
+romanizer-before-velar-nasal:
+unchanged
+
+high-vowel-changes:
+{u [cons] a, i [cons] a} => {o [cons] o, e [cons] e}
+
+glottal-nasalization:
+ʔ => ŋ / [vowel]$1 _ $1
+
+romanizer-after-velar-nasal:
+unchanged
+
+glide-creation:
+{u ʔ, i ʔ} => {w, j} / [cons] _ [vowel]
+Then: {p w, t w, k w, q w} => {b, d, g, k w}
+Syllables:
+[cons] {w, j}? [vowel] {ʔ}?
+
+glottal-stop-loss:
+ʔ => h / [vowel] _ [cons]
+ʔ => *
+Syllables:
+[cons]? {w, j}? [vowel] {h}?
+# 1. au ai → oː eː
+
+glid-loss:
+{w i, j u} => {e, o}
+
+glid-epenthesis:
+* => o / [cons] _ w
+* => i / [cons] _ j
+
+e-epenthesis:
+* => e / $ _ r
 
 Syllables:
 clear
+
+romanizer:
+unchanged
