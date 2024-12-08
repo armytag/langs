@@ -206,6 +206,7 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
 # Numbers
 
 - Numbers take adjective-style agreement when they modify nouns
+- Numbers can be used as adverbs to indicate the verb occured so many times
 
 | NUMBER | Cardinal | Ordinal  |
 |---     |---       |---       |
@@ -219,6 +220,58 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
 | eight  | ɓoɗi     | qɛ-ɓoɗi  |
 | nine   | qʼɛɓa    | qo-qʼɛɓa |
 | ten    | baθa     | qo-baθa  |
+
+# Derivation
+
+## Noun from noun
+- Personal nouns from abstract nouns ("a lie" → "liar")
+- Someone with an institutional relationship to the noun ("land" → "land-owner")
+- Someone who performs or is associated with the noun ("clay" → "potter")
+- Denoting one who posses an abstract noun ("beauty" → "beautiful person")
+- Make a personal or abstract noun into a general abstract noun ("fool" → "foolishness")
+- A general process involving the noun ("city" → "urbanization"; "film" → "filming")
+- Negative opposite ("trust" → "mistrust")
+- Excessive degree of the noun ("desire" → "greed")
+- A great version of the noun ("work" → "classic")
+
+## Noun from verb
+- Some zero derivation
+- Performer of verb ("cook" → "cooker")
+- Abstract sense of verb ("appear" → "appearance"; "live" → "longevity")
+- Casual/nonserious abstract nouns related to verbal activity ("wander" → "wandering")
+- Process or result of verb ("attach" → "attachment")
+- One instance of the verb
+
+## Noun from modifier
+- Abstract sense of modifier ("large" → "largeness")
+- Personal nouns from adjective combined with personal pronoun ("small" → "small person")
+
+## Verb from noun
+- Some zero derivation
+- Transitiving/causativizing derivation
+    - Intransitive to transitive ("die" → "kill")
+    - Transitive to causative ("eat" → "feed")
+
+## Verb from verb
+- Reciprocal meaning ("hit" → "hit each other")
+
+## Verb from modifier
+- From onomatopoeic modifiers ("jingle-jangle" → "jingle-jangling")
+
+## Modifier from noun
+- Repeated occurances ("day" → "daily")
+    - Can be used with numerals to derive distributed occurances ("four" → "every four")
+- Possessing the quality denoted by the noun ("strength" → "strong")
+- Capable of giving rise to the noun state ("doubt" → "suspicious")
+- Permeated with the noun ("kindness" → "kindly"; "bribe" → "corrupt")
+- Occuring before noun ("war" → "pre-war")
+- Occuring after noun ("war" → "post-war")
+
+## Modifier from verb
+- Relative participle ("grow up" → "grown-up")
+
+## Modifier from modifier
+- Some nominalized modifiers (see Modifier from Noun)
 
 # Syntax
 - Verb initial

@@ -84,15 +84,17 @@ Most modifiers in Qʼathebʼo can modify either nouns or verbs.  When modifying 
 
 # Syntax
 
+## Relative Clauses
+
 ## Expressing Time
-
-### Phasal Polarity
-
-Simple phasal polarity can be expressed through dedicated temporal adverbs.
 
 ### Temporal Subordinate Clauses
 
 To express an event that occurs at some time relative to another primary event, the verb of the subordinate event moves to the end of the subordinate clause, and the subordinate verb and noun take special aspect and tense marking.
+
+### Phasal Polarity
+
+Simple phasal polarity can be expressed through dedicated temporal adverbs.
 
 # Discourse
 
