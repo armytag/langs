@@ -225,50 +225,76 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
 
 ## Noun from noun
 - Personal nouns from abstract nouns ("a lie" → "liar")
+    - -qʼi
 - Someone with an institutional relationship to the noun ("land" → "land-owner")
+    - -talo
 - Someone who performs or is associated with the noun ("clay" → "potter")
+    - -no
 - Denoting one who posses an abstract noun ("beauty" → "beautiful person")
+    - -li
 - Make a personal or abstract noun into a general abstract noun ("fool" → "foolishness")
+    - -dato
 - A general process involving the noun ("city" → "urbanization"; "film" → "filming")
+    - -ɬapi
 - Negative opposite ("trust" → "mistrust")
+    - -kʼi
 - Excessive degree of the noun ("desire" → "greed")
+    - -goθa
 - A great version of the noun ("work" → "classic")
+    - -kʼido
 
 ## Noun from verb
 - Some zero derivation
 - Performer of verb ("cook" → "cooker")
+    - -ɗa
 - Abstract sense of verb ("appear" → "appearance"; "live" → "longevity")
+    - -ɬali
 - Casual/nonserious abstract nouns related to verbal activity ("wander" → "wandering")
+    - -pikʼa
 - Process or result of verb ("attach" → "attachment")
+    - -ɓo
 - One instance of the verb
+    - -biki
 
 ## Noun from modifier
 - Abstract sense of modifier ("large" → "largeness")
+    - -pi
 - Personal nouns from adjective combined with personal pronoun ("small" → "small person")
+    - -paga
 
 ## Verb from noun
 - Some zero derivation
 - Transitiving/causativizing derivation
+    - -niba
     - Intransitive to transitive ("die" → "kill")
     - Transitive to causative ("eat" → "feed")
 
 ## Verb from verb
 - Reciprocal meaning ("hit" → "hit each other")
+    - -θapʼa
 
 ## Verb from modifier
 - From onomatopoeic modifiers ("jingle-jangle" → "jingle-jangling")
+    - -la
 
 ## Modifier from noun
 - Repeated occurances ("day" → "daily")
+    - -do
     - Can be used with numerals to derive distributed occurances ("four" → "every four")
 - Possessing the quality denoted by the noun ("strength" → "strong")
+    - -pʼo
 - Capable of giving rise to the noun state ("doubt" → "suspicious")
+    - -tʼoki
 - Permeated with the noun ("kindness" → "kindly"; "bribe" → "corrupt")
+    - -qapa
 - Occuring before noun ("war" → "pre-war")
+    - -ɓopʼa
 - Occuring after noun ("war" → "post-war")
+    - -pʼapʼo
 
 ## Modifier from verb
 - Relative participle ("grow up" → "grown-up")
+    - -qʼomo
 
 ## Modifier from modifier
 - Some nominalized modifiers (see Modifier from Noun)
