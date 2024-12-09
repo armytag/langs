@@ -74,7 +74,7 @@
 - shine
     - mogo
 - speak
-    - gima
+    - qʼaθo
 - go
     - la
 - sit
