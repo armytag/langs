@@ -133,3 +133,13 @@ Today we’d like you to take a moment to sit with your thoughts. Remove any dis
 Where are you meditating? Somewhere comfy and all your own like your bed, or maybe somewhere out in nature? Where did your thoughts lead you, what emotions did you feel? Did you have to acknowledge any sour memories, or did you feel comforted by some feel-good memories?
 
 Tell us about your meditation today! 
+
+# Day 9 -- COMPLIMENTING YOURSELF
+
+## Prompt
+
+Today we’d like you to focus on something you like about yourself! We humans have a tendency to focus on the negatives in life, because it serves the evolutionary purpose of making us more alert and cautious and thus more likely to survive. All too often we tend to get caught up in all the things we want to improve or change, or that we straight up dislike about ourselves. But now it’s time to show yourself some appreciation!
+
+What is something you like about yourself? Is it physical or not? Is there a skill that you’re particularly good at? Is there something about your appearance that you just really like? Is your hair always flawless? Do you always bake the best cakes? Do you always attract attention on the dance floor?
+
+Tell us about how you’ve praised yourself today! 
