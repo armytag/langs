@@ -183,3 +183,21 @@ th {
 td {
 	padding: 0.125em 0.5em 0.25em 0.5em;
 }
+
+.comparison {
+	display: grid;
+	grid-template-columns: repeat(4, max-content);
+	justify-content: center;
+	gap: 2ch;
+}
+
+.comparison dt {
+	font-style: italic;
+	margin-left: 1ch;
+}
+
+.comparison dd {
+	margin: 0;
+	margin-right: 1ch;
+}
+
