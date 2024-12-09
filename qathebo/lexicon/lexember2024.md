@@ -123,3 +123,13 @@ Today we’d like you to do something that you did in your childhood, something 
 What was something you did as a kid? Did you run as fast as you could to see if you could outrun the flying swans? Did you climb trees at every opportunity? Did you go turning over rocks to look for bugs? Did you paint or draw and hang your creations in the kitchen? Did you do cartwheels until you couldn’t walk straight?
 
 Tell us about how you made yourself feel like a kid today! 
+
+# Day 8 -- MEDITATING
+
+## Prompt
+
+Today we’d like you to take a moment to sit with your thoughts. Remove any distractions, sit in a comfortable position, and let your thoughts meander as they will. Let yourself feel any emotions that you feel, or remember any memories that you recall, even if they’re uncomfortable, you can accept and acknowledge them and move on.
+
+Where are you meditating? Somewhere comfy and all your own like your bed, or maybe somewhere out in nature? Where did your thoughts lead you, what emotions did you feel? Did you have to acknowledge any sour memories, or did you feel comforted by some feel-good memories?
+
+Tell us about your meditation today! 
