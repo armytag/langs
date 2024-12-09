@@ -4,11 +4,11 @@
 - eye
     - po
 - mouth
-    - qali
+    - qeli
 - hand
-    - ɬaɓi
+    - ɬeɓi
 - foot
-    - tʼiθa
+    - tʼeθa
 
 ## January 20 - Terrain Features
 - river
@@ -20,7 +20,7 @@
 - house
     - ɗoɬo
 - road/path
-    - tʼaqi
+    - tʼeqi
 
 ## January 21 - Weather
 - sun
@@ -40,7 +40,7 @@
 - grass
     - pʼaqʼo
 - berry
-    - kaɓi
+    - keɓi
 - rose
     - ɗoθa
 - vine
@@ -60,24 +60,24 @@
 
 ## January 24 - Transitive Verbs
 - eat
-    - ɬo
+    - ɬa
 - throw (pottery)
     - ta
 - wear (clothing)
     - ɗa
 - make
-    - tʼaqo
+    - tʼaqa
 - cook (with heat)
-    - pʼito
+    - pʼeta
 
 ## January 25 - Intransitive Verbs
 - shine
-    - mogo
+    - moga
 - speak
-    - qʼaθo
+    - qʼaθa
 - go
     - la
 - sit
-    - ɬi
+    - kʼa
 - idle
-    - ɓi
+    - ɓa
