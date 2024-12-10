@@ -2,7 +2,7 @@
 
 ## Vowels
 
-
+There are four distinct vowel qualities in Qʼathebʼo: /a/, /ɛ/, /i/, and /o/.  Vowels are never differentiated based on length, nasality, or any other characteristics, so it can be said that these four vowel qualities comprise the four phonemic vowels of Qʼathebʼo.
 
 |           | Front | Back |
 |---        |:---:  |:---: |
@@ -12,7 +12,11 @@
 | Open      |       | a    |
 : Vowels in Qʼathebʼo 
 
+However the phonemic status of /ɛ/ is highly suspect, as it only seems to occur as the result of the highly-regular [vowel assimilation process](#vowel-assimilation).  Nonetheless, this grammar will treat /ɛ/ as a phonemic vowel to better reflect the surface realization of utterances in Qʼathebʼo.
+
 ## Consonants
+
+There are 18 consonantal phonemes in Qʼathebʼo.  These include a series of ejectives
 
 |                    | Labial | Dental | Velar | Uvular |
 |---                 |:---:   |:---:   |:---:  |:---:   |
@@ -23,8 +27,8 @@
 | Implosives         | ɓ      | ɗ      |       |        |
 | Fricatives         |        | θ      |       |        |
 | Lateral Fricatives |        | ɬ      |       |        |
-| Approximant        |        | l      |       |        |
-: Consonants in Qʼathebʼo 
+| Approximants       |        | l      |       |        |
+: Consonants in Qʼathebʼo
 
 ## Phonotactics
 
@@ -32,7 +36,7 @@ Syllables in Qʼathebʼo always contain a consonant followed by a vowel in a str
 
 ### Vowel Assimilation
 
-Vowels undergo a pervasive, regular assimilation process with the following vowel.  This occurs 
+Vowels undergo a pervasive, regular assimilation process with the following vowel.
 
 ## Orthography
 
