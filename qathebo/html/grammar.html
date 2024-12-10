@@ -189,11 +189,14 @@ class="toc-section-number">2</span> Phonology</a>
 class="toc-section-number">2.1</span> Vowels</a></li>
 <li><a href="#consonants" id="toc-consonants"><span
 class="toc-section-number">2.2</span> Consonants</a></li>
+<li><a href="#phonotactics" id="toc-phonotactics"><span
+class="toc-section-number">2.3</span> Phonotactics</a>
+<ul>
+<li><a href="#vowel-assimilation" id="toc-vowel-assimilation"><span
+class="toc-section-number">2.3.1</span> Vowel Assimilation</a></li>
+</ul></li>
 <li><a href="#orthography" id="toc-orthography"><span
-class="toc-section-number">2.3</span> Orthography</a></li>
-<li><a href="#phonological-constraints"
-id="toc-phonological-constraints"><span
-class="toc-section-number">2.4</span> Phonological Constraints</a></li>
+class="toc-section-number">2.4</span> Orthography</a></li>
 </ul></li>
 <li><a href="#morphology" id="toc-morphology"><span
 class="toc-section-number">3</span> Morphology</a>
@@ -400,7 +403,7 @@ h1:not(.title) {
 }
 
 p {
-    margin: 0.33ch;
+    margin: 1ch 0.33ch;
 }
 
 a {
@@ -501,12 +504,18 @@ li > ol, li > ul {
 }
 
 table {
-    margin: 1em 0;
+    margin: 1em auto;
     border-collapse: collapse;
-    width: 100%;
+    width: max-content;
     overflow-x: auto;
     display: block;
     font-variant-numeric: lining-nums tabular-nums;
+}
+
+table caption {
+    margin-bottom: 0.5em;
+    font-weight: bold;
+    font-style: italic;
 }
 
 tbody {
@@ -549,114 +558,133 @@ class="header-section-number">2</span> Phonology</h1>
 <h2 data-number="2.1" id="vowels"><span
 class="header-section-number">2.1</span> Vowels</h2>
 <table>
+<caption>Vowels in Qʼathebʼo</caption>
 <thead>
 <tr class="header">
-<th>VOWELS</th>
-<th>Front</th>
-<th>Back</th>
+<th></th>
+<th style="text-align: center;">Front</th>
+<th style="text-align: center;">Back</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td>Close</td>
-<td>i</td>
-<td></td>
+<td style="text-align: center;">i</td>
+<td style="text-align: center;"></td>
 </tr>
 <tr class="even">
 <td>Close-Mid</td>
-<td></td>
-<td>o</td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;">o</td>
 </tr>
 <tr class="odd">
 <td>Open-Mid</td>
-<td>ɛ</td>
-<td></td>
+<td style="text-align: center;">ɛ</td>
+<td style="text-align: center;"></td>
 </tr>
 <tr class="even">
 <td>Open</td>
-<td></td>
-<td>a</td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;">a</td>
 </tr>
 </tbody>
 </table>
 <h2 data-number="2.2" id="consonants"><span
 class="header-section-number">2.2</span> Consonants</h2>
 <table>
+<caption>Consonants in Qʼathebʼo</caption>
 <thead>
 <tr class="header">
-<th>CONSONANTS</th>
-<th>Labial</th>
-<th>Dental</th>
-<th>Velar</th>
-<th>Uvular</th>
+<th></th>
+<th style="text-align: center;">Labial</th>
+<th style="text-align: center;">Dental</th>
+<th style="text-align: center;">Velar</th>
+<th style="text-align: center;">Uvular</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td>Nasals</td>
-<td>m</td>
-<td>n</td>
-<td></td>
-<td></td>
+<td style="text-align: center;">m</td>
+<td style="text-align: center;">n</td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
 </tr>
 <tr class="even">
 <td>Voiced Plosives</td>
-<td>b</td>
-<td>d</td>
-<td>g</td>
-<td></td>
+<td style="text-align: center;">b</td>
+<td style="text-align: center;">d</td>
+<td style="text-align: center;">g</td>
+<td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
 <td>Voiceless Plosives</td>
-<td>p</td>
-<td>t</td>
-<td>k</td>
-<td>q</td>
+<td style="text-align: center;">p</td>
+<td style="text-align: center;">t</td>
+<td style="text-align: center;">k</td>
+<td style="text-align: center;">q</td>
 </tr>
 <tr class="even">
 <td>Ejectives</td>
-<td>pʼ</td>
-<td>tʼ</td>
-<td>kʼ</td>
-<td>qʼ</td>
+<td style="text-align: center;">pʼ</td>
+<td style="text-align: center;">tʼ</td>
+<td style="text-align: center;">kʼ</td>
+<td style="text-align: center;">qʼ</td>
 </tr>
 <tr class="odd">
 <td>Implosives</td>
-<td>ɓ</td>
-<td>ɗ</td>
-<td></td>
-<td></td>
+<td style="text-align: center;">ɓ</td>
+<td style="text-align: center;">ɗ</td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
 </tr>
 <tr class="even">
 <td>Fricatives</td>
-<td></td>
-<td>θ</td>
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;">θ</td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
 <td>Lateral Fricatives</td>
-<td></td>
-<td>ɬ</td>
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;">ɬ</td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
 </tr>
 <tr class="even">
 <td>Approximant</td>
-<td></td>
-<td>l</td>
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;">l</td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
 </tr>
 </tbody>
 </table>
-<h2 data-number="2.3" id="orthography"><span
-class="header-section-number">2.3</span> Orthography</h2>
+<h2 data-number="2.3" id="phonotactics"><span
+class="header-section-number">2.3</span> Phonotactics</h2>
+<p>Syllables in Qʼathebʼo always contain a consonant followed by a vowel
+in a strict CV structure. Stress occurs on the penultimate syllable of a
+word, which manifests as a relatively louder and slightly higher-pitched
+pronunciation of the syllable.</p>
+<h3 data-number="2.3.1" id="vowel-assimilation"><span
+class="header-section-number">2.3.1</span> Vowel Assimilation</h3>
+<p>Vowels undergo a pervasive, regular assimilation process with the
+following vowel. This occurs</p>
+<h2 data-number="2.4" id="orthography"><span
+class="header-section-number">2.4</span> Orthography</h2>
 <p>Qʼathebʼo is primarily written using the <a
-href="https://en.wikipedia.org/wiki/Adlam_script">Adlam script</a>. The
-Adlam script is an alphabet with dedicated characters for consonants and
-The Adlam script is well suited to the phonology of Qʼathebʼo, requiring
-only three major changes:</p>
+href="https://en.wikipedia.org/wiki/Adlam_script">Adlam script</a>,
+originally developed for transcribing the <a
+href="https://en.wikipedia.org/wiki/Fula_language">Fula language</a>.
+The Adlam script is an alphabet with dedicated characters for consonants
+and vowels, and also includes separate capital and lowercase forms of
+each character. There are also several diacritics used to indicate long
+vowels, geminated consonants, or sounds from other languages. It is
+written from right to left, top to bottom, and the letters are typically
+combined in a cursive style similar to the Arabic script.</p>
+<p>The Adlam script is well suited to the phonology of Qʼathebʼo, with
+only three noteworthy differences:</p>
 <ol type="1">
 <li>/θ/ is written with the <𞤬> character that normally denotes the /f/
 sound</li>
@@ -668,129 +696,135 @@ stop (<a href="https://en.wikipedia.org/wiki/Hamza">Arabic hamza</a>)
 between the consonant and the following vowel. Thus <𞤨> /p/ → &lt;𞤨𞥇&gt;
 /pʼ/.</li>
 </ol>
+<p>Qʼathebʼo can also be transcribed in a Latin orthography. The Latin
+orthography is used throughout this document for the convenience of the
+reader, although it is often paired with the corresponding Adlam
+orthography within examples.</p>
+<p>Below is a table showing all of the Adlam characters (both upper and
+lower case) used in Qʼathebʼo, along with the phonemes they represent
+and their Latin orthography equivalents.</p>
 <table>
+<caption>Orthographies for Qʼathebʼo</caption>
 <thead>
 <tr class="header">
-<th>Adlam Symbols</th>
-<th>IPA Sound</th>
-<th>Latin symbols</th>
+<th style="text-align: center;">Adlam Symbol</th>
+<th style="text-align: center;">Phoneme</th>
+<th style="text-align: center;">Latin Symbol</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>𞤢/𞤀</td>
-<td>/a/</td>
-<td>a</td>
+<td style="text-align: center;">𞤢/𞤀</td>
+<td style="text-align: center;">/a/</td>
+<td style="text-align: center;">a</td>
 </tr>
 <tr class="even">
-<td>𞤦/𞤄</td>
-<td>/b/</td>
-<td>b</td>
+<td style="text-align: center;">𞤦/𞤄</td>
+<td style="text-align: center;">/b/</td>
+<td style="text-align: center;">b</td>
 </tr>
 <tr class="odd">
-<td>𞤩/𞤇</td>
-<td>/ɓ/</td>
-<td>b’</td>
+<td style="text-align: center;">𞤩/𞤇</td>
+<td style="text-align: center;">/ɓ/</td>
+<td style="text-align: center;">b’</td>
 </tr>
 <tr class="even">
-<td>𞤣/𞤁</td>
-<td>/d/</td>
-<td>d</td>
+<td style="text-align: center;">𞤣/𞤁</td>
+<td style="text-align: center;">/d/</td>
+<td style="text-align: center;">d</td>
 </tr>
 <tr class="odd">
-<td>𞤯/𞤍</td>
-<td>/ɗ/</td>
-<td>d’</td>
+<td style="text-align: center;">𞤯/𞤍</td>
+<td style="text-align: center;">/ɗ/</td>
+<td style="text-align: center;">d’</td>
 </tr>
 <tr class="even">
-<td>𞤫/𞤉</td>
-<td>/ɛ/</td>
-<td>e</td>
+<td style="text-align: center;">𞤫/𞤉</td>
+<td style="text-align: center;">/ɛ/</td>
+<td style="text-align: center;">e</td>
 </tr>
 <tr class="odd">
-<td>𞤺/𞤘</td>
-<td>/g/</td>
-<td>g</td>
+<td style="text-align: center;">𞤺/𞤘</td>
+<td style="text-align: center;">/g/</td>
+<td style="text-align: center;">g</td>
 </tr>
 <tr class="even">
-<td>𞤸/𞤖</td>
-<td>/ɬ/</td>
-<td>hl</td>
+<td style="text-align: center;">𞤸/𞤖</td>
+<td style="text-align: center;">/ɬ/</td>
+<td style="text-align: center;">hl</td>
 </tr>
 <tr class="odd">
-<td>𞤭/𞤋</td>
-<td>/i/</td>
-<td>i</td>
+<td style="text-align: center;">𞤭/𞤋</td>
+<td style="text-align: center;">/i/</td>
+<td style="text-align: center;">i</td>
 </tr>
 <tr class="even">
-<td>𞤳/𞤑</td>
-<td>/k/</td>
-<td>k</td>
+<td style="text-align: center;">𞤳/𞤑</td>
+<td style="text-align: center;">/k/</td>
+<td style="text-align: center;">k</td>
 </tr>
 <tr class="odd">
-<td>𞤳𞥇/𞤑𞥇</td>
-<td>/kʼ/</td>
-<td>k’</td>
+<td style="text-align: center;">𞤳𞥇/𞤑𞥇</td>
+<td style="text-align: center;">/kʼ/</td>
+<td style="text-align: center;">k’</td>
 </tr>
 <tr class="even">
-<td>𞤤/𞤂</td>
-<td>/l/</td>
-<td>l</td>
+<td style="text-align: center;">𞤤/𞤂</td>
+<td style="text-align: center;">/l/</td>
+<td style="text-align: center;">l</td>
 </tr>
 <tr class="odd">
-<td>𞤥/𞤃</td>
-<td>/m/</td>
-<td>m</td>
+<td style="text-align: center;">𞤥/𞤃</td>
+<td style="text-align: center;">/m/</td>
+<td style="text-align: center;">m</td>
 </tr>
 <tr class="even">
-<td>𞤲/𞤐</td>
-<td>/n/</td>
-<td>n</td>
+<td style="text-align: center;">𞤲/𞤐</td>
+<td style="text-align: center;">/n/</td>
+<td style="text-align: center;">n</td>
 </tr>
 <tr class="odd">
-<td>𞤮/𞤌</td>
-<td>/o/</td>
-<td>o</td>
+<td style="text-align: center;">𞤮/𞤌</td>
+<td style="text-align: center;">/o/</td>
+<td style="text-align: center;">o</td>
 </tr>
 <tr class="even">
-<td>𞤨/𞤆</td>
-<td>/p/</td>
-<td>p</td>
+<td style="text-align: center;">𞤨/𞤆</td>
+<td style="text-align: center;">/p/</td>
+<td style="text-align: center;">p</td>
 </tr>
 <tr class="odd">
-<td>𞤨𞥇/𞤆𞥇</td>
-<td>/pʼ/</td>
-<td>p’</td>
+<td style="text-align: center;">𞤨𞥇/𞤆𞥇</td>
+<td style="text-align: center;">/pʼ/</td>
+<td style="text-align: center;">p’</td>
 </tr>
 <tr class="even">
-<td>𞤹/𞤗</td>
-<td>/q/</td>
-<td>q</td>
+<td style="text-align: center;">𞤹/𞤗</td>
+<td style="text-align: center;">/q/</td>
+<td style="text-align: center;">q</td>
 </tr>
 <tr class="odd">
-<td>𞤹𞥇/𞤗𞥇</td>
-<td>/qʼ/</td>
-<td>q’</td>
+<td style="text-align: center;">𞤹𞥇/𞤗𞥇</td>
+<td style="text-align: center;">/qʼ/</td>
+<td style="text-align: center;">q’</td>
 </tr>
 <tr class="even">
-<td>𞤼/𞤚</td>
-<td>/t/</td>
-<td>t</td>
+<td style="text-align: center;">𞤼/𞤚</td>
+<td style="text-align: center;">/t/</td>
+<td style="text-align: center;">t</td>
 </tr>
 <tr class="odd">
-<td>𞤼𞥇/𞤚𞥇</td>
-<td>/tʼ/</td>
-<td>t’</td>
+<td style="text-align: center;">𞤼𞥇/𞤚𞥇</td>
+<td style="text-align: center;">/tʼ/</td>
+<td style="text-align: center;">t’</td>
 </tr>
 <tr class="even">
-<td>𞤬/𞤊</td>
-<td>/θ/</td>
-<td>th</td>
+<td style="text-align: center;">𞤬/𞤊</td>
+<td style="text-align: center;">/θ/</td>
+<td style="text-align: center;">th</td>
 </tr>
 </tbody>
 </table>
-<h2 data-number="2.4" id="phonological-constraints"><span
-class="header-section-number">2.4</span> Phonological Constraints</h2>
 <h1 data-number="3" id="morphology"><span
 class="header-section-number">3</span> Morphology</h1>
 <h2 data-number="3.1" id="nouns"><span

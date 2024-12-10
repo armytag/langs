@@ -65,7 +65,7 @@ h1:not(.title) {
 }
 
 p {
-	margin: 0.33ch;
+	margin: 1ch 0.33ch;
 }
 
 a {
@@ -166,12 +166,18 @@ li > ol, li > ul {
 }
 
 table {
-	margin: 1em 0;
+	margin: 1em auto;
 	border-collapse: collapse;
-	width: 100%;
+	width: max-content;
 	overflow-x: auto;
 	display: block;
 	font-variant-numeric: lining-nums tabular-nums;
+}
+
+table caption {
+	margin-bottom: 0.5em;
+	font-weight: bold;
+	font-style: italic;
 }
 
 tbody {
