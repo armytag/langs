@@ -72,23 +72,24 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
     - *Have some of the agreement markers show polarity (e.g. singular A matches plural B)*
 - 6 noun classes (animacy hierarchy)
     - 2P = 1P > 3P
-    - Adult humans
-    - Child humans
-    - Animals
-    - Fast non-animals (change visible in a moment)
-        - Water, fire, etc.
-    - Slow non-animals (change visible over time)
-        - Plants, rocks, etc.
-    - Things without shape/size
+    - Adult humans (familiar)
+        - Includes body parts and groups of humans (society)
+    - Animate, self-moving things (threats)
+        - Animals, water rapids, fire
+    - Manipulatable objects (useful)
+        - Food, tools, small stones, crops
+    - Larger environmental objects (distant)
+        - Trees, buildings, clouds
+    - Abstract, formless things (indistinct)
+        - Thoughts, ideas, time
 
-| CLASS\\NUMBER   | Singular | Dual  | Paucal | Plural |
-|---              |---       |---    |---     |---     |
-| Adult humans    | **A**    | **B** | **C**  | **D**  |
-| Child humans    | **E**    | **F** | **C**  | **D**  |
-| Animals         | **F**    | **E** | **G**  | **H**  |
-| Fast non-animal | **I**    | **J** | **J**  | **K**  |
-| Slow non-animal | **L**    | **J** | **J**  | **K**  |
-| Formless        | **M**    | **N** | **N**  | **N**  |
+| CLASS\\NUMBER | Singular | Dual  | Paucal | Plural |
+|---            |---       |---    |---     |---     |
+| Humans        | **A**    | **B** | **C**  | **D**  |
+| Animate       | **E**    | **F** | **G**  | **H**  |
+| Manipulatable | **I**    | **J** | **J**  | **K**  |
+| Environmental | **L**    | **M** | **M**  | **K**  |
+| Abstract      | **N**    | **P** | **P**  | **P**  |
 
 | CLASS\\NUMBER   | Singular | Dual  | Paucal | Plural |
 |---              |---       |---    |---     |---     |

@@ -317,7 +317,7 @@ h1:not(.title) {
 }
 
 p {
-    margin: 0.33ch;
+    margin: 1ch 0.33ch;
 }
 
 a {
@@ -333,8 +333,13 @@ li > ol, li > ul {
     margin-top: 0;
 }
 
+.date {
+    margin: 1em;
+    font-style: italic;
+}
+
 .author {
-    padding-left: 2ch;
+    margin: 0.5ch;
 }
 
 .author::before {
@@ -397,7 +402,7 @@ li > ol, li > ul {
     margin-left: 0;
 }
 
-.interlinear .abbr,
+.comparison .abbr,
 .interlinear abbr {
     text-transform: lowercase;
     font-variant-caps: small-caps;
@@ -413,12 +418,18 @@ li > ol, li > ul {
 }
 
 table {
-    margin: 1em 0;
+    margin: 1em auto;
     border-collapse: collapse;
-    width: 100%;
+    width: max-content;
     overflow-x: auto;
     display: block;
     font-variant-numeric: lining-nums tabular-nums;
+}
+
+table caption {
+    margin-bottom: 0.5em;
+    font-weight: bold;
+    font-style: italic;
 }
 
 tbody {
@@ -438,9 +449,21 @@ td {
 
 .comparison {
     display: grid;
-    grid-template-columns: repeat(4, max-content);
+    grid-template-columns: repeat(1, max-content);
     justify-content: center;
     gap: 2ch;
+}
+
+.comparison.col2 {
+    grid-template-columns: repeat(2, max-content);
+}
+
+.comparison.col3 {
+    grid-template-columns: repeat(3, max-content);
+}
+
+.comparison.col4 {
+    grid-template-columns: repeat(4, max-content);
 }
 
 .comparison dt {
@@ -655,18 +678,26 @@ A matches plural B)</em></li>
 <li>6 noun classes (animacy hierarchy)
 <ul>
 <li>2P = 1P &gt; 3P</li>
-<li>Adult humans</li>
-<li>Child humans</li>
-<li>Animals</li>
-<li>Fast non-animals (change visible in a moment)
+<li>Adult humans (familiar)
 <ul>
-<li>Water, fire, etc.</li>
+<li>Includes body parts and groups of humans (society)</li>
 </ul></li>
-<li>Slow non-animals (change visible over time)
+<li>Animate, self-moving things (threats)
 <ul>
-<li>Plants, rocks, etc.</li>
+<li>Animals, water rapids, fire</li>
 </ul></li>
-<li>Things without shape/size</li>
+<li>Manipulatable objects (useful)
+<ul>
+<li>Food, tools, small stones, crops</li>
+</ul></li>
+<li>Larger environmental objects (distant)
+<ul>
+<li>Trees, buildings, clouds</li>
+</ul></li>
+<li>Abstract, formless things (indistinct)
+<ul>
+<li>Thoughts, ideas, time</li>
+</ul></li>
 </ul></li>
 </ul>
 <table>
@@ -681,46 +712,39 @@ A matches plural B)</em></li>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Adult humans</td>
+<td>Humans</td>
 <td><strong>A</strong></td>
 <td><strong>B</strong></td>
 <td><strong>C</strong></td>
 <td><strong>D</strong></td>
 </tr>
 <tr class="even">
-<td>Child humans</td>
+<td>Animate</td>
 <td><strong>E</strong></td>
 <td><strong>F</strong></td>
-<td><strong>C</strong></td>
-<td><strong>D</strong></td>
-</tr>
-<tr class="odd">
-<td>Animals</td>
-<td><strong>F</strong></td>
-<td><strong>E</strong></td>
 <td><strong>G</strong></td>
 <td><strong>H</strong></td>
 </tr>
-<tr class="even">
-<td>Fast non-animal</td>
+<tr class="odd">
+<td>Manipulatable</td>
 <td><strong>I</strong></td>
 <td><strong>J</strong></td>
 <td><strong>J</strong></td>
 <td><strong>K</strong></td>
 </tr>
-<tr class="odd">
-<td>Slow non-animal</td>
+<tr class="even">
+<td>Environmental</td>
 <td><strong>L</strong></td>
-<td><strong>J</strong></td>
-<td><strong>J</strong></td>
+<td><strong>M</strong></td>
+<td><strong>M</strong></td>
 <td><strong>K</strong></td>
 </tr>
-<tr class="even">
-<td>Formless</td>
-<td><strong>M</strong></td>
+<tr class="odd">
+<td>Abstract</td>
 <td><strong>N</strong></td>
-<td><strong>N</strong></td>
-<td><strong>N</strong></td>
+<td><strong>P</strong></td>
+<td><strong>P</strong></td>
+<td><strong>P</strong></td>
 </tr>
 </tbody>
 </table>

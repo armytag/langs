@@ -150,7 +150,7 @@ li > ol, li > ul {
 	margin-left: 0;
 }
 
-.interlinear .abbr,
+.comparison abbr,
 .interlinear abbr {
 	text-transform: lowercase;
 	font-variant-caps: small-caps;
@@ -197,9 +197,21 @@ td {
 
 .comparison {
 	display: grid;
-	grid-template-columns: repeat(4, max-content);
+	grid-template-columns: repeat(1, max-content);
 	justify-content: center;
 	gap: 2ch;
+}
+
+.comparison.col2 {
+	grid-template-columns: repeat(2, max-content);
+}
+
+.comparison.col3 {
+	grid-template-columns: repeat(3, max-content);
+}
+
+.comparison.col4 {
+	grid-template-columns: repeat(4, max-content);
 }
 
 .comparison dt {

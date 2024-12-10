@@ -2,6 +2,12 @@
 
 ## Nouns
 
+The prototypical noun structure is a lexical root, a person-number affix based on animacy group, a case affix, and if appropriate a tense affix (usually on nominal case).  This is represented by the following template, where <λ> represents the lexical root.
+
+<div class="comparison">
+<p>λ-<abbr>PNG-CASE(-TENSE)</abbr></p>
+</div>
+
 ### Animacy Groups (Class/Gender)
 
 There a six classes of nouns that determine the noun's declension pattern.  Specifically, a noun's class affects person-number marking, modifier agreement, and word order.
