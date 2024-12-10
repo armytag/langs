@@ -81,8 +81,13 @@ li > ol, li > ul {
 	margin-top: 0;
 }
 
+.date {
+	margin: 1em;
+	font-style: italic;
+}
+
 .author {
-	padding-left: 2ch;
+	margin: 0.5ch;
 }
 
 .author::before {

@@ -2,12 +2,7 @@
 
 ## Speedlang Prompts
 
-### Sources
-- [Speedlang 20](https://www.reddit.com/r/conlangs/comments/1ecyu0k/20th_speedlang_challenge/)
-- [Speedlang 21](https://drive.google.com/file/d/1AbsBEmmoiRj6NlMd4NmopOiT9Y3csqXM/view)
-- [Speedlang 22](https://mareck.neocities.org/speedlangs/prompts/speedlang%2022%20prompt.pdf)
-
-### Speedlang 20 Requirements
+### [Speedlang 20 Requirements](https://www.reddit.com/r/conlangs/comments/1ecyu0k/20th_speedlang_challenge/)
 - Phonemic /θ/ and /ɬ/
 - No phonemic /u/
 - CV syllables
@@ -19,7 +14,7 @@
 - VO word order
 - Write a restaurant review
 
-### Speedlang 21 Requirements
+### [Speedlang 21 Requirements](https://drive.google.com/file/d/1AbsBEmmoiRj6NlMd4NmopOiT9Y3csqXM/view)
 - No more than two phonemes whose mosts common realization is a fricative (/h/ and /ɦ/ count as fricatives)
 - Have at least one non-pulmonic consonant
 - Have a place of articulation contrast within one of the categories of labial, coronal, and dorsal
@@ -36,7 +31,7 @@
     - [Wierzbicka 1999](https://ddd.uab.cat/pub/landes/11394218v2/11394218v2p23.pdf)
 - Translate and gloss at least five sentence from appropriate sources
 
-### Speedlang 22 Requirements
+### [Speedlang 22 Requirements](https://mareck.neocities.org/speedlangs/prompts/speedlang%2022%20prompt.pdf)
 - Use the character \<λ\> somewhere in the documentation
     - *(bonus)* use the character \<ƛ\> somewhere in the documentation
 - Have a voicing pattern distinction only in plosive XOR in everything but plosives
