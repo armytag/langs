@@ -143,3 +143,13 @@ Today we’d like you to focus on something you like about yourself! We humans h
 What is something you like about yourself? Is it physical or not? Is there a skill that you’re particularly good at? Is there something about your appearance that you just really like? Is your hair always flawless? Do you always bake the best cakes? Do you always attract attention on the dance floor?
 
 Tell us about how you’ve praised yourself today! 
+
+# Day 10 -- REVISITING A FAVORITE WORK OF FICTION
+
+## Prompt
+
+Today we’d like you to go back to a story you love and enjoy a part of it again. It could be a passage from a beloved novel, an episode of a series you enjoy, a treasured poem, or anything else.
+
+What kind of work is it? What’s it about, or what are the themes? What do you love about it? Does it remind you of anything in your life? These are all things you could coin words to talk about. You could even translate a sentence or passage from the work.
+
+Share something you love with us today!
