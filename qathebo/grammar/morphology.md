@@ -28,7 +28,7 @@ Nouns always mark number and person, though lower-animacy groups can only mark t
 
 ### Case
 
-There are nine nominal cases: nominative, accusative, dative, genitive, instrumental, locative, allative, ablative, and essive.  Unlike most nominative-accusative langauges, Qʼathebʼo is a marked accusative language, which means the nominative case takes overt marking while the accusative does not.
+There are nine nominal cases: nominative, accusative, dative, genitive, instrumental, locative, allative, ablative, and essive.  Unlike most nominative-accusative langauges, Qʼathebʼo is a marked-nominative language, which means the nominative case takes overt marking while the accusative does not.
 
 ### Tense
 
@@ -53,6 +53,20 @@ Within dependant clauses the past and remote-past merge into a single tense, lea
 ## Pronouns
 
 ## Verbs
+
+The prototypical verb structure without noun incorporation is a lexical root, an aspect/mood affix, optionally a passive affix, and person-number agreement with the direct object (if one exists).  This is represented by the following template, where <λ> represents the lexical root.
+
+<div class="comparison">
+<p>λ-<abbr>ASP:MOD(-PASS)-PNUM:OBJ</abbr></p>
+</div>
+
+When a verb involves noun incorporation, the incorporated noun's lexical root (represented by <ƛ> in the following template) appears as a prefix immediately in front of the verb's lexical root, and the person-number agreement is dropped if appropriate (see [Noun Incorporation](#noun-incorporation) for more details).
+
+<div class="comparison">
+<p>ƛ-λ-<abbr>ASP:MOD(-PASS)(-PNUM:OBJ)</abbr></p>
+</div>
+
+### Aspect/Mood
 
 ### Noun Incorporation
 
