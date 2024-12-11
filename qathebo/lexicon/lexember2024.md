@@ -92,7 +92,7 @@ Today we’d like you to consider some of the things in your life that you’re 
 
 What are you thankful for? Is it something someone has done for you or given you? Is there even anyone in the world to direct your gratitude towards? What can you do to show your gratitude?
 
-Tell us about what you’re grateful for today! 
+Tell us about what you’re grateful for today!
 
 # Day 5 -- DREAMING
 
@@ -102,7 +102,7 @@ Today we’d like you to pay some attention to the fantastic imagery conjured up
 
 But whatever dreams you recall or invent, let these inspire your words today. You may remember a dream from last night, or a dream from long ago that was important to you—perhaps you’ve even had a dream that seemed prophetic? Or maybe you have a recurring dream or nightmare. Whatever the case, coin words for things you’ve experienced in these dreams, or coin words about dreams themselves, perhaps different kinds or characteristics. For worldbuilding, this is also an opportunity to think about what dreams are to your conpeople.
 
-Tell us about what you dreamed last night, or any night! 
+Tell us about what you dreamed last night, or any night!
 
 # Day 6 -- LEAVING A TOKEN
 
@@ -112,7 +112,7 @@ Today we’d like you to give a small token of appreciation to a friend and let 
 
 Who are you giving your token to? A parent, sibling, or child? A long time friend you haven’t caught up with in a while, or a new friend you haven’t told you appreciate yet? What are you giving as your token? Is it something you made with your own two hands, a new game, a bite to eat, or a comforting hot drink?
 
-Tell us about who you’re appreciating today and the token you used to let them know! 
+Tell us about who you’re appreciating today and the token you used to let them know!
 
 # Day 7 -- FEELING LIKE A KID AGAIN
 
@@ -122,7 +122,7 @@ Today we’d like you to do something that you did in your childhood, something 
 
 What was something you did as a kid? Did you run as fast as you could to see if you could outrun the flying swans? Did you climb trees at every opportunity? Did you go turning over rocks to look for bugs? Did you paint or draw and hang your creations in the kitchen? Did you do cartwheels until you couldn’t walk straight?
 
-Tell us about how you made yourself feel like a kid today! 
+Tell us about how you made yourself feel like a kid today!
 
 # Day 8 -- MEDITATING
 
@@ -132,7 +132,7 @@ Today we’d like you to take a moment to sit with your thoughts. Remove any dis
 
 Where are you meditating? Somewhere comfy and all your own like your bed, or maybe somewhere out in nature? Where did your thoughts lead you, what emotions did you feel? Did you have to acknowledge any sour memories, or did you feel comforted by some feel-good memories?
 
-Tell us about your meditation today! 
+Tell us about your meditation today!
 
 # Day 9 -- COMPLIMENTING YOURSELF
 
@@ -142,7 +142,7 @@ Today we’d like you to focus on something you like about yourself! We humans h
 
 What is something you like about yourself? Is it physical or not? Is there a skill that you’re particularly good at? Is there something about your appearance that you just really like? Is your hair always flawless? Do you always bake the best cakes? Do you always attract attention on the dance floor?
 
-Tell us about how you’ve praised yourself today! 
+Tell us about how you’ve praised yourself today!
 
 # Day 10 -- REVISITING A FAVORITE WORK OF FICTION
 
@@ -153,3 +153,13 @@ Today we’d like you to go back to a story you love and enjoy a part of it agai
 What kind of work is it? What’s it about, or what are the themes? What do you love about it? Does it remind you of anything in your life? These are all things you could coin words to talk about. You could even translate a sentence or passage from the work.
 
 Share something you love with us today!
+
+# Day 11 -- MOVING AND GROOVING
+
+## Prompt
+
+Today we’d like you to get your body moving to some of your favourite music. You could play some guilty pleasure dance pop and bust out all your most embarrassing moves like no one’s watching, you could grab a partner and tango in elegance, or you could play pump-it-up tunes and train for that sporting event you got coming up.
+
+What music are you listening to, what genre? How are you moving and grooving? Are you dancing or sporting? What kind of dancing or sporting?
+
+Tell us about how you moved and grooved today!
