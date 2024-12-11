@@ -68,6 +68,8 @@ When a verb involves noun incorporation, the incorporated noun's lexical root (r
 
 ### Aspect/Mood
 
+Verbs in Qʼathebʼo do not inflect for tense (see [Nominal Tense](#tense)), but do have different forms based on the aspect and mood.
+
 ### Noun Incorporation
 
 ## Modifiers
