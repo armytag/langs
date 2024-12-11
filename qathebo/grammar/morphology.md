@@ -70,6 +70,18 @@ When a verb involves noun incorporation, the incorporated noun's lexical root (r
 
 Verbs in Qʼathebʼo do not inflect for tense (see [Nominal Tense](#tense)), but do have different forms based on the aspect and mood.
 
+The ***indicative***
+
+The ***imperfective***
+
+The ***imperative*** aspect is used for commands or urgent statements to the listener.  The subject is always second-person of appropriate number to the number of listeners, with present-tense marking.
+
+The ***prohibitive***
+
+The ***optative***
+
+The ***subordinate***
+
 ### Noun Incorporation
 
 ## Modifiers
