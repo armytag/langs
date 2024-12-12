@@ -4,6 +4,7 @@ BEGIN {
 
 {
 	modified = 0
+
 	reference = match($0, /%{[\+-][0-9]}%/)
 	if (reference != 0) {
 		split($0, splits, " ")
@@ -22,12 +23,14 @@ BEGIN {
 		}
 		modified = 1
 	}
-	numberline = match($0, /^<p class=.number./)
+
+	numberline = match($0, /^<p class="number">/)
 	if (numberline != 0) {
 		id++
-		print "<p class=\"number\">" id "</p>"
+		print "<p class=\"number\">(" id ")"
 		modified = 1
 	}
+
 	if (modified == 0) {
 		print $0
 	}
