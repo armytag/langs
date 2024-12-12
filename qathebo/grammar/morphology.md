@@ -95,7 +95,7 @@ The imperative aspect is used for commands or urgent statements to the listener.
 <div class="interlinear">
 <dl> <dt>aa</dt> <dd>door-close<abbr>-IMP</abbr></dd> </dl>
 <dl> <dt>bb</dt> <dd>before</dd> </dl>
-<dl> <dt>cc</dt> <dd>go-<abbr>PFV</abbr></dd> </dl>
+<dl> <dt>cc</dt> <dd>go-<abbr>IND</abbr></dd> </dl>
 <dl> <dt>dd</dt> <dd>cat-<abbr>G2.3SG-NOM-PRS</abbr></dd> </dl>
 <dl> <dt>ee</dt> <dd>outside-<abbr>G4.3SG-ALL</abbr></dd> </dl>
 </div>
