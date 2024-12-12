@@ -154,11 +154,21 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
 
 ## Notes
 - Noun incorporation
+    - Common, less-animate nouns are more likely to be incorporated than niche or animate nouns
+        - Body poarts are especially common
+    - General verbs which take much of their meaning from their arguments are more likely to incorporate some of those arguments
+        - "to be good" and "to have" incorporate especially often
+    - Verbs which affect the patient are more likely to incorporate that patient
+        - "to make" or "to eat" are more likely than "to look at" or "to hear"
     - Type 1: Lexical Compounding
         - Creates an intransitive verb with a narrower scope by incorporating a noun, which generalizes and loses its individual semantic and syntactic characteristic.
         - Generally used in contexts without specific, individuated patients
     - Type 2: Manipulation of Case
+        - Affects structure of clause by moving an instrument, location, or possessor to direct object (or even subject) role.
+        - Doesn't necessarily mean that the incorporated object is not specific.
     - Type 3: Manipulation of Discourse Structure
+        - Used to background established referents
+        - Usually happens in polysynthetic languages where verbs already encode a lot of information
 - Verbal mood and aspect (3+ morphemes)
     - Indicative (perfective): -a
     - Imperfective: -i

@@ -117,12 +117,21 @@ li > ol, li > ul {
 
 .gloss {
 	display: flex;
+	position: relative;
 	flex-direction: column;
 	margin: 3ch auto;
+	padding: 0 1.5em;
 	/* border-top: 1px solid black; */
 	/* border-bottom: 1px solid black; */
 	align-content: center;
 	justify-content: center;
+}
+
+.number {
+	position: absolute;
+	left: 0;
+	top: 0;
+	margin: 0.5ch;
 }
 
 .number::before {

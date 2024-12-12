@@ -133,8 +133,6 @@ The subordinate
 
 #### Manipulation of Discourse Structure
 
-#### Classifactory Noun Incorporation (?)
-
 ## Modifiers
 
 Most modifiers in Qʼathebʼo can modify either nouns or verbs.  When modifying verbs, they occur as bare roots before the verb.  When modifying nouns, they occur after the noun with inflection to agree with the number and class of the noun.
