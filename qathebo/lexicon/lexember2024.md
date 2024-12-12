@@ -163,3 +163,13 @@ Today we’d like you to get your body moving to some of your favourite music. Y
 What music are you listening to, what genre? How are you moving and grooving? Are you dancing or sporting? What kind of dancing or sporting?
 
 Tell us about how you moved and grooved today!
+
+# Day 12 -- GETTING COZY
+
+## Prompt
+
+Today we’d like you to activate burrito mode. Make yourself a hot drink, get a nice snack, make a comfy nest, and roll yourself up in whatever is comfiest for you, and just relax. You could take a nap, careful to not spill anything, or you could watch a comfort show, read a book, or catch up with a friend also getting cozy.
+
+Where are you getting cozy? Your bed, on the couch, somewhere else? What drinks or snacks did you get yourself? How are you enjoying the comfiness? Ddi you watch a show or read a book? If you’re in warmer climes, how did you make the vibes cozy if burrito mode would be too warm?
+
+Tell us about how you got cozy today!
