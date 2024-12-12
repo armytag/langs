@@ -70,17 +70,60 @@ When a verb involves noun incorporation, the incorporated noun's lexical root (r
 
 Verbs in Qʼathebʼo do not inflect for tense (see [Nominal Tense](#tense)), but do have different forms based on the aspect and mood.
 
-The ***indicative***
+#### Indicative
 
-The ***imperfective***
+The indicative
 
-The ***imperative*** aspect is used for commands or urgent statements to the listener.  The subject is always second-person of appropriate number to the number of listeners, with present-tense marking.
+#### Imperfective
 
-The ***prohibitive***
+The imperfective
 
-The ***optative***
+#### Imperative 
 
-The ***subordinate***
+The imperative aspect is used for commands or urgent statements to the listener.  Imperative clauses are almost always succinct, with the subject dropped and objects incorporated.  The implied subject is a second-person pronoun with appropriate number to how many listeners are being addressed, with implied present-tense marking.  This implied subject can be recovered if desired as seen in the expanded sentence (3) below, but such an inclusion of the subject carries a strongly condescending tone (see the [section on commands](#commands) for further discussion).
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>aa</dt> <dd>be_careful<abbr>-IMP</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"Be careful!"</p>
+</div>
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>aa</dt> <dd>door-close<abbr>-IMP</abbr></dd> </dl>
+<dl> <dt>bb</dt> <dd>before</dd> </dl>
+<dl> <dt>cc</dt> <dd>go-<abbr>PFV</abbr></dd> </dl>
+<dl> <dt>dd</dt> <dd>cat-<abbr>G2.3SG-NOM-PRS</abbr></dd> </dl>
+<dl> <dt>ee</dt> <dd>outside-<abbr>G4.3SG-ALL</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"Close the door before the cat gets out!"</p>
+</div>
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>aa</dt> <dd>get<abbr>-IMP</abbr></dd> </dl>
+<dl> <dt>bb</dt> <dd><abbr>G1.2PL-NOM-PRS</abbr></dd> </dl>
+<dl> <dt>cc</dt> <dd><abbr>G1.1SG-DAT</abbr></dd> </dl>
+<dl> <dt>dd</dt> <dd>bush<abbr>-G3.3SG-ACC</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"Fetch me a shrubbery."</p>
+</div>
+
+#### Prohibitive
+
+The prohibitive
+
+#### Optative
+
+The optative
+
+#### Subordinate
+
+The subordinate
 
 ### Noun Incorporation
 
