@@ -370,11 +370,19 @@ li > ol, li > ul {
 .gloss {
     display: flex;
     flex-direction: column;
-    margin: 2ch auto;
-    border-top: 1px solid black;
-    border-bottom: 1px solid black;
+    margin: 3ch auto;
+    /* border-top: 1px solid black; */
+    /* border-bottom: 1px solid black; */
     align-content: center;
     justify-content: center;
+}
+
+.number::before {
+    content: '(';
+}
+
+.number::after {
+    content: ')';
 }
 
 .original {
@@ -402,7 +410,7 @@ li > ol, li > ul {
     margin-left: 0;
 }
 
-.comparison .abbr,
+.comparison abbr,
 .interlinear abbr {
     text-transform: lowercase;
     font-variant-caps: small-caps;

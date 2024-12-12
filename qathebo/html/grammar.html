@@ -304,6 +304,17 @@ id="toc-grammatical-distinctions"><span
 class="toc-section-number">6.1.3</span> Grammatical
 Distinctions</a></li>
 </ul></li>
+<li><a href="#requests-and-commands"
+id="toc-requests-and-commands"><span
+class="toc-section-number">6.2</span> Requests and Commands</a>
+<ul>
+<li><a href="#requests" id="toc-requests"><span
+class="toc-section-number">6.2.1</span> Requests</a></li>
+<li><a href="#commands" id="toc-commands"><span
+class="toc-section-number">6.2.2</span> Commands</a></li>
+<li><a href="#negative-commands" id="toc-negative-commands"><span
+class="toc-section-number">6.2.3</span> Negative Commands</a></li>
+</ul></li>
 </ul></li>
 <li><a href="#example-texts" id="toc-example-texts"><span
 class="toc-section-number">7</span> Example Texts</a>
@@ -458,11 +469,19 @@ li > ol, li > ul {
 .gloss {
     display: flex;
     flex-direction: column;
-    margin: 2ch auto;
-    border-top: 1px solid black;
-    border-bottom: 1px solid black;
+    margin: 3ch auto;
+    /* border-top: 1px solid black; */
+    /* border-bottom: 1px solid black; */
     align-content: center;
     justify-content: center;
+}
+
+.number::before {
+    content: '(';
+}
+
+.number::after {
+    content: ')';
 }
 
 .original {
@@ -953,15 +972,139 @@ class="header-section-number">3.3.1</span> Aspect/Mood</h3>
 <p>Verbs in Qʼathebʼo do not inflect for tense (see <a
 href="#tense">Nominal Tense</a>), but do have different forms based on
 the aspect and mood.</p>
-<p>The <strong><em>indicative</em></strong></p>
-<p>The <strong><em>imperfective</em></strong></p>
-<p>The <strong><em>imperative</em></strong> aspect is used for commands
-or urgent statements to the listener. The subject is always
-second-person of appropriate number to the number of listeners, with
-present-tense marking.</p>
-<p>The <strong><em>prohibitive</em></strong></p>
-<p>The <strong><em>optative</em></strong></p>
-<p>The <strong><em>subordinate</em></strong></p>
+<h4 data-number="3.3.1.1" id="indicative"><span
+class="header-section-number">3.3.1.1</span> Indicative</h4>
+<p>The indicative</p>
+<h4 data-number="3.3.1.2" id="imperfective"><span
+class="header-section-number">3.3.1.2</span> Imperfective</h4>
+<p>The imperfective</p>
+<h4 data-number="3.3.1.3" id="imperative"><span
+class="header-section-number">3.3.1.3</span> Imperative</h4>
+<p>The imperative aspect is used for commands or urgent statements to
+the listener. Imperative clauses are almost always succinct, with the
+subject dropped and objects incorporated. The implied subject is a
+second-person pronoun with appropriate number to how many listeners are
+being addressed, with implied present-tense marking. This implied
+subject can be recovered if desired as seen in the expanded sentence (3)
+below, but such an inclusion of the subject carries a strongly
+condescending tone (see the <a href="#commands">section on commands</a>
+for further discussion).</p>
+<div class="gloss">
+<p class="number">
+</p>
+<div class="interlinear">
+<dl>
+<dt>
+aa
+</dt>
+<dd>
+be_careful<abbr>-IMP</abbr>
+</dd>
+</dl>
+</div>
+<p class="freetranslation">
+“Be careful!”
+</p>
+</div>
+<div class="gloss">
+<p class="number">
+</p>
+<div class="interlinear">
+<dl>
+<dt>
+aa
+</dt>
+<dd>
+door-close<abbr>-IMP</abbr>
+</dd>
+</dl>
+<dl>
+<dt>
+bb
+</dt>
+<dd>
+before
+</dd>
+</dl>
+<dl>
+<dt>
+cc
+</dt>
+<dd>
+go-<abbr>PFV</abbr>
+</dd>
+</dl>
+<dl>
+<dt>
+dd
+</dt>
+<dd>
+cat-<abbr>G2.3SG-NOM-PRS</abbr>
+</dd>
+</dl>
+<dl>
+<dt>
+ee
+</dt>
+<dd>
+outside-<abbr>G4.3SG-ALL</abbr>
+</dd>
+</dl>
+</div>
+<p class="freetranslation">
+“Close the door before the cat gets out!”
+</p>
+</div>
+<div class="gloss">
+<p class="number">
+</p>
+<div class="interlinear">
+<dl>
+<dt>
+aa
+</dt>
+<dd>
+get<abbr>-IMP</abbr>
+</dd>
+</dl>
+<dl>
+<dt>
+bb
+</dt>
+<dd>
+<abbr>G1.2PL-NOM-PRS</abbr>
+</dd>
+</dl>
+<dl>
+<dt>
+cc
+</dt>
+<dd>
+<abbr>G1.1SG-DAT</abbr>
+</dd>
+</dl>
+<dl>
+<dt>
+dd
+</dt>
+<dd>
+bush<abbr>-G3.3SG-ACC</abbr>
+</dd>
+</dl>
+</div>
+<p class="freetranslation">
+“Fetch me a shrubbery.”
+</p>
+</div>
+<h4 data-number="3.3.1.4" id="prohibitive"><span
+class="header-section-number">3.3.1.4</span> Prohibitive</h4>
+<p>The prohibitive</p>
+<h4 data-number="3.3.1.5" id="optative"><span
+class="header-section-number">3.3.1.5</span> Optative</h4>
+<p>The optative</p>
+<h4 data-number="3.3.1.6" id="subordinate"><span
+class="header-section-number">3.3.1.6</span> Subordinate</h4>
+<p>The subordinate</p>
 <h3 data-number="3.3.2" id="noun-incorporation"><span
 class="header-section-number">3.3.2</span> Noun Incorporation</h3>
 <h2 data-number="3.4" id="modifiers"><span
@@ -1538,6 +1681,14 @@ class="header-section-number">6.1.1</span> Basic Terms</h3>
 class="header-section-number">6.1.2</span> Bodily Emotions</h3>
 <h3 data-number="6.1.3" id="grammatical-distinctions"><span
 class="header-section-number">6.1.3</span> Grammatical Distinctions</h3>
+<h2 data-number="6.2" id="requests-and-commands"><span
+class="header-section-number">6.2</span> Requests and Commands</h2>
+<h3 data-number="6.2.1" id="requests"><span
+class="header-section-number">6.2.1</span> Requests</h3>
+<h3 data-number="6.2.2" id="commands"><span
+class="header-section-number">6.2.2</span> Commands</h3>
+<h3 data-number="6.2.3" id="negative-commands"><span
+class="header-section-number">6.2.3</span> Negative Commands</h3>
 <h1 data-number="7" id="example-texts"><span
 class="header-section-number">7</span> Example Texts</h1>
 <h2 data-number="7.1" id="lexicon-showcase"><span
