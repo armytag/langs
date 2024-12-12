@@ -154,7 +154,11 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
 
 ## Notes
 - Noun incorporation
-    - Types 1, 2, and 3 (and 4?)
+    - Type 1: Lexical Compounding
+        - Creates an intransitive verb with a narrower scope by incorporating a noun, which generalizes and loses its individual semantic and syntactic characteristic.
+        - Generally used in contexts without specific, individuated patients
+    - Type 2: Manipulation of Case
+    - Type 3: Manipulation of Discourse Structure
 - Verbal mood and aspect (3+ morphemes)
     - Indicative (perfective): -a
     - Imperfective: -i
