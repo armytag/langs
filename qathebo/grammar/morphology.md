@@ -38,7 +38,47 @@ In Qʼathebʼo sentences, clause-level tense is marked on nominative nouns rathe
 
 Simple clauses make four tense distinctions: present, future, past, and remote past.
 
-**Present** tense is used for events happening at roughly the same time as the moment of speech.  There is some amount of leeway around the actual moment of speech, as events that have just happened or events that are about to happen are typically rendered in the present tense, as seen (2) and (3) below.  Sometimes the present tense form will even be used for events at indeterminate or underspecified times, as seen in (4) and (5).  Because of this, it may be appropriate to consider the present tense as a kind of default tense.
+**Present** tense is used for events happening at roughly the same time as the moment of speech.  There is some amount of leeway around the actual moment of speech, as events that have just happened or events that are about to happen are typically rendered in the present tense, as seen in %{+2}% and %{+3}% below.  Sometimes the present tense form will even be used for events at indeterminate or underspecified times, as seen in %{+4}% and %{+5}%  Because of this, it may be appropriate to consider the present tense as a kind of default tense.
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>aa</dt> <dd>be_careful<abbr>-IMP</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"Be careful!"</p>
+</div>
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>aa</dt> <dd>be_careful<abbr>-IMP</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"Be careful!"</p>
+</div>
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>aa</dt> <dd>be_careful<abbr>-IMP</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"Be careful!"</p>
+</div>
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>aa</dt> <dd>be_careful<abbr>-IMP</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"Be careful!"</p>
+</div>
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>aa</dt> <dd>be_careful<abbr>-IMP</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"Be careful!"</p>
+</div>
 
 **Future** tense is used for events that are expected to happen sometime after the moment of speech.
 
@@ -80,7 +120,7 @@ The imperfective
 
 #### Imperative 
 
-The imperative aspect is used for commands or urgent statements to the listener.  Imperative clauses are almost always succinct, with the subject dropped and objects incorporated.  The implied subject is a second-person pronoun with appropriate number to how many listeners are being addressed, with implied present-tense marking.  This implied subject can be recovered if desired as seen in the expanded sentence (3) below, but such an inclusion of the subject carries a strongly condescending tone (see the [section on commands](#commands) for further discussion).
+The imperative aspect is used for commands or urgent statements to the listener.  Imperative clauses are almost always succinct, with the subject dropped and objects incorporated.  The implied subject is a second-person pronoun with appropriate number to how many listeners are being addressed, with implied present-tense marking.  This implied subject can be recovered if desired as seen in the expanded sentence %{+3}% below, but such an inclusion of the subject carries a strongly condescending tone (see the [section on commands](#commands) for further discussion).
 
 <div class="gloss">
 <p class="number"></p>
