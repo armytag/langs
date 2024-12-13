@@ -369,20 +369,21 @@ li > ol, li > ul {
 
 .gloss {
     display: flex;
+    position: relative;
     flex-direction: column;
     margin: 3ch auto;
+    padding: 0 5ch;
     /* border-top: 1px solid black; */
     /* border-bottom: 1px solid black; */
     align-content: center;
     justify-content: center;
 }
 
-.number::before {
-    content: '(';
-}
-
-.number::after {
-    content: ')';
+.number {
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin: 0.5ch;
 }
 
 .original {
@@ -1021,7 +1022,43 @@ class="header-section-number">4.2</span> Notes</h2>
 <ul>
 <li>Noun incorporation
 <ul>
-<li>Types 1, 2, and 3 (and 4?)</li>
+<li>Common, less-animate nouns are more likely to be incorporated than
+niche or animate nouns
+<ul>
+<li>Body poarts are especially common</li>
+</ul></li>
+<li>General verbs which take much of their meaning from their arguments
+are more likely to incorporate some of those arguments
+<ul>
+<li>“to be good” and “to have” incorporate especially often</li>
+</ul></li>
+<li>Verbs which affect the patient are more likely to incorporate that
+patient
+<ul>
+<li>“to make” or “to eat” are more likely than “to look at” or “to
+hear”</li>
+</ul></li>
+<li>Type 1: Lexical Compounding
+<ul>
+<li>Creates an intransitive verb with a narrower scope by incorporating
+a noun, which generalizes and loses its individual semantic and
+syntactic characteristic.</li>
+<li>Generally used in contexts without specific, individuated
+patients</li>
+</ul></li>
+<li>Type 2: Manipulation of Case
+<ul>
+<li>Affects structure of clause by moving an instrument, location, or
+possessor to direct object (or even subject) role.</li>
+<li>Doesn’t necessarily mean that the incorporated object is not
+specific.</li>
+</ul></li>
+<li>Type 3: Manipulation of Discourse Structure
+<ul>
+<li>Used to background established referents</li>
+<li>Usually happens in polysynthetic languages where verbs already
+encode a lot of information</li>
+</ul></li>
 </ul></li>
 <li>Verbal mood and aspect (3+ morphemes)
 <ul>

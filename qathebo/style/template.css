@@ -6,10 +6,7 @@ html {
 body {
 	margin: 0 auto;
 	max-width: 60ch;
-	padding-left: 50px;
-	padding-right: 50px;
-	padding-top: 50px;
-	padding-bottom: 50px;
+	padding: 50px 0;
 	hyphens: auto;
 	overflow-wrap: break-word;
 	text-rendering: optimizeLegibility;
@@ -132,6 +129,8 @@ li > ol, li > ul {
 	left: 0;
 	top: 0;
 	margin: 0.5ch;
+	width: 4ch;
+	text-align: right;
 }
 
 .original {

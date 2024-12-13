@@ -43,7 +43,7 @@ Simple clauses make four tense distinctions: present, future, past, and remote p
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>aa</dt> <dd>be_careful<abbr>-IMP</abbr></dd> </dl>
+<dl> <dt>aa</dt> <dd>be.careful<abbr>-IMP</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"Be careful!"</p>
 </div>
@@ -51,7 +51,7 @@ Simple clauses make four tense distinctions: present, future, past, and remote p
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>aa</dt> <dd>be_careful<abbr>-IMP</abbr></dd> </dl>
+<dl> <dt>aa</dt> <dd>be.careful<abbr>-IMP</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"Be careful!"</p>
 </div>
@@ -59,7 +59,7 @@ Simple clauses make four tense distinctions: present, future, past, and remote p
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>aa</dt> <dd>be_careful<abbr>-IMP</abbr></dd> </dl>
+<dl> <dt>aa</dt> <dd>be.careful<abbr>-IMP</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"Be careful!"</p>
 </div>
@@ -67,7 +67,7 @@ Simple clauses make four tense distinctions: present, future, past, and remote p
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>aa</dt> <dd>be_careful<abbr>-IMP</abbr></dd> </dl>
+<dl> <dt>aa</dt> <dd>be.careful<abbr>-IMP</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"Be careful!"</p>
 </div>
@@ -75,7 +75,7 @@ Simple clauses make four tense distinctions: present, future, past, and remote p
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>aa</dt> <dd>be_careful<abbr>-IMP</abbr></dd> </dl>
+<dl> <dt>aa</dt> <dd>be.careful<abbr>-IMP</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"Be careful!"</p>
 </div>
@@ -110,9 +110,9 @@ When a verb involves noun incorporation, the incorporated noun's lexical root (r
 
 Verbs in Qʼathebʼo do not inflect for tense (see [Nominal Tense](#tense)), but do have different forms based on the aspect and mood.
 
-#### Indicative
+#### Perfective
 
-The indicative
+The perfective
 
 #### Imperfective
 
@@ -125,7 +125,7 @@ The imperative aspect is used for commands or urgent statements to the listener.
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>aa</dt> <dd>be_careful<abbr>-IMP</abbr></dd> </dl>
+<dl> <dt>aa</dt> <dd>be.careful<abbr>-IMP</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"Be careful!"</p>
 </div>
@@ -133,11 +133,12 @@ The imperative aspect is used for commands or urgent statements to the listener.
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>aa</dt> <dd>door-close<abbr>-IMP</abbr></dd> </dl>
-<dl> <dt>bb</dt> <dd>before</dd> </dl>
-<dl> <dt>cc</dt> <dd>go-<abbr>IND</abbr></dd> </dl>
-<dl> <dt>dd</dt> <dd>cat-<abbr>G2.3SG-NOM-PRS</abbr></dd> </dl>
-<dl> <dt>ee</dt> <dd>outside-<abbr>G4.3SG-ALL</abbr></dd> </dl>
+<dl> <dt>bb</dt> <dd>close<abbr>-IMP</abbr></dd> </dl>
+<dl> <dt>aa</dt> <dd>door-G3.3SG-ACC<abbr></abbr></dd> </dl>
+<dl> <dt>kʼahla</dt> <dd>so.that</dd> </dl>
+<dl> <dt>theni</dt> <dd><abbr>NEG</abbr></dd> </dl>
+<dl> <dt>ee</dt> <dd>outside-go-<abbr>IND</abbr></dd> </dl>
+<dl> <dt>ff</dt> <dd>cat-<abbr>G2.3SG-NOM-PRS</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"Close the door before the cat gets out!"</p>
 </div>
@@ -150,7 +151,7 @@ The imperative aspect is used for commands or urgent statements to the listener.
 <dl> <dt>cc</dt> <dd><abbr>G1.1SG-DAT</abbr></dd> </dl>
 <dl> <dt>dd</dt> <dd>bush<abbr>-G3.3SG-ACC</abbr></dd> </dl>
 </div>
-<p class="freetranslation">"Fetch me a shrubbery."</p>
+<p class="freetranslation">"Bring me a shrubbery."</p>
 </div>
 
 #### Prohibitive
