@@ -173,3 +173,13 @@ Today we’d like you to activate burrito mode. Make yourself a hot drink, get a
 Where are you getting cozy? Your bed, on the couch, somewhere else? What drinks or snacks did you get yourself? How are you enjoying the comfiness? Ddi you watch a show or read a book? If you’re in warmer climes, how did you make the vibes cozy if burrito mode would be too warm?
 
 Tell us about how you got cozy today!
+
+# Day 13 -- LIGHTING A CANDLE
+
+## Prompt
+
+Today we’d like you to turn off the lights and light a candle. It doesn’t have to be an actual candle, any little light source will do. Be silent, listen, and reflect on how the contrast between light and darkness makes you feel. If you’re using a candle or some other heat-producing thing, hold it in your hands and feel its warmth. The liminal feeling that arises as you stare into a flame in an otherwise completely dark place, can be quite uncanny, forcing you to perceive your surroundings in a new way.
+
+What kind of light source are you using? Is it electrical or not? How does it make you feel? Anxious by the darkness? Comforted by the light? Somewhere in-between? What kinds of sounds do you hear?
+
+Tell us about your experience lighting a candle today! 
