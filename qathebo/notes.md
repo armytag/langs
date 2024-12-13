@@ -86,10 +86,10 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
 | CLASS\\NUMBER | Singular | Dual  | Paucal | Plural |
 |---            |---       |---    |---     |---     |
 | Humans        | **A**    | **B** | **C**  | **D**  |
-| Animate       | **E**    | **F** | **G**  | **H**  |
-| Manipulatable | **I**    | **J** | **J**  | **K**  |
-| Environmental | **L**    | **M** | **M**  | **K**  |
-| Abstract      | **N**    | **P** | **P**  | **P**  |
+| Animate       | **E**    | **C** | **B**  | **F**  |
+| Manipulatable | **G**    | **H** | **H**  | **I**  |
+| Environmental | **J**    | **K** | **K**  | **I**  |
+| Abstract      | **D**    | **A** | **A**  | **A**  |
 
 | CLASS\\NUMBER   | Singular | Dual  | Paucal | Plural |
 |---              |---       |---    |---     |---     |
