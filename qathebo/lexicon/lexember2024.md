@@ -183,3 +183,13 @@ Today we’d like you to turn off the lights and light a candle. It doesn’t ha
 What kind of light source are you using? Is it electrical or not? How does it make you feel? Anxious by the darkness? Comforted by the light? Somewhere in-between? What kinds of sounds do you hear?
 
 Tell us about your experience lighting a candle today! 
+
+# Day 14 -- MAKING AND CREATING
+
+## Prompt
+
+Today we’d like you to get creative and make something. You can make it as a gift for someone or even for yourself, but it doesn’t matter what you make: the only thing that matters is that you’re making something for the joy of being creative. You could paint a masterpiece or draw a silly comic, you could break out some garbage and hot glue or a wedge of clay and a spinning wheel, or you could whip out a pen and some lined paper or your guitar and a blank tab sheet; you could even load up a Minecraft world. Just be creative and have fun with it!
+
+What are you making? Is it in a medium you work with a lot? Are you dusting off an old hobby, or engaging in a new one? Are you making just to make, or do you have a recipient in mind for the gift you’re making?
+
+Tell us about what you made today! 
