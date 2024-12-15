@@ -368,8 +368,27 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
     - Sometimes also uses second verb meaning "be finished" in perfective form
 - For non-verbal predicates denoting states (mainly locatives and existentials), *STILL* is left unmarked
 - *STILL* can be conveyed periphrasticly with phasal verbs (e.g. "continue") or adverbials (e.g. "until now", "even today")
-- A clause-final phasal polarity item can be used to indicate counterfactual *STILL*
+- A clause-final phasal polarity item *tawon* can be used to indicate counterfactual *STILL*
     - E.g. "He wants to go to school, but he is still (too) small."
+- In non-perfective contexts, *NOT YET* can be conveyed by the auxiliary "to have not yet V-ed" appears between subject and infinitive verb.
+- In aspectually-marked contexts, the clause-final adverb *tawon* can be used for *NOT YET*
+    - *Tawon* can be used with both perfective and imperfective verbs
+- *Tawon* functions as either *STILL* or *NOT YET* depending on the negation of the verb (an internal negation)
+- *NO LONGER* constructions conveyed by clause-final adverb *fahin* "again", or by a negated auxiliaries *meet-* "to do something once before" or *acc-* "to leave" plus an infinitive verb
+
+### Summary
+- *ALREADY*
+    - neutral -- perfective verb
+    - counterfactual -- perfective verb + *timmi*
+- *STILL*
+    - various (*tawon*)
+- *NOT YET*
+    - perfective/imperfective -- *tawon*
+    - imperfective -- *siwa*
+- *NO LONGER*
+    - perfective + dynamic -- *acc-*
+    - imperfective + dynamic -- *meet-*
+    - non-dynamic -- *fahin*
 
 # Test Sentences
 
