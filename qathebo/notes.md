@@ -351,6 +351,16 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
 - Distinguish neutral and counterexpectational "still"
 - Interconnection between aspect and phasal polarity
 
+## Qʼathebʼo System
+
+- Unmodified perfective verb → neutral *ALREADY*
+- Unmodified imperfective verb with stative/locative → neutral *STILL*
+- Negated imperfective verb with stative/locative → neutral *NO LONGER*
+- Verb with "yet" adverb → counterfactual *STILL*
+- Negated verb with "yet" adverb → *NOT YET*
+
+## Ideas
+
 ### *ALREADY*
 - Neutral in perfective with no additional marking
 - Counterfactual with periphrastic or coverb construction
