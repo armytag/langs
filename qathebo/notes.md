@@ -324,6 +324,7 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
 - Closed class of preverbal adverbs (mostly grammartical)
     - Negation word (clause initial)
     - Habitual/repeated aspect
+    - Phasal polarity
 - Other adverbs (e.g. manner) occur immediately after verb
 - Symmetric and assymetric negation depending on some other factor (e.g. tense)
 - *Have at least three ways of forming requests/commands, and describe how they differ in use (i.e. which contexts)*
@@ -344,6 +345,27 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
 - Subordinate clause is verb-final
 - Subordinate subject takes special relative-tense marking
 - Subordinate verb takes subordinate aspect/mood marking
+
+# Phasal Polarity
+
+- Distinguish neutral and counterexpectational "still"
+- Interconnection between aspect and phasal polarity
+
+## Questions
+
+1. **COVERAGE**: Is an item involved in the expression of more than one phasal polarity concept, or are phasal polarity concepts encoded by constructions that each have separate items?
+1. **PRAGMATICITY**: Are there formal differences between the expression of neutral and counterfactual phasal polarity scenarios? Which interpretation occurs more frequently in the respective Fula variety?
+1. **WORDHOOD**: What is the wordhood status (free vs. bound morphemes) of the phasal polarity items? Are adverbial phrases or verbal constructions involved in signalling phasal polarity meanings?
+1. **EXPRESSIBILITY**: Are there specialized items/constructions for the expression of phasal polarity concepts ALREADY , STILL, NOT YET, NO LONGER? What is the functional spectrum of the items/constructions? Are phasal polarity meanings salient or central to their function, or are they rather context-induced interpretations?
+1. **PARADIGMATICITY**: Is it possible to state paradigmatic complementarity with corresponding expression pairs for ALREADY- NOT YET and STILL -NO LONGER? What is the categorical status of the phasal polarity items? To what extent are phasal polarity items combinable with paradigms of the domains of Tense, Aspect and Mood (TAM)?
+
+## Fula PhP
+
+- *Still* has a continuative meaning, and *already* has an inchoative meaning, both overlap with aspectual functions.
+    - This is similar to the dichotomy between imperfective (situational instance) and perfective (event boundaries)
+- Neutral *already* conveyed by plain *perfective* aspect without extra marking
+- Counterfactual *already* conveyed by either periphrastic adverbial construction (e.g. "quick like that") or temporal verbs (e.g. "take a long time")
+    - Sometimes also uses second verb meaning "be finished" in perfective form
 
 # Test Sentences
 
