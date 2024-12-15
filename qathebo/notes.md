@@ -351,14 +351,6 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
 - Distinguish neutral and counterexpectational "still"
 - Interconnection between aspect and phasal polarity
 
-## Questions
-
-1. **COVERAGE**: Is an item involved in the expression of more than one phasal polarity concept, or are phasal polarity concepts encoded by constructions that each have separate items?
-1. **PRAGMATICITY**: Are there formal differences between the expression of neutral and counterfactual phasal polarity scenarios? Which interpretation occurs more frequently in the respective Fula variety?
-1. **WORDHOOD**: What is the wordhood status (free vs. bound morphemes) of the phasal polarity items? Are adverbial phrases or verbal constructions involved in signalling phasal polarity meanings?
-1. **EXPRESSIBILITY**: Are there specialized items/constructions for the expression of phasal polarity concepts ALREADY , STILL, NOT YET, NO LONGER? What is the functional spectrum of the items/constructions? Are phasal polarity meanings salient or central to their function, or are they rather context-induced interpretations?
-1. **PARADIGMATICITY**: Is it possible to state paradigmatic complementarity with corresponding expression pairs for ALREADY- NOT YET and STILL -NO LONGER? What is the categorical status of the phasal polarity items? To what extent are phasal polarity items combinable with paradigms of the domains of Tense, Aspect and Mood (TAM)?
-
 ## Fula PhP
 
 - *STILL* has a continuative meaning, and *ALREADY* has an inchoative meaning, both overlap with aspectual functions.
@@ -379,16 +371,16 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
 ### Summary
 - *ALREADY*
     - neutral -- perfective verb
-    - counterfactual -- perfective verb + *timmi*
+    - counterfactual -- perfective verb + *timmi* (coverb)
 - *STILL*
-    - various (*tawon*)
+    - various (*tawon* (adverb))
 - *NOT YET*
-    - perfective/imperfective -- *tawon*
-    - imperfective -- *siwa*
+    - perfective/imperfective -- *tawon* (adverb)
+    - imperfective -- *siwa* (negated auxiliary)
 - *NO LONGER*
-    - perfective + dynamic -- *acc-*
-    - imperfective + dynamic -- *meet-*
-    - non-dynamic -- *fahin*
+    - perfective + dynamic -- *acc-* (auxiliary)
+    - imperfective + dynamic -- *meet-* (auxiliary)
+    - non-dynamic -- *fahin* (adverb)
 
 # Test Sentences
 
