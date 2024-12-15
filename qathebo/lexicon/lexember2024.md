@@ -182,7 +182,7 @@ Today we’d like you to turn off the lights and light a candle. It doesn’t ha
 
 What kind of light source are you using? Is it electrical or not? How does it make you feel? Anxious by the darkness? Comforted by the light? Somewhere in-between? What kinds of sounds do you hear?
 
-Tell us about your experience lighting a candle today! 
+Tell us about your experience lighting a candle today!
 
 # Day 14 -- MAKING AND CREATING
 
@@ -192,4 +192,14 @@ Today we’d like you to get creative and make something. You can make it as a g
 
 What are you making? Is it in a medium you work with a lot? Are you dusting off an old hobby, or engaging in a new one? Are you making just to make, or do you have a recipient in mind for the gift you’re making?
 
-Tell us about what you made today! 
+Tell us about what you made today!
+
+# Day 15 -- APOLOGIZING
+
+## Prompt
+
+Today we’d like you to be the bigger man and make amends for something. Let your guilt go and ask for forgiveness. It doesn’t matter how big or small the thing is you’re asking forgiveness for, or how recent it was. You could apologize for how heated an argument with your partner got the other day, or you could finally let go of that innocuous sleight years ago nobody but you remembers. In any case, make future you feel good by getting rid of some bad blood.
+
+Who are you apologising to? What are you apologizing for? How are apologizing? Just sincere words, or are gonna bake an “I’m sorry!” cake? What kind of tact do you feel you need, if any?
+
+Tell us about how you apologized today!
