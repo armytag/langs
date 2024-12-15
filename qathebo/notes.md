@@ -361,11 +361,15 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
 
 ## Fula PhP
 
-- *Still* has a continuative meaning, and *already* has an inchoative meaning, both overlap with aspectual functions.
+- *STILL* has a continuative meaning, and *ALREADY* has an inchoative meaning, both overlap with aspectual functions.
     - This is similar to the dichotomy between imperfective (situational instance) and perfective (event boundaries)
-- Neutral *already* conveyed by plain *perfective* aspect without extra marking
-- Counterfactual *already* conveyed by either periphrastic adverbial construction (e.g. "quick like that") or temporal verbs (e.g. "take a long time")
+- Neutral *ALREADY* conveyed by plain *perfective* aspect without extra marking
+- Counterfactual *ALREADY* conveyed by either periphrastic adverbial construction (e.g. "quick like that") or temporal verbs (e.g. "take a long time")
     - Sometimes also uses second verb meaning "be finished" in perfective form
+- For non-verbal predicates denoting states (mainly locatives and existentials), *STILL* is left unmarked
+- *STILL* can be conveyed periphrasticly with phasal verbs (e.g. "continue") or adverbials (e.g. "until now", "even today")
+- A clause-final phasal polarity item can be used to indicate counterfactual *STILL*
+    - E.g. "He wants to go to school, but he is still (too) small."
 
 # Test Sentences
 
