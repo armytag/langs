@@ -351,6 +351,24 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
 - Distinguish neutral and counterexpectational "still"
 - Interconnection between aspect and phasal polarity
 
+### *ALREADY*
+- Neutral in perfective with no additional marking
+- Counterfactual with periphrastic or coverb construction
+
+### *STILL*
+- Neutral imperfective or stative/locative predicate with no additional marking
+- Can be highlighted by periphrastic construction with temporal adverb or "continue" verb
+
+### *NO LONGER*
+- Negated verb with locative/stative predicate and *STILL* adverb
+- Imperfective or perfective coverb
+
+### *YET*
+- Counterfactual using adverb
+
+### *NOT YET*
+- Negated verb with *YET* adverb
+
 ## Fula PhP
 
 - *STILL* has a continuative meaning, and *ALREADY* has an inchoative meaning, both overlap with aspectual functions.
