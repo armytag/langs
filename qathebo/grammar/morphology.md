@@ -38,46 +38,47 @@ In Qʼathebʼo sentences, clause-level tense is marked on nominative nouns rathe
 
 Simple clauses make four tense distinctions: present, future, past, and remote past.
 
-**Present** tense is used for events happening at roughly the same time as the moment of speech.  There is some amount of leeway around the actual moment of speech, as events that have just happened or events that are about to happen are typically rendered in the present tense, as seen in %{+2}% and %{+3}% below.  Sometimes the present tense form will even be used for events at indeterminate or underspecified times, as seen in %{+4}% and %{+5}%  Because of this, it may be appropriate to consider the present tense as a kind of default tense.
+**Present** tense is used for events happening at roughly the same time as the moment of speech.  There is some amount of leeway around the actual moment of speech, as events that have just happened or events that are about to happen are typically rendered in the present tense (typically with perfective and imperfective verb marking respectively), as seen in sentences %{+2}% and %{+3}% below.
 
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>aa</dt> <dd>be.careful<abbr>-IMP</abbr></dd> </dl>
+<dl> <dt>aa</dt> <dd>search-<abbr>IPFV-G1.3SG</abbr></dd> </dl>
+<dl> <dt>bb</dt> <dd><abbr>1SG-NOM-PRS</abbr></dd> </dl>
+<dl> <dt>cc</dt> <dd>mother-<abbr>ACC</abbr></dd> </dl>
+<dl> <dt>dd</dt> <dd><abbr>1SG-GEN</abbr></dd> </dl>
 </div>
-<p class="freetranslation">"Be careful!"</p>
-</div>
-
-<div class="gloss">
-<p class="number"></p>
-<div class="interlinear">
-<dl> <dt>aa</dt> <dd>be.careful<abbr>-IMP</abbr></dd> </dl>
-</div>
-<p class="freetranslation">"Be careful!"</p>
+<p class="freetranslation">"I'm looking for my mother."</p>
 </div>
 
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>aa</dt> <dd>be.careful<abbr>-IMP</abbr></dd> </dl>
+<dl> <dt>aa</dt> <dd>spill-<abbr>PFV-G3.SG</dd> </dl>
+<dl> <dt>aa</dt> <dd><abbr>G1.3SG-NOM-PRS</dd> </dl>
+<dl> <dt>aa</dt> <dd>milk-<abbr>G3.3SG-ACC</dd> </dl>
+<dl> <dt>aa</dt> <dd>table-<abbr>G4.3SG-LOC</dd> </dl>
 </div>
-<p class="freetranslation">"Be careful!"</p>
-</div>
-
-<div class="gloss">
-<p class="number"></p>
-<div class="interlinear">
-<dl> <dt>aa</dt> <dd>be.careful<abbr>-IMP</abbr></dd> </dl>
-</div>
-<p class="freetranslation">"Be careful!"</p>
+<p class="freetranslation">"He just spilled milk on the table."</p>
 </div>
 
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>aa</dt> <dd>be.careful<abbr>-IMP</abbr></dd> </dl>
+<dl> <dt>aa</dt> <dd>shower-IPFV</dd> </dl>
+<dl> <dt>aa</dt> <dd>1SG-NOM-PRS</dd> </dl>
 </div>
-<p class="freetranslation">"Be careful!"</p>
+<p class="freetranslation">"I'm going to take a shower now."</p>
+</div>
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>aa</dt> <dd>fall-<abbr>IPFV</abbr></dd> </dl>
+<dl> <dt>bb</dt> <dd>rain-<abbr>G3.PL-NOM</abbr></dd> </dl>
+<dl> <dt>cc</dt> <dd>outside-<abbr>G4.SG-LOC</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"It's raining outside."</p>
 </div>
 
 **Future** tense is used for events that are expected to happen sometime after the moment of speech.

@@ -356,8 +356,8 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
 - Unmodified perfective verb → neutral *ALREADY*
 - Unmodified imperfective verb with stative/locative → neutral *STILL*
 - Negated imperfective verb with stative/locative → neutral *NO LONGER*
-- Verb with "yet" adverb → counterfactual *STILL*
-- Negated verb with "yet" adverb → *NOT YET*
+- Verb with *ɓaqa* "yet" adverb → counterfactual *STILL*
+- Negated verb with *ɓaqa* "yet" adverb → *NOT YET*
 
 ## Ideas
 

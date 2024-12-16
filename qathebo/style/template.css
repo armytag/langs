@@ -122,9 +122,14 @@ li > ol, li > ul {
 	/* border-bottom: 1px solid black; */
 	align-content: center;
 	justify-content: center;
+	gap: 0.33em;
 }
 
-.number {
+.gloss > * {
+	margin: 0;
+}
+
+.gloss > .number {
 	position: absolute;
 	left: 0;
 	top: 0;
@@ -142,7 +147,7 @@ li > ol, li > ul {
 .interlinear {
 	display: flex;
 	flex-wrap: wrap;
-	gap: 0.25em 0.5em;
+	gap: 0.125em 0.25em;
 }
 
 .interlinear dl {
