@@ -210,7 +210,7 @@ The imperfective
 
 #### Imperative 
 
-The imperative aspect is used for commands or urgent statements to the listener.  Imperative clauses are almost always succinct, with the subject dropped and objects incorporated.  The implied subject is a second-person pronoun with appropriate number to how many listeners are being addressed, with implied present-tense marking.  This implied subject can be recovered if desired as seen in the expanded sentence %{+3}% below, but such an inclusion of the subject carries a strongly condescending tone (see the [section on commands](#commands) for further discussion).
+The imperative aspect is used for commands or urgent statements to the listener.  Imperative clauses are almost always drop the subject.  The implied subject is a second-person pronoun with appropriate number to how many listeners are being addressed, and implied present-tense marking.  This implied subject can be recovered if desired as seen in the expanded sentence %{+3}% below, but such an inclusion of the subject carries a strongly condescending tone (see the [section on commands](#commands) for further discussion).
 
 <div class="gloss">
 <p class="number"></p>
