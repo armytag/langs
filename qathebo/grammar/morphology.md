@@ -38,7 +38,7 @@ In Qʼathebʼo sentences, clause-level tense is marked on nominative nouns rathe
 
 Simple clauses make four tense distinctions: present, future, past, and remote past.
 
-**Present** tense is used for events happening at roughly the same time as the moment of speech.  There is some amount of leeway around the actual moment of speech, as events that have just happened or events that are about to happen are typically rendered in the present tense (typically with perfective and imperfective verb marking respectively), as seen in sentences %{+2}% and %{+3}% below.
+**Present** tense is used for events happening at roughly the same time as the moment of speech.
 
 <div class="gloss">
 <p class="number"></p>
@@ -50,6 +50,18 @@ Simple clauses make four tense distinctions: present, future, past, and remote p
 </div>
 <p class="freetranslation">"I'm looking for my mother."</p>
 </div>
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>aa</dt> <dd>fall-<abbr>IPFV</abbr></dd> </dl>
+<dl> <dt>bb</dt> <dd>rain-<abbr>G3.PL-NOM-PRS</abbr></dd> </dl>
+<dl> <dt>cc</dt> <dd>outside-<abbr>G4.SG-LOC</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"It's raining outside."</p>
+</div>
+
+Events that have just happened or events that are about to happen are typically also rendered in the present tense (often with perfective and imperfective verbal marking respectively), as seen in sentences %{+1}% and %{+2}% below.
 
 <div class="gloss">
 <p class="number"></p>
@@ -71,6 +83,65 @@ Simple clauses make four tense distinctions: present, future, past, and remote p
 <p class="freetranslation">"I'm going to take a shower now."</p>
 </div>
 
+***Future*** tense is used for events that are expected to happen sometime after the moment of speech.
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>aa</dt> <dd>eat-<abbr>PFV-G3.PAU</abbr></dd> </dl>
+<dl> <dt>bb</dt> <dd><abbr>G1.1SG-NOM-FUT</abbr></dd> </dl>
+<dl> <dt>cc</dt> <dd>cookie-<abbr>G3.PAU-ACC</abbr></dd> </dl>
+<dl> <dt>cc</dt> <dd>dessert-<abbr>G3.SG-ESS</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"I'll have some cookies for dessert."</p>
+</div>
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>aa</dt> <dd>study-<abbr>IPFV</abbr></dd> </dl>
+<dl> <dt>bb</dt> <dd><abbr>G1.3SG-NOM-FUT</abbr></dd> </dl>
+<dl> <dt>cc</dt> <dd>year-<abbr>G5.PL-INS</abbr></dd> </dl>
+<dl> <dt>cc</dt> <dd>three-<abbr>G5.PL</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"She will be studying for three years."</p>
+</div>
+
+***Past*** tense is used to mark events not long before the moment of speech.
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>aa</dt> <dd>groceries-buy-<abbr>PFV</abbr></dd> </dl>
+<dl> <dt>bb</dt> <dd><abbr>G1.1DU-NOM-PST</abbr></dd> </dl>
+<dl> <dt>cc</dt> <dd>yesterday-<abbr>G5.SG-LOC</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"We bought groceries yesterday."</p>
+</div>
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>aa</dt> <dd>sleep-<abbr>PFV</abbr></dd> </dl>
+<dl> <dt>bb</dt> <dd><abbr>G1.2SG-NOM-PST</abbr></dd> </dl>
+<dl> <dt>cc</dt> <dd>noon-<abbr>G5.SG-ALL</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"You slept until noon."</p>
+</div>
+
+***Remote-past*** tense is used to mark events long before to the moment of speech.
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>aa</dt> <dd>see-<abbr>PFV-G1.2SG</abbr></dd> </dl>
+<dl> <dt>bb</dt> <dd><abbr>G1.1SG-NOM-REM</abbr></dd> </dl>
+<dl> <dt>cc</dt> <dd>prior.year-<abbr>G5.SG-LOC</abbr></dd> </dl>
+<dl> <dt>cc</dt> <dd>holiday-<abbr>G5.SG-LOC</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"I saw you during the holiday last year"</p>
+</div>
+
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
@@ -81,11 +152,29 @@ Simple clauses make four tense distinctions: present, future, past, and remote p
 <p class="freetranslation">"It's raining outside."</p>
 </div>
 
-**Future** tense is used for events that are expected to happen sometime after the moment of speech.
+The distinction between *past* and *remote-past* involves both length of time and relevance to the present moment.  For example, imagine someone's house burned down and they were left homeless.  If the next day they were asked what happened, they would certainly respond using the *past* tense.
 
-**Past** tense is used to mark events prior to the moment of speech, but recent enough to have some relevance or bearing on the moment of speech.
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>aa</dt> <dd>burn_down-<abbr>PFV</abbr></dd> </dl>
+<dl> <dt>bb</dt> <dd>house-<abbr>G4.SG-NOM-PST</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"My house burned down (recently)."</p>
+</div>
 
-**Remote-past** tense is used to mark events prior to the moment of speech, but long enough before that they are not overly significant to the moment of speech but rather background or contextual events.
+Even up to several months later they would still likely describe the situation in the *past* tense as in sentence %{-1}%.  However, if they had been able to find a new long-term residence within a week, they would likely start using the *remote-past* tense instead because the destruction of their house was no longer as immediately relevant.
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>aa</dt> <dd>burn_down-<abbr>PFV</abbr></dd> </dl>
+<dl> <dt>bb</dt> <dd>house-<abbr>G4.SG-NOM-REM</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"My house burned down (a while ago)."</p>
+</div>
+
+Still, even if they remained homeless for the entire time afterward, they would likely start using the *remote-past* tense once a year or more had passed.
 
 #### Relative Tense
 
