@@ -363,15 +363,15 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
 
 ### *ALREADY*
 - Neutral in perfective with no additional marking
-- Counterfactual with periphrastic or coverb construction
+- Counterfactual with periphrastic or derived verbal construction
 
 ### *STILL*
 - Neutral imperfective or stative/locative predicate with no additional marking
-- Can be highlighted by periphrastic construction with temporal adverb or "continue" verb
+- Can be highlighted by periphrastic construction with temporal adverb or modifier derived from "continue" verb
 
 ### *NO LONGER*
 - Negated verb with locative/stative predicate and *STILL* adverb
-- Imperfective or perfective coverb
+- Imperfective or perfective derived verbal modifier
 
 ### *YET*
 - Counterfactual using adverb
