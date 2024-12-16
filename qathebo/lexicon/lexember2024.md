@@ -203,3 +203,13 @@ Today we’d like you to be the bigger man and make amends for something. Let yo
 Who are you apologising to? What are you apologizing for? How are apologizing? Just sincere words, or are gonna bake an “I’m sorry!” cake? What kind of tact do you feel you need, if any?
 
 Tell us about how you apologized today!
+
+# Day 16 -- SHOWING FORGIVENESS
+
+## Prompt
+
+Today we’d like you to show forgiveness to someone for something. You could forgive yourself for something you’ve been hard on yourself for, or maybe you could finally let go of a grudge you’ve held against a friend for a long time, or even realise a parent was simply trying their best raising you, even if it traumatised you. You’re welcome to tell whoever you’re forgiving that you’re forgiving them, but you don’t have to: the important thing is to let go of those negative emotions you might be feeling towards whatever transgression you’re forgiving.
+
+Who are you forgiving? Is it yourself, a friend, a family member? Maybe it’s someone who doesn’t even know who you are. What did you forgive them for? Did you forgive yourself for failing an important assessment, or your best friend who shared a secret that wasn’t theirs to tell, or an aunt who ruined your wedding?
+
+Tell us about how you showed forgiveness today! 
