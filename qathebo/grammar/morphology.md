@@ -10,7 +10,7 @@ The prototypical noun structure is a lexical root, a person-number affix based o
 
 ### Animacy Groups (Class/Gender)
 
-There a six classes of nouns that determine the noun's declension pattern.  Specifically, a noun's class affects person-number marking, modifier agreement, and word order.
+There a five classes of nouns that determine the noun's declension pattern.  Specifically, a noun's class affects person-number marking, verb and modifier agreement, and word order.
 
 ***Group 1*** -- Adult humans, including human body parts and groups of humans (e.g. society).
 
@@ -24,7 +24,34 @@ There a six classes of nouns that determine the noun's declension pattern.  Spec
 
 ### Person & Number
 
-Nouns always mark number and person, though lower-animacy groups can only mark third person.
+Nouns always mark number.  This appears as a suffix on the nominal root, and is specific to the group and number of the noun being expressed.
+
+*Group 1* and *Group 2* differentiate single, dual, paucal, and plural.  In *Group 3* and *Group 4* the dual and paucal merge leaving just three number distinctions, and these two groups take identical marking in the plural.  *Group 5* only distinguishes single and plural, and uses opposite marking to *Group 1*.  This is summarized in the table below.
+
+|         | Single | Dual  | Paucal | Plural |
+| ---:    | :---:  | :---: | :---:  | :---:  |
+| Group 1 | -ta    | -thi  | -tha   | -gi    |
+| Group 2 | -ma    | -tha  | -thi   | -mi    |
+| Group 3 | -dʼa   | -ki   | -ki    | -la    |
+| Group 4 | -qo    | -hlo  | -hlo   | -la    |
+| Group 5 | -gi    | -ta   | -ta    | -ta    |
+: Nominal Person-Number Marking
+
+These number-marking suffixes only appear in nouns.  Regardless of the Animacy Group of the relevant noun, [verb agreement](#direct-object-agreement) and [modifier agreement](#noun-modifiers-adjectives) only distinguishes single and plural.
+
+Personal pronouns mark person in addition to number, though only Group 1 can mark first-person and only Groups 1 and 2 can mark second-person.  Here are the personal pronouns for the various group-person-number combinations.
+
+|        | Single | Dual   | Paucal | Plural |
+| ---:   | :---:  | :---:  | :---:  | :---:  |
+| G1 1st | pʼa    | bʼabo  | mibʼa  | bʼopʼi |
+| G1 2nd | qi     | qona   | qʼobʼa | thoqi  |
+| G1 3rd | gi     | gatho  | gebʼa  | gogi   |
+| G2 2nd | tʼa    | tʼeti  | tʼadʼa | tʼegi  |
+| G2 3rd | mo     | mokʼi  | moga   | mikʼi  |
+| G3 3rd | dʼi    | dʼito  | dʼito  | leli   |
+| G4 3rd | tha    | hlamo  | hlamo  | leli   |
+| G5 3rd | kʼalo  | kʼethi | kʼethi | kʼethi |
+: Personal Pronouns
 
 ### Case
 
@@ -255,6 +282,8 @@ The optative
 #### Subordinate
 
 The subordinate
+
+### Direct Object Agreement
 
 ### Noun Incorporation
 
