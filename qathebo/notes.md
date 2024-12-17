@@ -48,12 +48,12 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
 
 ## Notes
 - Nominal tense (3+ morphemes)
-    - Future: *-ɓa*
-    - Present: *-ki*
+    - Future: *-do*
+    - Present: *-bʼi*
     - Recent past: *-mi*
         - Somewhat implies that the event still has present repricusions
         - burndown-PFV house-NOM.G5-PST → *"My house burned down (and now I'm homeless)"*
-    - Remote past: *-tʼo*
+    - Remote past: *-qʼo*
         - Somewhat implies that the event is not longer directly relevant
         - burndown-PFV house-NOM.G5-REM → *"My house burned down (but now I'm living elsewhere)"*
         - Regardless of relevance, this form is almost always used for events more than one year prior
@@ -117,7 +117,7 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
 : Personal Pronouns
 
 - 8-9 noun cases (symmetrical)
-    - Nominative: -ɗa
+    - Nominative: -dʼa
     - Accusative (unmarked): -∅
     - Dative: -ta
     - Genitive: -tʼa
@@ -130,7 +130,7 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
 | NOUN CASE          | Thing     | Place     | Time       | State     |
 |---                 |---        |---        |---         |---        |
 | *Example Noun*     | *"dog"*   | *"city"*  | *"summer"* | *"sad"*   |
-| Nominative (-ɗa)   | agent     |           |            |           |
+| Nominative (-dʼa)  | agent     |           |            |           |
 | Accusative (-∅)    | patient   |           |            |           |
 | Dative (-ta)       | recipient |           |            |           |
 | Genitive (-tʼa)    | dependant |           |            |           |
@@ -145,8 +145,8 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
 | RELATION | Conjunction |
 |---       |---          |
 | and      | pʼi-        |
-| or       | θo-         |
-| xor      | ɬa-         |
+| or       | tho-         |
+| xor      | hla-         |
 
 # Verbs
 
@@ -246,27 +246,20 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
     - -no
 - Denoting one who posses an abstract noun ("beauty" → "beautiful person")
     - -li
-- Make a personal or abstract noun into a general abstract noun ("fool" → "foolishness")
-    - -dato
 - A general process involving the noun ("city" → "urbanization"; "film" → "filming")
-    - -ɬapi
+    - -hlapi
 - Negative opposite ("trust" → "mistrust")
     - -kʼi
-- Excessive degree of the noun ("desire" → "greed")
-    - -goθa
-- A great version of the noun ("work" → "classic")
-    - -kʼido
 
 ## Noun from verb
-- Some zero derivation
 - Performer of verb ("cook" → "cooker")
-    - -ɗa
+    - -dʼa
 - Abstract sense of verb ("appear" → "appearance"; "live" → "longevity")
-    - -ɬali
+    - -hlali
 - Casual/nonserious abstract nouns related to verbal activity ("wander" → "wandering")
     - -pikʼa
 - Process or result of verb ("attach" → "attachment")
-    - -ɓo
+    - -bʼo
 - One instance of the verb
     - -biki
 
@@ -285,7 +278,7 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
 
 ## Verb from verb
 - Reciprocal meaning ("hit" → "hit each other")
-    - -θapʼa
+    - -thapʼa
 
 ## Verb from modifier
 - From onomatopoeic modifiers ("jingle-jangle" → "jingle-jangling")
@@ -302,7 +295,7 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
 - Permeated with the noun ("kindness" → "kindly"; "bribe" → "corrupt")
     - -qapa
 - Occuring before noun ("war" → "pre-war")
-    - -ɓopʼa
+    - -bʼopʼa
 - Occuring after noun ("war" → "post-war")
     - -pʼapʼo
 
@@ -355,8 +348,8 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
 - Unmodified perfective verb → neutral *ALREADY*
 - Unmodified imperfective verb with stative/locative → neutral *STILL*
 - Negated imperfective verb with stative/locative → neutral *NO LONGER*
-- Verb with *ɓaqa* "yet" adverb → counterfactual *STILL*
-- Negated verb with *ɓaqa* "yet" adverb → *NOT YET*
+- Verb with *bʼaqa* "yet" adverb → counterfactual *STILL*
+- Negated verb with *bʼaqa* "yet" adverb → *NOT YET*
 
 ## Ideas
 
