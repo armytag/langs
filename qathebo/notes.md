@@ -90,40 +90,42 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
 | Manipulatable | **G**    | **H** | **H**  | **I**  |
 | Environmental | **J**    | **K** | **K**  | **I**  |
 | Abstract      | **D**    | **A** | **A**  | **A**  |
+: Nominal Person-Number Overlap
 
-| CLASS\\NUMBER   | Singular | Dual  | Paucal | Plural |
-|---              |---       |---    |---     |---     |
-| Adult humans    | -ba      | -bo   | -pʼi   | -ɓi    |
-| Child humans    | -ka      | -kʼi  | -pʼi   | -ɓi    |
-| Animals         | -kʼi     | -ka   | -ni    | -li    |
-| Fast non-animal | -qa      | -qʼi  | -qʼi   | -ɡi   |
-| Slow non-animal | -pa      | -qʼi  | -qʼi   | -ɡi   |
-| Formless        | -da      | -θi   | -θi    | -θi    |
+| CLASS\\NUMBER | Singular | Dual  | Paucal | Plural |
+|---            |---       |---    |---     |---     |
+| Humans        | -ta      | -thi  | -tha   | -gi    |
+| Animate       | -ma      | -tha  | -thi   | -mi    |
+| Manipulatable | -dʼa     | -ki   | -ki    | -la    |
+| Environmental | -qo      | -hlo  | -hlo   | -la    |
+| Abstract      | -gi      | -ta   | -ta    | -ta    |
+: Nominal Person-Number Marking
 
 - Pronouns have person-number stems with pronominal affix
-    - G4-G6 pronouns are derived from demonstratives, and can only be 3rd person
+    - 3rd person pronouns derived from demonstrative, except for G1.3
 
-| PERS. PRONOUNS | Single | Dual  | Paucal | Plural |
-|---             |---     |---    |---     |---     |
-| G1 1st         | mo     | mabo  | mepa   | moti   |
-| G1 2nd         | bona   | nibo  | bapa   | beti   |
-| G1 3rd         | ɬa     | ɬebo  | ɬepa   | ɬiti   |
-| G2 1st         | bo     | bekʼo | mepa   | moti   |
-| G2 2nd         | ɡo     | ɡikʼo | bapa   | beti   |
-| G2 3rd         | θo     | θikʼo | ɬepa   | ɬiti   |
-| G3 2nd         | ɡi     | ɡomi  | nena   | moli   |
-| G3 3rd         | θi     | θomi  | ɗona   | ɗoli   |
+| CLASS\\NUMBER | Single | Dual   | Paucal | Plural |
+|---            |---     |---     |---     |---     |
+| G1 1st        | pʼa    | bʼabo  | mibʼa  | bʼopʼi |
+| G1 2nd        | qi     | qona   | qʼobʼa | thoqi  |
+| G1 3rd        | gi     | gatho  | gebʼa  | gogi   |
+| G2 2nd        | tʼa    | tʼeti  | tʼadʼa | tʼegi  |
+| G2 3rd        | mo     | mokʼi  | moga   | mikʼi  |
+| G3 3rd        | dʼi    | dʼito  | dʼito  | leli   |
+| G4 3rd        | tha    | hlamo  | hlamo  | leli   |
+| G5 3rd        | kʼalo  | kʼetho | kʼetho | kʼetho |
+: Personal Pronouns
 
 - 8-9 noun cases (symmetrical)
     - Nominative: -ɗa
     - Accusative (unmarked): -∅
-    - Dative: -pa
-    - Genitive: -pʼa
-    - Instrumental: -ɓi
-    - Locative: -ɬo
-    - Allative: -ɬa
-    - Ablative: -ɬi
-    - Essive: -mi
+    - Dative: -ta
+    - Genitive: -tʼa
+    - Instrumental: -gi
+    - Locative: -to
+    - Allative: -mo
+    - Ablative: -di
+    - Essive: -qʼa
 
 | NOUN CASE          | Thing     | Place     | Time       | State     |
 |---                 |---        |---        |---         |---        |
