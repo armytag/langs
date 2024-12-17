@@ -62,10 +62,10 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
 
 | TENSE       | Normal | Relative |
 |---          |---     |---       |
-| Future      | -ɓa    | -bo      |
-| Present     | -ki    | -no      |
-| Past        | -mi    | -pʼo     |
-| Remote Past | -tʼo   | -kʼi     |
+| Future      | -do    | -na      |
+| Present     | -bʼi   | -ta      |
+| Past        | -mi    | -pʼi     |
+| Remote Past | -qʼo   | -pʼi     |
 
 - Singular, Dual, Paucal, and Plural number
     - *Have some classes merge based on plurality*
@@ -113,7 +113,7 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
 | G2 3rd        | mo     | mokʼi  | moga   | mikʼi  |
 | G3 3rd        | dʼi    | dʼito  | dʼito  | leli   |
 | G4 3rd        | tha    | hlamo  | hlamo  | leli   |
-| G5 3rd        | kʼalo  | kʼetho | kʼetho | kʼetho |
+| G5 3rd        | kʼalo  | kʼethi | kʼethi | kʼethi |
 : Personal Pronouns
 
 - 8-9 noun cases (symmetrical)
@@ -132,13 +132,13 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
 | *Example Noun*     | *"dog"*   | *"city"*  | *"summer"* | *"sad"*   |
 | Nominative (-ɗa)   | agent     |           |            |           |
 | Accusative (-∅)    | patient   |           |            |           |
-| Dative (-pa)       | recipient |           |            |           |
-| Genitive (-pʼa)    | dependant |           |            |           |
-| Instrumental (-ɓi) | using     | via       | through    | cause     |
-| Locative (-ɬo)     | at        | at        | at/during  | while     |
-| Allative (-ɬa)     | to        | to        | until      | become    |
-| Ablative (-ɬi)     | from      | from      | since      | cease     |
-| Essive (-mi)       | as (temp) | as (temp) | as (temp)  | as (temp) |
+| Dative (-ta)       | recipient |           |            |           |
+| Genitive (-tʼa)    | dependant |           |            |           |
+| Instrumental (-gi) | using     | via       | through    | cause     |
+| Locative (-to)     | at        | at        | at/during  | while     |
+| Allative (-mo)     | to        | to        | until      | become    |
+| Ablative (-di)     | from      | from      | since      | cease     |
+| Essive (-qʼa)      | as (temp) | as (temp) | as (temp)  | as (temp) |
 
 ## Conjunction
 
@@ -181,18 +181,16 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
 - Mark direct object (not subject)
     - Agrees in person, number, and class
 
-| VERB AGREEMENT | Single | Plural |
-|---             |---     |---     |
-| G1 1st         | -ma    | -mi    |
-| G2 1st         | -ko    | -mi    |
-| G1 2nd         | -ba    | -bo    |
-| G2 2nd         | -ka    | -bo    |
-| G1 3rd         | -ɬa    | -ɬi    |
-| G2 3rd         | -θo    | -ɬi    |
-| G3 3rd         | -θa    | -ɗi    |
-| G4 3rd         | -qʼa   | -ɬo    |
-| G5 3rd         | -pʼi   | -ɬo    |
-| G6 3rd         | -na    | -no    |
+| CLASS\\NUMBER | Single | Plural |
+|---            |---     |---     |
+| G1 1st        | -pi    | -po    |
+| G1 2nd        | -qʼi   | -qa    |
+| G1 3rd        | -gi    | -ga    |
+| G2 2nd        | -ti    | -ta    |
+| G2 3rd        | -ni    | -mo    |
+| G3 3rd        | -di    | -lo    |
+| G4 3rd        | -tha   | -lo    |
+| G5 3rd        | -kʼi   | -ko    |
 
 # Modifiers
 
@@ -203,12 +201,11 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
 
 | CLASS | Single | Plural |
 |---    |---     |---     |
-| G1    | -bo    | -ɓo    |
-| G2    | -ko    | -ɓo    |
-| G3    | -kʼo   | -lo    |
-| G4    | -qo    | -ɡo    |
-| G5    | -po    | -ɡo    |
-| G6    | -do    | -θo    |
+| G1    | -to    | -go    |
+| G2    | -mo    | -mo    |
+| G3    | -dʼo   | -lo    |
+| G4    | -qo    | -lo    |
+| G5    | -go    | -to    |
 
 ## Colors
 

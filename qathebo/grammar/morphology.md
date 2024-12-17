@@ -38,14 +38,14 @@ In Qʼathebʼo sentences, clause-level tense is marked on nominative nouns rathe
 
 Simple clauses make four tense distinctions: present, future, past, and remote past.
 
-**Present** tense is used for events happening at roughly the same time as the moment of speech.
+**Present** tense (-*bʼi) is used for events happening at roughly the same time as the moment of speech.
 
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
 <dl> <dt>aa</dt> <dd>search-<abbr>IPFV-G1.3SG</abbr></dd> </dl>
-<dl> <dt>bb</dt> <dd><abbr>1SG-NOM-PRS</abbr></dd> </dl>
-<dl> <dt>cc</dt> <dd>mother-<abbr>ACC</abbr></dd> </dl>
+<dl> <dt>pʼa-dʼe-bʼi</dt> <dd><abbr>1SG-NOM-PRS</abbr></dd> </dl>
+<dl> <dt>cc</dt> <dd>mother-<abbr>G1.SG-ACC</abbr></dd> </dl>
 <dl> <dt>dd</dt> <dd><abbr>1SG-GEN</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"I'm looking for my mother."</p>
@@ -83,7 +83,7 @@ Events that have just happened or events that are about to happen are typically 
 <p class="freetranslation">"I'm going to take a shower now."</p>
 </div>
 
-***Future*** tense is used for events that are expected to happen sometime after the moment of speech.
+***Future*** tense (-*do*) is used for events that are expected to happen sometime after the moment of speech.
 
 <div class="gloss">
 <p class="number"></p>
@@ -107,7 +107,7 @@ Events that have just happened or events that are about to happen are typically 
 <p class="freetranslation">"She will be studying for three years."</p>
 </div>
 
-***Past*** tense is used to mark events not long before the moment of speech.
+***Past*** tense (-*mi*) is used to mark events not long before the moment of speech.
 
 <div class="gloss">
 <p class="number"></p>
@@ -129,7 +129,7 @@ Events that have just happened or events that are about to happen are typically 
 <p class="freetranslation">"You slept until noon."</p>
 </div>
 
-***Remote-past*** tense is used to mark events long before to the moment of speech.
+***Remote-past*** tense (-*qʼo*) is used to mark events long before to the moment of speech.
 
 <div class="gloss">
 <p class="number"></p>
