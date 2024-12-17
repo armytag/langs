@@ -115,3 +115,38 @@ The various agreement markers are listed in the table below.
 
 ## Derivation
 
+### From Nouns
+
+#### <drop final vowel> (zero derivation)
+
+Some nouns and verbs occur in the same lexical form.  This is considered a zero-derivation.  A few examples are listed below.
+
+<dl class="comparison col4">
+<dt>qʼatho</dt> <dd>"speech"</dd>
+<dt>qʼatha</dt> <dd>"to speak"</dd>
+</dl>
+
+### From Verbs
+
+#### _-neba_
+
+This affix can turn an intransitive verb into a transitive verb, or turn a transitive verb into a causative verb.
+
+<dl class="comparison col4">
+<dt></dt> <dd>"die"</dd>
+<dt></dt> <dd>"kill"</dd>
+<dt></dt> <dd>"eat"</dd>
+<dt></dt> <dd>"feed"</dd>
+</dl>
+
+### From Modifiers
+
+#### _-la_
+
+This affix is used to turn onomatopoeic modifiers into verbs.
+
+<dl class="comparison col4">
+<dt></dt> <dd>"sputtering"</dd>
+<dt></dt> <dd>"sputter"</dd>
+</dl>
+
