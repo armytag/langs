@@ -213,3 +213,13 @@ Today we’d like you to show forgiveness to someone for something. You could fo
 Who are you forgiving? Is it yourself, a friend, a family member? Maybe it’s someone who doesn’t even know who you are. What did you forgive them for? Did you forgive yourself for failing an important assessment, or your best friend who shared a secret that wasn’t theirs to tell, or an aunt who ruined your wedding?
 
 Tell us about how you showed forgiveness today! 
+
+# Day 17 -- TRADING SHOES
+
+## Prompt
+
+Today we’d like you to put yourself in someone else’s shoes. Try and think on their needs and how they see the world; try to understand their needs and where those needs come from. At the same time, try and see yourself through their eyes, try and see what areas of your life someone else might see you neglect for one reason or another. The goal of this exercise is to build empathy both for a loved one and for yourself so you can better both their and your own needs, not that you need take care of those needs right away, only just recognise them.
+
+Whose shoes are putting yourself in; whose eyes are you looking through? Is it a close friend you’re going through a rough patch with, or is it a dependent family member like a child or aging parent? What needs do you now recognise in them and yourself?
+
+Tell us about the empathy you built today! 
