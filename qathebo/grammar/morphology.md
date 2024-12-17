@@ -285,6 +285,35 @@ The subordinate
 
 ### Direct Object Agreement
 
+Transitive verbs are marked for the animacy group, person, and number of the direct object.  Only single and plural number is distinguished.  If multiple direct objects occur then the agreement will be the plural form of the highest animacy group, as seen in sentence %{+1}% below.
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>aa</dt> <dd>hit<abbr>-PFV-G2.PL</abbr></dd> </dl>
+<dl> <dt>bb</dt> <dd><abbr>G1.1SG-NOM-PST</abbr></dd> </dl>
+<dl> <dt>cc</dt> <dd>and-bird-<abbr>G2.3SG-ACC</abbr></dd> </dl>
+<dl> <dt>dd</dt> <dd>and-nest<abbr>-G4.3SG-ACC-POSS</abbr></dd> </dl>
+<dl> <dt>ee</dt> <dd><abbr>G2.SG-GEN</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"I hit the bird and its nest with the stone."</p>
+</div>
+
+The various agreement markers are listed in the table below.
+
+|        | Single | Plural |
+|---     |---     |---     |
+| G1 1st | -pi    | -po    |
+| G1 2nd | -qʼi   | -qa    |
+| G1 3rd | -gi    | -ga    |
+| G2 2nd | -ti    | -ta    |
+| G2 3rd | -ni    | -mo    |
+| G3 3rd | -di    | -lo    |
+| G4 3rd | -tha   | -lo    |
+| G5 3rd | -kʼi   | -ko    |
+: Verbal Direct-Object Agreement
+
+
 ### Noun Incorporation
 
 #### Lexical Compounding
@@ -295,9 +324,18 @@ The subordinate
 
 ## Modifiers
 
-Most modifiers in Qʼathebʼo can modify either nouns or verbs.  When modifying verbs, they occur as bare roots before the verb.  When modifying nouns, they occur after the noun with inflection to agree with the number and class of the noun.
+Most modifiers in Qʼathebʼo can modify either nouns or verbs.  When modifying verbs, they occur as bare roots immediately after the verb.  When modifying nouns, they occur after the noun with inflection to agree with the number and class of the noun.
 
 ### Verb Modifiers (Adverbs)
 
 ### Noun Modifiers (Adjectives)
+
+| CLASS | Single | Plural |
+|---    |---     |---     |
+| G1    | -to    | -go    |
+| G2    | -mo    | -mo    |
+| G3    | -dʼo   | -lo    |
+| G4    | -qo    | -lo    |
+| G5    | -go    | -to    |
+: Noun Modifier Agreement
 
