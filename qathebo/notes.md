@@ -175,9 +175,9 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
     - Indicative (perfective): -a
     - Imperfective: -i
     - Imperative: -o
-    - Prohibitive: -oqʼa
-    - Optative: -opi
-    - Subordinate: -akʼa
+    - Prohibitive: -opa
+    - Optative: -obʼi
+    - Subordinate: -ili
 - Mark direct object (not subject)
     - Agrees in person, number, and class
 
@@ -209,31 +209,31 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
 
 ## Colors
 
-| BASIC COLORS | Term  |
-|---           |---    |
-| white        | bɛda  |
-| black        | taqʼo |
-| red          | dɛɡo  |
-| yellow       | tʼiθo |
-| green/blue   | tɛqʼo |
+| BASIC COLORS | Term   |
+|---           |---     |
+| white        | beda   |
+| black        | taqʼo  |
+| red          | deɡo   |
+| yellow       | tʼitho |
+| green/blue   | teqʼo  |
 
 # Numbers
 
 - Numbers take adjective-style agreement when they modify nouns
 - Numbers can be used as adverbs to indicate the verb occured so many times
 
-| NUMBER | Cardinal | Ordinal  |
-|---     |---       |---       |
-| one    | θɛqa     | θɛtʼi    |
-| two    | kiti     | qo-kiti  |
-| three  | biqo     | qo-biqo  |
-| four   | pɛtʼa    | qo-pɛtʼa |
-| five   | goqi     | qɛ-goqi  |
-| six    | bokʼa    | qɛ-bokʼa |
-| seven  | lɛpʼi    | qo-lɛpʼi |
-| eight  | ɓoɗi     | qɛ-ɓoɗi  |
-| nine   | qʼɛɓa    | qo-qʼɛɓa |
-| ten    | baθa     | qo-baθa  |
+| NUMBER | Cardinal | Ordinal   |
+|---     |---       |---        |
+| one    | theqa    | thitʼi    |
+| two    | kiti     | qo-kiti   |
+| three  | biqo     | qo-biqo   |
+| four   | petʼa    | qo-petʼa  |
+| five   | goqi     | qe-goqi   |
+| six    | bokʼa    | qe-bokʼa  |
+| seven  | lepʼi    | qo-lepʼi  |
+| eight  | bʼodʼi   | qe-bʼodʼi |
+| nine   | qʼebʼa   | qo-qʼebʼa |
+| ten    | batha    | qo-batha  |
 
 # Derivation
 

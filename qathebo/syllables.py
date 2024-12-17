@@ -28,7 +28,7 @@ SYLL_STRUCTS += ['CCV'] * 0
 SYLL_STRUCTS += ['CCVC'] * 0
 SYLL_COUNTS = []
 SYLL_COUNTS += [1] * 3
-SYLL_COUNTS += [2] * 0
+SYLL_COUNTS += [2] * 3
 SYLL_COUNTS += [3] * 0
 SYLL_COUNTS += [4] * 0
 
