@@ -223,3 +223,13 @@ Today we’d like you to put yourself in someone else’s shoes. Try and think o
 Whose shoes are putting yourself in; whose eyes are you looking through? Is it a close friend you’re going through a rough patch with, or is it a dependent family member like a child or aging parent? What needs do you now recognise in them and yourself?
 
 Tell us about the empathy you built today! 
+
+# Day 18 -- EATING HEARTY
+
+## Prompt
+
+Today we’d like you to have something nutritious to eat! Something that’s really going to fuel your body and heart and keep you warm!
+
+What is hearty to you? Does it involve meat? Beans? Is it a simmered stew full of tubers or is it something roasted in the oven? Is it even possible to define what it means for a dish to be hearty…?
+
+Tell us about what you strengthened yourself with today! 
