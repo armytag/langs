@@ -1,6 +1,40 @@
 # Syntax
 
+## Basic Word Order
+
 ## Relative Clauses
+
+Relative clauses are predicates that are being used to modify part of another clause (known as the matrix clause).  These predicates contain everything a regular clause would contain, but typically take different tense or aspect marking and appear verb-finally rather than verb-initially.  When affecting the other clause as a whole, they appear before the matrix verb as seen in sentence %{+1}% below.  When affecting a noun, they appear after the matrix noun and begin with a relativizer as seen in sentence %{+2}% below.
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>aa-bb-cc</dt> <dd><abbr>G1.SG-NOM-REL:FUT</abbr></dd> </dl>
+<dl> <dt>aa</dt> <dd>before</dd> </dl>
+<dl> <dt>aa-bb</dt> <dd>sleep<abbr>-REL</abbr></dd> </dl>
+<dl> <dt>aa-bb-cc</dt> <dd>face-wash<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>aa-bb-cc</dt> <dd><abbr>G1.SG-NOM-PRS</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"Before I would sleep, I wash my face."</p>
+</div>
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>aa</dt> <dd><abbr>NEG</abbr></dd> </dl>
+<dl> <dt>aa-bb</dt> <dd>find<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>aa-bb-cc</dt> <dd><abbr>G1.SG-NOM-PRS</abbr></dd> </dl>
+<dl> <dt>aa-bb-∅</dt> <dd>scarf<abbr>-G3.SG-ACC</abbr></dd> </dl>
+<dl> <dt>aa</dt> <dd><abbr>REL</abbr></dd> </dl>
+<dl> <dt>aa-bb</dt> <dd><abbr>G1.1SG-DAT</abbr></dd> </dl>
+<dl> <dt>aa-bb-cc-dd-ee</dt> <dd>grandmother<abbr>G1.SG-NOM-REL:PST-G1.1SG</abbr></dd> </dl>
+<dl> <dt>(aa-∅)</dt> <dd><abbr>(G3.SG-ACC)</abbr></dd> </dl>
+<dl> <dt>aa-bb-cc</dt> <dd>make<abbr>-PFV-G3.SG</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"I can't find the scarf my grandmother made for me."</p>
+</div>
+
+
 
 ## Expressing Time
 
