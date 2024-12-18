@@ -10,6 +10,7 @@ When modifiers are used with verbs, they occur after the verb and before any nou
 
 <div class="gloss">
 <p class="number"></p>
+<p class="original">𞤑𞥇𞤢 𞤬𞤮𞤸𞤢 𞤬𞤮𞤥𞤢𞤯𞤫𞤥𞤭 𞤳𞤮𞤥𞤫𞤯𞤢𞤼𞤮.</p>
 <div class="interlinear">
 <dl> <dt>kʼ-a</dt> <dd>sit-<abbr>PFV</abbr></dd> </dl>
 <dl> <dt>thohla</dt> <dd>quiet</dd> </dl>
@@ -21,6 +22,7 @@ When modifiers are used with verbs, they occur after the verb and before any nou
 
 <div class="gloss">
 <p class="number"></p>
+<p class="original">𞤖𞤫𞤣𞤭 𞤩𞤭𞤼𞤫𞤣𞤫 𞤨𞥇𞤢𞤯𞤫𞤩𞤭 𞤼𞤫𞤬𞤮𞤯𞤢 𞤨𞤢𞤼𞥇𞤫𞤯𞤢𞤹𞥇𞤢.</p>
 <div class="interlinear">
 <dl> <dt>hl-e-di</dt> <dd>eat-<abbr>PFV-G3.SG</abbr></dd> </dl>
 <dl> <dt>bʼitedo</dt> <dd>daily</dd> </dl>
@@ -46,6 +48,8 @@ When modifiers are used with nouns, they occur after the noun and inflect to agr
 
 <div class="gloss">
 <p class="number"></p>
+<p class="original">𞤑𞥇𞤢 𞤬𞤮𞤥𞤢𞤯𞤫𞤥𞤭 𞤬𞤮𞤸𞤢𞤥𞤮 𞤳𞤮𞤥𞤫𞤯𞤢𞤼𞤮.</p>
+<p class="original"></p>
 <div class="interlinear">
 <dl> <dt>kʼ-a</dt> <dd>sit-<abbr>PFV</abbr></dd> </dl>
 <dl> <dt>tho-ma-dʼe-mi</dt> <dd>cat-<abbr>G2.SG-NOM-PST</abbr></dd> </dl>
@@ -57,6 +61,7 @@ When modifiers are used with nouns, they occur after the noun and inflect to agr
 
 <div class="gloss">
 <p class="number"></p>
+<p class="original">𞤖𞤫𞤣𞤭 𞤨𞥇𞤢𞤯𞤫𞤩𞤭 𞤼𞤫𞤬𞤮𞤯𞤢 𞤨𞤢𞤼𞥇𞤫𞤯𞤢𞤹𞥇𞤢 𞤩𞤭𞤼𞤫𞤣𞤫𞤯𞤮.</p>
 <div class="interlinear">
 <dl> <dt>hl-e-di</dt> <dd>eat-<abbr>PFV-G3.SG</abbr></dd> </dl>
 <dl> <dt>pʼa-dʼe-bʼi</dt> <dd><abbr>G1.1SG-NOM-PRS</abbr></dd> </dl>
