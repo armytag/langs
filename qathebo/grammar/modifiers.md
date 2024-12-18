@@ -2,11 +2,38 @@
 
 ## Morphology
 
-Most modifiers in Qʼathebʼo can modify either nouns or verbs.  When modifying verbs, they occur as bare roots immediately after the verb.  When modifying nouns, they occur after the noun with inflection to agree with the number and class of the noun.
+Most modifiers in Qʼathebʼo can modify either nouns or verbs.  The root of the modifier is used in both situations, though with nouns they take additional inflection.
 
-### Verb Modifiers (Adverbs)
+### Modifying Verbs
 
-### Noun Modifiers (Adjectives)
+When modifiers are used with verbs, they occur after the verb and before any noun phrases.
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>kʼ-a</dt> <dd>sit-<abbr>PFV</abbr></dd> </dl>
+<dl> <dt>thohla</dt> <dd>quiet</dd> </dl>
+<dl> <dt>tho-ma-dʼe-mi</dt> <dd>cat-<abbr>G2.SG-NOM-PST</abbr></dd> </dl>
+<dl> <dt>kome-dʼa-to</dt> <dd>window-<abbr>G3.SG-LOC</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"The cat sat quietly by the window."</p>
+</div>
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>hl-e-di</dt> <dd>eat-<abbr>PFV-G3.SG</abbr></dd> </dl>
+<dl> <dt>bʼitedo</dt> <dd>daily</dd> </dl>
+<dl> <dt>pʼa-dʼe-bʼi</dt> <dd><abbr>G1.1SG-NOM-PRS</abbr></dd> </dl>
+<dl> <dt>tetho-dʼa-∅</dt> <dd>egg-<abbr>G3.SG-ACC</abbr></dd> </dl>
+<dl> <dt>patʼe-dʼa-qʼa</dt> <dd>breakfast-<abbr>G3.SG-ESS</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"I eat an egg for breakfast every day."</p>
+</div>
+
+### Modifying Nouns
+
+When modifiers are used with nouns, they occur after the noun and inflect to agree with the number and class of the noun.
 
 | CLASS | Single | Plural |
 |---    |---     |---     |
@@ -17,6 +44,29 @@ Most modifiers in Qʼathebʼo can modify either nouns or verbs.  When modifying 
 | G5    | -go    | -to    |
 : Noun Modifier Agreement
 
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>kʼ-a</dt> <dd>sit-<abbr>PFV</abbr></dd> </dl>
+<dl> <dt>tho-ma-dʼe-mi</dt> <dd>cat-<abbr>G2.SG-NOM-PST</abbr></dd> </dl>
+<dl> <dt>thohla-mo</dt> <dd>quiet-<abbr>G2.SG</abbr></dd> </dl>
+<dl> <dt>kome-dʼa-to</dt> <dd>window-<abbr>G3.SG-LOC</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"The quiet cat sat by the window."</p>
+</div>
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>hl-e-di</dt> <dd>eat-<abbr>PFV-G3.SG</abbr></dd> </dl>
+<dl> <dt>pʼa-dʼe-bʼi</dt> <dd><abbr>G1.1SG-NOM-PRS</abbr></dd> </dl>
+<dl> <dt>tetho-dʼa-∅</dt> <dd>egg-<abbr>G3.SG-ACC</abbr></dd> </dl>
+<dl> <dt>patʼe-dʼa-qʼa</dt> <dd>breakfast-<abbr>G3.SG-ESS</abbr></dd> </dl>
+<dl> <dt>bʼitede-dʼo</dt> <dd>daily-<abbr>G3.SG</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"I eat an egg for daily breakfast."</p>
+</div>
+
 ## Derivation
 
 ### From Nouns
@@ -26,10 +76,10 @@ Most modifiers in Qʼathebʼo can modify either nouns or verbs.  When modifying 
 This suffix conveys a sense of repeated occurances of the base noun it derives from.  It can also be used with numeral modifiers to encode a sense of "every N".
 
 <dl class="comparison col4">
-<dt></dt> <dd>"day"</dd>
-<dt></dt> <dd>"daily"</dd>
-<dt></dt> <dd>"four"</dd>
-<dt></dt> <dd>"every four"</dd>
+<dt>bʼitogi</dt> <dd>"a day"</dd>
+<dt>bʼitedo</dt> <dd>"daily"</dd>
+<dt>petʼa</dt> <dd>"four"</dd>
+<dt>petʼado</dt> <dd>"every four"</dd>
 </dl>
 
 #### _-pʼo_
