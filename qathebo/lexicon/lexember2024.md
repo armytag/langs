@@ -233,3 +233,12 @@ Today we’d like you to have something nutritious to eat! Something that’s re
 What is hearty to you? Does it involve meat? Beans? Is it a simmered stew full of tubers or is it something roasted in the oven? Is it even possible to define what it means for a dish to be hearty…?
 
 Tell us about what you strengthened yourself with today! 
+
+# Day 19 -- LOOKING FOR AN EVERGREEN
+
+## Prompt
+
+Today we’d like you to go find your nearest evergreen. If you have a christmas tree or some mistletoe inside, these don’t count: you’ll have to leave the house, weather permitting. Pull on some boots and shrug on all the extra layers you need and get to searching. Make sure to appreciate the evergreen, feel its bark or its leaves, admire the sharp green hue, and if you feel so inclined, take a small clipping home with you to brighten your space. Make sure to leave something behind for the faeries if you do take a clipping!
+How far did you have to go to find your evergreen? What kind of evergreen is it? What does it smell like, what does it feel like? Did you bring a partner to kiss under the mistletoe? If you took a small clipping, what tool did you use, what token did you leave behind, and where did you set it in your home?
+
+Tell us about the evergreen you found today! 
