@@ -242,3 +242,14 @@ Today we’d like you to go find your nearest evergreen. If you have a christmas
 How far did you have to go to find your evergreen? What kind of evergreen is it? What does it smell like, what does it feel like? Did you bring a partner to kiss under the mistletoe? If you took a small clipping, what tool did you use, what token did you leave behind, and where did you set it in your home?
 
 Tell us about the evergreen you found today! 
+
+# Day 20 -- SINGING LIKE NOBODY’S LISTENING
+
+## Prompt
+
+Today we’d like you to express yourself and your voice. Pick your favourite song, something you know the words to, and give it your all singing through the whole thing. Don’t hold back! If the folks around you won’t mind, ignore them; if they do, find a space where you can sing your heart out, or find better friends/family and invite them to sing with you!
+
+What song are you singing; what genre does it belong to? Is it a song you’ve liked for as long as you can remember, or is it a new find you absolutely cannot get out of your head? Are you singing in your room, out with friends, or to the trees?
+
+Tell us about how you sang like nobody’s listening today! 
+
