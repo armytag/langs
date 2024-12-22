@@ -17,6 +17,10 @@ I hope to share progress in the conlang through simple social media posts.  Thes
 
 ## Conworld
 
+[World map (3917269 with -0.035 water level)](https://topps.diku.dk/torbenm/maps.msp)
+
+
+
 ## Phonology
 
 ### Consonants
