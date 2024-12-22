@@ -253,3 +253,23 @@ What song are you singing; what genre does it belong to? Is it a song you’ve l
 
 Tell us about how you sang like nobody’s listening today! 
 
+# Day 21 -- TAKING A HOT BATH
+
+## Prompt
+
+Today we’d like you to treat yourself to a spa day. Fill up the tub with water that’s just the right temperature, and get some epsom salts or bath bombs if you’re into that. You can set the ambiance just how you like with music or candles, and you can treat yourself with some bath snacks and a glass of wine or sparkling juice, or, better yet, get your partner to bring them to you. Be careful with open flames, and careful not to drop your snacks or a book in the water.
+
+How are you dressing your tub? Do you like your bathwater scalding or lukewarm? What scents do you like in your salts or bath bombs? What snacks did you bring to the bath with you? What kind of music are you listening to or what kind of book are you reading?
+
+Tell us about the bath you took today!
+
+# Day 22 -- BUILDING A FIRE
+
+## Prompt
+
+Today we’d like you to roll it back and get warm and toasty the old-fashioned, your situation permitting. Go chop some firewood, shave some kindling, and/or build a tipi, log cabin, or whatever other way you may once learned to start a fire, and get to burning. Revel in your human ability to create fire with your own two hands. Be sure to keep some snacks and blankets handy, too, and you could even try making a hot cup of cocoa over your fire.
+
+How are you building your fire? Do you have to make a firepit, or do you already have a fire bowl or fireplace handy? Are you starting the fire with friction, a flint and steel, or a lighter? What kind of wood are you burning? Are you making anything to eat/drink over the fire? What shapes do you see dancing in the fire?
+
+Tell us about the fire you built today! 
+
