@@ -273,3 +273,12 @@ How are you building your fire? Do you have to make a firepit, or do you already
 
 Tell us about the fire you built today! 
 
+# Day 23 -- AIRING GRIEVANCES
+
+## Prompt
+
+Today we’d like you to be brave and rip off the band-aid, so to speak, and open a line of communication with someone important in your life. Specifically, we’d like you to tell them a complaint you have with them so that you two can solve the issue or come to a compromise. Make future you feel better by not leaving your grievance to fester into a toxic grudge.
+
+Are you airing your grievance to a partner, parent, sibling, best friend, roommate, someone else? What is your grievance? Is it a pet-peeve like how they always leave the toilet seat up, maybe you’re unhappy with the current division of labour, or have you let them ignore a facet of your identity for far too long? Did you two come to a compromise or otherwise solve the problem? What solution did you two come to?
+
+Tell us about the grievances you aired today! 
