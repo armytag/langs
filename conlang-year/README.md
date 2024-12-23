@@ -15,11 +15,13 @@ My documentation will take the form of markdown files that can be turned into HT
 
 I hope to share progress in the conlang through simple social media posts.  These should involve some cute examples of some part of the language, and have minimal written description.
 
-## Conworld
+## Speakers and Conworld
+
+My language will be spoken (originally) by a group of humans living along a major mountain range that parallels the coastline.  There is some magic in this setting, although this doesn't affect the people physiologically.  The first script is developed by astronomers working/living in caves up in the mountains.
+
+The speakers have typical human physiology, meaning they have two arms and hands, two legs and feet, a torso, and a head.  They have two eyes, two ears, one mouth, and one nose.  They have dense hair on their heads, armpits, and crotch, with smaller hairs on their arms and legs.  Men also have hair on their face and chest, which is thicker and bushier than the average human man.  The speakers have skin on the darker side.  They move around their environment by walking, running, climbing, and occasionally swimming.
 
 [World map (3917269 with -0.035 water level)](https://topps.diku.dk/torbenm/maps.msp)
-
-
 
 ## Phonology
 
