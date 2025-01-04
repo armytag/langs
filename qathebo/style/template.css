@@ -39,6 +39,11 @@ body {
 */
 
 @media print {
+	html {
+		color: black;
+		background-color: white;
+	}
+
 	h1:not(.title) {
 		page-break-before: always;
 	}
@@ -46,10 +51,26 @@ body {
 	#TOC {
 		page-break-before: always;
 	}
+
+	table {
+		page-break-inside: avoid;
+		page-break-before: auto;
+	}
+
+	@page {
+		@bottom-center {
+			content: 'TEST';
+		}
+	}
 }
 
 header {
 	text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	margin-top: 1.25rem;
+	margin-bottom: 0.5rem;
 }
 
 h1 {
