@@ -1,5 +1,0 @@
-# Adverbs
-
-## Morphology
-
-## Derivation
