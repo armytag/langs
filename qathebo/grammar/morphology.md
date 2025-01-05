@@ -39,20 +39,6 @@ Nouns always mark number.  This appears as a suffix on the nominal root, and is 
 
 These number-marking suffixes only appear in nouns.  Regardless of the Animacy Group of the relevant noun, [verb agreement](#direct-object-agreement) and [modifier agreement](#noun-modifiers-adjectives) only distinguishes single and plural.
 
-Personal pronouns mark person in addition to number, though only Group 1 can mark first-person and only Groups 1 and 2 can mark second-person.  Here are the personal pronouns for the various group-person-number combinations.
-
-|        | Single | Dual   | Paucal | Plural |
-| ---:   | :---:  | :---:  | :---:  | :---:  |
-| G1 1st | pʼa    | bʼabo  | mibʼa  | bʼopʼi |
-| G1 2nd | qi     | qona   | qʼobʼa | thoqi  |
-| G1 3rd | gi     | gatho  | gebʼa  | gogi   |
-| G2 2nd | tʼa    | tʼeti  | tʼadʼa | tʼegi  |
-| G2 3rd | mo     | mokʼi  | moga   | mikʼi  |
-| G3 3rd | dʼi    | dʼito  | dʼito  | leli   |
-| G4 3rd | tha    | hlamo  | hlamo  | leli   |
-| G5 3rd | kʼalo  | kʼethi | kʼethi | kʼethi |
-: Personal Pronouns
-
 ### Case
 
 There are nine nominal cases: nominative, accusative, dative, genitive, instrumental, locative, allative, ablative, and essive.  Unlike most nominative-accusative langauges, Qʼathebʼo is a marked-nominative language, which means the nominative case takes overt marking while the accusative does not.
@@ -207,8 +193,9 @@ Still, even if they remained homeless for the entire time afterward, they would 
 
 Within dependant clauses the past and remote-past merge into a single tense, leaving three tense distinctions: present, future, past.  These take different marking to indicate their presence in a dependant clause.  The point of reference for these relative tenses is not the moment of speech, but rather the time of the event in the matrix predicate.
 
+## Pronouns
 
-## Personal Pronouns
+### Personal Pronouns
 
 Personal pronouns mark person in addition to number, though only Group 1 can mark first-person and only Groups 1 and 2 can mark second-person.  Here are the personal pronouns for the various group-person-number combinations.
 
@@ -253,7 +240,7 @@ The imperfective
 
 #### Imperative 
 
-The imperative aspect is used for commands or urgent statements to the listener.  Imperative clauses are almost always drop the subject.  The implied subject is a second-person pronoun with appropriate number to how many listeners are being addressed, and implied present-tense marking.  This implied subject can be recovered if desired as seen in the expanded sentence %{+3}% below, but such an inclusion of the subject carries a strongly condescending tone (see the [section on commands](#commands) for further discussion).
+The imperative aspect is used for commands or urgent statements to the listener.  Imperative clauses almost always drop the subject.  The implied subject is a second-person pronoun with appropriate number to how many listeners are being addressed, and implied present-tense marking.  This implied subject can be recovered if desired as seen in the expanded sentence %{+3}% below, but such an inclusion of the subject carries a strongly condescending tone (see the [section on commands](#commands) for further discussion).
 
 <div class="gloss">
 <p class="number"></p>
@@ -267,7 +254,7 @@ The imperative aspect is used for commands or urgent statements to the listener.
 <p class="number"></p>
 <div class="interlinear">
 <dl> <dt>bb</dt> <dd>close<abbr>-IMP</abbr></dd> </dl>
-<dl> <dt>aa</dt> <dd>door-G3.3SG-ACC<abbr></abbr></dd> </dl>
+<dl> <dt>aa</dt> <dd>door<abbr>-G3.3SG-ACC</abbr></dd> </dl>
 <dl> <dt>kʼahla</dt> <dd>so.that</dd> </dl>
 <dl> <dt>theni</dt> <dd><abbr>NEG</abbr></dd> </dl>
 <dl> <dt>ee</dt> <dd>outside-go-<abbr>IND</abbr></dd> </dl>
