@@ -23,6 +23,8 @@ The speakers have typical human physiology, meaning they have two arms and hands
 
 [World map (3917269 with -0.035 water level)](https://topps.diku.dk/torbenm/maps.msp)
 
+The original speakers of the language lived in a valley in the foothills of a major mountain range.  A river runs through the valley, large enough to support some urbanization but still close enough to the mountain source that it isn't overly wide yet.  It's mostly a tropical dry forest biome with seasonal rains causing a long dry and long wet period, which has a major effect on the kinds of flora and fauna in the region.
+
 ## Phonology
 
 ### Consonants
