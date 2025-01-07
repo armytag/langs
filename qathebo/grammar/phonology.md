@@ -49,9 +49,10 @@ Vowels undergo a pervasive, regular assimilation process based on the following 
 
 The /o/ dissimilation occurs for any number of /o/ syllables in a row.
 
-<dl class="comparison col4">
-<dt>[ɗɛθɛ-q<em>o</em>]</dt> <dd>"a home"</dd>
-<dt>[ɗɛθɛ-q<em>ɛ</em>-to]</dt> <dd>"at home (<abbr>LOC</abbr>)"</dd>
+<dl class="comparison col2">
+<dt>[ɗɛθ<em>o</em>-la]</dt> <dd>"homes"</dd>
+<dt>[ɗɛθ<em>ɛ</em>-q<em>o</em>]</dt> <dd>"a home"</dd>
+<dt>[ɗɛθ<em>ɛ</em>-q<em>ɛ</em>-to]</dt> <dd>"at home (<abbr>LOC</abbr>)"</dd>
 </dl>
 
 It's important to note that when /i/ assimilates to \[ɛ\], it no longer triggers assimilation for a preceding /a/.
