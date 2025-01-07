@@ -100,5 +100,5 @@ Qʼathebʼo can also be transcribed in a Latin orthography.  The Latin orthograp
 | 𞤬/𞤊          | /θ/     | th           |
 : Orthographies for Qʼathebʼo
 
-The remainder of this document will render all Qʼathebʼo text, including examples, in the Latin or Adlam orthography.
+The remainder of this document will present all Qʼathebʼo text, including examples, in the Latin or Adlam orthography.
 
