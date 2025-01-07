@@ -2,15 +2,15 @@
 
 ## Nouns
 
-The prototypical noun structure is a lexical root, a person-number affix based on animacy group, a case affix, and if appropriate a tense affix (usually on nominal-case nouns).  This is represented by the following template, where <λ> represents the lexical root.
+The prototypical noun structure is a lexical root, a number affix based on animacy group, a case affix, and if appropriate a tense affix (usually on nominal-case nouns).  This is represented by the following template, where <λ> represents the lexical root.
 
 <div class="comparison">
-<p>λ-<abbr>P.NUM-CASE(-TENSE)</abbr></p>
+<p>λ-<abbr>NUM-CASE(-TENSE)</abbr></p>
 </div>
 
 ### Animacy Groups (Class/Gender)
 
-There a five classes of nouns that determine the noun's declension pattern.  Specifically, a noun's class affects person-number marking, verb and modifier agreement, and word order.
+There a five classes of nouns that determine the noun's declension pattern.  Specifically, a noun's class affects number marking, verb and modifier agreement, and word order.
 
 ***Group 1*** -- Adult humans, including human body parts and groups of humans (e.g. society).
 
@@ -210,21 +210,20 @@ Within dependant clauses the past and remote-past merge into a single tense, lea
 
 ### Personal Pronouns
 
-Personal pronouns mark person in addition to number, though only Group 1 can mark first-person and only Groups 1 and 2 can mark second-person.  Here are the personal pronouns for the various group-person-number combinations.
+Personal pronouns only exist for humans and follow Group 1 morphosyntactic patterns.  They mark person in addition to number.
 
-|        | Single | Dual   | Paucal | Plural |
-| ---:   | :---:  | :---:  | :---:  | :---:  |
-| G1 1st | pʼa    | bʼabo  | mibʼa  | bʼopʼi |
-| G1 2nd | qi     | qona   | qʼobʼa | thoqi  |
-| G1 3rd | gi     | gatho  | gebʼa  | gogi   |
-| G2 2nd | tʼa    | tʼeti  | tʼadʼa | tʼegi  |
-| G2 3rd | mo     | mokʼi  | moga   | mikʼi  |
-| G3 3rd | dʼi    | dʼito  | dʼito  | leli   |
-| G4 3rd | tha    | hlamo  | hlamo  | leli   |
-| G5 3rd | kʼalo  | kʼethi | kʼethi | kʼethi |
+|      | Single | Dual   | Paucal | Plural |
+| ---: | :---:  | :---:  | :---:  | :---:  |
+| 1st  | pʼa    | bʼabo  | mibʼa  | bʼopʼi |
+| 2nd  | qi     | qona   | qʼobʼa | thoqi  |
+| 3rd  | gi     | gatho  | gebʼa  | gogi   |
 : Personal Pronouns
 
 ### Reflexive Pronouns
+
+### Demonstrative Pronouns
+
+### Interrogative Pronouns
 
 ## Verbs
 
