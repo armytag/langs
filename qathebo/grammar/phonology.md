@@ -2,32 +2,32 @@
 
 ## Vowels
 
-There are four distinct vowel qualities in Qʼathebʼo: /a/, /ɛ/, /i/, and /o/.  Vowels are never differentiated based on length, nasality, or any other characteristics, so it can be said that these four vowel qualities comprise the four phonemic vowels of Qʼathebʼo.
+There are three phonemic vowel qualities in Qʼathebʼo: /a/, /i/, and /o/.  There is a fourth vowel \[ɛ\] which is prevelant in Qʼathebʼo but does not appear to be phonemic; rather it appears exclusively as the result of a highly-regular [vowel assimilation process](#vowel-assimilation).
 
 |           | Front | Back |
 |---        |:---:  |:---: |
 | Close     | i     |      |
 | Close-Mid |       | o    |
-| Open-Mid  | ɛ     |      |
+| Open-Mid  | (ɛ)   |      |
 | Open      |       | a    |
-: Vowels in Qʼathebʼo 
+: Vowels in Qʼathebʼo
 
-However the phonemic status of /ɛ/ is highly suspect, as it only seems to occur as the result of the highly-regular [vowel assimilation process](#vowel-assimilation).  Nonetheless, this grammar will treat /ɛ/ as a phonemic vowel to better reflect the surface realization of utterances in Qʼathebʼo.
+Vowels are never differentiated based on length, nasality, or any other characteristics.
 
 ## Consonants
 
-There are 18 consonantal phonemes in Qʼathebʼo.  These include a series of ejectives
+There are 18 consonantal phonemes in Qʼathebʼo.  Stops are distinguished between four articulation modes: voiceless, voiced, ejective, and implosive.  There are also two nasal, two fricative, and one approximant consonants.
 
-|                    | Labial | Dental | Velar | Uvular |
-|---                 |:---:   |:---:   |:---:  |:---:   |
-| Nasals             | m      | n      |       |        |
-| Voiced Plosives    | b      | d      | g     |        |
-| Voiceless Plosives | p      | t      | k     | q      |
-| Ejectives          | pʼ     | tʼ     | kʼ    | qʼ     |
-| Implosives         | ɓ      | ɗ      |       |        |
-| Fricatives         |        | θ      |       |        |
-| Lateral Fricatives |        | ɬ      |       |        |
-| Approximants       |        | l      |       |        |
+|                    | Labial | Alveolar | Velar | Uvular |
+|---                 |:---:   |:---:     |:---:  |:---:   |
+| Nasals             | m      | n        |       |        |
+| Voiced Plosives    | b      | d        | g     |        |
+| Voiceless Plosives | p      | t        | k     | q      |
+| Ejectives          | pʼ     | tʼ       | kʼ    | qʼ     |
+| Implosives         | ɓ      | ɗ        |       |        |
+| Fricatives         |        | θ        |       |        |
+| Lateral Fricatives |        | ɬ        |       |        |
+| Approximants       |        | l        |       |        |
 : Consonants in Qʼathebʼo
 
 ## Phonotactics
@@ -71,9 +71,7 @@ The Adlam script is well suited to the phonology of Qʼathebʼo, with only three
 1. /ɬ/ is written with the <𞤸> character that normally denotes the /h/ sound.
 1. Ejectives are written using the corresponding voiceless plosives combined with the <◌𞥇 > diacritic, which normally denotes a glottal stop ([Arabic hamza](https://en.wikipedia.org/wiki/Hamza)) between the consonant and the following vowel.  Thus <𞤨> /p/ → <𞤨𞥇> /pʼ/.
 
-Qʼathebʼo can also be transcribed in a Latin orthography.  The Latin orthography is used throughout this document for the convenience of the reader, although it is often paired with the corresponding Adlam orthography within examples.
-
-Below is a table showing all of the Adlam characters (both upper and lower case) used in Qʼathebʼo, along with the phonemes they represent and their Latin orthography equivalents.
+Qʼathebʼo can also be transcribed in a Latin orthography.  Below is a table showing all of the Adlam characters (both upper and lower case) used in Qʼathebʼo, along with the phonemes they represent and their Latin orthography equivalents.
 
 | Adlam Symbol | Phoneme | Latin Symbol |
 |:---:         |:---:    |:---:         |
@@ -100,4 +98,6 @@ Below is a table showing all of the Adlam characters (both upper and lower case)
 | 𞤼𞥇/𞤚𞥇          | /tʼ/    | t'           |
 | 𞤬/𞤊          | /θ/     | th           |
 : Orthographies for Qʼathebʼo
+
+The remainder of this document will render all Qʼathebʼo text, including examples, in the Latin or the Adlam orthography.
 
