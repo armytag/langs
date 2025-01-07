@@ -36,7 +36,7 @@ Syllables in Qʼathebʼo always contain a consonant followed by a vowel in a str
 
 ### Vowel Assimilation
 
-Vowels undergo a pervasive, regular assimilation process based on the following vowel.  The low vowel /a/ becomes \[ɛ\] when the following syllable contains /i/, and /i/ likewise assimilates to \[ɛ\] before a syllable with /a/.  The rounded vowel /o/ instead undergoes a dissimilation process with following /o/ syllables, also become \[ɛ\].  These patterns can be see in the following examples.
+Vowels undergo a pervasive, regular assimilation process based on the following vowel.  The low vowel /a/ becomes \[ɛ\] when the following syllable contains /i/, and /i/ likewise assimilates to \[ɛ\] before a syllable with /a/.  The rounded vowel /o/ instead undergoes a dissimilation process with following /o/ syllables, also becoming \[ɛ\].  These patterns can be see in the following examples.
 
 <dl class="comparison col4">
 <dt>[ɗoθ<em>a</em>-ɗa]</dt> <dd>"rose"</dd>
