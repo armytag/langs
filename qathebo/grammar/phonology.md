@@ -72,7 +72,7 @@ The Adlam script is well suited to the phonology of Qʼathebʼo, with only three
 1. /ɬ/ is written with the <𞤸> character that normally denotes the /h/ sound.
 1. Ejectives are written using the corresponding voiceless plosives combined with the <◌𞥇 > diacritic, which normally denotes a glottal stop ([Arabic hamza](https://en.wikipedia.org/wiki/Hamza)) between the consonant and the following vowel.  Thus <𞤨> /p/ → <𞤨𞥇> /pʼ/.
 
-Qʼathebʼo can also be transcribed in a Latin orthography.  Below is a table showing all of the Adlam characters (both upper and lower case) used in Qʼathebʼo, along with the phonemes they represent and their Latin orthography equivalents.
+Qʼathebʼo can also be transcribed in a Latin orthography.  The Latin orthography uses an apostrophe <ʼ> to indicate ejectives and implosives, and uses digraphs with \<h\> for /θ/ and /ɬ/.  Below is a table showing all of the Adlam characters (both upper and lower case) used in Qʼathebʼo, along with the phonemes they represent and their Latin orthography equivalents.
 
 | Adlam Symbol | Phoneme | Latin Symbol |
 |:---:         |:---:    |:---:         |
@@ -100,5 +100,5 @@ Qʼathebʼo can also be transcribed in a Latin orthography.  Below is a table sh
 | 𞤬/𞤊          | /θ/     | th           |
 : Orthographies for Qʼathebʼo
 
-The remainder of this document will render all Qʼathebʼo text, including examples, in the Latin or the Adlam orthography.
+The remainder of this document will render all Qʼathebʼo text, including examples, in the Latin or Adlam orthography.
 
