@@ -43,6 +43,19 @@ These number-marking suffixes only appear in nouns.  Regardless of the Animacy G
 
 There are nine nominal cases: nominative, accusative, dative, genitive, instrumental, locative, allative, ablative, and essive.  Unlike most nominative-accusative langauges, Qʼathebʼo is a marked-nominative language, which means the nominative case takes overt marking while the accusative does not.
 
+| Case         | Affix | Meaning     |
+| :---:        | :---: | :---:       |
+| Nominative   | -dʼa  | *agent*     |
+| Accusative   | *-*   | *patient*   |
+| Dative       | -ta   | *recipient* |
+| Genitive     | -tʼa  | *"of"*      |
+| Instrumental | -gi   | *"with"*    |
+| Locative     | -to   | *"at"*      |
+| Allative     | -mo   | *"to"*      |
+| Ablative     | -di   | *"from"*    |
+| Essive       | -qʼa  | *"as"*      |
+: Nominal Cases
+
 ### Tense
 
 In Qʼathebʼo sentences, clause-level tense is marked on nominative nouns rather than on verbs.  All nouns in the nominative case will mark the same clause-level tense.
@@ -187,7 +200,7 @@ Even up to several months later they would still likely describe the situation i
 <p class="freetranslation">"My house burned down (a while ago)."</p>
 </div>
 
-Still, even if they remained homeless for the entire time afterward, they would likely start using the *remote-past* tense once a year or more had passed.
+Still, even if they remained homeless for the entire time afterward, they would likely start using the *remote-past* tense after a year or more had passed.
 
 #### Relative Tense
 
@@ -211,6 +224,7 @@ Personal pronouns mark person in addition to number, though only Group 1 can mar
 | G5 3rd | kʼalo  | kʼethi | kʼethi | kʼethi |
 : Personal Pronouns
 
+### Reflexive Pronouns
 
 ## Verbs
 
