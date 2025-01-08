@@ -225,6 +225,38 @@ Personal pronouns only exist for humans and follow Group 1 morphosyntactic patte
 
 ### Interrogative Pronouns
 
+There is a general interrogative pronoun *bi* used in most wh-questions.  It is typically unspecified for animacy group, and directly takes case (and tense) marking.  In such situations it isn't constrained by the constraints of the animacy heirarchy, but usually follows the group assumed by the speaker (such as Group 1 for people or Group 4 for locations).  This assumed group can also be conveyed if desired, by adding the appropriate number suffix just like other nouns.
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>hl-a-lo</dt> <dd>eat<abbr>-PFV-G3.PL</abbr></dd> </dl>
+<dl> <dt>be-ta-dʼe-mi</dt> <dd><abbr>Q-G1.SG-NOM-PST</abbr></dd> </dl>
+<dl> <dt>kebʼi-ki-∅</dt> <dd><abbr>berry-G3.PAU-ACC</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"Who ate the berries?"</p>
+</div>
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>aa-i</dt> <dd>write<abbr>-IPFV</abbr></dd> </dl>
+<dl> <dt>qe-dʼe-bi</dt> <dd><abbr>2SG-NOM-PRS</abbr></dd> </dl>
+<dl> <dt>bi-gi</dt> <dd><abbr>Q-INST</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"What are you writing with?"</p>
+</div>
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>aa-a</dt> <dd>sit<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>bʼabo-dʼe-bi</dt> <dd><abbr>1DU-NOM-PRS</abbr></dd> </dl>
+<dl> <dt>bi-to</dt> <dd><abbr>Q-LOC</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"Where are we?"</p>
+</div>
+
 ## Verbs
 
 The prototypical verb structure without noun incorporation is a lexical root, an aspect/mood affix, optionally a passive affix, and person-number agreement with the direct object (if one exists).  This is represented by the following template, where <λ> represents the lexical root.
