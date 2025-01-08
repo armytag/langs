@@ -2,6 +2,56 @@
 
 ## Basic Word Order
 
+Independant clauses follow a somewhat strict word order.  The predicate verb occurs at the beginning of the sentence, preceded by adverbs and succeeded by verb-modifiers.  After that, the noun phrases occur in the order of the animacy groups from Group 1 to Group 5.  Noun modifiers, including relative clauses modifying nouns, directly follow the noun they modify.
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>aa-bb-cc</dt> <dd><abbr>G1.SG-NOM-REL:FUT</abbr></dd> </dl>
+<dl> <dt>aa</dt> <dd>before</dd> </dl>
+<dl> <dt>aa-bb</dt> <dd>sleep<abbr>-REL</abbr></dd> </dl>
+<dl> <dt>aa-bb-cc</dt> <dd>face-wash<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>aa-bb-cc</dt> <dd><abbr>G1.SG-NOM-PRS</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"Before I would sleep, I wash my face."</p>
+</div>
+
+Personal pronouns usually occur before other Group 1 nouns.  First-person and second-person pronouns can occur in any order relative to each other, as sentences %{+1}% and %{+2}% demonstrate.  However, third-person pronouns always occur after the other two; sentence %{+3}% would be considered ungrammatical.
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>neqʼ-a</dt> <dd>walk<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>pʼe-di</dt> <dd><abbr>1SG-ABL</abbr></dd> </dl>
+<dl> <dt>qi-mo</dt> <dd><abbr>2SG-ALL</abbr></dd> </dl>
+<dl> <dt>ge-dʼe-mi</dt> <dd><abbr>3SG-NOM-PST</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"He walked from me to you."</p>
+</div>
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>neqʼ-a</dt> <dd>walk<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>qi-mo</dt> <dd><abbr>2SG-ALL</abbr></dd> </dl>
+<dl> <dt>pʼe-di</dt> <dd><abbr>1SG-ABL</abbr></dd> </dl>
+<dl> <dt>ge-dʼe-mi</dt> <dd><abbr>3SG-NOM-PST</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"He walked from me to you."</p>
+</div>
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>\*</dt> <dd></dd> </dl>
+<dl> <dt>neqʼ-a</dt> <dd>walk<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>ge-dʼe-mi</dt> <dd><abbr>3SG-NOM-PST</abbr></dd> </dl>
+<dl> <dt>qi-mo</dt> <dd><abbr>2SG-ALL</abbr></dd> </dl>
+<dl> <dt>pʼe-di</dt> <dd><abbr>1SG-ABL</abbr></dd> </dl>
+</div>
+<p class="freetranslation">\* "He walked from me to you."</p>
+</div>
+
 ## Relative Clauses
 
 Relative clauses are predicates that are being used to modify part of another clause (known as the matrix clause).  These predicates contain everything a regular clause would contain, but typically take different tense or aspect marking and appear verb-finally rather than verb-initially.  When affecting the other clause as a whole, they appear before the matrix verb as seen in sentence %{+1}% below.  When affecting a noun, they appear after the matrix noun and begin with a relativizer as seen in sentence %{+2}% below.
@@ -26,8 +76,8 @@ Relative clauses are predicates that are being used to modify part of another cl
 <dl> <dt>aa-bb-cc</dt> <dd><abbr>G1.SG-NOM-PRS</abbr></dd> </dl>
 <dl> <dt>aa-bb-∅</dt> <dd>scarf<abbr>-G3.SG-ACC</abbr></dd> </dl>
 <dl> <dt>aa</dt> <dd><abbr>REL</abbr></dd> </dl>
-<dl> <dt>aa-bb</dt> <dd><abbr>G1.1SG-DAT</abbr></dd> </dl>
-<dl> <dt>aa-bb-cc-dd-ee</dt> <dd>grandmother<abbr>G1.SG-NOM-REL:PST-G1.1SG</abbr></dd> </dl>
+<dl> <dt>aa-bb</dt> <dd><abbr>1SG-DAT</abbr></dd> </dl>
+<dl> <dt>aa-bb-cc-dd-ee</dt> <dd>grandmother<abbr>G1.SG-NOM-REL:PST-1SG</abbr></dd> </dl>
 <dl> <dt>(aa-∅)</dt> <dd><abbr>(G3.SG-ACC)</abbr></dd> </dl>
 <dl> <dt>aa-bb-cc</dt> <dd>make<abbr>-PFV-G3.SG</abbr></dd> </dl>
 </div>
