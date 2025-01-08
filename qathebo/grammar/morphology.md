@@ -69,7 +69,7 @@ Simple clauses make four tense distinctions: present, future, past, and remote p
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>aa</dt> <dd>search-<abbr>IPFV-G1.3SG</abbr></dd> </dl>
+<dl> <dt>aa</dt> <dd>search-<abbr>IPFV-G1.SG</abbr></dd> </dl>
 <dl> <dt>pʼa-dʼe-bʼi</dt> <dd><abbr>1SG-NOM-PRS</abbr></dd> </dl>
 <dl> <dt>cc</dt> <dd>mother-<abbr>G1.SG-ACC</abbr></dd> </dl>
 <dl> <dt>dd</dt> <dd><abbr>1SG-GEN</abbr></dd> </dl>
@@ -93,9 +93,9 @@ Events that have just happened or events that are about to happen are typically 
 <p class="number"></p>
 <div class="interlinear">
 <dl> <dt>aa</dt> <dd>spill-<abbr>PFV-G3.SG</dd> </dl>
-<dl> <dt>aa</dt> <dd><abbr>G1.3SG-NOM-PRS</dd> </dl>
-<dl> <dt>aa</dt> <dd>milk-<abbr>G3.3SG-ACC</dd> </dl>
-<dl> <dt>aa</dt> <dd>table-<abbr>G4.3SG-LOC</dd> </dl>
+<dl> <dt>aa</dt> <dd><abbr>3SG-NOM-PRS</dd> </dl>
+<dl> <dt>aa</dt> <dd>milk-<abbr>G3.SG-ACC</dd> </dl>
+<dl> <dt>aa</dt> <dd>table-<abbr>G4.SG-LOC</dd> </dl>
 </div>
 <p class="freetranslation">"He just spilled milk on the table."</p>
 </div>
@@ -115,7 +115,7 @@ Events that have just happened or events that are about to happen are typically 
 <p class="number"></p>
 <div class="interlinear">
 <dl> <dt>aa</dt> <dd>eat-<abbr>PFV-G3.PAU</abbr></dd> </dl>
-<dl> <dt>bb</dt> <dd><abbr>G1.1SG-NOM-FUT</abbr></dd> </dl>
+<dl> <dt>bb</dt> <dd><abbr>1SG-NOM-FUT</abbr></dd> </dl>
 <dl> <dt>cc</dt> <dd>cookie-<abbr>G3.PAU-ACC</abbr></dd> </dl>
 <dl> <dt>cc</dt> <dd>dessert-<abbr>G3.SG-ESS</abbr></dd> </dl>
 </div>
@@ -126,7 +126,7 @@ Events that have just happened or events that are about to happen are typically 
 <p class="number"></p>
 <div class="interlinear">
 <dl> <dt>aa</dt> <dd>study-<abbr>IPFV</abbr></dd> </dl>
-<dl> <dt>bb</dt> <dd><abbr>G1.3SG-NOM-FUT</abbr></dd> </dl>
+<dl> <dt>bb</dt> <dd><abbr>3SG-NOM-FUT</abbr></dd> </dl>
 <dl> <dt>cc</dt> <dd>year-<abbr>G5.PL-INS</abbr></dd> </dl>
 <dl> <dt>cc</dt> <dd>three-<abbr>G5.PL</abbr></dd> </dl>
 </div>
@@ -139,7 +139,7 @@ Events that have just happened or events that are about to happen are typically 
 <p class="number"></p>
 <div class="interlinear">
 <dl> <dt>aa</dt> <dd>groceries-buy-<abbr>PFV</abbr></dd> </dl>
-<dl> <dt>bb</dt> <dd><abbr>G1.1DU-NOM-PST</abbr></dd> </dl>
+<dl> <dt>bb</dt> <dd><abbr>1DU-NOM-PST</abbr></dd> </dl>
 <dl> <dt>cc</dt> <dd>yesterday-<abbr>G5.SG-LOC</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"We bought groceries yesterday."</p>
@@ -149,7 +149,7 @@ Events that have just happened or events that are about to happen are typically 
 <p class="number"></p>
 <div class="interlinear">
 <dl> <dt>aa</dt> <dd>sleep-<abbr>PFV</abbr></dd> </dl>
-<dl> <dt>bb</dt> <dd><abbr>G1.2SG-NOM-PST</abbr></dd> </dl>
+<dl> <dt>bb</dt> <dd><abbr>2SG-NOM-PST</abbr></dd> </dl>
 <dl> <dt>cc</dt> <dd>noon-<abbr>G5.SG-ALL</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"You slept until noon."</p>
@@ -160,8 +160,8 @@ Events that have just happened or events that are about to happen are typically 
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>aa</dt> <dd>see-<abbr>PFV-G1.2SG</abbr></dd> </dl>
-<dl> <dt>bb</dt> <dd><abbr>G1.1SG-NOM-REM</abbr></dd> </dl>
+<dl> <dt>aa</dt> <dd>see-<abbr>PFV-2SG</abbr></dd> </dl>
+<dl> <dt>bb</dt> <dd><abbr>1SG-NOM-REM</abbr></dd> </dl>
 <dl> <dt>cc</dt> <dd>prior.year-<abbr>G5.SG-LOC</abbr></dd> </dl>
 <dl> <dt>cc</dt> <dd>holiday-<abbr>G5.SG-LOC</abbr></dd> </dl>
 </div>
@@ -299,11 +299,11 @@ The imperative aspect is used for commands or urgent statements to the listener.
 <p class="number"></p>
 <div class="interlinear">
 <dl> <dt>bb</dt> <dd>close<abbr>-IMP</abbr></dd> </dl>
-<dl> <dt>aa</dt> <dd>door<abbr>-G3.3SG-ACC</abbr></dd> </dl>
+<dl> <dt>aa</dt> <dd>door<abbr>-G3.SG-ACC</abbr></dd> </dl>
 <dl> <dt>kʼahla</dt> <dd>so.that</dd> </dl>
 <dl> <dt>theni</dt> <dd><abbr>NEG</abbr></dd> </dl>
 <dl> <dt>ee</dt> <dd>outside-go-<abbr>IND</abbr></dd> </dl>
-<dl> <dt>ff</dt> <dd>cat-<abbr>G2.3SG-NOM-PRS</abbr></dd> </dl>
+<dl> <dt>ff</dt> <dd>cat-<abbr>G2.SG-NOM-PRS</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"Close the door before the cat gets out!"</p>
 </div>
@@ -312,9 +312,9 @@ The imperative aspect is used for commands or urgent statements to the listener.
 <p class="number"></p>
 <div class="interlinear">
 <dl> <dt>aa</dt> <dd>get<abbr>-IMP</abbr></dd> </dl>
-<dl> <dt>bb</dt> <dd><abbr>G1.2PL-NOM-PRS</abbr></dd> </dl>
-<dl> <dt>cc</dt> <dd><abbr>G1.1SG-DAT</abbr></dd> </dl>
-<dl> <dt>dd</dt> <dd>bush<abbr>-G3.3SG-ACC</abbr></dd> </dl>
+<dl> <dt>bb</dt> <dd><abbr>2PL-NOM-PRS</abbr></dd> </dl>
+<dl> <dt>cc</dt> <dd><abbr>1SG-DAT</abbr></dd> </dl>
+<dl> <dt>dd</dt> <dd>bush<abbr>-G3.SG-ACC</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"Bring me a shrubbery."</p>
 </div>
@@ -339,9 +339,9 @@ Transitive verbs are marked for the animacy group, person, and number of the dir
 <p class="number"></p>
 <div class="interlinear">
 <dl> <dt>aa</dt> <dd>hit<abbr>-PFV-G2.PL</abbr></dd> </dl>
-<dl> <dt>bb</dt> <dd><abbr>G1.1SG-NOM-PST</abbr></dd> </dl>
-<dl> <dt>cc</dt> <dd>and-bird-<abbr>G2.3SG-ACC</abbr></dd> </dl>
-<dl> <dt>dd</dt> <dd>and-nest<abbr>-G4.3SG-ACC-POSS</abbr></dd> </dl>
+<dl> <dt>bb</dt> <dd><abbr>1SG-NOM-PST</abbr></dd> </dl>
+<dl> <dt>cc</dt> <dd>and-bird-<abbr>G2.SG-ACC</abbr></dd> </dl>
+<dl> <dt>dd</dt> <dd>and-nest<abbr>-G4.SG-ACC-POSS</abbr></dd> </dl>
 <dl> <dt>ee</dt> <dd><abbr>G2.SG-GEN</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"I hit the bird and its nest with the stone."</p>
@@ -398,7 +398,7 @@ When modifiers are used with verbs, they occur after the verb and before any nou
 <div class="interlinear">
 <dl> <dt>hl-e-di</dt> <dd>eat-<abbr>PFV-G3.SG</abbr></dd> </dl>
 <dl> <dt>bʼitedo</dt> <dd>daily</dd> </dl>
-<dl> <dt>pʼa-dʼe-bʼi</dt> <dd><abbr>G1.1SG-NOM-PRS</abbr></dd> </dl>
+<dl> <dt>pʼa-dʼe-bʼi</dt> <dd><abbr>1SG-NOM-PRS</abbr></dd> </dl>
 <dl> <dt>tetho-dʼa-∅</dt> <dd>egg-<abbr>G3.SG-ACC</abbr></dd> </dl>
 <dl> <dt>patʼe-dʼa-qʼa</dt> <dd>breakfast-<abbr>G3.SG-ESS</abbr></dd> </dl>
 </div>
@@ -436,7 +436,7 @@ When modifiers are used with nouns, they occur after the noun and inflect to agr
 <p class="original">𞤖𞤫𞤣𞤭 𞤨𞥇𞤢𞤯𞤫𞤩𞤭 𞤼𞤫𞤬𞤮𞤯𞤢 𞤨𞤢𞤼𞥇𞤫𞤯𞤢𞤹𞥇𞤢 𞤩𞤭𞤼𞤫𞤣𞤫𞤯𞤮.</p>
 <div class="interlinear">
 <dl> <dt>hl-e-di</dt> <dd>eat-<abbr>PFV-G3.SG</abbr></dd> </dl>
-<dl> <dt>pʼa-dʼe-bʼi</dt> <dd><abbr>G1.1SG-NOM-PRS</abbr></dd> </dl>
+<dl> <dt>pʼa-dʼe-bʼi</dt> <dd><abbr>1SG-NOM-PRS</abbr></dd> </dl>
 <dl> <dt>tetho-dʼa-∅</dt> <dd>egg-<abbr>G3.SG-ACC</abbr></dd> </dl>
 <dl> <dt>patʼe-dʼa-qʼa</dt> <dd>breakfast-<abbr>G3.SG-ESS</abbr></dd> </dl>
 <dl> <dt>bʼitede-dʼo</dt> <dd>daily-<abbr>G3.SG</abbr></dd> </dl>
