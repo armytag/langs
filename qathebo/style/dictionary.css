@@ -3,6 +3,10 @@ table {
 	width: max-content;
 }
 
+.even {
+	background-color: #e6e6e6;
+}
+
 td:nth-child(1) {
 	font-weight: bold;
 	text-align: right;
@@ -15,4 +19,8 @@ td:nth-child(2) {
 
 td:nth-child(3) {
 	text-align: center;
+}
+
+td:nth-child(4) {
+	max-width: 20ch;
 }
