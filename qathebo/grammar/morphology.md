@@ -37,7 +37,7 @@ Nouns always mark number.  This appears as a suffix on the nominal root, and is 
 | Group 5 | -gi    | -ta   | -ta    | -ta    |
 : Nominal Person-Number Marking
 
-These number-marking suffixes only appear in nouns.  Regardless of the Animacy Group of the relevant noun, [verb agreement](#direct-object-agreement) and [modifier agreement](#noun-modifiers-adjectives) only distinguishes single and plural.
+These number-marking suffixes only appear in nouns.  Regardless of the Animacy Group of the relevant noun, [verb agreement](#direct-object-agreement) and [modifier agreement](#modifying-nouns) only distinguishes single and plural.
 
 ### Case
 
