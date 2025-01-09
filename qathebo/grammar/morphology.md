@@ -522,6 +522,7 @@ Numbers in Qʼathebʼo are modifiers that specify either the number of instances
 
 <div class="gloss">
 <p class="number"></p>
+<p class="original">𞤆𞥇𞤫𞤼𞤢𞤥𞤮 𞤺𞤫𞤯𞤫𞤥𞤭 𞤹𞥇𞤢𞤹𞤮𞤬𞤭 𞤦𞤭𞤹𞤫𞤥𞤮.</p>
 <div class="interlinear">
 <dl> <dt>pʼet-a-mo</dt> <dd>cook-<abbr>PFV-G2.PL</abbr></dd> </dl>
 <dl> <dt>ge-dʼe-mi</dt> <dd><abbr>3SG-NOM-PST</abbr></dd> </dl>
@@ -533,6 +534,7 @@ Numbers in Qʼathebʼo are modifiers that specify either the number of instances
 
 <div class="gloss">
 <p class="number"></p>
+<p class="original">𞤂𞤮 𞤯𞤫𞤸𞤫𞤹𞤫𞤥𞤮 𞤹𞤮𞤦𞤭𞤹𞤫𞤹𞤮.</p>
 <div class="interlinear">
 <dl> <dt>l-o</dt> <dd>go<abbr>-IMP</abbr></dd> </dl>
 <dl> <dt>dʼehle-qe-mo</dt> <dd>house<abbr>-G4.SG-ALL</abbr></dd> </dl>
@@ -543,6 +545,7 @@ Numbers in Qʼathebʼo are modifiers that specify either the number of instances
 
 <div class="gloss">
 <p class="number"></p>
+<p class="original">𞤐𞤫𞤹𞥇𞤢 𞤦𞤢𞤬𞤢 𞤨𞥇𞤢𞤯𞤫𞤩𞤭 𞤥𞤢𞤼𞤮.</p>
 <div class="interlinear">
 <dl> <dt>neqʼ-a</dt> <dd>walk<abbr>-PFV</abbr></dd> </dl>
 <dl> <dt>batha</dt> <dd>ten</dd> </dl>
