@@ -494,7 +494,6 @@ When modifiers are used with nouns, they occur after the noun and inflect to agr
 <div class="gloss">
 <p class="number"></p>
 <p class="original">𞤑𞥇𞤢 𞤬𞤮𞤥𞤢𞤯𞤫𞤥𞤭 𞤬𞤮𞤸𞤢𞤥𞤮 𞤳𞤮𞤥𞤫𞤯𞤢𞤼𞤮.</p>
-<p class="original"></p>
 <div class="interlinear">
 <dl> <dt>kʼ-a</dt> <dd>sit-<abbr>PFV</abbr></dd> </dl>
 <dl> <dt>tho-ma-dʼe-mi</dt> <dd>cat-<abbr>G2.SG-NOM-PST</abbr></dd> </dl>
@@ -516,4 +515,56 @@ When modifiers are used with nouns, they occur after the noun and inflect to agr
 </div>
 <p class="freetranslation">"I eat an egg for daily breakfast."</p>
 </div>
+
+### Numbers
+
+Numbers in Qʼathebʼo are modifiers that specify either the number of instances (cardinal, e.g. "three") or position in a sequence (ordinal, e.g. "third").  They can modify both verbs and nouns.  When modifying verbs, a number indicates multiple occurances of the action.  When modifying a noun, the number indicates multiple entities and takes the same noun agreement as regular modifiers.
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>pʼet-a-mo</dt> <dd>cook-<abbr>PFV-G2.PL</abbr></dd> </dl>
+<dl> <dt>ge-dʼe-mi</dt> <dd><abbr>3SG-NOM-PST</abbr></dd> </dl>
+<dl> <dt>qʼaqo-thi-∅</dt> <dd>fish<abbr>-G2.PAU-ACC</abbr></dd> </dl>
+<dl> <dt>biqe-mo</dt> <dd>three<abbr>-G2.PL</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"He cooked three fish."</p>
+</div>
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>l-o</dt> <dd>go<abbr>-IMP</abbr></dd> </dl>
+<dl> <dt>dʼehle-qe-mo</dt> <dd>house<abbr>-G4.SG-ALL</abbr></dd> </dl>
+<dl> <dt>qo-biqe-qo</dt> <dd><abbr>ORD-</abbr>three<abbr>-G4.SG</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"Go to the third house."</p>
+</div>
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>neqʼ-a</dt> <dd>walk<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>batha</dt> <dd>ten</dd> </dl>
+<dl> <dt>pʼa-dʼe-bʼi</dt> <dd><abbr>1SG-NOM-PST</abbr></dd> </dl>
+<dl> <dt>ma-to</dt> <dd>tree<abbr>-G4.SG-LOC</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"I've walked past this tree ten times!"</p>
+</div>
+
+Below is a table of numbers 1 to 10.  Aside from 1, all ordinal numbers follow a regular derivation pattern by prefixing *qo-* to the cardinal number.
+
+|        | Cardinal | Ordinal   |
+|---     |---       |---        |
+| one    | theqa    | thitʼi    |
+| two    | kiti     | qo-kiti   |
+| three  | biqo     | qo-biqo   |
+| four   | petʼa    | qo-petʼa  |
+| five   | goqi     | qe-goqi   |
+| six    | bokʼa    | qe-bokʼa  |
+| seven  | lepʼi    | qo-lepʼi  |
+| eight  | bʼodʼi   | qe-bʼodʼi |
+| nine   | qʼebʼa   | qo-qʼebʼa |
+| ten    | batha    | qo-batha  |
+: Numbers 1 through 10
 
