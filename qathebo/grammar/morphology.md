@@ -32,7 +32,7 @@ Nouns always mark number.  This appears as a suffix on the nominal root, and is 
 | ---:    | :---:  | :---: | :---:  | :---:  |
 | Group 1 | -ta    | -thi  | -tha   | -gi    |
 | Group 2 | -ma    | -tha  | -thi   | -mi    |
-| Group 3 | -dʼa   | -ki   | -ki    | -la    |
+| Group 3 | -ga    | -ki   | -ki    | -la    |
 | Group 4 | -qo    | -hlo  | -hlo   | -la    |
 | Group 5 | -gi    | -ta   | -ta    | -ta    |
 : Nominal Person-Number Marking
@@ -349,16 +349,16 @@ Transitive verbs are marked for the animacy group, person, and number of the dir
 
 The various agreement markers are listed in the table below.
 
-|        | Single | Plural |
-|---     |---     |---     |
-| G1 1st | -pi    | -po    |
-| G1 2nd | -qʼi   | -qa    |
-| G1 3rd | -gi    | -ga    |
-| G2 2nd | -ti    | -ta    |
-| G2 3rd | -ni    | -mo    |
-| G3 3rd | -di    | -lo    |
-| G4 3rd | -tha   | -lo    |
-| G5 3rd | -kʼi   | -ko    |
+|     | Single | Plural |
+|---  |---     |---     |
+| 1st | -pi    | -po    |
+| 2nd | -qʼi   | -qa    |
+| 3rd | -gi    | -ga    |
+| G1  | -ti    | -ta    |
+| G2  | -ni    | -mo    |
+| G3  | -di    | -lo    |
+| G4  | -tha   | -lo    |
+| G5  | -kʼi   | -ko    |
 : Verbal Direct-Object Agreement
 
 
@@ -374,15 +374,74 @@ The various agreement markers are listed in the table below.
 
 There are several verbs in Qʼathebʼo that perform the functions of English "be".  Aside from marking tense ("was, is, will be"; see [nominal tense](#tense)), the English verb "be" links a subject to another noun phrase reflecting a property, states, location, equivalence, exists, or some other aspect of the subject.  These various types of noun phrases are differentiated in Qʼathebʼo by different verbs, though they all take the form of a body part incorporated into the verb *bʼa* roughly meaning "idly move" (see dictionary for related terms).  When using these copula verbs, the compliment noun phrase typically appears in a specific case other than accusative.
 
-#### Properties - *kithobʼa* (head-be)
+#### Properties - *qʼoqebʼa* (head-be)
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>qʼoqebʼ-a</dt> <dd>property.be<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>qona-dʼe-bʼi</dt> <dd><abbr>2DU-NOM-PRS</abbr></dd> </dl>
+<dl> <dt>aa-qʼa</dt> <dd>tall<abbr>-ESS</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"You two are tall."</p>
+</div>
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>qʼoqibʼ-i</dt> <dd>property.be<abbr>-IPFV</abbr></dd> </dl>
+<dl> <dt>kome-ga-dʼa-bʼi</dt> <dd>window<abbr>-G3.SG-NOM-PRS</abbr></dd> </dl>
+<dl> <dt>aa-qʼa</dt> <dd>open<abbr>-ESS</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"The window is open."</p>
+</div>
 
 #### Emotions - *moqʼabʼa* (throat-be)
 
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>moqʼabʼ-a</dt> <dd>emotion.be<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>pʼa-dʼe-mi</dt> <dd><abbr>1SG-NOM-PST</abbr></dd> </dl>
+<dl> <dt>aa-ge-qʼa</dt> <dd>anger<abbr>-G5.SG-ESS</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"I was angry."</p>
+</div>
+
 #### Locations - *tʼethabʼa* (foot-be)
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>tʼethabʼ-a</dt> <dd>location.be<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>mebʼa-dʼa-do</dt> <dd><abbr>1PAU-NOM-FUT</abbr></dd> </dl>
+<dl> <dt>aa-qe-to</dt> <dd>school<abbr>-G4.SG-LOC</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"We will be at school."</p>
+</div>
 
 #### Equivalence - *notabʼa* (heart-be)
 
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>notebʼ-i</dt> <dd>equivalence.be<abbr>-IPFV</abbr></dd> </dl>
+<dl> <dt>pʼa-dʼe-bʼi</dt> <dd><abbr>1SG-NOM-PRS</abbr></dd> </dl>
+<dl> <dt>aa-ta-qʼo</dt> <dd>potter<abbr>-G1.SG-ESS</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"I am a potter."</p>
+</div>
+
 #### Existance - *qipʼabʼa* (body-be)
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>qipʼabʼ-a-aa</dt> <dd>exist.be<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"There was a dog."</p>
+</div>
 
 ## Adverbs
 
@@ -401,7 +460,7 @@ When modifiers are used with verbs, they occur after the verb and before any nou
 <dl> <dt>kʼ-a</dt> <dd>sit-<abbr>PFV</abbr></dd> </dl>
 <dl> <dt>thohla</dt> <dd>quiet</dd> </dl>
 <dl> <dt>tho-ma-dʼe-mi</dt> <dd>cat-<abbr>G2.SG-NOM-PST</abbr></dd> </dl>
-<dl> <dt>kome-dʼa-to</dt> <dd>window-<abbr>G3.SG-LOC</abbr></dd> </dl>
+<dl> <dt>kome-ga-to</dt> <dd>window-<abbr>G3.SG-LOC</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"The cat sat quietly by the window."</p>
 </div>
@@ -413,8 +472,8 @@ When modifiers are used with verbs, they occur after the verb and before any nou
 <dl> <dt>hl-e-di</dt> <dd>eat-<abbr>PFV-G3.SG</abbr></dd> </dl>
 <dl> <dt>bʼitedo</dt> <dd>daily</dd> </dl>
 <dl> <dt>pʼa-dʼe-bʼi</dt> <dd><abbr>1SG-NOM-PRS</abbr></dd> </dl>
-<dl> <dt>tetho-dʼa-∅</dt> <dd>egg-<abbr>G3.SG-ACC</abbr></dd> </dl>
-<dl> <dt>patʼe-dʼa-qʼa</dt> <dd>breakfast-<abbr>G3.SG-ESS</abbr></dd> </dl>
+<dl> <dt>tetho-ga-∅</dt> <dd>egg-<abbr>G3.SG-ACC</abbr></dd> </dl>
+<dl> <dt>patʼe-ga-qʼa</dt> <dd>breakfast-<abbr>G3.SG-ESS</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"I eat an egg for breakfast every day."</p>
 </div>
@@ -427,7 +486,7 @@ When modifiers are used with nouns, they occur after the noun and inflect to agr
 |---    |---     |---     |
 | G1    | -to    | -go    |
 | G2    | -mo    | -mo    |
-| G3    | -dʼo   | -lo    |
+| G3    | -go    | -lo    |
 | G4    | -qo    | -lo    |
 | G5    | -go    | -to    |
 : Noun Modifier Agreement
@@ -440,7 +499,7 @@ When modifiers are used with nouns, they occur after the noun and inflect to agr
 <dl> <dt>kʼ-a</dt> <dd>sit-<abbr>PFV</abbr></dd> </dl>
 <dl> <dt>tho-ma-dʼe-mi</dt> <dd>cat-<abbr>G2.SG-NOM-PST</abbr></dd> </dl>
 <dl> <dt>thohla-mo</dt> <dd>quiet-<abbr>G2.SG</abbr></dd> </dl>
-<dl> <dt>kome-dʼa-to</dt> <dd>window-<abbr>G3.SG-LOC</abbr></dd> </dl>
+<dl> <dt>kome-ga-to</dt> <dd>window-<abbr>G3.SG-LOC</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"The quiet cat sat by the window."</p>
 </div>
@@ -451,9 +510,9 @@ When modifiers are used with nouns, they occur after the noun and inflect to agr
 <div class="interlinear">
 <dl> <dt>hl-e-di</dt> <dd>eat-<abbr>PFV-G3.SG</abbr></dd> </dl>
 <dl> <dt>pʼa-dʼe-bʼi</dt> <dd><abbr>1SG-NOM-PRS</abbr></dd> </dl>
-<dl> <dt>tetho-dʼa-∅</dt> <dd>egg-<abbr>G3.SG-ACC</abbr></dd> </dl>
-<dl> <dt>patʼe-dʼa-qʼa</dt> <dd>breakfast-<abbr>G3.SG-ESS</abbr></dd> </dl>
-<dl> <dt>bʼitede-dʼo</dt> <dd>daily-<abbr>G3.SG</abbr></dd> </dl>
+<dl> <dt>tetho-ga-∅</dt> <dd>egg-<abbr>G3.SG-ACC</abbr></dd> </dl>
+<dl> <dt>patʼe-ga-qʼa</dt> <dd>breakfast-<abbr>G3.SG-ESS</abbr></dd> </dl>
+<dl> <dt>bʼitede-go</dt> <dd>daily-<abbr>G3.SG</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"I eat an egg for daily breakfast."</p>
 </div>
