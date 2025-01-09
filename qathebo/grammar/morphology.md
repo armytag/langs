@@ -370,6 +370,20 @@ The various agreement markers are listed in the table below.
 
 #### Manipulation of Discourse Structure
 
+### Copulae
+
+There are several verbs in Qʼathebʼo that perform the functions of English "be".  Aside from marking tense ("was, is, will be"; see [nominal tense](#tense)), the English verb "be" links a subject to another noun phrase reflecting a property, states, location, equivalence, exists, or some other aspect of the subject.  These various types of noun phrases are differentiated in Qʼathebʼo by different verbs, though they all take the form of a body part incorporated into the verb *bʼa* roughly meaning "idly move" (see dictionary for related terms).  When using these copula verbs, the compliment noun phrase typically appears in a specific case other than accusative.
+
+#### Properties - *kithobʼa* (head-be)
+
+#### Emotions - *moqʼabʼa* (throat-be)
+
+#### Locations - *tʼethabʼa* (foot-be)
+
+#### Equivalence - *notabʼa* (heart-be)
+
+#### Existance - *qipʼabʼa* (body-be)
+
 ## Adverbs
 
 ## Modifiers
