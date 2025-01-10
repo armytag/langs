@@ -277,11 +277,11 @@ Verbs in Qʼathebʼo do not inflect for tense (see [Nominal Tense](#tense)), but
 
 #### Perfective (*-a*)
 
-The perfective
+The perfective aspect indicates that the verb occurs completely, shifting focus somewhat to the beginning or completion of the action.  The perfective aspect also plays a major role in the expression of [phasal polarity](#phasal-polarity).  The perfective is the citation form for verbs.
 
 #### Imperfective (*-i*)
 
-The imperfective
+The imperfective aspect highlights the verb as an action occuring through time, deemphasizing the start and end of the action or framing it as background context.  The imperfective aspect also plays a major role in the expression of [phasal polarity](#phasal-polarity).
 
 #### Imperative (*-o*)
 
@@ -321,15 +321,15 @@ The imperative aspect is used for commands or urgent statements to the listener.
 
 #### Prohibitive (*-opa*)
 
-The prohibitive
+The prohibitive aspect is used to tell the listener not to undergo an action.  In some ways this is like a negative imperative, and similarly has an implied second-person subject.  However, both imperative and prohibitive verbs can also take standard negation with *theni*; see [Requests and Commands](#requests-and-commands) for description of the nuance between these different uses.
 
 #### Optative (*-obʼi*)
 
-The optative
+The optative aspect is used to indicate that the speaker hopes for the situation being described to happen.  Although it conveys the speaker's desire, it does not involve an implicit subject or even necessarily a first-person subject.  Instead it can occur with any predicate that might otherwise take perfective or imperfective marking, and simply conveys additional information about the speaker's mood about that predicate.
 
 #### Subordinate (*-ili*)
 
-The subordinate
+The subordinate aspect is used in [relative clauses](#relative-clauses).  It indicates that the verb is not the main predicate of the phrase, but is adding additional information to the main predicate.
 
 ### Direct Object Agreement
 
