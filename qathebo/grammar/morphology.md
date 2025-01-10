@@ -87,7 +87,7 @@ Simple clauses make four tense distinctions: present, future, past, and remote p
 <p class="freetranslation">"It's raining outside."</p>
 </div>
 
-Events that have just happened or events that are about to happen are typically also rendered in the present tense (often with perfective and imperfective verbal marking respectively), as seen in sentences %{+1}% and %{+2}% below.
+Events that have just happened or events that are about to happen are typically also rendered in the present tense (often with perfective verbal marking respectively), as seen in sentences %{+1}% and %{+2}% below.
 
 <div class="gloss">
 <p class="number"></p>
@@ -103,7 +103,7 @@ Events that have just happened or events that are about to happen are typically 
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>aa</dt> <dd>shower-IPFV</dd> </dl>
+<dl> <dt>aa</dt> <dd>shower-PFV</dd> </dl>
 <dl> <dt>aa</dt> <dd>1SG-NOM-PRS</dd> </dl>
 </div>
 <p class="freetranslation">"I'm going to take a shower now."</p>
