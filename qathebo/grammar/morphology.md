@@ -206,6 +206,10 @@ Still, even if they remained homeless for the entire time afterward, they would 
 
 Within dependant clauses the past and remote-past merge into a single tense, leaving three tense distinctions: present, future, past.  These take different marking to indicate their presence in a dependant clause.  The point of reference for these relative tenses is not the moment of speech, but rather the time of the event in the matrix predicate.
 
+### Possession
+
+When nouns are possessed, they take an additional suffix *-tʼo* after all other affixes (usually after the case or tense marker).  The possessor noun appears in genetive form after the possessed noun, much like an noun modifier.
+
 ## Pronouns
 
 ### Personal Pronouns
@@ -219,9 +223,53 @@ Personal pronouns only exist for humans and follow Group 1 morphosyntactic patte
 | 3rd  | gi     | gatho  | gebʼa  | gogi   |
 : Personal Pronouns
 
+### Demonstrative Pronouns
+
 ### Reflexive Pronouns
 
-### Demonstrative Pronouns
+Reflexive pronouns are formed from personal or demonstrative pronouns by prefixing *patʼo-* to the front.  Reflexive pronouns refer to another established noun and are not used by themselves, though they can appear earlier in the same sentence as the referent, as sentence %{+3}% demonstrates.
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>hl-a-lo</dt> <dd>eat<abbr>-PFV-G3.PL</abbr></dd> </dl>
+<dl> <dt>be-ta-dʼe-mi</dt> <dd><abbr>Q-G1.SG-NOM-PST</abbr></dd> </dl>
+<dl> <dt>kebʼi-ki-∅</dt> <dd><abbr>berry-G3.PAU-ACC</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"Who ate the berries?"</p>
+</div>
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>hl-a-lo</dt> <dd>eat<abbr>-PFV-G3.PL</abbr></dd> </dl>
+<dl> <dt>be-ta-dʼe-mi</dt> <dd><abbr>Q-G1.SG-NOM-PST</abbr></dd> </dl>
+<dl> <dt>kebʼi-ki-∅</dt> <dd><abbr>berry-G3.PAU-ACC</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"Who ate the berries?"</p>
+</div>
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>hl-a-lo</dt> <dd>eat<abbr>-PFV-G3.PL</abbr></dd> </dl>
+<dl> <dt>be-ta-dʼe-mi</dt> <dd><abbr>Q-G1.SG-NOM-PST</abbr></dd> </dl>
+<dl> <dt>kebʼi-ki-∅</dt> <dd><abbr>berry-G3.PAU-ACC</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"Who ate the berries?"</p>
+</div>
+
+Reflexive nouns are frequently [incorporated into verbs](#noun-incorporation) when the subject and object match, as seen in sentence %{+1}% below.
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>hl-a-lo</dt> <dd>eat<abbr>-PFV-G3.PL</abbr></dd> </dl>
+<dl> <dt>be-ta-dʼe-mi</dt> <dd><abbr>Q-G1.SG-NOM-PST</abbr></dd> </dl>
+<dl> <dt>kebʼi-ki-∅</dt> <dd><abbr>berry-G3.PAU-ACC</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"Who ate the berries?"</p>
+</div>
 
 ### Interrogative Pronouns
 

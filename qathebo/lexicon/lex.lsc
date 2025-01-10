@@ -53,8 +53,8 @@ a => ɛ / _ [cons] i
 o-assmilation:
 o => ɛ / _ [cons] o
 
-ejective-metathesis:
-[unvoiced stop]&[+stress] [vowel] [ejective] => [ejective] [vowel] [unvoiced stop]
+# ejective-metathesis:
+# [unvoiced stop]&[+stress] [vowel] [ejective] => [ejective] [vowel] [unvoiced stop]
 # p&[+stress] [vowel] pʼ => pʼ [vowel] p
 # t&[+stress] [vowel] tʼ => tʼ [vowel] t
 # k&[+stress] [vowel] kʼ => kʼ [vowel] k
