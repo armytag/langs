@@ -275,15 +275,15 @@ When a verb involves noun incorporation, the incorporated noun's lexical root (r
 
 Verbs in Qʼathebʼo do not inflect for tense (see [Nominal Tense](#tense)), but do have different forms based on the aspect and mood.
 
-#### Perfective
+#### Perfective (*-a*)
 
 The perfective
 
-#### Imperfective
+#### Imperfective (*-i*)
 
 The imperfective
 
-#### Imperative 
+#### Imperative (*-o*)
 
 The imperative aspect is used for commands or urgent statements to the listener.  Imperative clauses almost always drop the subject.  The implied subject is a second-person pronoun with appropriate number to how many listeners are being addressed, and implied present-tense marking.  This implied subject can be recovered if desired as seen in the expanded sentence %{+3}% below, but such an inclusion of the subject carries a strongly condescending tone (see the [section on commands](#commands) for further discussion).
 
@@ -319,15 +319,15 @@ The imperative aspect is used for commands or urgent statements to the listener.
 <p class="freetranslation">"Bring me a shrubbery."</p>
 </div>
 
-#### Prohibitive
+#### Prohibitive (*-opa*)
 
 The prohibitive
 
-#### Optative
+#### Optative (*-obʼi*)
 
 The optative
 
-#### Subordinate
+#### Subordinate (*-ili*)
 
 The subordinate
 
@@ -366,9 +366,15 @@ The various agreement markers are listed in the table below.
 
 #### Lexical Compounding
 
+Lexical Compounding turns a transitive verb into an intransitive verb with a narrower scope, by incorporating a noun which generalizes and loses its individual semantic and syntactic characteristic.  This is generally used in contexts without specific individuated patients.
+
 #### Manipulation of Case
 
+Another type of noun incorporation affects the structure of a clause by moving an instrument, location, or possessor to direct object (or even subject) role.  This turns a transitive verb into another transitive verb, but with different relationships to the nouns in the phrase.  Unlike Lexical Compounding, this could involve individuated objects and doesn't necessarily mean that the incorporated object is non-specific.
+
 #### Manipulation of Discourse Structure
+
+Noun incorporation is sometimes used to background one of the referents established earlier in the discourse, moving focus to some other unincorporated part of the sentence.  Like the Lexical Compounding type of incoporation this usually creates an intransitive verb, but because the referent was previously established it does not lose its specificity.  This is hard to demonstrate in a single sentence, so a short paragraph is given below with the discourse-type incorporation highlighted in bold.
 
 ### Copulae
 
