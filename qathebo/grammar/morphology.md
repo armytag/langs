@@ -225,6 +225,10 @@ Personal pronouns only exist for humans and follow Group 1 morphosyntactic patte
 
 ### Demonstrative Pronouns
 
+There are two demonstrative pronouns in Qʼathebʼo.  One is for referents near the speaker, the proximal demonstrative *lothi*, and the other is for referents far from the speaker, the distal *kedi*.  These demonstratives take the same number marking as other nouns, matching the appropriate animacy group of the referent.
+
+Like the English demonstratives "this" and "that", the Qʼathebʼo demonstratives can also be used to specify another noun.
+
 ### Reflexive Pronouns
 
 Reflexive pronouns are formed from personal or demonstrative pronouns by prefixing *patʼo-* to the front.  Reflexive pronouns refer to another established noun and are not used by themselves, though they can appear earlier in the same sentence as the referent, as sentence %{+3}% demonstrates.
