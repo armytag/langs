@@ -227,7 +227,42 @@ Personal pronouns only exist for humans and follow Group 1 morphosyntactic patte
 
 There are two demonstrative pronouns in Qʼathebʼo.  One is for referents near the speaker, the proximal demonstrative *lothi*, and the other is for referents far from the speaker, the distal *kedi*.  These demonstratives take the same number marking as other nouns, matching the appropriate animacy group of the referent.
 
-Like the English demonstratives "this" and "that", the Qʼathebʼo demonstratives can also be used to specify another noun.
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>notebʼ-i</dt> <dd>equivalence.be<abbr>-IPFV</abbr></dd> </dl>
+<dl> <dt>notebʼ-i</dt> <dd>this<abbr>-G1.SG-NOM-PRS</abbr></dd> </dl>
+<dl> <dt>notebʼ-i</dt> <dd>sister<abbr>-G1.SG-ESS-POSS</abbr></dd> </dl>
+<dl> <dt>notebʼ-i</dt> <dd><abbr>1SG-GEN</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"This is my sister."</p>
+</div>
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>hl-a-lo</dt> <dd>eat<abbr>-PFV-G3.PL</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"Bring that here."</p>
+</div>
+
+Like the English demonstratives "this" and "that", the Qʼathebʼo demonstratives can also be used to specify another noun rather than replacing it.
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>hl-a-lo</dt> <dd>eat<abbr>-PFV-G3.PL</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"Don't go to near that squirrel."</p>
+</div>
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>hl-a-lo</dt> <dd>eat<abbr>-PFV-G3.PL</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"You should return this book to the library."</p>
+</div>
 
 ### Reflexive Pronouns
 
