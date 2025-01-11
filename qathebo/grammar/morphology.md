@@ -246,7 +246,7 @@ There are two demonstrative pronouns in Qʼathebʼo.  One is for referents near 
 <p class="freetranslation">"Bring that here."</p>
 </div>
 
-Like the English demonstratives "this" and "that", the Qʼathebʼo demonstratives can also be used to specify another noun rather than replacing it.
+Like the English demonstratives "this" and "that", the Qʼathebʼo demonstratives can also be used to specify another noun rather than replacing it.  In this case they act like modifiers, appearing after the referent and taking [modifier agreement](#modifying-nouns) rather than number/case marking.
 
 <div class="gloss">
 <p class="number"></p>
