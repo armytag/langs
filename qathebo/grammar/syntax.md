@@ -107,11 +107,19 @@ Phasal polarity is the expression of a change in situation between two points in
 
 In Qʼathebʼo, each of these phasal polarity distinctions are expressed in multiple ways depending on the lexical and aspectual qualities of the predicate.
 
-#### *ALREADY*
+#### Perfective Verb
 
-#### *STILL*
+Perfective verbs inherently convey a neutral sense of *ALREADY* by focusing on the start or end of an action.
 
-#### *NO LONGER*
+#### Imperfective Verb
 
-#### *NOT YET*
+Imperfective verbs with stative or locational arguments inherently convey a neutral sense of *STILL* by focusing on the duration of the predicate.
+
+When such verbs are negated with *theni*, the inherent timing changes to *NO LONGER*.
+
+#### Adverb *bʼaqa*
+
+The adverb *bʼaqa* ("yet") is used to convey counterfactual *STILL*, emphasizing that the present situation has not changed despite some expectation or desire that it be otherwise.  This is much stronger than a lone perfective verb, which carries only a weak implication of *STILL*.
+
+When *bʼaqa* is used with a negated verb, it gains the meaning of *NOT YET*, emphasizing that the present situation lacks some expected or desired quality.
 
