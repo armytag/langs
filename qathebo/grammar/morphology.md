@@ -530,7 +530,7 @@ There are several verbs in Qʼathebʼo that perform the functions of English "be
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>qipʼabʼ-a-aa</dt> <dd>exist.be<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>qipʼabʼ-a</dt> <dd>exist.be<abbr>-PFV</abbr></dd> </dl>
 <dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"There was a dog."</p>
@@ -615,11 +615,11 @@ Numbers in Qʼathebʼo are modifiers that specify either the number of instances
 
 <div class="gloss">
 <p class="number"></p>
-<p class="original">𞤆𞥇𞤫𞤼𞤢𞤥𞤮 𞤺𞤫𞤯𞤫𞤥𞤭 𞤹𞥇𞤢𞤹𞤮𞤬𞤭 𞤦𞤭𞤹𞤫𞤥𞤮.</p>
+<p class="original">𞤆𞥇𞤫𞤼𞤢𞤥𞤮 𞤺𞤫𞤯𞤫𞤥𞤭 𞤹𞤢𞤹𞥇𞤮𞤬𞤭 𞤦𞤭𞤹𞤫𞤥𞤮.</p>
 <div class="interlinear">
 <dl> <dt>pʼet-a-mo</dt> <dd>cook-<abbr>PFV-G2.PL</abbr></dd> </dl>
 <dl> <dt>ge-dʼe-mi</dt> <dd><abbr>3SG-NOM-PST</abbr></dd> </dl>
-<dl> <dt>qʼaqo-thi-∅</dt> <dd>fish<abbr>-G2.PAU-ACC</abbr></dd> </dl>
+<dl> <dt>qaqʼo-thi-∅</dt> <dd>fish<abbr>-G2.PAU-ACC</abbr></dd> </dl>
 <dl> <dt>biqe-mo</dt> <dd>three<abbr>-G2.PL</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"He cooked three fish."</p>
