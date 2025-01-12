@@ -548,6 +548,40 @@ There are several verbs in Qʼathebʼo that perform the functions of English "be
 
 ## Adverbs
 
+Adverbs are a special class of words in Qʼathebʼo that change how a verb relates to the rest of the discourse.  They occur before a verb, and differ from [verb modifiers](#modifying-verbs) which add meaning or nuance to a verb.
+
+### Negation
+
+The adverb *theni* negates the following verb.  This is often a simple negation, but can sometimes create special interpretations when combined with other adverbs (especially temporal adverbs or [phasal polarity](#phasal-polarity)).  It always occurs right before the verb, and other adverbs must precede it.
+
+### Time
+
+Some adverbs place verbs in context of the broader discourse.  Some simple examples include *dibo* ("before") and *lapo* ("after") which place the affected verb as background context, and which another verb can occur either before or after.
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>qipʼabʼ-a</dt> <dd>exist.be<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"There was a dog."</p>
+</div>
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>qipʼabʼ-a</dt> <dd>exist.be<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"There was a dog."</p>
+</div>
+
+Another temporal adverb is *bʼaqa* ("yet"), which emphasizes that the affected verb continues to reflect the current situation and hasn't changed.  This is described in more detail in the [section on Phasal Polarity](#adverb-bʼaqa).
+
+### Purpose
+
+The adverb *kʼahla* ("so that") indicates that the affected verb describes the reason or intention for another verb to happen.  It usually links two independent clauses that might otherwise require one of them to become a relative clause.
+
 ## Modifiers
 
 Most modifiers in Qʼathebʼo can modify either nouns or verbs.  The root of the modifier is used in both situations, though with nouns they take additional inflection.
