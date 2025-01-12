@@ -2,15 +2,15 @@
 
 ## Nouns
 
-The prototypical noun structure is a lexical root, a number affix based on animacy group, a case affix, a possession marker, and if appropriate a tense affix (usually on nominal-case nouns).  This is represented by the following template, where <λ> represents the lexical root.
+The prototypical noun structure is a lexical root, a number affix based on animacy group, a possession marker if possessed, a case affix, and if appropriate a tense affix (usually on nominal-case nouns).  This is represented by the following template, where <λ> represents the lexical root.
 
 <div class="comparison">
-<p>λ-<abbr>NUM-CASE(-POSS)(-TENSE)</abbr></p>
+<p>λ-<abbr>NUM(-POSS)-CASE(-TENSE)</abbr></p>
 </div>
 
 ### Animacy Groups (Class/Gender)
 
-There a five classes of nouns that determine the noun's declension pattern.  Specifically, a noun's class affects number marking, verb and modifier agreement, and word order.
+There are five classes of nouns that determine the noun's declension pattern.  Specifically, a noun's class affects number marking, verb and modifier agreement, and word order.
 
 ***Group 1*** -- Adult humans, including human body parts and groups of humans (e.g. society).
 
@@ -242,7 +242,7 @@ There are two demonstrative pronouns in Qʼathebʼo.  One is for referents near 
 <div class="interlinear">
 <dl> <dt>notebʼ-i</dt> <dd>equivalence.be<abbr>-IPFV</abbr></dd> </dl>
 <dl> <dt>notebʼ-i</dt> <dd>this<abbr>-G1.SG-NOM-PRS</abbr></dd> </dl>
-<dl> <dt>notebʼ-i</dt> <dd>sister<abbr>-G1.SG-ESS-POSS</abbr></dd> </dl>
+<dl> <dt>notebʼ-i</dt> <dd>sister<abbr>-G1.SG-POSS-ESS</abbr></dd> </dl>
 <dl> <dt>notebʼ-i</dt> <dd><abbr>1SG-GEN</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"This is my sister."</p>
@@ -438,7 +438,7 @@ Transitive verbs are marked for the animacy group, person, and number of the dir
 <dl> <dt>aa</dt> <dd>hit<abbr>-PFV-G2.PL</abbr></dd> </dl>
 <dl> <dt>bb</dt> <dd><abbr>1SG-NOM-PST</abbr></dd> </dl>
 <dl> <dt>cc</dt> <dd>and-bird-<abbr>G2.SG-ACC</abbr></dd> </dl>
-<dl> <dt>dd</dt> <dd>and-nest<abbr>-G4.SG-ACC-POSS</abbr></dd> </dl>
+<dl> <dt>dd</dt> <dd>and-nest<abbr>-G4.SG-POSS-ACC</abbr></dd> </dl>
 <dl> <dt>ee</dt> <dd><abbr>G2.SG-GEN</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"I hit the bird and its nest with the stone."</p>
