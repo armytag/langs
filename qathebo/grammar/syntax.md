@@ -71,15 +71,16 @@ Relative clauses are predicates that are being used to modify part of another cl
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>aa</dt> <dd><abbr>NEG</abbr></dd> </dl>
-<dl> <dt>aa-bb</dt> <dd>find<abbr>-PFV</abbr></dd> </dl>
-<dl> <dt>aa-bb-cc</dt> <dd><abbr>G1.SG-NOM-PRS</abbr></dd> </dl>
-<dl> <dt>aa-bb-∅</dt> <dd>scarf<abbr>-G3.SG-ACC</abbr></dd> </dl>
+<dl> <dt>theni</dt> <dd><abbr>NEG</abbr></dd> </dl>
+<dl> <dt>aa-e-di</dt> <dd>find<abbr>-PFV-G3.SG</abbr></dd> </dl>
+<dl> <dt>pʼa-dʼe-bʼi</dt> <dd><abbr>1SG-NOM-PRS</abbr></dd> </dl>
+<dl> <dt>aa-ga-∅</dt> <dd>scarf<abbr>-G3.SG-ACC</abbr></dd> </dl>
 <dl> <dt>aa</dt> <dd><abbr>REL</abbr></dd> </dl>
-<dl> <dt>aa-bb</dt> <dd><abbr>1SG-DAT</abbr></dd> </dl>
-<dl> <dt>aa-bb-cc-dd-ee</dt> <dd>grandmother<abbr>G1.SG-NOM-REL:PST-1SG</abbr></dd> </dl>
-<dl> <dt>(aa-∅)</dt> <dd><abbr>(G3.SG-ACC)</abbr></dd> </dl>
-<dl> <dt>aa-bb-cc</dt> <dd>make<abbr>-PFV-G3.SG</abbr></dd> </dl>
+<dl> <dt>pʼa-ta</dt> <dd><abbr>1SG-DAT</abbr></dd> </dl>
+<dl> <dt>aa-ta-tʼo-dʼe-pʼi</dt> <dd>grandmother<abbr>-G1.SG-POSS-NOM-REL:PST</abbr></dd> </dl>
+<dl> <dt>pʼe-tʼi</dt> <dd><abbr>1SG-GEN</abbr></dd> </dl>
+<dl> <dt>(kade-ga-∅)</dt> <dd><abbr>(that-G3.SG-ACC)</abbr></dd> </dl>
+<dl> <dt>dʼ-a-di</dt> <dd>make<abbr>-PFV-G3.SG</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"I can't find the scarf my grandmother made for me."</p>
 </div>

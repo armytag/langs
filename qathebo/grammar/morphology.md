@@ -2,10 +2,10 @@
 
 ## Nouns
 
-The prototypical noun structure is a lexical root, a number affix based on animacy group, a case affix, and if appropriate a tense affix (usually on nominal-case nouns).  This is represented by the following template, where <λ> represents the lexical root.
+The prototypical noun structure is a lexical root, a number affix based on animacy group, a case affix, a possession marker, and if appropriate a tense affix (usually on nominal-case nouns).  This is represented by the following template, where <λ> represents the lexical root.
 
 <div class="comparison">
-<p>λ-<abbr>NUM-CASE(-TENSE)</abbr></p>
+<p>λ-<abbr>NUM-CASE(-POSS)(-TENSE)</abbr></p>
 </div>
 
 ### Animacy Groups (Class/Gender)
@@ -48,7 +48,7 @@ There are nine nominal cases: nominative, accusative, dative, genitive, instrume
 | Nominative   | -dʼa  | *agent*     |
 | Accusative   | *-*   | *patient*   |
 | Dative       | -ta   | *recipient* |
-| Genitive     | -tʼa  | *"of"*      |
+| Genitive     | -tʼi  | *"of"*      |
 | Instrumental | -gi   | *"with"*    |
 | Locative     | -to   | *"at"*      |
 | Allative     | -mo   | *"to"*      |
@@ -56,15 +56,29 @@ There are nine nominal cases: nominative, accusative, dative, genitive, instrume
 | Essive       | -qʼa  | *"as"*      |
 : Nominal Cases
 
+### Possession
+
+When nouns are possessed, they take an additional suffix *-tʼo* after all other affixes (usually after the case or tense marker).  The possessor noun appears in genetive form after the possessed noun, much like an noun modifier.
+
 ### Tense
 
 In Qʼathebʼo sentences, clause-level tense is marked on nominative nouns rather than on verbs.  All nouns in the nominative case will mark the same clause-level tense.
+
+Below is a table summarizing both simple and relative tense affixes.  Each will be described in the following subsections.
+
+|             | Simple | Relative |
+|---          |---     |---       |
+| Future      | -do    | -na      |
+| Present     | -bʼi   | -ta      |
+| Past        | -mi    | -pʼi     |
+| Remote Past | -qʼo   |          |
+: Tense Affixes
 
 #### Simple Tense
 
 Simple clauses make four tense distinctions: present, future, past, and remote past.
 
-**Present** tense (-*bʼi) is used for events happening at roughly the same time as the moment of speech.
+**Present** tense (-*bʼi*) is used for events happening at roughly the same time as the moment of speech.
 
 <div class="gloss">
 <p class="number"></p>
@@ -103,8 +117,8 @@ Events that have just happened or events that are about to happen are typically 
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>aa</dt> <dd>shower-PFV</dd> </dl>
-<dl> <dt>aa</dt> <dd>1SG-NOM-PRS</dd> </dl>
+<dl> <dt>aa</dt> <dd>shower<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>aa</dt> <dd><abbr>1SG-NOM-PRS</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"I'm going to take a shower now."</p>
 </div>
@@ -204,11 +218,7 @@ Still, even if they remained homeless for the entire time afterward, they would 
 
 #### Relative Tense
 
-Within dependant clauses the past and remote-past merge into a single tense, leaving three tense distinctions: present, future, past.  These take different marking to indicate their presence in a dependant clause.  The point of reference for these relative tenses is not the moment of speech, but rather the time of the event in the matrix predicate.
-
-### Possession
-
-When nouns are possessed, they take an additional suffix *-tʼo* after all other affixes (usually after the case or tense marker).  The possessor noun appears in genetive form after the possessed noun, much like an noun modifier.
+Within dependant clauses the past and remote-past merge into a single tense, leaving three tense distinctions: present (*-na*), future (*-ta*), and past (*-pʼi*).  The point of reference for these relative tenses is not the moment of speech, but rather the time of the event in the matrix predicate.
 
 ## Pronouns
 

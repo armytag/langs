@@ -212,10 +212,10 @@ class="toc-section-number">3.1.1</span> Animacy Groups
 class="toc-section-number">3.1.2</span> Person &amp; Number</a></li>
 <li><a href="#case" id="toc-case"><span
 class="toc-section-number">3.1.3</span> Case</a></li>
-<li><a href="#tense" id="toc-tense"><span
-class="toc-section-number">3.1.4</span> Tense</a></li>
 <li><a href="#possession" id="toc-possession"><span
-class="toc-section-number">3.1.5</span> Possession</a></li>
+class="toc-section-number">3.1.4</span> Possession</a></li>
+<li><a href="#tense" id="toc-tense"><span
+class="toc-section-number">3.1.5</span> Tense</a></li>
 </ul></li>
 <li><a href="#pronouns" id="toc-pronouns"><span
 class="toc-section-number">3.2</span> Pronouns</a>
@@ -1022,12 +1022,13 @@ class="header-section-number">3</span> Morphology</h1>
 <h2 data-number="3.1" id="nouns"><span
 class="header-section-number">3.1</span> Nouns</h2>
 <p>The prototypical noun structure is a lexical root, a number affix
-based on animacy group, a case affix, and if appropriate a tense affix
-(usually on nominal-case nouns). This is represented by the following
-template, where <λ> represents the lexical root.</p>
+based on animacy group, a case affix, a possession marker, and if
+appropriate a tense affix (usually on nominal-case nouns). This is
+represented by the following template, where <λ> represents the lexical
+root.</p>
 <div class="comparison">
 <p>
-λ-<abbr>NUM-CASE(-TENSE)</abbr>
+λ-<abbr>NUM-CASE(-POSS)(-TENSE)</abbr>
 </p>
 </div>
 <h3 data-number="3.1.1" id="animacy-groups-classgender"><span
@@ -1145,7 +1146,7 @@ accusative does not.</p>
 </tr>
 <tr class="even">
 <td style="text-align: center;">Genitive</td>
-<td style="text-align: center;">-tʼa</td>
+<td style="text-align: center;">-tʼi</td>
 <td style="text-align: center;"><em>“of”</em></td>
 </tr>
 <tr class="odd">
@@ -1175,17 +1176,57 @@ accusative does not.</p>
 </tr>
 </tbody>
 </table>
-<h3 data-number="3.1.4" id="tense"><span
-class="header-section-number">3.1.4</span> Tense</h3>
+<h3 data-number="3.1.4" id="possession"><span
+class="header-section-number">3.1.4</span> Possession</h3>
+<p>When nouns are possessed, they take an additional suffix
+<em>-tʼo</em> after all other affixes (usually after the case or tense
+marker). The possessor noun appears in genetive form after the possessed
+noun, much like an noun modifier.</p>
+<h3 data-number="3.1.5" id="tense"><span
+class="header-section-number">3.1.5</span> Tense</h3>
 <p>In Qʼathebʼo sentences, clause-level tense is marked on nominative
 nouns rather than on verbs. All nouns in the nominative case will mark
 the same clause-level tense.</p>
-<h4 data-number="3.1.4.1" id="simple-tense"><span
-class="header-section-number">3.1.4.1</span> Simple Tense</h4>
+<p>Below is a table summarizing both simple and relative tense affixes.
+Each will be described in the following subsections.</p>
+<table>
+<caption>Tense Affixes</caption>
+<thead>
+<tr class="header">
+<th></th>
+<th>Simple</th>
+<th>Relative</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Future</td>
+<td>-do</td>
+<td>-na</td>
+</tr>
+<tr class="even">
+<td>Present</td>
+<td>-bʼi</td>
+<td>-ta</td>
+</tr>
+<tr class="odd">
+<td>Past</td>
+<td>-mi</td>
+<td>-pʼi</td>
+</tr>
+<tr class="even">
+<td>Remote Past</td>
+<td>-qʼo</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h4 data-number="3.1.5.1" id="simple-tense"><span
+class="header-section-number">3.1.5.1</span> Simple Tense</h4>
 <p>Simple clauses make four tense distinctions: present, future, past,
 and remote past.</p>
-<p><strong>Present</strong> tense (-*bʼi) is used for events happening
-at roughly the same time as the moment of speech.</p>
+<p><strong>Present</strong> tense (-<em>bʼi</em>) is used for events
+happening at roughly the same time as the moment of speech.</p>
 <div class="gloss">
 <p class="number">(1)
 </p>
@@ -1323,7 +1364,7 @@ table-<abbr>G4.SG-LOC
 aa
 </dt>
 <dd>
-shower-PFV
+shower<abbr>-PFV</abbr>
 </dd>
 </dl>
 <dl>
@@ -1331,7 +1372,7 @@ shower-PFV
 aa
 </dt>
 <dd>
-1SG-NOM-PRS
+<abbr>1SG-NOM-PRS</abbr>
 </dd>
 </dl>
 </div>
@@ -1642,19 +1683,13 @@ house-<abbr>G4.SG-NOM-REM</abbr>
 <p>Still, even if they remained homeless for the entire time afterward,
 they would likely start using the <em>remote-past</em> tense after a
 year or more had passed.</p>
-<h4 data-number="3.1.4.2" id="relative-tense"><span
-class="header-section-number">3.1.4.2</span> Relative Tense</h4>
+<h4 data-number="3.1.5.2" id="relative-tense"><span
+class="header-section-number">3.1.5.2</span> Relative Tense</h4>
 <p>Within dependant clauses the past and remote-past merge into a single
-tense, leaving three tense distinctions: present, future, past. These
-take different marking to indicate their presence in a dependant clause.
-The point of reference for these relative tenses is not the moment of
-speech, but rather the time of the event in the matrix predicate.</p>
-<h3 data-number="3.1.5" id="possession"><span
-class="header-section-number">3.1.5</span> Possession</h3>
-<p>When nouns are possessed, they take an additional suffix
-<em>-tʼo</em> after all other affixes (usually after the case or tense
-marker). The possessor noun appears in genetive form after the possessed
-noun, much like an noun modifier.</p>
+tense, leaving three tense distinctions: present (<em>-na</em>), future
+(<em>-ta</em>), and past (<em>-pʼi</em>). The point of reference for
+these relative tenses is not the moment of speech, but rather the time
+of the event in the matrix predicate.</p>
 <h2 data-number="3.2" id="pronouns"><span
 class="header-section-number">3.2</span> Pronouns</h2>
 <h3 data-number="3.2.1" id="personal-pronouns"><span
@@ -3908,7 +3943,7 @@ aa-bb-cc
 <div class="interlinear">
 <dl>
 <dt>
-aa
+theni
 </dt>
 <dd>
 <abbr>NEG</abbr>
@@ -3916,23 +3951,23 @@ aa
 </dl>
 <dl>
 <dt>
-aa-bb
+aa-e-di
 </dt>
 <dd>
-find<abbr>-PFV</abbr>
+find<abbr>-PFV-G3.SG</abbr>
 </dd>
 </dl>
 <dl>
 <dt>
-aa-bb-cc
+pʼa-dʼe-bʼi
 </dt>
 <dd>
-<abbr>G1.SG-NOM-PRS</abbr>
+<abbr>1SG-NOM-PRS</abbr>
 </dd>
 </dl>
 <dl>
 <dt>
-aa-bb-∅
+aa-ga-∅
 </dt>
 <dd>
 scarf<abbr>-G3.SG-ACC</abbr>
@@ -3948,7 +3983,7 @@ aa
 </dl>
 <dl>
 <dt>
-aa-bb
+pʼa-ta
 </dt>
 <dd>
 <abbr>1SG-DAT</abbr>
@@ -3956,23 +3991,31 @@ aa-bb
 </dl>
 <dl>
 <dt>
-aa-bb-cc-dd-ee
+aa-ta-tʼo-dʼe-pʼi
 </dt>
 <dd>
-grandmother<abbr>G1.SG-NOM-REL:PST-1SG</abbr>
+grandmother<abbr>-G1.SG-POSS-NOM-REL:PST</abbr>
 </dd>
 </dl>
 <dl>
 <dt>
-(aa-∅)
+pʼe-tʼi
 </dt>
 <dd>
-<abbr>(G3.SG-ACC)</abbr>
+<abbr>1SG-GEN</abbr>
 </dd>
 </dl>
 <dl>
 <dt>
-aa-bb-cc
+(kade-ga-∅)
+</dt>
+<dd>
+<abbr>(that-G3.SG-ACC)</abbr>
+</dd>
+</dl>
+<dl>
+<dt>
+dʼ-a-di
 </dt>
 <dd>
 make<abbr>-PFV-G3.SG</abbr>
