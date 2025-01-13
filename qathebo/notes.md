@@ -1,12 +1,4 @@
 # Phonology
-- Phonemic /θ/ and /ɬ/, and no other fricatives[^example]
-- No phonemic /u/, only /a ɛ i o/
-- Have a voicing pattern distinction only in plosive
-- Have a place of articulation contrast within one of the categories of labial, coronal, and dorsal
-- Have at least one non-pulmonic consonant
-- Have a phonological restriction at domain edges
-
-[^example]: This is a footnote.
 
 | VOWELS | Front | Back |
 |---     |---    |---   |
@@ -24,9 +16,6 @@
 | Lat. Fric.  |        | ɬ      |       |        |
 | Approximant |        | l      |       |        |
 
-- Simple tone system?
-- Have phonological changes (e.g. vowel dropping or consonant devoicing) dependant on something higher than Prosodic Word level (e.g. Intonation Phrase level or Utterance level)
-
 ## Sound Changes
 
 1. 
@@ -42,90 +31,6 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
 </div>
 
 # Nouns
-
-## Noun Template
-1. λ-NUM-CASE-TENSE
-
-## Notes
-- Nominal tense (3+ morphemes)
-    - Future: *-do*
-    - Present: *-bʼi*
-    - Recent past: *-mi*
-        - Somewhat implies that the event still has present repricusions
-        - burndown-PFV house-NOM.G5-PST → *"My house burned down (and now I'm homeless)"*
-    - Remote past: *-qʼo*
-        - Somewhat implies that the event is not longer directly relevant
-        - burndown-PFV house-NOM.G5-REM → *"My house burned down (but now I'm living elsewhere)"*
-        - Regardless of relevance, this form is almost always used for events more than one year prior
-        - burndown-PFV house-NOM.G5-REM → *"My house burned down (last year, and I'm still homeless)"*
-    - Tenses have special relative forms that appear in temporal subordinate clauses
-
-| TENSE       | Normal | Relative |
-|---          |---     |---       |
-| Future      | -do    | -na      |
-| Present     | -bʼi   | -ta      |
-| Past        | -mi    | -pʼi     |
-| Remote Past | -qʼo   | -pʼi     |
-
-- Singular, Dual, Paucal, and Plural number
-    - *Have some classes merge based on plurality*
-    - *Have some of the agreement markers show polarity (e.g. singular A matches plural B)*
-- 6 noun classes (animacy hierarchy)
-    - 2P = 1P > 3P
-    - Adult humans (familiar)
-        - Includes body parts and groups of humans (society)
-    - Animate, self-moving things (threats)
-        - Animals, water rapids, fire
-    - Manipulatable objects (useful)
-        - Food, tools, small stones, crops
-    - Larger environmental objects (distant)
-        - Trees, buildings, clouds
-    - Abstract, formless things (indistinct)
-        - Thoughts, ideas, time
-
-| CLASS\\NUMBER | Singular | Dual  | Paucal | Plural |
-|---            |---       |---    |---     |---     |
-| Humans        | **A**    | **B** | **C**  | **D**  |
-| Animate       | **E**    | **C** | **B**  | **F**  |
-| Manipulatable | **G**    | **H** | **H**  | **I**  |
-| Environmental | **J**    | **K** | **K**  | **I**  |
-| Abstract      | **D**    | **A** | **A**  | **A**  |
-: Nominal Person-Number Overlap
-
-| CLASS\\NUMBER | Singular | Dual  | Paucal | Plural |
-|---            |---       |---    |---     |---     |
-| Humans        | -ta      | -thi  | -tha   | -gi    |
-| Animate       | -ma      | -tha  | -thi   | -mi    |
-| Manipulatable | -dʼa     | -ki   | -ki    | -la    |
-| Environmental | -qo      | -hlo  | -hlo   | -la    |
-| Abstract      | -gi      | -ta   | -ta    | -ta    |
-: Nominal Person-Number Marking
-
-- Pronouns have person-number stems with pronominal affix
-    - 3rd person pronouns derived from demonstrative, except for G1.3
-
-| CLASS\\NUMBER | Single | Dual   | Paucal | Plural |
-|---            |---     |---     |---     |---     |
-| G1 1st        | pʼa    | bʼabo  | mibʼa  | bʼopʼi |
-| G1 2nd        | qi     | qona   | qʼobʼa | thoqi  |
-| G1 3rd        | gi     | gatho  | gebʼa  | gogi   |
-| G2 2nd        | tʼa    | tʼeti  | tʼadʼa | tʼegi  |
-| G2 3rd        | mo     | mokʼi  | moga   | mikʼi  |
-| G3 3rd        | dʼi    | dʼito  | dʼito  | leli   |
-| G4 3rd        | tha    | hlamo  | hlamo  | leli   |
-| G5 3rd        | kʼalo  | kʼethi | kʼethi | kʼethi |
-: Personal Pronouns
-
-- 8-9 noun cases (symmetrical)
-    - Nominative: -dʼa
-    - Accusative (unmarked): -∅
-    - Dative: -ta
-    - Genitive: -tʼa
-    - Instrumental: -gi
-    - Locative: -to
-    - Allative: -mo
-    - Ablative: -di
-    - Essive: -qʼa
 
 | NOUN CASE          | Thing     | Place     | Time       | State     |
 |---                 |---        |---        |---         |---        |
@@ -181,32 +86,6 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
 - Mark direct object (not subject)
     - Agrees in person, number, and class
 
-| CLASS\\NUMBER | Single | Plural |
-|---            |---     |---     |
-| G1 1st        | -pi    | -po    |
-| G1 2nd        | -qʼi   | -qa    |
-| G1 3rd        | -gi    | -ga    |
-| G2 2nd        | -ti    | -ta    |
-| G2 3rd        | -ni    | -mo    |
-| G3 3rd        | -di    | -lo    |
-| G4 3rd        | -tha   | -lo    |
-| G5 3rd        | -kʼi   | -ko    |
-
-# Modifiers
-
-- Modifiers can apply to verbs (as adverbs) or nouns (as adjectives)
-- Adjectives are modifiers that agree with a noun in class
-    - Agreement is consonant of singular/plural noun class marker, with vowel /o/
-- Adjectives come right after the noun they modify
-
-| CLASS | Single | Plural |
-|---    |---     |---     |
-| G1    | -to    | -go    |
-| G2    | -mo    | -mo    |
-| G3    | -dʼo   | -lo    |
-| G4    | -qo    | -lo    |
-| G5    | -go    | -to    |
-
 ## Colors
 
 | BASIC COLORS | Term   |
@@ -216,95 +95,6 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
 | red          | deɡo   |
 | yellow       | tʼitho |
 | green/blue   | teqʼo  |
-
-# Numbers
-
-- Numbers take adjective-style agreement when they modify nouns
-- Numbers can be used as adverbs to indicate the verb occured so many times
-
-| NUMBER | Cardinal | Ordinal   |
-|---     |---       |---        |
-| one    | theqa    | thitʼi    |
-| two    | kiti     | qo-kiti   |
-| three  | biqo     | qo-biqo   |
-| four   | petʼa    | qo-petʼa  |
-| five   | goqi     | qe-goqi   |
-| six    | bokʼa    | qe-bokʼa  |
-| seven  | lepʼi    | qo-lepʼi  |
-| eight  | bʼodʼi   | qe-bʼodʼi |
-| nine   | qʼebʼa   | qo-qʼebʼa |
-| ten    | batha    | qo-batha  |
-
-# Derivation
-
-## Noun from noun
-- Personal nouns from abstract nouns ("a lie" → "liar")
-    - -qʼi
-- Someone with an institutional relationship to the noun ("land" → "land-owner")
-    - -talo
-- Someone who performs or is associated with the noun ("clay" → "potter")
-    - -no
-- Denoting one who posses an abstract noun ("beauty" → "beautiful person")
-    - -li
-- A general process involving the noun ("city" → "urbanization"; "film" → "filming")
-    - -hlapi
-- Negative opposite ("trust" → "mistrust")
-    - -kʼi
-
-## Noun from verb
-- Performer of verb ("cook" → "cooker")
-    - -dʼa
-- Abstract sense of verb ("appear" → "appearance"; "live" → "longevity")
-    - -hlali
-- Casual/nonserious abstract nouns related to verbal activity ("wander" → "wandering")
-    - -pikʼa
-- Process or result of verb ("attach" → "attachment")
-    - -bʼo
-- One instance of the verb
-    - -biki
-
-## Noun from modifier
-- Abstract sense of modifier ("large" → "largeness")
-    - -pi
-- Personal nouns from adjective combined with personal pronoun ("small" → "small person")
-    - -paga
-
-## Verb from noun
-- Some zero derivation
-- Transitiving/causativizing derivation
-    - -niba
-    - Intransitive to transitive ("die" → "kill")
-    - Transitive to causative ("eat" → "feed")
-
-## Verb from verb
-- Reciprocal meaning ("hit" → "hit each other")
-    - -thapʼa
-
-## Verb from modifier
-- From onomatopoeic modifiers ("jingle-jangle" → "jingle-jangling")
-    - -la
-
-## Modifier from noun
-- Repeated occurances ("day" → "daily")
-    - -do
-    - Can be used with numerals to derive distributed occurances ("four" → "every four")
-- Possessing the quality denoted by the noun ("strength" → "strong")
-    - -pʼo
-- Capable of giving rise to the noun state ("doubt" → "suspicious")
-    - -tʼoki
-- Permeated with the noun ("kindness" → "kindly"; "bribe" → "corrupt")
-    - -qapa
-- Occuring before noun ("war" → "pre-war")
-    - -bʼopʼa
-- Occuring after noun ("war" → "post-war")
-    - -pʼapʼo
-
-## Modifier from verb
-- Relative participle ("grow up" → "grown-up")
-    - -qʼomo
-
-## Modifier from modifier
-- Some nominalized modifiers (see Modifier from Noun)
 
 # Syntax
 - Verb initial
@@ -405,38 +195,14 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
 # Test Sentences
 
 <div class="gloss">
-<p class="original">𞤑𞤭𞤣𞤮𞤩𞤢𞤥𞤢 (𞤥𞤮) 𞤥𞤭𞤲𞤭𞤦𞤮𞤳𞥇𞤫𞤯𞤫𞤥𞤭.</p>
-<div class="interlinear">
-<dl> <dt>kidoɓ-a-ma</dt> <dd>bite-<abbr>PFV-G1.1SG</abbr></dd> </dl>
-<dl> <dt>(mo-∅)</dt> <dd><abbr>(G1.1SG-ACC)</abbr></dd> </dl>
-<dl> <dt>minibo-kʼɛ-ɗɛ-mi</dt> <dd>dog-<abbr>G3.SG-NOM-PST</abbr></dd> </dl>
-</div>
 <p class="freetranslation">"A dog bit me."</p>
 </div>
 
 <div class="gloss">
-<p class="original">𞤊𞤫𞤲𞤭 𞤳𞤭𞤣𞤮𞤩𞤢𞤬𞤢 𞤥𞤮𞤯𞤫𞤥𞤭 (𞤥𞤭𞤲𞤭𞤦𞤮𞤳𞥇𞤭).</p>
-<div class="interlinear">
-<dl> <dt>θɛni</dt> <dd><abbr>NEG</abbr></dd> </dl>
-<dl> <dt>kidoɓ-a-θa</dt> <dd>bite-<abbr>PFV-G3.3SG</abbr></dd> </dl>
-<dl> <dt>mo-ɗɛ-mi</dt> <dd><abbr>G1.1SG-NOM-PST</abbr></dd> </dl>
-<dl> <dt>(minibo-kʼi-∅)</dt> <dd>(dog-<abbr>G3.SG-ACC</abbr>)</dd> </dl>
-</div>
 <p class="freetranslation">"I didn't bite the dog."</p>
 </div>
 
 <div class="gloss">
-<p class="original">𞤂𞤫𞤳𞤭𞤼𞥇𞤮𞤺𞤫𞤯𞤢𞤲𞤮 𞤼𞤢𞤺𞤮𞤸𞤢𞤳𞥇𞤫𞤨𞤭 𞤳𞥇𞤢𞤣𞤮𞤥𞤫𞤨𞤭 𞤨𞤭𞤬𞤮 𞤨𞥇𞤭𞤥𞤮𞤼𞤫𞤩𞤢𞤨𞤢𞤯𞤫𞤳𞤭 𞤨𞥇𞤮𞤼𞥇𞤫𞤥𞤭𞤨𞤮 𞤨𞥇𞤭𞤤𞤮𞤣𞤭𞤨𞤫𞤨𞤢𞤯𞤫𞤳𞤭 𞤼𞤮𞤯𞤭𞤼𞥇𞤭𞤨𞤮.</p>
-<div class="interlinear">
-<dl> <dt>lɛkitʼo-ɡɛ-ɗa-no</dt> <dd>noodle-<abbr>G5.PL-NOM-REL:PRS</abbr></dd> </dl>
-<dl> <dt>tagoɬ-akʼɛ-pi</dt> <dd>discuss-<abbr>SUB</abbr></dd> </dl>
-<dl> <dt>kʼadom-ɛ-pi</dt> <dd>clarify-<abbr>PFV-PASS</abbr></dd> </dl>
-<dl> <dt>piθo</dt> <dd>necessary</dd> </dl>
-<dl> <dt>pʼi-motɛɓa-pa-ɗɛ-ki</dt> <dd>_or_-material-<abbr>G5.SG-NOM-PRS</abbr></dd> </dl>
-<dl> <dt>pʼotʼɛmi-po</dt> <dd>composed-<abbr>G5.SG</abbr></dd> </dl>
-<dl> <dt>pʼi-lodipɛ-pa-ɗɛ-ki</dt> <dd>_or_-origin-<abbr>G5.SG-NOM-PRS</abbr></dd> </dl>
-<dl> <dt>toɗitʼi-po</dt> <dd>cultural-<abbr>G5.SG</abbr></dd> </dl>
-</div>
 <p class="freetranslation">"The material composition or geocultural origin must be specified when discussing noodles."</p>
 <p class="source">(746th JU5MoYD)</p>
 </div>
@@ -447,26 +213,11 @@ Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
 </div>
 
 <div class="gloss">
-<p class="original">𞤐𞤫𞤺𞤫𞤣𞤢𞤸𞤮 𞤹𞤢𞤥𞤮𞤨𞥇𞤮𞤺𞤫𞤯𞤫𞤥𞤭.</p>
-<div class="interlinear">
-<dl> <dt>nɛɡɛd-a-ɬo</dt> <dd>spoil-<abbr>PFV-G5.3PL</abbr></dd> </dl>
-<dl> <dt>qamɛpʼo-ɡɛ-ɗɛ-mi</dt> <dd>cheese-<abbr>G5.PL-NOM-PST</abbr></dd> </dl>
-</div>
 <p class="freetranslation">"The cheeses have deteriorated."</p>
 <p class="source">(1468th JU5MoYD)</p>
 </div>
 
 <div class="gloss">
-<p class="original">𞤃𞤮𞤯𞤢𞤨𞥇𞤮 𞤬𞤫𞤸𞤢𞤤𞤫𞤣𞤢𞤸𞤮 𞤥𞤭𞤲𞤫𞤬𞤢𞤳𞥇𞤮𞤨𞥇𞤢𞤳𞥇𞤢 𞤹𞤫𞤬𞤮𞤦𞤭𞤹𞥇𞤢 𞤸𞤢𞤯𞤫𞤳𞤭 𞤩𞤫𞤼𞥇𞤮𞤼𞥇𞤢𞤹𞤫𞤩𞤭 𞤹𞤮𞤳𞤭𞤼𞤭𞤹𞤮.</p>
-<div class="interlinear">
-<dl> <dt>mo-ɗa-pʼo</dt> <dd><abbr>G1.1SG-NOM-REL:PST</abbr></dd> </dl>
-<dl> <dt>θɛɬalɛ-da-ɬo</dt> <dd>yesterday-<abbr>G6.SG-LOC</abbr></dd> </dl>
-<dl> <dt>minɛθa-kʼopʼ-akʼa</dt> <dd>home-go-<abbr>SUB</abbr></dd> </dl>
-<dl> <dt>qɛθob-i-qʼa</dt> <dd>write-<abbr>G4.SG-IPFV</abbr></dd> </dl>
-<dl> <dt>ɬa-ɗɛ-ki</dt> <dd><abbr>G1.3SG-NOM-PRS</abbr></dd> </dl>
-<dl> <dt>ɓɛtʼotʼa-qɛ-ɓi</dt> <dd>letter-<abbr>G4.SG-INS</abbr></dd> </dl>
-<dl> <dt>qo-kiti-qo</dt> <dd><abbr>ORD</abbr>-two-<abbr>G4.SG</abbr></abbr></dd> </dl>
-</div>
 <p class="freetranslation">"When I came home yesterday, he was writing the second letter."</p>
 <p class="source">(1617th JU5MoYD)</p>
 </div>
