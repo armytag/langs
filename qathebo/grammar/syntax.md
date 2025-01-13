@@ -77,7 +77,7 @@ Relative clauses are predicates that are being used to modify part of another cl
 <dl> <dt>aa-ga-∅</dt> <dd>scarf<abbr>-G3.SG-ACC</abbr></dd> </dl>
 <dl> <dt>aa</dt> <dd><abbr>REL</abbr></dd> </dl>
 <dl> <dt>pʼa-ta</dt> <dd><abbr>1SG-DAT</abbr></dd> </dl>
-<dl> <dt>aa-ta-tʼo-dʼe-pʼi</dt> <dd>grandmother<abbr>-G1.SG-POSS-NOM-REL:PST</abbr></dd> </dl>
+<dl> <dt>aa-ta-tʼo-dʼe-pʼi</dt> <dd>grandmother<abbr>-G1.SG-NOM-REL:PST</abbr></dd> </dl>
 <dl> <dt>pʼe-tʼi</dt> <dd><abbr>1SG-GEN</abbr></dd> </dl>
 <dl> <dt>(kade-ga-∅)</dt> <dd><abbr>(that-G3.SG-ACC)</abbr></dd> </dl>
 <dl> <dt>dʼ-a-di</dt> <dd>make<abbr>-PFV-G3.SG</abbr></dd> </dl>

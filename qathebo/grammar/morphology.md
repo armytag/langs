@@ -39,6 +39,10 @@ Nouns always mark number.  This appears as a suffix on the nominal root, and is 
 
 These number-marking suffixes only appear in nouns.  Regardless of the Animacy Group of the relevant noun, [verb agreement](#direct-object-agreement) and [modifier agreement](#modifying-nouns) only distinguishes single and plural.
 
+### Possession
+
+When nouns are possessed, they take an additional suffix *-tʼo* after number and before the case marker.  This form of possession only applies to nouns of a lower animacy group than the possessor; something cannot be possessed by a noun of equal or lower animacy.  The possessor noun appears in genetive form after the possessed noun, much like an noun modifier.
+
 ### Case
 
 There are nine nominal cases: nominative, accusative, dative, genitive, instrumental, locative, allative, ablative, and essive.  Unlike most nominative-accusative langauges, Qʼathebʼo is a marked-nominative language, which means the nominative case takes overt marking while the accusative does not.
@@ -55,10 +59,6 @@ There are nine nominal cases: nominative, accusative, dative, genitive, instrume
 | Ablative     | -di   | *"from"*    |
 | Essive       | -qʼa  | *"as"*      |
 : Nominal Cases
-
-### Possession
-
-When nouns are possessed, they take an additional suffix *-tʼo* after all other affixes (usually after the case or tense marker).  The possessor noun appears in genetive form after the possessed noun, much like an noun modifier.
 
 ### Tense
 
@@ -242,7 +242,7 @@ There are two demonstrative pronouns in Qʼathebʼo.  One is for referents near 
 <div class="interlinear">
 <dl> <dt>notebʼ-i</dt> <dd>equivalence.be<abbr>-IPFV</abbr></dd> </dl>
 <dl> <dt>notebʼ-i</dt> <dd>this<abbr>-G1.SG-NOM-PRS</abbr></dd> </dl>
-<dl> <dt>notebʼ-i</dt> <dd>sister<abbr>-G1.SG-POSS-ESS</abbr></dd> </dl>
+<dl> <dt>notebʼ-i</dt> <dd>sister<abbr>-G1.SG-ESS</abbr></dd> </dl>
 <dl> <dt>notebʼ-i</dt> <dd><abbr>1SG-GEN</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"This is my sister."</p>
@@ -467,7 +467,7 @@ Lexical Compounding turns a transitive verb into an intransitive verb with a nar
 
 #### Manipulation of Case
 
-Another type of noun incorporation affects the structure of a clause by moving an instrument, location, or possessor to direct object (or even subject) role.  This turns a transitive verb into another transitive verb, but with different relationships to the nouns in the phrase.  Unlike Lexical Compounding, this could involve individuated objects and doesn't necessarily mean that the incorporated object is non-specific.
+Another type of noun incorporation affects the structure of a clause by moving an instrument, location, or possessed noun to direct object (or even subject) role.  This turns a transitive verb into another transitive verb, but with different relationships to the nouns in the phrase.  Unlike Lexical Compounding, this could involve individuated objects and doesn't necessarily mean that the incorporated object is non-specific.
 
 #### Manipulation of Discourse Structure
 
