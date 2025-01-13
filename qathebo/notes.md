@@ -16,10 +16,6 @@
 | Lat. Fric.  |        | ɬ      |       |        |
 | Approximant |        | l      |       |        |
 
-## Sound Changes
-
-1. 
-
 # Orthography
 
 Uses the [Adlam script](https://en.wikipedia.org/wiki/Adlam_script)
