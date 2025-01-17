@@ -253,3 +253,7 @@ td {
 	margin-right: 1ch;
 }
 
+.side-by-side {
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+}
