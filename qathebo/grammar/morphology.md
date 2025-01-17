@@ -47,10 +47,12 @@ When nouns are possessed, they take an additional suffix *-tʼo* after number an
 
 There are nine nominal cases: nominative, accusative, dative, genitive, instrumental, locative, allative, ablative, and essive.  Unlike most nominative-accusative langauges, Qʼathebʼo is a marked-nominative language, which means the nominative case takes overt marking while the accusative does not.
 
+Below is a table summarizing the cases, their morphological affix form, and their general meaning.  Afterward each case is described in more detail.
+
 | Case         | Affix | Meaning     |
 | :---:        | :---: | :---:       |
 | Nominative   | -dʼa  | *agent*     |
-| Accusative   | *-*   | *patient*   |
+| Accusative   | -     | *patient*   |
 | Dative       | -ta   | *recipient* |
 | Genitive     | -tʼi  | *"of"*      |
 | Instrumental | -gi   | *"with"*    |
@@ -59,6 +61,24 @@ There are nine nominal cases: nominative, accusative, dative, genitive, instrume
 | Ablative     | -di   | *"from"*    |
 | Essive       | -qʼa  | *"as"*      |
 : Nominal Cases
+
+#### Nominative (*-dʼa*)
+
+#### Accusative
+
+#### Dative (*-ta*)
+
+#### Genitive (*-tʼi*)
+
+#### Instrumental (*-gi*)
+
+#### Locative (*-to*)
+
+#### Allative (*-mo*)
+
+#### Ablative (*-di*)
+
+#### Essive (*-qʼa*)
 
 ### Tense
 
