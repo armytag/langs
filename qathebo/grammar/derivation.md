@@ -62,18 +62,18 @@ This suffix denotes a general process involving the base noun.
 <dt></dt> <dd>"urbanization"</dd>
 </dl>
 
-#### _-kʼi_
+#### _kʼi-_
 
-This suffix derives a negative opposite from the base noun.
+This prefix derives a negative opposite from the base noun.
 
 <dl class="comparison col4">
 <dt></dt> <dd>"trust"</dd>
 <dt></dt> <dd>"mistrust"</dd>
 </dl>
 
-#### _-gotha_
+#### _gotha-_
 
-This suffix denotes an excessive degree of the base noun.
+This prefix denotes an excessive degree of the base noun.
 
 <dl class="comparison col4">
 <dt></dt> <dd>"desire"</dd>
