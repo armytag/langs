@@ -1,5 +1,8 @@
 Adlam	Phonetic	Part of Speech	Definitions	Tags
+𞤣𞤫𞤦𞤢	dɛba	adverb	before; marks that something happens before affected verb	
 𞤤𞤢	la	verb	go	
+𞤤𞤢𞤨𞤮	lapo	adverb	after; marks that something happens after affected verb	
+𞤤𞤫𞤨𞥇𞤭	lɛpʼi	number	seven	
 𞤤𞤮𞤬𞤭	loθi	pronoun	proximate demonstrative	
 𞤥𞤢	ma	noun (G4)	tree	
 𞤥𞤫𞤩𞤢	mɛɓa	pronoun	1PAU	
@@ -7,17 +10,18 @@ Adlam	Phonetic	Part of Speech	Definitions	Tags
 𞤥𞤮𞤹𞥇𞤢	moqʼa	noun (G1/G2)	throat	
 𞤥𞤮𞤺𞤢	moga	verb	shine	
 𞤦𞤢	ba	noun (G2)	squirrel	
+𞤦𞤢𞤬𞤢	baθa	number	ten	
 𞤦𞤭	bi	pronoun	interrogative pronoun (who, what, where, etc.)	
+𞤦𞤭𞤹𞤮	biqo	number	three	
+𞤦𞤮𞤳𞥇𞤢	bokʼa	number	six	
 𞤨𞤢𞤼𞥇𞤮	patʼo	pronoun	creates reflexive pronouns from personal or demonstrative pronouns	
+𞤨𞤫𞤼𞥇𞤢	pɛtʼa	number	four	
 𞤨𞤮	po	noun (G1/G2)	eye	
 𞤨𞥇𞤢	pʼa	pronoun	1SG	
 𞤨𞥇𞤢𞤹𞤮	pʼaqo	noun (G4)	hill	
 𞤨𞥇𞤢𞤹𞥇𞤮	pʼaqʼo	noun (G3)	grass	
 𞤨𞥇𞤫𞤼𞤢	pʼɛta	verb	cook (with heat)	
 𞤨𞥇𞤫𞤼𞤭	pʼɛti	noun (G3)	breakfast	
-𞤳𞥇𞤢𞤸𞤢	kʼaɬa	adverb	so that; marks affected verb as purpose behind something else	
-𞤣𞤫𞤦𞤢	dɛba	adverb	before; marks that something happens before affected verb	
-𞤤𞤢𞤨𞤮	lapo	adverb	after; marks that something happens after affected verb	
 𞤩𞤢	ɓa	verb	idly move	
 𞤩𞤢𞤦𞤮	ɓabo	pronoun	1DU	
 𞤩𞤢𞤲𞤮	ɓano	noun (G3)	clay	
@@ -25,8 +29,11 @@ Adlam	Phonetic	Part of Speech	Definitions	Tags
 𞤩𞤫𞤲𞤮	ɓɛno	noun (G2)	sun	
 𞤩𞤭𞤼𞤮	ɓito	noun (G5)	day	
 𞤩𞤮𞤨𞥇𞤭	ɓopʼi	pronoun	1PL	
+𞤩𞤮𞤯𞤭	ɓoɗi	number	eight	
 𞤬𞤫𞤲𞤭	θɛni	adverb	NEG; negates the following verb	
+𞤬𞤫𞤹𞤢	θɛqa	number	one	
 𞤬𞤭𞤼𞤮	θito	noun (G3)	vine	
+𞤬𞤭𞤼𞥇𞤭	θitʼi	number	first (ordinal)	
 𞤬𞤮	θo	noun (G2)	cat	
 𞤬𞤮𞤸𞤢	θoɬa	modifier	quiet	
 𞤬𞤮𞤹𞤭	θoqi	pronoun	2PL	
@@ -39,10 +46,12 @@ Adlam	Phonetic	Part of Speech	Definitions	Tags
 𞤳𞤫𞤩𞤭	kɛɓi	noun (G3)	berry	
 𞤳𞤭𞤤𞤮	kilo	noun (G2)	small bird	
 𞤳𞤭𞤬𞤮	kiθo	noun (G1/G2)	head	
+𞤳𞤭𞤼𞤭	kiti	number	two	
 𞤳𞤮𞤥𞤭	komi	noun (G3)	window	
 𞤳𞤮𞤦𞤭	kobi	noun (G2)	dog	
 𞤳𞥇𞤢	kʼa	verb	sit	
-𞤸𞤢	ɬa	verb	eat	
+𞤳𞥇𞤢𞤸𞤢	kʼaɬa	adverb	so that; marks affected verb as purpose behind something else	
+𞤸𞤢	ɬa	verb	eat (involves chewing)	
 𞤸𞤢𞤬𞤢	ɬaθa	noun (G2)	rain	
 𞤸𞤫𞤩𞤭	ɬɛɓi	noun (G1)	hand	
 𞤹𞤢𞤹𞥇𞤮	qaqʼo	noun (G2)	fish	
@@ -52,11 +61,13 @@ Adlam	Phonetic	Part of Speech	Definitions	Tags
 𞤹𞤮𞤲𞤢	qona	pronoun	2DU	
 𞤹𞥇𞤢𞤬𞤢	qʼaθa	verb	speak	
 𞤹𞥇𞤫𞤨𞤢	qʼɛpa	noun (G1/G2)	body	
+𞤹𞥇𞤫𞤩𞤢	qʼɛɓa	number	nine	
 𞤹𞥇𞤮𞤩𞤢	qʼoɓa	pronoun	2PAU	
 𞤹𞥇𞤮𞤹𞤭	qʼoqi	noun (G1)	face	
 𞤺𞤢𞤬𞤮	gaθo	pronoun	3DU	
 𞤺𞤫𞤩𞤢	gɛɓa	pronoun	3PAU	
 𞤺𞤭	gi	pronoun	3SG	
+𞤺𞤮𞤹𞤭	goqi	number	five	
 𞤺𞤮𞤺𞤭	gogi	pronoun	3PL	
 𞤼𞤢	ta	verb	throw (pottery)	
 𞤼𞤫𞤬𞤮	tɛθo	noun (G3)	egg	
