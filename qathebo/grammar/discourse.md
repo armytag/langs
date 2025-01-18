@@ -4,9 +4,19 @@
 
 ### Requests
 
+#### Optative Verb
+
+#### Negated Prohibitive Verb
+
 ### Commands
 
+#### Imperative Verb
+
 ### Negative Commands
+
+#### Prohibitive Verb
+
+#### Negated Imperative Verb
 
 ## Expressing Emotions
 
