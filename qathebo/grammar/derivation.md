@@ -225,15 +225,6 @@ This suffix denotes the possibility to give rise to the base noun.
 <dt></dt> <dd>"suspicious"</dd>
 </dl>
 
-#### _-qapa_
-
-This suffix conveys a permeation of the base noun.
-
-<dl class="comparison col4">
-<dt></dt> <dd>"bribe"</dd>
-<dt></dt> <dd>"corruption"</dd>
-</dl>
-
 #### _-bʼopʼa_
 
 This suffix conveys the occurence before the base noun.
@@ -254,9 +245,9 @@ This suffix conveys the occurence after the base noun.
 
 ### From Verbs
 
-#### _-qʼomo_
+#### _-eqʼo_
 
-This suffix turns a verb into a relative participle.
+This suffix conveys that something has undergone or experienced the base verb.
 
 <dl class="comparison col4">
 <dt></dt> <dd>"grow up"</dd>
