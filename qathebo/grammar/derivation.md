@@ -166,7 +166,7 @@ This suffix derives a personal noun with the characteristics of the base modifie
 
 ### From Verbs
 
-#### _-neba_
+#### _-enab_
 
 This affix can turn an intransitive verb into a transitive verb, or turn a transitive verb into a causative verb.
 
@@ -179,7 +179,7 @@ This affix can turn an intransitive verb into a transitive verb, or turn a trans
 
 ### From Modifiers
 
-#### _-la_
+#### _-alahl_
 
 This affix is used to turn onomatopoeic modifiers into verbs.
 
