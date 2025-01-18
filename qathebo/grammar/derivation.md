@@ -91,16 +91,7 @@ This suffix denotes a great, important version of the base noun.
 
 ### From Verbs
 
-#### _-o_ (zero derivation)
-
-Some nouns and verbs occur in the same lexical form.  This is considered a zero-derivation.  A few examples are listed below.
-
-<dl class="comparison col4">
-<dt>qʼatha</dt> <dd>"to speak (perfective)"</dd>
-<dt>qʼatho</dt> <dd>"speech"</dd>
-</dl>
-
-#### _-ɗa_
+#### _-eɗa_
 
 This suffix denotes someone who performs the base verb.
 
@@ -109,7 +100,7 @@ This suffix denotes someone who performs the base verb.
 <dt></dt> <dd>"writer"</dd>
 </dl>
 
-#### _-hleli_
+#### _-ohleli_
 
 This suffix derives the abstract sense of the base verb.
 
@@ -120,7 +111,7 @@ This suffix derives the abstract sense of the base verb.
 <dt></dt> <dd>"longevity"</dd>
 </dl>
 
-#### _-pekʼa_
+#### _-ekʼa_
 
 This suffix derives a casual/nonserious abstract noun related to the base verb.
 
@@ -140,7 +131,7 @@ This suffix denotes the process or result of the base verb.
 <dt>qʼathebʼo</dt> <dd>"language"</dd>
 </dl>
 
-#### _-biki_
+#### _-iki_
 
 This suffix denotes one instance of the base verb.
 
@@ -172,15 +163,6 @@ This suffix derives a personal noun with the characteristics of the base modifie
 ## Verbs
 
 ### From Nouns
-
-#### <drop final vowel> (zero derivation)
-
-Some nouns and verbs occur in the same lexical form.  This is considered a zero-derivation.  A few examples are listed below.
-
-<dl class="comparison col4">
-<dt>qʼatho</dt> <dd>"speech"</dd>
-<dt>qʼatha</dt> <dd>"to speak"</dd>
-</dl>
 
 ### From Verbs
 
