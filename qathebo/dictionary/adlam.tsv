@@ -20,8 +20,8 @@ Adlam	Phonetic	Part of Speech	Definitions	Tags
 𞤨𞥇𞤢	pʼa	pronoun	1SG	
 𞤨𞥇𞤢𞤹𞤫𞤹𞤮	pʼaqɛqo	noun (G4)	hill	
 𞤨𞥇𞤢𞤹𞥇𞤮𞤺𞤢	pʼaqʼoga	noun (G3)	grass	
-𞤨𞥇𞤫𞤼𞤢	pʼɛta	verb	cook (with heat)	
 𞤨𞥇𞤢𞤼𞤫𞤺𞤢	pʼatɛga	noun (G3)	breakfast	
+𞤨𞥇𞤫𞤼𞤢	pʼɛta	verb	cook (with heat)	
 𞤩𞤢	ɓa	verb	idly move	
 𞤩𞤢𞤦𞤮	ɓabo	pronoun	1DU	
 𞤩𞤢𞤲𞤮𞤺𞤢	ɓanoga	noun (G3)	clay	
@@ -42,8 +42,8 @@ Adlam	Phonetic	Part of Speech	Definitions	Tags
 𞤯𞤮𞤬𞤢𞤺𞤢	ɗoθaga	noun (G3)	rose	
 𞤲𞤫𞤹𞥇𞤢	nɛqʼa	verb	walk	
 𞤲𞤮𞤼𞤢𞤼𞤢	notata	noun (G1/G2)	heart	
-𞤳𞤫𞤣𞤭	kɛdi	pronoun	distal demonstrative	
 𞤳𞤢𞤩𞤫𞤺𞤢	kaɓɛga	noun (G3)	berry	
+𞤳𞤫𞤣𞤭	kɛdi	pronoun	distal demonstrative	
 𞤳𞤭𞤤𞤮𞤺𞤢	kiloga	noun (G2)	small bird	
 𞤳𞤭𞤬𞤮𞤼𞤢	kiθota	noun (G1/G2)	head	
 𞤳𞤭𞤼𞤭	kiti	number	two	
@@ -52,10 +52,10 @@ Adlam	Phonetic	Part of Speech	Definitions	Tags
 𞤳𞥇𞤢	kʼa	verb	sit	
 𞤳𞥇𞤢𞤸𞤢	kʼaɬa	adverb	so that; marks affected verb as purpose behind something else	
 𞤸𞤢	ɬa	verb	eat (involves chewing)	
-𞤸𞤢𞤬𞤢𞤥𞤢	ɬaθama	noun (G2)	rain	
 𞤸𞤢𞤩𞤫𞤼𞤢	ɬaɓɛta	noun (G1)	hand	
-𞤹𞤢𞤹𞥇𞤮𞤥𞤢	qaqʼoma	noun (G2)	fish	
+𞤸𞤢𞤬𞤢𞤥𞤢	ɬaθama	noun (G2)	rain	
 𞤹𞤢𞤤𞤫𞤼𞤢	qalɛta	noun (G1/G2)	mouth	
+𞤹𞤢𞤹𞥇𞤮𞤥𞤢	qaqʼoma	noun (G2)	fish	
 𞤹𞤭	qi	pronoun	2SG	
 𞤹𞤭𞤲𞤫𞤥𞤢	qinɛma	noun (G2)	river	
 𞤹𞤮𞤲𞤢	qona	pronoun	2DU	
@@ -64,6 +64,8 @@ Adlam	Phonetic	Part of Speech	Definitions	Tags
 𞤹𞥇𞤫𞤩𞤢	qʼɛɓa	number	nine	
 𞤹𞥇𞤮𞤩𞤢	qʼoɓa	pronoun	2PAU	
 𞤹𞥇𞤮𞤹𞤫𞤼𞤢	qʼoqɛta	noun (G1)	face	
+𞤺𞤢𞤣𞤢𞤬𞤢	gadaθa	verb	arrange	
+𞤺𞤢𞤣𞤢𞤬𞤮𞤸𞤫𞤤𞤭𞤺𞤭	gadaθoɬɛligi	noun (G5)	arrangement; grammar	
 𞤺𞤢𞤬𞤮	gaθo	pronoun	3DU	
 𞤺𞤫𞤩𞤢	gɛɓa	pronoun	3PAU	
 𞤺𞤭	gi	pronoun	3SG	
@@ -72,6 +74,6 @@ Adlam	Phonetic	Part of Speech	Definitions	Tags
 𞤼𞤢	ta	verb	throw (pottery)	
 𞤼𞤫𞤬𞤮𞤺𞤢	tɛθoga	noun (G3)	egg	
 𞤼𞥇𞤢𞤹𞤢	tʼaqa	verb	wear (clothing)	
+𞤼𞥇𞤢𞤹𞤫𞤥𞤢	tʼaqɛma	noun (G2)	road/path	
 𞤼𞥇𞤢𞤼𞤢𞤥𞤢	tʼatama	noun (G2)	snow	
 𞤼𞥇𞤫𞤬𞤢𞤼𞤢	tʼɛθata	noun (G1/G2)	foot	
-𞤼𞥇𞤢𞤹𞤫𞤥𞤢	tʼaqɛma	noun (G2)	road/path	
