@@ -48,7 +48,7 @@ Another way of forming a request is to negate a verb in the prohibitive mood.  T
 <p class="number"></p>
 <div class="interlinear">
 <dl> <dt>theni</dt> <dd><abbr>NEG</abbr></dd> </dl>
-<dl> <dt>aa-obʼi-di</dt> <dd>carry<abbr>-PROH-G3.SG</abbr></dd> </dl>
+<dl> <dt>aa-opi-di</dt> <dd>carry<abbr>-PROH-G3.SG</abbr></dd> </dl>
 <dl> <dt>pʼa-mo</dt> <dd><abbr>1SG-ALL</abbr></dd> </dl>
 <dl> <dt>aa-bb-∅</dt> <dd>book<abbr>-G3.SG-ACC</abbr></dd> </dl>
 <dl> <dt>kedi-go</dt> <dd>that<abbr>-G3.SG</abbr></dd> </dl>
@@ -62,7 +62,7 @@ It is a cumbersome to use the negated prohibitive in consecutive clauses, so sev
 <p class="number"></p>
 <div class="interlinear">
 <dl> <dt>theni</dt> <dd><abbr>NEG</abbr></dd> </dl>
-<dl> <dt>aa-obʼi,</dt> <dd>chair-sit<abbr>-PROH</abbr></dd> </dl>
+<dl> <dt>aa-bb-opa,</dt> <dd>chair-sit<abbr>-PROH</abbr></dd> </dl>
 <dl> <dt>aa-obʼi</dt> <dd>emotion.be<abbr>-OPT</abbr></dd> </dl>
 <dl> <dt>aa</dt> <dd>relaxed</dd> </dl>
 </div>
@@ -71,9 +71,44 @@ It is a cumbersome to use the negated prohibitive in consecutive clauses, so sev
 
 ### Negative Commands
 
+Negative commands are commands to NOT do something.  They involve a negation of a command as described above.
+
 #### Prohibitive Verb
 
+A verb with prohibitive mood inherently conveys that the listener should not undergo some action.  It carries a neutral tone and could be described as more of a suggestion than an authoritative command.  It lacks the urgency or expectations of a negated imperative.
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>theni</dt> <dd><abbr>NEG</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"Don't stay out too late."</p>
+</div>
+
 #### Negated Imperative Verb
+
+An imperative command can be negated to form a negative command.  This has the same strictness, urgency, and potential rudeness as a regular [imperative verb](#imperative--o).  It is only used to emphasize the time-sensative or authoritative nature of the command compared to the basic prohibitive form.
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>theni</dt> <dd><abbr>NEG</abbr></dd> </dl>
+<dl> <dt>hl-o-di</dt> <dd>eat<abbr>-IMP-G3.SG</abbr></dd> </dl>
+<dl> <dt>kedi</dt> <dd>that</dd> </dl>
+</div>
+<p class="freetranslation">"Don't eat that!"</p>
+</div>
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>theni</dt> <dd><abbr>NEG</abbr></dd> </dl>
+<dl> <dt>qʼath-o</dt> <dd>speak<abbr>-IMP</abbr></dd> </dl>
+<dl> <dt>pʼa-ta</dt> <dd><abbr>1SG-DAT</abbr></dd> </dl>
+<dl> <dt>qe-dʼe-bʼi</dt> <dd><abbr>2SG-NOM-PRS</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"Don't speak to me."</p>
+</div>
 
 ## Expressing Emotions
 
