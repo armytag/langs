@@ -867,6 +867,8 @@ There are several verbs in Qʼathebʼo that perform the functions of English "be
 
 Adverbs are a special class of words in Qʼathebʼo that change how a verb relates to the rest of the discourse.  They occur before a verb, and differ from [verb modifiers](#modifying-verbs) which add meaning or nuance to a verb.
 
+The citation form for adverbs is the root with no additional affixes, which is the only form they ever appear in.
+
 ### Negation
 
 The adverb *theni* negates the following verb.  This is often a simple negation, but can sometimes create special interpretations when combined with other adverbs (especially temporal adverbs or [phasal polarity](#phasal-polarity)).  It always occurs right before the verb, and other adverbs must precede it.
@@ -902,6 +904,8 @@ The adverb *kʼahla* ("so that") indicates that the affected verb describes the 
 ## Modifiers
 
 Most modifiers in Qʼathebʼo can modify either nouns or verbs.  The root of the modifier is used in both situations, though with nouns they take additional inflection.
+
+The citation form for modifiers is the root with no additional affixes, as it would appear when modifying a verb.
 
 ### Modifying Verbs
 
