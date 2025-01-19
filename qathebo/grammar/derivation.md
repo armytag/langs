@@ -164,7 +164,7 @@ This suffix derives a personal noun with the characteristics of the base modifie
 
 ### From Nouns
 
-There are no verbs derived from nouns.
+There are no verbs derived from nouns.  There is widespread [noun incorporation](#noun-incorporation) which can create new lexical items, but this is considered a different process from the derivation described in this chapter.
 
 ### From Verbs
 

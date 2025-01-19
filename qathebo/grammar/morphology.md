@@ -12,7 +12,7 @@ The prototypical noun structure is a lexical root, a number affix based on anima
 
 There are five classes of nouns that determine the noun's declension pattern.  Specifically, a noun's class affects number marking, verb and modifier agreement, and word order.
 
-***Group 1*** -- Adult humans, including human body parts and groups of humans (e.g. society).
+***Group 1*** -- Humans, including human body parts and groups of humans (e.g. society).
 
 ***Group 2*** -- Animate, self-moving things such as animals, waterfalls, fire, and animal body parts.
 
@@ -20,7 +20,7 @@ There are five classes of nouns that determine the noun's declension pattern.  S
 
 ***Group 4*** -- Larger environmental objects such as trees, buildings, and clouds.
 
-***Group 5*** -- Abstract, formless things such as thoughts, ideas, and time.
+***Group 5*** -- Abstract, formless things such as thoughts, ideas, emotions, and time.
 
 ### Person & Number
 
@@ -37,7 +37,7 @@ Nouns always mark number.  This appears as a suffix on the nominal root, and is 
 | Group 5 | -gi    | -ta   | -ta    | -ta    |
 : Nominal Person-Number Marking
 
-These number-marking suffixes only appear in nouns.  Regardless of the Animacy Group of the relevant noun, [verb agreement](#direct-object-agreement) and [modifier agreement](#modifying-nouns) only distinguishes single and plural.
+These number-marking suffixes only appear in nouns.  Regardless of the Animacy Group of the relevant noun, [verb agreement](#direct-object-agreement) and [modifier agreement](#modifying-nouns) only distinguish single and plural.
 
 ### Possession
 
