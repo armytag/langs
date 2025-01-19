@@ -10,6 +10,47 @@ Commands create an expectation that the listener perform some action.  These are
 
 The most obvious way to create a command is to use a verb in the [Imperative mood](#imperative--o).  This tells the listener that the speaker expects them to do something immediately.
 
+### Negative Commands
+
+Negative commands are commands to NOT do something.  They involve a negation of a command as described above.
+
+#### Prohibitive Verb
+
+A verb with prohibitive mood inherently conveys that the listener should not undergo some action.  It carries a neutral tone and could be described as more of a suggestion than an authoritative command.  It lacks the urgency or expectations of a negated imperative.
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>theni</dt> <dd><abbr>NEG</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"Don't stay out too late."</p>
+</div>
+
+#### Negated Imperative Verb
+
+An imperative command can be negated to form a negative command.  This has the same strictness, urgency, and potential rudeness as a regular [imperative verb](#imperative--o).  It is only used to emphasize the time-sensative or authoritative nature of the command compared to the basic prohibitive form.
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>theni</dt> <dd><abbr>NEG</abbr></dd> </dl>
+<dl> <dt>hl-o-di</dt> <dd>eat<abbr>-IMP-G3.SG</abbr></dd> </dl>
+<dl> <dt>kedi</dt> <dd>that</dd> </dl>
+</div>
+<p class="freetranslation">"Don't eat that!"</p>
+</div>
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>theni</dt> <dd><abbr>NEG</abbr></dd> </dl>
+<dl> <dt>qʼath-o</dt> <dd>speak<abbr>-IMP</abbr></dd> </dl>
+<dl> <dt>pʼa-ta</dt> <dd><abbr>1SG-DAT</abbr></dd> </dl>
+<dl> <dt>qe-dʼe-bʼi</dt> <dd><abbr>2SG-NOM-PRS</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"Don't speak to me."</p>
+</div>
+
 ### Requests
 
 Requests convey something the speaker wishes to happen that the listener could help them with.  There is no expectation or obligation that the listener help, merely the suggestion that they could.
@@ -67,47 +108,6 @@ It is a cumbersome to use the negated prohibitive in consecutive clauses, so sev
 <dl> <dt>aa</dt> <dd>relaxed</dd> </dl>
 </div>
 <p class="freetranslation">"Have a seat, make yourself comfortable."</p>
-</div>
-
-### Negative Commands
-
-Negative commands are commands to NOT do something.  They involve a negation of a command as described above.
-
-#### Prohibitive Verb
-
-A verb with prohibitive mood inherently conveys that the listener should not undergo some action.  It carries a neutral tone and could be described as more of a suggestion than an authoritative command.  It lacks the urgency or expectations of a negated imperative.
-
-<div class="gloss">
-<p class="number"></p>
-<div class="interlinear">
-<dl> <dt>theni</dt> <dd><abbr>NEG</abbr></dd> </dl>
-</div>
-<p class="freetranslation">"Don't stay out too late."</p>
-</div>
-
-#### Negated Imperative Verb
-
-An imperative command can be negated to form a negative command.  This has the same strictness, urgency, and potential rudeness as a regular [imperative verb](#imperative--o).  It is only used to emphasize the time-sensative or authoritative nature of the command compared to the basic prohibitive form.
-
-<div class="gloss">
-<p class="number"></p>
-<div class="interlinear">
-<dl> <dt>theni</dt> <dd><abbr>NEG</abbr></dd> </dl>
-<dl> <dt>hl-o-di</dt> <dd>eat<abbr>-IMP-G3.SG</abbr></dd> </dl>
-<dl> <dt>kedi</dt> <dd>that</dd> </dl>
-</div>
-<p class="freetranslation">"Don't eat that!"</p>
-</div>
-
-<div class="gloss">
-<p class="number"></p>
-<div class="interlinear">
-<dl> <dt>theni</dt> <dd><abbr>NEG</abbr></dd> </dl>
-<dl> <dt>qʼath-o</dt> <dd>speak<abbr>-IMP</abbr></dd> </dl>
-<dl> <dt>pʼa-ta</dt> <dd><abbr>1SG-DAT</abbr></dd> </dl>
-<dl> <dt>qe-dʼe-bʼi</dt> <dd><abbr>2SG-NOM-PRS</abbr></dd> </dl>
-</div>
-<p class="freetranslation">"Don't speak to me."</p>
 </div>
 
 ## Expressing Emotions
