@@ -39,7 +39,7 @@ Syllables in Qʼathebʼo always contain a consonant followed by a vowel in a str
 Vowels undergo a pervasive, regular assimilation process based on the following vowel.  The low vowel /a/ becomes \[ɛ\] when the following syllable contains /i/, and /i/ likewise assimilates to \[ɛ\] before a syllable with /a/.  The rounded vowel /o/ instead undergoes a dissimilation process with following /o/ syllables, also becoming \[ɛ\].  These patterns can be see in the following examples.
 
 <dl class="comparison col4">
-<dt>[ɗoθ<strong>a</strong>-ɗa]</dt> <dd>"rose"</dd>
+<dt>[ɗoθ<strong>a</strong>-ga]</dt> <dd>"rose"</dd>
 <dt>[ɗoθ<strong>ɛ</strong>-ki]</dt> <dd>"(several) roses"</dd>
 <dt>[kob<strong>i</strong>-mi]</dt> <dd>"dogs"</dd>
 <dt>[kob<strong>ɛ</strong>-ma]</dt> <dd>"dog"</dd>
@@ -59,7 +59,7 @@ It's important to note that when /i/ assimilates to \[ɛ\], it no longer trigger
 
 <dl class="comparison col4">
 <dt>[k<strong>ɛ</strong>ɓ<strong>i</strong>-ki]</dt> <dd>"(several) berries"</dd>
-<dt>[k<strong>a</strong>ɓ<strong>ɛ</strong>-ɗa]</dt> <dd>"berry"</dd>
+<dt>[k<strong>a</strong>ɓ<strong>ɛ</strong>-ga]</dt> <dd>"berry"</dd>
 </dl>
 
 ## Orthography
