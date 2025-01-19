@@ -6,7 +6,7 @@
 
 #### _-qʼi_
 
-This suffix derives personal pronouns from abstract nouns.
+This suffix derives personal nouns from abstract nouns.  The result is a Group 1 noun.
 
 <dl class="comparison col4">
 <dt></dt> <dd>"a lie"</dd>
@@ -15,7 +15,7 @@ This suffix derives personal pronouns from abstract nouns.
 
 #### _-talo_
 
-This suffix denotes someone with an institutional relationship to the base noun.
+This suffix denotes someone with an institutional relationship to the base noun.  The result is a Group 1 noun.
 
 <dl class="comparison col4">
 <dt></dt> <dd>"land"</dd>
@@ -26,18 +26,16 @@ This suffix denotes someone with an institutional relationship to the base noun.
 
 #### _-no_
 
-This suffix denotes someone who uses or is associated with the base noun.
+This suffix denotes someone who uses or is associated with the base noun.  The result is a Group 1 noun.
 
 <dl class="comparison col4">
 <dt></dt> <dd>"clay"</dd>
 <dt></dt> <dd>"potter"</dd>
-<dt>qʼatho</dt> <dd>"speech"</dd>
-<dt>qʼatheno</dt> <dd>"speaker"</dd>
 </dl>
 
 #### _-li_
 
-This suffix denotes someone who possess the abstract base noun.
+This suffix denotes someone who possess the abstract base noun.  The result is a Group 1 noun.
 
 <dl class="comparison col4">
 <dt></dt> <dd>"beauty"</dd>
@@ -46,7 +44,7 @@ This suffix denotes someone who possess the abstract base noun.
 
 #### _-dato_
 
-This suffix derives a general abstracted sense from a personal or abstract noun.
+This suffix derives a general abstracted sense from a personal or abstract noun.  The result is a Group 5 noun.
 
 <dl class="comparison col4">
 <dt></dt> <dd>"fool"</dd>
@@ -55,7 +53,7 @@ This suffix derives a general abstracted sense from a personal or abstract noun.
 
 #### _-hlepi_
 
-This suffix denotes a general process involving the base noun.
+This suffix denotes a general process involving the base noun.  The result is a Group 5 noun.
 
 <dl class="comparison col4">
 <dt></dt> <dd>"city"</dd>
@@ -64,7 +62,7 @@ This suffix denotes a general process involving the base noun.
 
 #### _kʼi-_
 
-This prefix derives a negative opposite from the base noun.
+This prefix derives a negative opposite from the base noun.  The result is a Group 1 noun.
 
 <dl class="comparison col4">
 <dt></dt> <dd>"trust"</dd>
@@ -73,27 +71,29 @@ This prefix derives a negative opposite from the base noun.
 
 #### _gotha-_
 
-This prefix denotes an excessive degree of the base noun.
+This prefix denotes an excessive degree of the base noun.  The result is a Group 5 noun.
 
 <dl class="comparison col4">
 <dt></dt> <dd>"desire"</dd>
 <dt></dt> <dd>"greed"</dd>
 </dl>
 
-#### _-kʼido_
+#### _kʼido-_
 
-This suffix denotes a great, important version of the base noun.
+This prefix denotes a great, important version of the base noun.  The result is a noun of the same Group as the base noun.
 
 <dl class="comparison col4">
 <dt></dt> <dd>"creative work"</dd>
 <dt></dt> <dd>"classic"</dd>
+<dt></dt> <dd>"leader"</dd>
+<dt></dt> <dd>"great leader"</dd>
 </dl>
 
 ### From Verbs
 
 #### _-eɗa_
 
-This suffix denotes someone who performs the base verb.
+This suffix denotes someone who performs the base verb.  The result is a Group 1 noun.
 
 <dl class="comparison col4">
 <dt></dt> <dd>"write"</dd>
@@ -102,7 +102,7 @@ This suffix denotes someone who performs the base verb.
 
 #### _-ohleli_
 
-This suffix derives the abstract sense of the base verb.
+This suffix derives the abstract sense of the base verb.  The result is a Group 5 noun.
 
 <dl class="comparison col4">
 <dt></dt> <dd>"appear"</dd>
@@ -113,7 +113,7 @@ This suffix derives the abstract sense of the base verb.
 
 #### _-ekʼa_
 
-This suffix derives a casual/nonserious abstract noun related to the base verb.
+This suffix derives a casual/nonserious abstract noun related to the base verb.  The result is a Group 5 noun.
 
 <dl class="comparison col4">
 <dt></dt> <dd>"wander"</dd>
@@ -122,7 +122,7 @@ This suffix derives a casual/nonserious abstract noun related to the base verb.
 
 #### _-ebʼo_
 
-This suffix denotes the process or result of the base verb.
+This suffix denotes the process or result of the base verb.  The result is a Group 3 or Group 5 noun depending on the method of performing the action.
 
 <dl class="comparison col4">
 <dt></dt> <dd>"attach"</dd>
@@ -133,7 +133,7 @@ This suffix denotes the process or result of the base verb.
 
 #### _-iki_
 
-This suffix denotes one instance of the base verb.
+This suffix denotes one instance of the base verb.  The result is a Group 3 or Group 5 noun depending on the method of performing the action.
 
 <dl class="comparison col4">
 <dt></dt> <dd>"hit"</dd>
@@ -144,7 +144,7 @@ This suffix denotes one instance of the base verb.
 
 #### _-pi_
 
-This suffix denotes the abstract sense of the base modifier.
+This suffix denotes the abstract sense of the base modifier.  The result is a Group 5 noun.
 
 <dl class="comparison col4">
 <dt></dt> <dd>"large"</dd>
@@ -153,7 +153,7 @@ This suffix denotes the abstract sense of the base modifier.
 
 #### _-paga_
 
-This suffix derives a personal noun with the characteristics of the base modifier.
+This suffix derives a personal noun with the characteristics of the base modifier.  The result is a Group 1 noun.
 
 <dl class="comparison col4">
 <dt></dt> <dd>"small"</dd>
@@ -163,6 +163,8 @@ This suffix derives a personal noun with the characteristics of the base modifie
 ## Verbs
 
 ### From Nouns
+
+There are no verbs derived from nouns.
 
 ### From Verbs
 
