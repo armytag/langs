@@ -66,37 +66,250 @@ Below is a table summarizing the cases, their morphological affix form, and thei
 
 The Nominative case indicates which noun is performing the action described by the verb.  This is roughly equivalent to the subject or agent in an English sentence.
 
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>qipʼabʼ-a</dt> <dd>exist.be<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"There was a dog."</p>
+</div>
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>qipʼabʼ-a</dt> <dd>exist.be<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"There was a dog."</p>
+</div>
+
 #### Accusative
 
 The Accusative case indicates which noun is being acted upon by the verb.  This is roughly equivalent to the object or patient in an English sentence.
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>qipʼabʼ-a</dt> <dd>exist.be<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"There was a dog."</p>
+</div>
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>qipʼabʼ-a</dt> <dd>exist.be<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"There was a dog."</p>
+</div>
 
 #### Dative (*-ta*)
 
 The Dative case indicates which noun is receiving something from the verb.  The thing being received could be something physical like a gift as in %{+1}% below, or something abstract like speech as in %{+2}% below, and need not be explicitly stated.  In both cases dative noun is the "beneficiary" of the verb.
 
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>qipʼabʼ-a</dt> <dd>exist.be<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"There was a dog."</p>
+</div>
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>qipʼabʼ-a</dt> <dd>exist.be<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"There was a dog."</p>
+</div>
+
 #### Genitive (*-tʼi*)
 
 The Genitive case indicates that the noun is related to another noun in some way.  This could be a form of possession as in %{+1}% below, or .  Unlike other cases, genetive nouns function like [modifiers](#modifiers), appearing after the noun they are related to and taking modifier agreement affixes.
 
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>qipʼabʼ-a</dt> <dd>exist.be<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"There was a dog."</p>
+</div>
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>qipʼabʼ-a</dt> <dd>exist.be<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"There was a dog."</p>
+</div>
+
 #### Instrumental (*-gi*)
 
-The Instrumental case indicates which noun is used to perform the verb.  This could be a tool as in %{+1}% below, a method as in %{+2}% below, or even a collaborator as in %{+3}% below.
+The Instrumental case indicates which noun is used to perform the verb.  This could be a tool as in %{+1}% below, a method as in %{+2}%, or even a collaborator as in %{+3}%.
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>qipʼabʼ-a</dt> <dd>exist.be<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"There was a dog."</p>
+</div>
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>qipʼabʼ-a</dt> <dd>exist.be<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"There was a dog."</p>
+</div>
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>qipʼabʼ-a</dt> <dd>exist.be<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"There was a dog."</p>
+</div>
+
+When used with a temporal noun, it indicates that the predicate occurs *throughout* the instrumental time period as seen in %{+1}% below.
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>qipʼabʼ-a</dt> <dd>exist.be<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"There was a dog."</p>
+</div>
+
+When a stative noun like a feeling or emotion is put in the instrumental case, it highlights the state as a *cause or contributor* to the verb occuring, as seen in %{+1}% below.
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>qipʼabʼ-a</dt> <dd>exist.be<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"There was a dog."</p>
+</div>
 
 #### Locative (*-to*)
 
-The Locative case indicates which noun the verb occurs at or near.
+The Locative case indicates which noun the verb occurs at or near.  It is broadly used for any noun around which the predicate happens without conveying a sense of motion toward or away from the noun.  Most prepositions require a noun in the locative case, as sentence %{+2}% demonstrates.
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>qipʼabʼ-a</dt> <dd>exist.be<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"There was a dog."</p>
+</div>
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>qipʼabʼ-a</dt> <dd>exist.be<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"There was a dog."</p>
+</div>
+
+When used with a temporal noun it indicates that the predicate occurs *within* the locative time frame as seen in %{+1}% below.  Similarly, when used with a stative noun it indicates that the predicate occurs *while* the locative state was in effect as seen in %{+2}% below.
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>qipʼabʼ-a</dt> <dd>exist.be<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"There was a dog."</p>
+</div>
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>qipʼabʼ-a</dt> <dd>exist.be<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"There was a dog."</p>
+</div>
 
 #### Allative (*-mo*)
 
-The Allative case indicates which noun the verb occurs toward.
+The Allative case indicates which noun the verb occurs toward.  Unlike the Locative case, this case emphasizes motion relative to the inflected noun, and frames the noun as the destination of that motion.
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>qipʼabʼ-a</dt> <dd>exist.be<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"There was a dog."</p>
+</div>
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>qipʼabʼ-a</dt> <dd>exist.be<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"There was a dog."</p>
+</div>
 
 #### Ablative (*-di*)
 
-The Ablative case indicates which noun the verb occurs away from.
+The Ablative case indicates which noun the verb occurs away from.  Unlike the Locative case, this case emphasizes motion relative to the inflected noun, and frames the noun as the origin of that motion.
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>qipʼabʼ-a</dt> <dd>exist.be<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"There was a dog."</p>
+</div>
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>qipʼabʼ-a</dt> <dd>exist.be<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"There was a dog."</p>
+</div>
 
 #### Essive (*-qʼa*)
 
 The Essive inidicates which noun the nominative subject is equivalent to or existing as while the verb occurs.
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>qipʼabʼ-a</dt> <dd>exist.be<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"There was a dog."</p>
+</div>
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>qipʼabʼ-a</dt> <dd>exist.be<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"There was a dog."</p>
+</div>
 
 ### Tense
 
