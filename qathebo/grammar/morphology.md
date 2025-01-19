@@ -64,21 +64,39 @@ Below is a table summarizing the cases, their morphological affix form, and thei
 
 #### Nominative (*-dʼa*)
 
+The Nominative case indicates which noun is performing the action described by the verb.  This is roughly equivalent to the subject or agent in an English sentence.
+
 #### Accusative
+
+The Accusative case indicates which noun is being acted upon by the verb.  This is roughly equivalent to the object or patient in an English sentence.
 
 #### Dative (*-ta*)
 
+The Dative case indicates which noun is receiving something from the verb.  The thing being received could be something physical like a gift as in %{+1}% below, or something abstract like speech as in %{+2}% below, and need not be explicitly stated.  In both cases dative noun is the "beneficiary" of the verb.
+
 #### Genitive (*-tʼi*)
+
+The Genitive case indicates that the noun is related to another noun in some way.  This could be a form of possession as in %{+1}% below, or .  Unlike other cases, genetive nouns function like [modifiers](#modifiers), appearing after the noun they are related to and taking modifier agreement affixes.
 
 #### Instrumental (*-gi*)
 
+The Instrumental case indicates which noun is used to perform the verb.  This could be a tool as in %{+1}% below, a method as in %{+2}% below, or even a collaborator as in %{+3}% below.
+
 #### Locative (*-to*)
+
+The Locative case indicates which noun the verb occurs at or near.
 
 #### Allative (*-mo*)
 
+The Allative case indicates which noun the verb occurs toward.
+
 #### Ablative (*-di*)
 
+The Ablative case indicates which noun the verb occurs away from.
+
 #### Essive (*-qʼa*)
+
+The Essive inidicates which noun the nominative subject is equivalent to or existing as while the verb occurs.
 
 ### Tense
 
