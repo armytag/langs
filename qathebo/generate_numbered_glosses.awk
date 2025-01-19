@@ -16,7 +16,8 @@ BEGIN {
 				if (rel_num < 0) {
 					ref_num++
 				}
-				print "(" ref_num ")"
+				following = substr(splits[sp], length(refs[0]) + 1)
+				print "(" ref_num ")" following
 			} else {
 				print splits[sp]
 			}
