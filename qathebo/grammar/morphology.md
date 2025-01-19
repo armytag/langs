@@ -267,6 +267,26 @@ The Allative case indicates which noun the verb occurs toward.  Unlike the Locat
 <p class="freetranslation">"There was a dog."</p>
 </div>
 
+When used with a temporal or stative noun, it indicates that the predicate occurs *until* the allative time or state is reached, as in %{+1}% and %{+2}% respectively.
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>qipʼabʼ-a</dt> <dd>exist.be<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"There was a dog."</p>
+</div>
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>qipʼabʼ-a</dt> <dd>exist.be<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"There was a dog."</p>
+</div>
+
 #### Ablative (*-di*)
 
 The Ablative case indicates which noun the verb occurs away from.  Unlike the Locative case, this case emphasizes motion relative to the inflected noun, and frames the noun as the origin of that motion.
@@ -289,9 +309,51 @@ The Ablative case indicates which noun the verb occurs away from.  Unlike the Lo
 <p class="freetranslation">"There was a dog."</p>
 </div>
 
+When used with temporal or stative nouns it indicates that the predicate has occured *since* the ablative time or state, as seen in %{+1}% and %{+2}% respectively.
+
 #### Essive (*-qʼa*)
 
-The Essive inidicates which noun the nominative subject is equivalent to or existing as while the verb occurs.
+The Essive inidicates which noun the nominative subject is equivalent to or existing as while the verb occurs.  On its own an essive noun typically reflects something which only situationally describes the nominative subject but might not be something fundamental to them, as %{+1}% and %{+2}% demonstrate.
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>qipʼabʼ-a</dt> <dd>exist.be<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"There was a dog."</p>
+</div>
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>qipʼabʼ-a</dt> <dd>exist.be<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"There was a dog."</p>
+</div>
+
+However, when used with [one of the copulae](#copulae) it can convey true or lasting equivalence as in %{+1}% and %{+2}% below.
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>qipʼabʼ-a</dt> <dd>exist.be<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"There was a dog."</p>
+</div>
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>qipʼabʼ-a</dt> <dd>exist.be<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"There was a dog."</p>
+</div>
+
+Ultimately the temporary or permanent nature of the essive-nominative equivalence is dependant on the context, and periphrastic constructions can be used to clarify which sense is intended.
 
 <div class="gloss">
 <p class="number"></p>
