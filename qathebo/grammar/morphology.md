@@ -438,7 +438,7 @@ The imperative aspect is used for commands or urgent statements to the listener.
 
 #### Prohibitive (*-opa*)
 
-The prohibitive aspect is used to tell the listener not to undergo an action.  In some ways this is like a negative imperative, and similarly has an implied second-person subject.  However, both imperative and prohibitive verbs can also take standard negation with *theni*; see [Requests and Commands](#requests-and-commands) for description of the nuance between these different uses.
+The prohibitive aspect is used to tell the listener not to undergo an action.  In some ways this is like a negative imperative, and similarly has an implied second-person subject.  However, both imperative and prohibitive verbs can take standard negation with *theni*; see the section on [Requests and Commands](#requests-and-commands) for a description of the nuance between these different uses.
 
 #### Optative (*-obʼi*)
 

@@ -16,7 +16,7 @@ Requests convey something the speaker wishes to happen that the listener could h
 
 #### Optative Verb
 
-One way to make a request is to state the desired situation using an optative verb.  Depending on the context, this kind of statement leaves room for the listener to assist in making the statement a reality.  The indirect nature of the statement conveys a degree of formality and politeness.
+One way to make a request is to state the desired situation using an optative verb.  This kind of statement leaves room for the listener to assist in making the statement a reality, based on the context.  The indirect nature of the statement conveys a degree of formality and politeness.
 
 A common use of the optative request is ordering something in a store or restaurant.
 
@@ -41,6 +41,33 @@ A common use of the optative request is ordering something in a store or restaur
 </div>
 
 #### Negated Prohibitive Verb
+
+Another way of forming a request is to negate a verb in the prohibitive mood.  This method is humerous, casual, and even a bit silly as it involves an unnecessary double-negation along the lines of "Don't not do X".  It comes across as somewhat teasing and is often used among friends or family, but would be inappropriate in formal situations or among strangers.
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>theni</dt> <dd><abbr>NEG</abbr></dd> </dl>
+<dl> <dt>aa-obʼi-di</dt> <dd>carry<abbr>-PROH-G3.SG</abbr></dd> </dl>
+<dl> <dt>pʼa-mo</dt> <dd><abbr>1SG-ALL</abbr></dd> </dl>
+<dl> <dt>aa-bb-∅</dt> <dd>book<abbr>-G3.SG-ACC</abbr></dd> </dl>
+<dl> <dt>kedi-go</dt> <dd>that<abbr>-G3.SG</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"Pass me that book."</p>
+</div>
+
+It is a cumbersome to use the negated prohibitive in consecutive clauses, so several related requests might start with a negated prohibitive to set the tone then switch to optative requests for subsequent statements, as demonstrated in %{+1}% below.  Note that the implied subject of the prohibitive remains implicit into the second clause.
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>theni</dt> <dd><abbr>NEG</abbr></dd> </dl>
+<dl> <dt>aa-obʼi,</dt> <dd>chair-sit<abbr>-PROH</abbr></dd> </dl>
+<dl> <dt>aa-obʼi</dt> <dd>emotion.be<abbr>-OPT</abbr></dd> </dl>
+<dl> <dt>aa</dt> <dd>relaxed</dd> </dl>
+</div>
+<p class="freetranslation">"Have a seat, make yourself comfortable."</p>
+</div>
 
 ### Negative Commands
 
