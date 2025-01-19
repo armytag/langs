@@ -8,6 +8,8 @@ The prototypical noun structure is a lexical root, a number affix based on anima
 <p>λ-<abbr>NUM(-POSS)-CASE(-TENSE)</abbr></p>
 </div>
 
+The citation form for nouns is the singular, accusative form with no other affixes.
+
 ### Animacy Groups (Class/Gender)
 
 There are five classes of nouns that determine the noun's declension pattern.  Specifically, a noun's class affects number marking, verb and modifier agreement, and word order.
@@ -680,6 +682,8 @@ When a verb involves noun incorporation, the incorporated noun's lexical root (r
 <div class="comparison">
 <p>ƛ-λ-<abbr>ASP:MOD(-PASS)(-PNUM:OBJ)</abbr></p>
 </div>
+
+The citation form for verbs is the lexical root with perfective aspect, and no other affixes.
 
 ### Aspect/Mood
 
