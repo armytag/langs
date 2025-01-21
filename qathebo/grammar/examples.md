@@ -250,5 +250,5 @@ Sun said:
 
 Bee said:
 
-"I didn't please Sun with his gift of a stinger, rather he stole honey and took the stinger, thus I died and they disappeared as well.  I don’t understand it but they hurt me a lot."
+"I didn't please Sun with my gift of a stinger, rather he stole honey and took the stinger, thus I died and they disappeared as well.  I don’t understand it but they hurt me a lot."
 
