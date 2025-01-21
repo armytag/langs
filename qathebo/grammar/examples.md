@@ -66,6 +66,8 @@
 
 ## Winter Relay
 
+### Given Text
+
 <div class="gloss">
 <p class="number"></p>
 <p>Kɨcyu ʼesɨmɨm ñilasa ndaʼner ndiŋoka:</p>
@@ -159,7 +161,7 @@
 <dl> <dt>ñi-lonjor-eye</dt> <dd><abbr>INAN</abbr>-die-<abbr>NPST</abbr></dd> </dl>
 <dl> <dt>voŋɨ-nde</dt> <dd>for<abbr>-2SG</abbr></dd> </dl>
 </div>
-<p class="freetranslation">Unhappy toward this, Sun vowed it stole the beehive and I entered it while Bee stung him but the sting stole and died for you.</p>
+<p class="freetranslation">Sun wasn't happy about this, and he vowed ... and will cause you to die.</p>
 </div>
 
 <div class="gloss">
@@ -210,7 +212,7 @@
 <dl> <dt>Mbu-mbite-mbaiʼ-aŋɨ-le</dt> <dd><abbr>1SG</abbr>-please-<abbr>3SG-PST-NEG</abbr></dd> </dl>
 <dl> <dt>Orɨm</dt> <dd>Sun</dd> </dl>
 <dl> <dt>yu-xex</dt> <dd><abbr>3SG.POSS</abbr>-gift</dd> </dl>
-<dl> <dt>ŋgo</dt> <dd>COM_GEN_DAT</dd> </dl>
+<dl> <dt>ŋgo</dt> <dd><abbr>COM_GEN_DAT</abbr></dd> </dl>
 <dl> <dt>ivut-oñmo</dt> <dd>sting-<abbr>NMZ</abbr></dd> </dl>
 <dl> <dt>cu</dt> <dd>but</dd> </dl>
 <dl> <dt>tɨr-vembo-ñ-aŋɨ</dt> <dd><abbr>3SG</abbr>-steal-<abbr>INAN-PST</abbr></dd> </dl>
@@ -229,4 +231,24 @@
 </div>
 <p class="freetranslation">"I didn't please Sun with his gift of a stinger, rather he stole honey and took the stinger, thus I died and they disappeared as well.  I don’t understand it but they hurt me a lot."</p>
 </div>
+
+### Interpretation
+
+When the tides were calm we tell stories:
+
+A long time ago, Bee wished many things would get better.
+
+Because of his work he ascended up to things.
+
+Bee said "I'll fly up to the mountain top that even Sun fails to achieve."
+
+Sun wasn't gifted.  He wasn't happy about this, and while Sun vowed to steal the beehive Bee entered and stung him, but the stinger was lost and will cause him to die.
+
+Sun said:
+
+"I hate the gift that displeases me.  Rather I will say that my sacred presence doesn’t need your gifts or even to acknowledge you."
+
+Bee said:
+
+"I didn't please Sun with his gift of a stinger, rather he stole honey and took the stinger, thus I died and they disappeared as well.  I don’t understand it but they hurt me a lot."
 
