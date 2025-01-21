@@ -153,6 +153,10 @@ li > ol, li > ul {
 	text-align: right;
 }
 
+.number + p {
+	margin-top: 0.5ch;
+}
+
 .original {
 	direction: rtl;
 	/* font-weight: bold; */
