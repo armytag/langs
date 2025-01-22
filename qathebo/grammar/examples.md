@@ -258,7 +258,12 @@ Bee said:
 <p class="number"></p>
 <p class="original"></p>
 <div class="interlinear">
-<dl> <dt></dt> <dd></dd> </dl>
+<dl> <dt>aa-bb-cc-dd</dt> <dd>calmness-<abbr>G5.PL-NOM-REL:PRS</abbr></dd> </dl>
+<dl> <dt>aa</dt> <dd>yet</dd> </dl>
+<dl> <dt>aa-bb</dt> <dd>exist.be-<abbr>REL</abbr></dd> </dl>
+<dl> <dt>aa-bb-cc</dt> <dd>speak-<abbr>PFV-G5.PL</abbr></dd> </dl>
+<dl> <dt>aa-bb-cc</dt> <dd><abbr>1PL-NOM-PRS</abbr></dd> </dl>
+<dl> <dt>aa-bb-∅</dt> <dd>story-<abbr>G5.PL-ACC</abbr></dd> </dl>
 </div>
 <p class="freetranslation">When the tides calm we tell stories:</p>
 </div>
@@ -267,7 +272,14 @@ Bee said:
 <p class="number"></p>
 <p class="original"></p>
 <div class="interlinear">
-<dl> <dt></dt> <dd></dd> </dl>
+<dl> <dt>lothi-aa-i</dt> <dd>this-wish-<abbr>IPFV</abbr></dd> </dl>
+<dl> <dt>aa-ma-dʼa-qʼo</dt> <dd>bee-<abbr>G2.SG-NOM-REM.PST</abbr></dd> </dl>
+<dl> <dt>aa-bb-cc</dt> <dd>day-<abbr>G5.PL-LOC</abbr></dd> </dl>
+<dl> <dt>aa-bb</dt> <dd>ancient-<abbr>G5.PL</abbr></dd> </dl>
+<dl> <dt>aa-bb</dt> <dd>porperty.be-<abbr>PFV</abbr></dd> </dl>
+<dl> <dt>aa-bb-cc-dd</dt> <dd>thing-<abbr>G3.PL-NOM-FUT</abbr></dd> </dl>
+<dl> <dt>aa-bb</dt> <dd>many-<abbr>G3.PL</abbr></dd> </dl>
+<dl> <dt>aa-bb-cc</dt> <dd>improvement-<abbr>G5.SG-ESS</abbr></dd> </dl>
 </div>
 <p class="freetranslation">A long time ago, Bee wished many things would get better.</p>
 </div>
@@ -276,7 +288,13 @@ Bee said:
 <p class="number"></p>
 <p class="original"></p>
 <div class="interlinear">
-<dl> <dt></dt> <dd></dd> </dl>
+<dl> <dt>aa-bb-cc-dd</dt> <dd>bee-<abbr>G2.SG-NOM-REL:PRS</abbr></dd> </dl>
+<dl> <dt>aa</dt> <dd>so_that</dd> </dl>
+<dl> <dt>aa-bb</dt> <dd>work-<abbr>REL</abbr></dd> </dl>
+<dl> <dt>aa-bb</dt> <dd>go-<abbr>PFV</abbr></dd> </dl>
+<dl> <dt>aa</dt> <dd>upward</dd> </dl>
+<dl> <dt>aa-bb-cc-dd</dt> <dd>bee-<abbr>G2.SG-NOM-REM.PST</dd> </dl>
+<dl> <dt>aa-bb-cc</dt> <dd>thing-<abbr>G3.PL-ALL</dd> </dl>
 </div>
 <p class="freetranslation">Because of his work he ascended up to things.</p>
 </div>
@@ -285,7 +303,18 @@ Bee said:
 <p class="number"></p>
 <p class="original"></p>
 <div class="interlinear">
-<dl> <dt></dt> <dd></dd> </dl>
+<dl> <dt>lothe-qʼath-a</dt> <dd>this-speak-<abbr>PFV</abbr></dd> </dl>
+<dl> <dt>aa-ma-dʼa-qʼo</dt> <dd>bee-<abbr>G2.SG-NOM-REM.PST</abbr></dd> </dl>
+<dl> <dt>aa-bb</dt> <dd>fly-<abbr>PFV</abbr></dd> </dl>
+<dl> <dt>aa</dt> <dd>upward</dd> </dl>
+<dl> <dt>aa-bb-cc</dt> <dd><abbr>1SG-NOM-PRS</abbr></dd> </dl>
+<dl> <dt>aa-bb-cc</dt> <dd>head-<abbr>G4.SG-ALL</abbr></dd> </dl>
+<dl> <dt>aa-bb-cc-dd</dt> <dd>mountain-<abbr>G4.SG-GEN-G4.SG</abbr></dd> </dl>
+<dl> <dt>aa</dt> <dd><abbr>REL</abbr></dd> </dl>
+<dl> <dt>aa</dt> <dd>sun-<abbr>G2.SG-NOM-PST</abbr></dd> </dl>
+<dl> <dt>aa-bb-cc</dt> <dd>failure-<abbr>G5.SG-LOC</abbr></dd> </dl>
+<dl> <dt>theni</dt> <dd><abbr>NEG</abbr></dd> </dl>
+<dl> <dt>aa-bb-cc</dt> <dd>reach-<abbr>PFV-G4.SG</abbr></dd> </dl>
 </div>
 <p class="freetranslation">Bee said "I'll fly up to the mountain top that even Sun fails to achieve."</p>
 </div>
@@ -303,8 +332,8 @@ Bee said:
 <p class="number"></p>
 <p class="original">𞤂𞤮𞤬𞤫𞤹𞥇𞤢𞤬𞤢 𞤩𞤫𞤲𞤮𞤥𞤢𞤯𞤢𞤹𞥇𞤮:</p>
 <div class="interlinear">
-<dl> <dt>lothe-qʼath-a</dt> <dd>this-speak-PFV</dd> </dl>
-<dl> <dt>bʼeno-ma-dʼa-qʼo</dt> <dd>sun-G2.SG-NOM-REM.PST</dd> </dl>
+<dl> <dt>lothe-qʼath-a</dt> <dd>this-speak-<abbr>PFV</abbr></dd> </dl>
+<dl> <dt>bʼeno-ma-dʼa-qʼo</dt> <dd>sun-<abbr>G2.SG-NOM-REM.PST</abbr></dd> </dl>
 </div>
 <p class="freetranslation">Sun said:</p>
 </div>
@@ -322,8 +351,8 @@ Bee said:
 <p class="number"></p>
 <p class="original"></p>
 <div class="interlinear">
-<dl> <dt>lothe-qʼath-a</dt> <dd>this-speak-PFV</dd> </dl>
-<dl> <dt>aa-ma-dʼa-qʼo</dt> <dd>bee-G2.SG-NOM-REM.PST</dd> </dl>
+<dl> <dt>lothe-qʼath-a</dt> <dd>this-speak-<abbr>PFV</abbr></dd> </dl>
+<dl> <dt>aa-ma-dʼa-qʼo</dt> <dd>bee-<abbr>G2.SG-NOM-REM.PST</abbr></dd> </dl>
 </div>
 <p class="freetranslation">Bee said:</p>
 </div>
