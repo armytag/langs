@@ -361,13 +361,35 @@ Bee said:
 <p class="number"></p>
 <p class="original"></p>
 <div class="interlinear">
-<dl> <dt>aa-bb-cc</dt> <dd>feed-<abbr>PFV-G5.SG</abbr></dd> </dl>
+<dl> <dt>hlenab-a-cc</dt> <dd>feed-<abbr>PFV-G2.SG</abbr></dd> </dl>
 <dl> <dt>aa-bb-cc</dt> <dd><abbr>1SG-NOM-PST</abbr></dd> </dl>
-<dl> <dt>aa-bb-cc</dt> <dd>sun-<abbr>G2.SG-DAT</dd> </dl>
+<dl> <dt>aa-bb-∅</dt> <dd>sun-<abbr>G2.SG-ACC</dd> </dl>
+<dl> <dt>aa-bb-cc</dt> <dd>unhappiness-<abbr>G5.SG-INST</abbr></dd> </dl>
 <dl> <dt>aa-bb-cc</dt> <dd>ability-<abbr>G5.SG-INST</dd> </dl>
 <dl> <dt>aa-bb-cc-dd-ee</dt> <dd>stinger-<abbr>G2.SG-POSS-GEN-G5.SG</dd> </dl>
 <dl> <dt>aa-bb-cc</dt> <dd><abbr>1SG-GEN-G2.SG</abbr></dd> </dl>
-<dl> <dt>aa-bb-cc</dt> <dd>unhappiness-<abbr>G5.SG-ACC</abbr></dd> </dl>
+<dl> <dt>aa</dt> <dd>rather</dd> </dl>
+<dl> <dt>aa-bb-cc</dt> <dd>steal-<abbr>PFV-G2.PL</abbr></dd> </dl>
+<dl> <dt>aa-bb-cc</dt> <dd><abbr>3SG-NOM-PST</abbr></dd> </dl>
+<dl> <dt>aa-bb-∅</dt> <dd>stinger-<abbr>G2.SG-ACC</abbr></dd> </dl>
+<dl> <dt>aa-bb-∅</dt> <dd>beehive-<abbr>G3.SG-ACC</abbr></dd> </dl>
+<dl> <dt>aa</dt> <dd>thus</dd> </dl>
+<dl> <dt>aa-bb-cc</dt> <dd>die-<abbr>PFV</abbr></dd> </dl>
+<dl> <dt>aa-bb-cc</dt> <dd><abbr>1SG-NOM-PST</abbr></dd> </dl>
+<dl> <dt>aa</dt> <dd>also</dd> </dl>
+<dl> <dt>theni</dt> <dd><abbr>NEG</abbr></dd> </dl>
+<dl> <dt>aa-i</dt> <dd>exist.be-<abbr>IPFV</abbr></dd> </dl>
+<dl> <dt>aa-bb-cc</dt> <dd>that-<abbr>G2.PL-NOM-PST</abbr></dd> </dl>
+
+<dl> <dt>theni</dt> <dd><abbr>NEG</abbr></dd> </dl>
+<dl> <dt>aa-bb-i</dt> <dd>that-understand-<abbr>IPFV</abbr></dd> </dl>
+<dl> <dt>aa-bb-cc</dt> <dd><abbr>1SG-NOM-PST</abbr></dd> </dl>
+<dl> <dt>aa</dt> <dd>however</dd> </dl>
+<dl> <dt>hl-a-cc</dt> <dd>eat-<abbr>PFV-G5.SG</abbr></dd> </dl>
+<dl> <dt>aa-bb-cc</dt> <dd><abbr>1SG-NOM-PST</abbr></dd> </dl>
+<dl> <dt>aa-bb-cc</dt> <dd>theft-<abbr>G5.PL-INST</abbr></dd> </dl>
+<dl> <dt>aa</dt> <dd>that-<abbr>G5.PL</abbr></dd> </dl>
+<dl> <dt>aa-bb-∅</dt> <dd>pain-<abbr>G5.SG-ACC</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"I didn't please Sun with my gift of a stinger, rather he stole honey and took the stinger, thus I died and they disappeared as well.  I don’t understand it but they hurt me a lot."</p>
 </div>
