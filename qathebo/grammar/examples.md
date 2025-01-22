@@ -78,7 +78,7 @@
 <dl> <dt>ndaʼ-ner </dt> <dd><abbr>1.PL</abbr>-tell</dd> </dl>
 <dl> <dt>ndiŋo-ka</dt> <dd>story-<abbr>PL</abbr></dd> </dl>
 </div>
-<p class="freetranslation">When the tides were calm we tell stories:</p>
+<p class="freetranslation">When the tides calm we tell stories:</p>
 </div>
 
 <div class="gloss">
@@ -234,7 +234,7 @@
 
 ### Interpretation
 
-When the tides were calm we tell stories:
+When the tides calm we tell stories:
 
 A long time ago, Bee wished many things would get better.
 
@@ -251,4 +251,89 @@ Sun said:
 Bee said:
 
 "I didn't please Sun with my gift of a stinger, rather he stole honey and took the stinger, thus I died and they disappeared as well.  I don’t understand it but they hurt me a lot."
+
+### Translation
+
+<div class="gloss">
+<p class="number"></p>
+<p class="original"></p>
+<div class="interlinear">
+<dl> <dt></dt> <dd></dd> </dl>
+</div>
+<p class="freetranslation">When the tides calm we tell stories:</p>
+</div>
+
+<div class="gloss">
+<p class="number"></p>
+<p class="original"></p>
+<div class="interlinear">
+<dl> <dt></dt> <dd></dd> </dl>
+</div>
+<p class="freetranslation">A long time ago, Bee wished many things would get better.</p>
+</div>
+
+<div class="gloss">
+<p class="number"></p>
+<p class="original"></p>
+<div class="interlinear">
+<dl> <dt></dt> <dd></dd> </dl>
+</div>
+<p class="freetranslation">Because of his work he ascended up to things.</p>
+</div>
+
+<div class="gloss">
+<p class="number"></p>
+<p class="original"></p>
+<div class="interlinear">
+<dl> <dt></dt> <dd></dd> </dl>
+</div>
+<p class="freetranslation">Bee said "I'll fly up to the mountain top that even Sun fails to achieve."</p>
+</div>
+
+<div class="gloss">
+<p class="number"></p>
+<p class="original"></p>
+<div class="interlinear">
+<dl> <dt></dt> <dd></dd> </dl>
+</div>
+<p class="freetranslation">Sun wasn't gifted.  He wasn't happy about this, and while Sun vowed to steal the beehive Bee entered and stung him, but the stinger was lost and will cause him to die.</p>
+</div>
+
+<div class="gloss">
+<p class="number"></p>
+<p class="original">𞤂𞤮𞤬𞤫𞤹𞥇𞤢𞤬𞤢 𞤩𞤫𞤲𞤮𞤥𞤢𞤯𞤢𞤹𞥇𞤮:</p>
+<div class="interlinear">
+<dl> <dt>lothe-qʼath-a</dt> <dd>this-speak-PFV</dd> </dl>
+<dl> <dt>bʼeno-ma-dʼa-qʼo</dt> <dd>sun-G2.SG-NOM-REM.PST</dd> </dl>
+</div>
+<p class="freetranslation">Sun said:</p>
+</div>
+
+<div class="gloss">
+<p class="number"></p>
+<p class="original"></p>
+<div class="interlinear">
+<dl> <dt></dt> <dd></dd> </dl>
+</div>
+<p class="freetranslation">"I hate the gift that displeases me.  Rather I will say that my sacred presence doesn’t need your gifts or even to acknowledge you."</p>
+</div>
+
+<div class="gloss">
+<p class="number"></p>
+<p class="original"></p>
+<div class="interlinear">
+<dl> <dt>lothe-qʼath-a</dt> <dd>this-speak-PFV</dd> </dl>
+<dl> <dt>aa-ma-dʼa-qʼo</dt> <dd>bee-G2.SG-NOM-REM.PST</dd> </dl>
+</div>
+<p class="freetranslation">Bee said:</p>
+</div>
+
+<div class="gloss">
+<p class="number"></p>
+<p class="original"></p>
+<div class="interlinear">
+<dl> <dt></dt> <dd></dd> </dl>
+</div>
+<p class="freetranslation">"I didn't please Sun with my gift of a stinger, rather he stole honey and took the stinger, thus I died and they disappeared as well.  I don’t understand it but they hurt me a lot."</p>
+</div>
 
