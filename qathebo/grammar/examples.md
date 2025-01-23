@@ -370,7 +370,14 @@ Bee said:
 <p class="number"></p>
 <p class="original"></p>
 <div class="interlinear">
-<dl> <dt></dt> <dd></dd> </dl>
+<dl> <dt></dt> <dd>spit-<abbr>PFV-G5.SG</abbr></dd> </dl>
+<dl> <dt></dt> <dd><abbr>1SG-NOM-PRS</abbr></dd> </dl>
+<dl> <dt></dt> <dd>hatred-<abbr>G5.SG-ACC</abbr></dd> </dl>
+<dl> <dt></dt> <dd>ability-<abbr>G5.SG-ALL</abbr></dd> </dl>
+<dl> <dt></dt> <dd><abbr>REL</abbr></dd> </dl>
+<dl> <dt></dt> <dd>this-<abbr>G5.SG-NOM-REL.PRS</abbr></dd> </dl>
+<dl> <dt></dt> <dd>unhappiness-<abbr>G5.SG-INST</abbr></dd> </dl>
+<dl> <dt></dt> <dd><abbr>1SG</abbr>-feed-<abbr>REL</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"I hate the gift that displeases me.  Rather I will say that my sacred presence doesn’t need your gifts or even to acknowledge you."</p>
 </div>
