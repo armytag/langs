@@ -4,7 +4,6 @@
 ## Given Text
 
 <div class="gloss">
-<p class="number"></p>
 <p>Kɨcyu ʼesɨmɨm ñilasa ndaʼner ndiŋoka:</p>
 <div class="interlinear">
 <dl> <dt>Kɨcyu</dt> <dd>when</dd> </dl>
@@ -17,7 +16,6 @@
 </div>
 
 <div class="gloss">
-<p class="number"></p>
 <p>Ndundunduvol ndekas tɨreŋenja-ŋgɨ elaʼ ɨtɨka ñinuy atut.</p>
 <div class="interlinear">
 <dl> <dt>Ndu-ndu-nduvol</dt> <dd>RDP-RDP-time</dd> </dl>
@@ -32,7 +30,6 @@
 </div>
 
 <div class="gloss">
-<p class="number"></p>
 <p>Njo yukararanje ŋaytɨrceʼaraŋɨ masa tɨrɨtɨ.</p>
 <div class="interlinear">
 <dl> <dt>Njo</dt> <dd>because</dd> </dl>
@@ -45,7 +42,6 @@
 </div>
 
 <div class="gloss">
-<p class="number"></p>
 <p>Ndekas tɨrneraŋɨ ŋaymbuvonjaʼ masa pal cet cu tɨreŋgorɨ-ŋgɨ-le alerukɨt ñelayay Orɨm.</p>
 <div class="interlinear">
 <dl> <dt>Ndekas</dt> <dd>Bee</dd> </dl>
@@ -64,7 +60,6 @@
 </div>
 
 <div class="gloss">
-<p class="number"></p>
 <p>Orɨm tɨrxuruñaŋɨle xexka.</p>
 <div class="interlinear">
 <dl> <dt>Orɨm</dt> <dd>Sun</dd> </dl>
@@ -75,7 +70,6 @@
 </div>
 
 <div class="gloss">
-<p class="number"></p>
 <p>Se masa Orɨm tɨrcanjaŋgɨle mbuɨxɨmbañaŋɨ ñivemboŋgɨ ruxo yo mbulalasiyñaŋɨ rukɨtɨ ndekas ñivutluŋgɨ cu ivutoñ ñivemboŋgɨ ñilonjoreye voŋɨnde.</p>
 <div class="interlinear">
 <dl> <dt>Se</dt> <dd>this</dd> </dl>
@@ -100,7 +94,6 @@
 </div>
 
 <div class="gloss">
-<p class="number"></p>
 <p>Orɨm tɨrneraŋɨ:</p>
 <div class="interlinear">
 <dl> <dt>Orɨm</dt> <dd>Sun</dd> </dl>
@@ -110,7 +103,6 @@
 </div>
 
 <div class="gloss">
-<p class="number"></p>
 <p>"Se xex ñimbitelairele mbuacɨnderele cu mbunereye se rendañu supa mbuparilñye tuxexka cu otiʼndenja"</p>
 <div class="interlinear">
 <dl> <dt>se</dt> <dd>this</dd> </dl>
@@ -131,7 +123,6 @@
 </div>
 
 <div class="gloss">
-<p class="number"></p>
 <p>Ndekas tɨrneraŋɨ:</p>
 <div class="interlinear">
 <dl> <dt>Ndekas</dt> <dd>Bee</dd> </dl>
@@ -141,7 +132,6 @@
 </div>
 
 <div class="gloss">
-<p class="number"></p>
 <p>"Mbumbitembaiʼaŋɨle Orɨm yuxex ŋgo ivutoñmo cu tɨrvemboñaŋɨ lurus tɨrxuruñaŋɨ ivutoñmo tirya mbulonjoraŋɨ yo eñot ŋgeslonjoraŋɨ mbuŋgurñye cu elaʼ ŋgessayambolai."</p>
 <div class="interlinear">
 <dl> <dt>Mbu-mbite-mbaiʼ-aŋɨ-le</dt> <dd><abbr>1SG</abbr>-please-<abbr>3SG-PST-NEG</abbr></dd> </dl>
@@ -190,110 +180,98 @@ Bee said:
 ## Translation
 
 <div class="gloss">
-<p class="number"></p>
-<p class="original"></p>
 <div class="interlinear">
-<dl> <dt>aa-bb-cc-dd</dt> <dd>calmness-<abbr>G5.PL-NOM-REL:PRS</abbr></dd> </dl>
+<dl> <dt>aa-ge-dʼa-ta</dt> <dd>calmness-<abbr>G5.SG-NOM-REL:PRS</abbr></dd> </dl>
 <dl> <dt>aa</dt> <dd>yet</dd> </dl>
-<dl> <dt>aa-bb</dt> <dd>exist.COP-<abbr>REL</abbr></dd> </dl>
-<dl> <dt>aa-bb-cc</dt> <dd>speak-<abbr>PFV-G5.PL</abbr></dd> </dl>
-<dl> <dt>aa-bb-cc</dt> <dd><abbr>1PL-NOM-PRS</abbr></dd> </dl>
-<dl> <dt>aa-bb-∅</dt> <dd>story-<abbr>G5.PL-ACC</abbr></dd> </dl>
+<dl> <dt>aa-ili</dt> <dd>exist.<abbr>COP-REL</abbr></dd> </dl>
+<dl> <dt>qʼath-e-ko</dt> <dd>speak-<abbr>PFV-G5.PL</abbr></dd> </dl>
+<dl> <dt>pʼa-dʼe-bʼi</dt> <dd><abbr>1PL-NOM-PRS</abbr></dd> </dl>
+<dl> <dt>aa-ta-∅</dt> <dd>story-<abbr>G5.PL-ACC</abbr></dd> </dl>
 </div>
 <p class="freetranslation">When the tides calm we tell stories:</p>
 </div>
 
 <div class="gloss">
-<p class="number"></p>
-<p class="original"></p>
 <div class="interlinear">
 <dl> <dt>lothi-aa-i</dt> <dd>this-wish-<abbr>IPFV</abbr></dd> </dl>
 <dl> <dt>aa-ma-dʼa-qʼo</dt> <dd>bee-<abbr>G2.SG-NOM-REM.PST</abbr></dd> </dl>
-<dl> <dt>aa-bb-cc</dt> <dd>day-<abbr>G5.PL-LOC</abbr></dd> </dl>
-<dl> <dt>aa-bb</dt> <dd>ancient-<abbr>G5.PL</abbr></dd> </dl>
-<dl> <dt>aa-bb</dt> <dd>porperty.COP-<abbr>PFV</abbr></dd> </dl>
-<dl> <dt>aa-bb-cc-dd</dt> <dd>thing-<abbr>G3.PL-NOM-FUT</abbr></dd> </dl>
-<dl> <dt>aa-bb</dt> <dd>many-<abbr>G3.PL</abbr></dd> </dl>
-<dl> <dt>aa-bb-cc</dt> <dd>improvement-<abbr>G5.SG-ESS</abbr></dd> </dl>
+<dl> <dt>aa-ta-to</dt> <dd>day-<abbr>G5.PL-LOC</abbr></dd> </dl>
+<dl> <dt>aa-to</dt> <dd>ancient-<abbr>G5.PL</abbr></dd> </dl>
+<dl> <dt>aa-a</dt> <dd>porperty.<abbr>COP-PFV</abbr></dd> </dl>
+<dl> <dt>aa-la-dʼa-do</dt> <dd>thing-<abbr>G3.PL-NOM-FUT</abbr></dd> </dl>
+<dl> <dt>aa-lo</dt> <dd>many-<abbr>G3.PL</abbr></dd> </dl>
+<dl> <dt>aa-gi-qʼa</dt> <dd>improvement-<abbr>G5.SG-ESS</abbr></dd> </dl>
 </div>
 <p class="freetranslation">A long time ago, Bee wished many things would get better.</p>
 </div>
 
 <div class="gloss">
-<p class="number"></p>
-<p class="original"></p>
 <div class="interlinear">
-<dl> <dt>aa-bb-cc-dd</dt> <dd>bee-<abbr>G2.SG-NOM-REL:PRS</abbr></dd> </dl>
+<dl> <dt>aa-ma-dʼa-ta</dt> <dd>bee-<abbr>G2.SG-NOM-REL:PRS</abbr></dd> </dl>
 <dl> <dt>aa</dt> <dd>so_that</dd> </dl>
-<dl> <dt>aa-bb</dt> <dd>work-<abbr>REL</abbr></dd> </dl>
-<dl> <dt>aa-bb</dt> <dd>go-<abbr>PFV</abbr></dd> </dl>
+<dl> <dt>aa-ili</dt> <dd>work-<abbr>REL</abbr></dd> </dl>
+<dl> <dt>aa-a</dt> <dd>go-<abbr>PFV</abbr></dd> </dl>
 <dl> <dt>aa</dt> <dd>upward</dd> </dl>
-<dl> <dt>aa-bb-cc-dd</dt> <dd>bee-<abbr>G2.SG-NOM-REM.PST</dd> </dl>
-<dl> <dt>aa-bb-cc</dt> <dd>thing-<abbr>G3.PL-ALL</dd> </dl>
+<dl> <dt>lothe-ma-dʼa-qʼo</dt> <dd>this-<abbr>G2.SG-NOM-REM.PST</dd> </dl>
+<dl> <dt>aa-la-mo</dt> <dd>thing-<abbr>G3.PL-ALL</dd> </dl>
 </div>
 <p class="freetranslation">Because of his work he ascended up to things.</p>
 </div>
 
 <div class="gloss">
-<p class="number"></p>
-<p class="original"></p>
 <div class="interlinear">
 <dl> <dt>lothe-qʼath-a</dt> <dd>this-speak-<abbr>PFV</abbr></dd> </dl>
 <dl> <dt>aa-ma-dʼa-qʼo</dt> <dd>bee-<abbr>G2.SG-NOM-REM.PST</abbr></dd> </dl>
-<dl> <dt>aa-bb</dt> <dd>fly-<abbr>PFV</abbr></dd> </dl>
+<dl> <dt>aa-a</dt> <dd>fly-<abbr>PFV</abbr></dd> </dl>
 <dl> <dt>aa</dt> <dd>upward</dd> </dl>
-<dl> <dt>aa-bb-cc</dt> <dd><abbr>1SG-NOM-PRS</abbr></dd> </dl>
-<dl> <dt>aa-bb-cc</dt> <dd>head-<abbr>G4.SG-ALL</abbr></dd> </dl>
-<dl> <dt>aa-bb-cc-dd</dt> <dd>mountain-<abbr>G4.SG-GEN-G4.SG</abbr></dd> </dl>
+<dl> <dt>pʼa-dʼe-bʼi</dt> <dd><abbr>1SG-NOM-PRS</abbr></dd> </dl>
+<dl> <dt>aa-qe-mo</dt> <dd>head-<abbr>G4.SG-ALL</abbr></dd> </dl>
+<dl> <dt>aa-qo-tʼi-qo</dt> <dd>mountain-<abbr>G4.SG-GEN-G4.SG</abbr></dd> </dl>
 <dl> <dt>aa</dt> <dd><abbr>REL</abbr></dd> </dl>
-<dl> <dt>aa</dt> <dd>sun-<abbr>G2.SG-NOM-REL:PST</abbr></dd> </dl>
-<dl> <dt>aa-bb-cc</dt> <dd>failure-<abbr>G5.SG-LOC</abbr></dd> </dl>
+<dl> <dt>bʼeno-ma-dʼe-pʼi</dt> <dd>sun-<abbr>G2.SG-NOM-REL:PST</abbr></dd> </dl>
+<dl> <dt>aa-gi-to</dt> <dd>failure-<abbr>G5.SG-LOC</abbr></dd> </dl>
 <dl> <dt>theni</dt> <dd><abbr>NEG</abbr></dd> </dl>
-<dl> <dt>aa-bb</dt> <dd>reach-<abbr>REL</abbr></dd> </dl>
+<dl> <dt>kadi-bb-ili</dt> <dd>that-reach-<abbr>REL</abbr></dd> </dl>
 </div>
 <p class="freetranslation">Bee said "I'll fly up to the mountain top that even Sun fails to achieve."</p>
 </div>
 
 <div class="gloss">
-<p class="number"></p>
-<p class="original"></p>
 <div class="interlinear">
 <dl> <dt>theni</dt> <dd><abbr>NEG</abbr></dd> </dl>
-<dl> <dt>aa-bb</dt> <dd>property.<abbr>COP-IMPF</abbr></dd> </dl>
-<dl> <dt>aa-bb-cc-dd</dt> <dd>sun-<abbr>G2.SG-NOM-REM.PST</abbr></dd> </dl>
-<dl> <dt>aa-bb</dt> <dd>skillful-<abbr>ESS</abbr></dd> </dl>
+<dl> <dt>aa-i</dt> <dd>property.<abbr>COP-IMPF</abbr></dd> </dl>
+<dl> <dt>bʼeno-ma-dʼa-qʼo</dt> <dd>sun-<abbr>G2.SG-NOM-REM.PST</abbr></dd> </dl>
+<dl> <dt>aa-qʼo</dt> <dd>skillful-<abbr>ESS</abbr></dd> </dl>
 <dl> <dt>aa</dt> <dd>thus</dd> </dl>
-<dl> <dt>aa-bb-cc</dt> <dd>eat-<abbr>PFV-G5.SG</abbr></dd> </dl>
-<dl> <dt>(aa-bb-cc-dd)</dt> <dd>(this-<abbr>G2.SG-NOM-REM.PST</abbr>)</dd> </dl>
-<dl> <dt>aa-bb-cc.</dt> <dd>unhappiness-<abbr>G5.SG-ACC</abbr></dd> </dl>
+<dl> <dt>moqʼ-e-kʼi</dt> <dd>swallow-<abbr>PFV-G5.SG</abbr></dd> </dl>
+<dl> <dt>(lothi-ma-dʼe-qʼo)</dt> <dd>(this-<abbr>G2.SG-NOM-REM.PST</abbr>)</dd> </dl>
+<dl> <dt>aa-gi-∅.</dt> <dd>unhappiness-<abbr>G5.SG-ACC</abbr></dd> </dl>
 </div>
 <div class="interlinear">
-<dl> <dt>aa-bb-cc-dd</dt> <dd>sun-<abbr>G2.SG-NOM-REL:PRS</abbr></dd> </dl>
-<dl> <dt>aa-bb</dt> <dd>this-<abbr>G5.SG</abbr></dd> </dl>
+<dl> <dt>bʼeno-ma-dʼa-ta</dt> <dd>sun-<abbr>G2.SG-NOM-REL:PRS</abbr></dd> </dl>
+<dl> <dt>lothi-gi-∅</dt> <dd>this-<abbr>G5.SG-ACC</abbr></dd> </dl>
 <dl> <dt>aa</dt> <dd><abbr>REL</abbr></dd> </dl>
-<dl> <dt>aa-bb-cc-dd</dt> <dd>that-<abbr>G2.SG-NOM-REL:FUT</abbr></dd> </dl>
-<dl> <dt>aa-bb-cc</dt> <dd>beehive-<abbr>G4.SG-ACC</abbr></dd> </dl>
-<dl> <dt>aa-bb-cc</dt> <dd>steal-<abbr>REL-G4.SG</abbr></dd> </dl>
-<dl> <dt>aa-bb</dt> <dd>decide-<abbr>REL-G5.SG</abbr></dd> </dl>
-<dl> <dt>aa-bb</dt> <dd>enter-<abbr>PFV</abbr></dd> </dl>
-<dl> <dt>aa-bb-cc-dd</dt> <dd>bee-<abbr>G2.SG-NOM-REM.PST</abbr></dd> </dl>
-<dl> <dt>aa-bb-cc</dt> <dd>sting-<abbr>PFV-G2.SG</abbr></dd> </dl>
-<dl> <dt>aa-bb-cc-dd</dt> <dd>that-<abbr>G2.SG-ACC</abbr></dd> </dl>
+<dl> <dt>kade-ma-dʼa-na</dt> <dd>that-<abbr>G2.SG-NOM-REL:FUT</abbr></dd> </dl>
+<dl> <dt>aa-qo-∅</dt> <dd>beehive-<abbr>G4.SG-ACC</abbr></dd> </dl>
+<dl> <dt>aa-ili-tha</dt> <dd>steal-<abbr>REL-G4.SG</abbr></dd> </dl>
+<dl> <dt>aa-ili-kʼi</dt> <dd>decide-<abbr>REL-G5.SG</abbr></dd> </dl>
+<dl> <dt>aa-a</dt> <dd>enter-<abbr>PFV</abbr></dd> </dl>
+<dl> <dt>aa-ma-dʼe-qʼo</dt> <dd>bee-<abbr>G2.SG-NOM-REM.PST</abbr></dd> </dl>
+<dl> <dt>aa-a-ni</dt> <dd>sting-<abbr>PFV-G2.SG</abbr></dd> </dl>
+<dl> <dt>kade-ma-∅</dt> <dd>that-<abbr>G2.SG-ACC</abbr></dd> </dl>
 <dl> <dt>aa</dt> <dd>however</dd> </dl>
-<dl> <dt>aa-bb-cc</dt> <dd>lose-<abbr>PFV-G2.SG</dd> </dl>
-<dl> <dt>aa-bb-cc-dd</dt> <dd>this-<abbr>G2.SG-NOM-REM.PST</dd> </dl>
-<dl> <dt>aa-bb-cc</dt> <dd>stinger-<abbr>G2.SG-ACC</dd> </dl>
+<dl> <dt>aa-a-ni</dt> <dd>lose-<abbr>PFV-G3.SG</dd> </dl>
+<dl> <dt>lothe-ma-dʼe-qʼo</dt> <dd>this-<abbr>G2.SG-NOM-REM.PST</dd> </dl>
+<dl> <dt>aa-ga-∅</dt> <dd>stinger-<abbr>G2.SG-ACC</dd> </dl>
 <dl> <dt>aa</dt> <dd>thus</dd> </dl>
 <dl> <dt>aa</dt> <dd>later</dd> </dl>
-<dl> <dt>aa-bb-cc</dt> <dd>die-<abbr>PFV-G2.SG</abbr></dd> </dl>
-<dl> <dt>aa-bb-cc-dd</dt> <dd>this-<abbr>G2.SG-NOM-REL:FUT</abbr></dd> </dl>
+<dl> <dt>aa-a</dt> <dd>die-<abbr>PFV-G2.SG</abbr></dd> </dl>
+<dl> <dt>lothe-ma-dʼa-na</dt> <dd>this-<abbr>G2.SG-NOM-REL:FUT</abbr></dd> </dl>
 </div>
 <p class="freetranslation">Sun wasn't gifted.  He wasn't happy about this, and while Sun vowed to steal the beehive Bee entered and stung him, but the stinger was lost and will cause him to die.</p>
 </div>
 
 <div class="gloss">
-<p class="number"></p>
-<p class="original">𞤂𞤮𞤬𞤫𞤹𞥇𞤢𞤬𞤢 𞤩𞤫𞤲𞤮𞤥𞤢𞤯𞤢𞤹𞥇𞤮:</p>
 <div class="interlinear">
 <dl> <dt>lothe-qʼath-a</dt> <dd>this-speak-<abbr>PFV</abbr></dd> </dl>
 <dl> <dt>bʼeno-ma-dʼa-qʼo</dt> <dd>sun-<abbr>G2.SG-NOM-REM.PST</abbr></dd> </dl>
@@ -302,38 +280,34 @@ Bee said:
 </div>
 
 <div class="gloss">
-<p class="number"></p>
-<p class="original"></p>
 <div class="interlinear">
-<dl> <dt>aa-bb-cc</dt> <dd>spit-<abbr>PFV-G5.SG</abbr></dd> </dl>
-<dl> <dt>aa-bb-cc</dt> <dd><abbr>1SG-NOM-PRS</abbr></dd> </dl>
-<dl> <dt>aa-bb-cc</dt> <dd>hatred-<abbr>G5.SG-ACC</abbr></dd> </dl>
-<dl> <dt>aa-bb-cc</dt> <dd>ability-<abbr>G5.SG-ALL</abbr></dd> </dl>
-<dl> <dt>aa-bb-cc</dt> <dd><abbr>REL</abbr></dd> </dl>
-<dl> <dt>aa-bb-cc</dt> <dd>this-<abbr>G5.SG-NOM-REL.PRS</abbr></dd> </dl>
-<dl> <dt>aa-bb-cc</dt> <dd>unhappiness-<abbr>G5.SG-INST</abbr></dd> </dl>
-<dl> <dt>aa-bb-cc.</dt> <dd><abbr>1SG</abbr>-feed-<abbr>REL</abbr></dd> </dl>
+<dl> <dt>aa-a-kʼi</dt> <dd>spit-<abbr>PFV-G5.SG</abbr></dd> </dl>
+<dl> <dt>pʼa-dʼe-bʼi</dt> <dd><abbr>1SG-NOM-PRS</abbr></dd> </dl>
+<dl> <dt>aa-gi-∅</dt> <dd>hatred-<abbr>G5.SG-ACC</abbr></dd> </dl>
+<dl> <dt>aa-gi-mo</dt> <dd>ability-<abbr>G5.SG-ALL</abbr></dd> </dl>
+<dl> <dt>aa</dt> <dd><abbr>REL</abbr></dd> </dl>
+<dl> <dt>lothi-gi-dʼa-ta</dt> <dd>this-<abbr>G5.SG-NOM-REL.PRS</abbr></dd> </dl>
+<dl> <dt>aa-gi-gi</dt> <dd>unhappiness-<abbr>G5.SG-INST</abbr></dd> </dl>
+<dl> <dt>pʼa-moqʼeneb-ili.</dt> <dd><abbr>1SG</abbr>-swallow.<abbr>CAUS-REL</abbr></dd> </dl>
 </div>
 <div class="interlinear">
 <dl> <dt>aa</dt> <dd>thus</dd> </dl>
-<dl> <dt>aa-bb-cc</dt> <dd>this-speak-<abbr>PFV</abbr></dd> </dl>
-<dl> <dt>aa-bb-cc</dt> <dd><abbr>1SG-NOM-PRS</abbr></dd> </dl>
+<dl> <dt>lothe-qʼath-a</dt> <dd>this-speak-<abbr>PFV</abbr></dd> </dl>
+<dl> <dt>pʼa-dʼe-bʼi</dt> <dd><abbr>1SG-NOM-PRS</abbr></dd> </dl>
 <dl> <dt>theni</dt> <dd><abbr>NEG</abbr></dd> </dl>
-<dl> <dt>aa-bb-cc</dt> <dd>need-<abbr>IPFV-G5.PL</abbr></dd> </dl>
-<dl> <dt>aa-bb-cc</dt> <dd><abbr>1SG</abbr>.self-<abbr>NOM-PRS</abbr></dd> </dl>
-<dl> <dt>aa-bb</dt> <dd>sacred-<abbr>G2.SG</abbr></dd> </dl>
-<dl> <dt>aa-bb-cc-dd</dt> <dd>ability-<abbr>G5.PL-POSS-ACC</abbr></dd> </dl>
-<dl> <dt>aa-bb-cc</dt> <dd><abbr>2SG-GEN-G5.PL</abbr></dd> </dl>
+<dl> <dt>aa-i-ko</dt> <dd>need-<abbr>IPFV-G5.PL</abbr></dd> </dl>
+<dl> <dt>patʼopʼa-dʼe-bʼi</dt> <dd>self.<abbr>1SG-NOM-PRS</abbr></dd> </dl>
+<dl> <dt>aa-mo</dt> <dd>sacred-<abbr>G2.SG</abbr></dd> </dl>
+<dl> <dt>aa-ta-tʼo-∅</dt> <dd>ability-<abbr>G5.PL-POSS-ACC</abbr></dd> </dl>
+<dl> <dt>qi-tʼi-to</dt> <dd><abbr>2SG-GEN-G5.PL</abbr></dd> </dl>
 <dl> <dt>aa</dt> <dd>moreover</dd> </dl>
 <dl> <dt>theni</dt> <dd><abbr>NEG</abbr></dd> </dl>
-<dl> <dt>aa-bb-cc.</dt> <dd><abbr>2SG</abbr>-acknowledge-<abbr>IPFV</abbr></dd> </dl>
+<dl> <dt>qi-bb-i.</dt> <dd><abbr>2SG</abbr>-acknowledge-<abbr>IPFV</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"I hate the gift that displeases me.  Rather I will say that my sacred presence doesn’t need your gifts or even to acknowledge you."</p>
 </div>
 
 <div class="gloss">
-<p class="number"></p>
-<p class="original"></p>
 <div class="interlinear">
 <dl> <dt>lothe-qʼath-a</dt> <dd>this-speak-<abbr>PFV</abbr></dd> </dl>
 <dl> <dt>aa-ma-dʼa-qʼo</dt> <dd>bee-<abbr>G2.SG-NOM-REM.PST</abbr></dd> </dl>
@@ -342,40 +316,43 @@ Bee said:
 </div>
 
 <div class="gloss">
-<p class="number"></p>
-<p class="original"></p>
 <div class="interlinear">
-<dl> <dt>hlenab-a-cc</dt> <dd>feed-<abbr>PFV-G2.SG</abbr></dd> </dl>
-<dl> <dt>aa-bb-cc</dt> <dd><abbr>1SG-NOM-PST</abbr></dd> </dl>
-<dl> <dt>aa-bb-∅</dt> <dd>sun-<abbr>G2.SG-ACC</dd> </dl>
-<dl> <dt>aa-bb-cc</dt> <dd>unhappiness-<abbr>G5.SG-INST</abbr></dd> </dl>
-<dl> <dt>aa-bb-cc</dt> <dd>ability-<abbr>G5.SG-INST</dd> </dl>
-<dl> <dt>aa-bb-cc-dd-ee</dt> <dd>stinger-<abbr>G2.SG-POSS-GEN-G5.SG</dd> </dl>
-<dl> <dt>aa-bb-cc</dt> <dd><abbr>1SG-GEN-G2.SG</abbr></dd> </dl>
+<dl> <dt>moqʼenab-a-gi</dt> <dd>swallow.<abbr>CAUS-PFV-3SG</abbr></dd> </dl>
+<dl> <dt>pʼa-dʼe-mi</dt> <dd><abbr>1SG-NOM-PST</abbr></dd> </dl>
+<dl> <dt>bʼeno-ma-∅</dt> <dd>sun-<abbr>G2.SG-ACC</dd> </dl>
+<dl> <dt>aa-gi-gi</dt> <dd>unhappiness-<abbr>G5.SG-INST</abbr></dd> </dl>
+<dl> <dt>aa-gi-gi</dt> <dd>ability-<abbr>G5.SG-INST</dd> </dl>
+<dl> <dt>aa-ga-tʼo-tʼi-go</dt> <dd>stinger-<abbr>G3.SG-POSS-GEN-G5.SG</dd> </dl>
+<dl> <dt>pʼa-tʼi-go</dt> <dd><abbr>1SG-GEN-G3.SG</abbr></dd> </dl>
 <dl> <dt>aa</dt> <dd>rather</dd> </dl>
-<dl> <dt>aa-bb-cc</dt> <dd>steal-<abbr>PFV-G2.PL</abbr></dd> </dl>
-<dl> <dt>aa-bb-cc-dd</dt> <dd>that-<abbr>G2.SG-NOM-PST</abbr></dd> </dl>
-<dl> <dt>aa-bb-∅</dt> <dd>stinger-<abbr>G2.SG-ACC</abbr></dd> </dl>
-<dl> <dt>aa-bb-∅</dt> <dd>beehive-<abbr>G3.SG-ACC</abbr></dd> </dl>
+<dl> <dt>aa-a-lo</dt> <dd>steal-<abbr>PFV-G3.PL</abbr></dd> </dl>
+<dl> <dt>kadi-ma-dʼa-mi</dt> <dd>that-<abbr>G2.SG-NOM-PST</abbr></dd> </dl>
+<dl> <dt>aa-ga-∅</dt> <dd>stinger-<abbr>G3.SG-ACC</abbr></dd> </dl>
+<dl> <dt>aa-ga-∅</dt> <dd>honey-<abbr>G3.SG-ACC</abbr></dd> </dl>
 <dl> <dt>aa</dt> <dd>thus</dd> </dl>
-<dl> <dt>aa-bb-cc</dt> <dd>die-<abbr>PFV</abbr></dd> </dl>
-<dl> <dt>aa-bb-cc</dt> <dd><abbr>1SG-NOM-PST</abbr></dd> </dl>
+<dl> <dt>aa-a</dt> <dd>die-<abbr>PFV</abbr></dd> </dl>
+<dl> <dt>pʼa-dʼe-mi</dt> <dd><abbr>1SG-NOM-PST</abbr></dd> </dl>
 <dl> <dt>aa</dt> <dd>also</dd> </dl>
 <dl> <dt>theni</dt> <dd><abbr>NEG</abbr></dd> </dl>
-<dl> <dt>aa-i</dt> <dd>exist.COP-<abbr>IPFV</abbr></dd> </dl>
-<dl> <dt>aa-bb-cc.</dt> <dd>that-<abbr>G2.PL-NOM-PST</abbr></dd> </dl>
+<dl> <dt>aa-i</dt> <dd>exist.<abbr>COP-IPFV</abbr></dd> </dl>
+<dl> <dt>kade-tha-dʼe-mi.</dt> <dd>that-<abbr>G2.DU-NOM-PST</abbr></dd> </dl>
 </div>
 <div class="interlinear">
 <dl> <dt>theni</dt> <dd><abbr>NEG</abbr></dd> </dl>
-<dl> <dt>aa-bb-i</dt> <dd>that-understand-<abbr>IPFV</abbr></dd> </dl>
-<dl> <dt>aa-bb-cc</dt> <dd><abbr>1SG-NOM-PST</abbr></dd> </dl>
+<dl> <dt>kadi-bb-i</dt> <dd>that-understand-<abbr>IPFV</abbr></dd> </dl>
+<dl> <dt>pʼa-dʼe-mi</dt> <dd><abbr>1SG-NOM-PST</abbr></dd> </dl>
 <dl> <dt>aa</dt> <dd>however</dd> </dl>
-<dl> <dt>hl-a-cc</dt> <dd>eat-<abbr>PFV-G5.SG</abbr></dd> </dl>
-<dl> <dt>aa-bb-cc</dt> <dd><abbr>1SG-NOM-PST</abbr></dd> </dl>
-<dl> <dt>aa-bb-cc</dt> <dd>theft-<abbr>G5.PL-INST</abbr></dd> </dl>
-<dl> <dt>aa</dt> <dd>that-<abbr>G5.PL</abbr></dd> </dl>
-<dl> <dt>aa-bb-∅</dt> <dd>pain-<abbr>G5.SG-ACC</abbr></dd> </dl>
+<dl> <dt>moqʼ-e-kʼi</dt> <dd>swallow-<abbr>PFV-G5.SG</abbr></dd> </dl>
+<dl> <dt>pʼa-dʼe-mi</dt> <dd><abbr>1SG-NOM-PST</abbr></dd> </dl>
+<dl> <dt>aa-gi-gi</dt> <dd>theft-<abbr>G5.PL-INST</abbr></dd> </dl>
+<dl> <dt>kade-ta-tʼo-go</dt> <dd>that-<abbr>G5.PL-GEN-G5.SG</abbr></dd> </dl>
+<dl> <dt>aa-gi-∅</dt> <dd>pain-<abbr>G5.SG-ACC</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"I didn't please Sun with my gift of a stinger, rather he stole honey and took the stinger, thus I died and they disappeared as well.  I don’t understand it but they hurt me a lot."</p>
 </div>
+
+# Winter Relay -- Qʼathebʼo Torch
+
+<p class="original">𞤚𞥇𞤫s𞤼𞤭𞤲𞤺 𞤬𞤭𞤲𞤳𞤸 𞤮𞤮𞤼.</p>
+<p class="original">𞤌𞤼𞤮𞤼𞤮𞤤𞤮!</p>
 
