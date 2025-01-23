@@ -370,14 +370,28 @@ Bee said:
 <p class="number"></p>
 <p class="original"></p>
 <div class="interlinear">
-<dl> <dt></dt> <dd>spit-<abbr>PFV-G5.SG</abbr></dd> </dl>
-<dl> <dt></dt> <dd><abbr>1SG-NOM-PRS</abbr></dd> </dl>
-<dl> <dt></dt> <dd>hatred-<abbr>G5.SG-ACC</abbr></dd> </dl>
-<dl> <dt></dt> <dd>ability-<abbr>G5.SG-ALL</abbr></dd> </dl>
-<dl> <dt></dt> <dd><abbr>REL</abbr></dd> </dl>
-<dl> <dt></dt> <dd>this-<abbr>G5.SG-NOM-REL.PRS</abbr></dd> </dl>
-<dl> <dt></dt> <dd>unhappiness-<abbr>G5.SG-INST</abbr></dd> </dl>
-<dl> <dt></dt> <dd><abbr>1SG</abbr>-feed-<abbr>REL</abbr></dd> </dl>
+<dl> <dt>aa-bb-cc</dt> <dd>spit-<abbr>PFV-G5.SG</abbr></dd> </dl>
+<dl> <dt>aa-bb-cc</dt> <dd><abbr>1SG-NOM-PRS</abbr></dd> </dl>
+<dl> <dt>aa-bb-cc</dt> <dd>hatred-<abbr>G5.SG-ACC</abbr></dd> </dl>
+<dl> <dt>aa-bb-cc</dt> <dd>ability-<abbr>G5.SG-ALL</abbr></dd> </dl>
+<dl> <dt>aa-bb-cc</dt> <dd><abbr>REL</abbr></dd> </dl>
+<dl> <dt>aa-bb-cc</dt> <dd>this-<abbr>G5.SG-NOM-REL.PRS</abbr></dd> </dl>
+<dl> <dt>aa-bb-cc</dt> <dd>unhappiness-<abbr>G5.SG-INST</abbr></dd> </dl>
+<dl> <dt>aa-bb-cc.</dt> <dd><abbr>1SG</abbr>-feed-<abbr>REL</abbr></dd> </dl>
+</div>
+<div class="interlinear">
+<dl> <dt>aa</dt> <dd>thus</dd> </dl>
+<dl> <dt>aa-bb-cc</dt> <dd>this-speak-<abbr>PFV</abbr></dd> </dl>
+<dl> <dt>aa-bb-cc</dt> <dd><abbr>1SG-NOM-PRS</abbr></dd> </dl>
+<dl> <dt>theni</dt> <dd><abbr>NEG</abbr></dd> </dl>
+<dl> <dt>aa-bb-cc</dt> <dd>need-<abbr>IPFV-G5.PL</abbr></dd> </dl>
+<dl> <dt>aa-bb-cc</dt> <dd><abbr>1SG</abbr>.self-<abbr>NOM-PRS</abbr></dd> </dl>
+<dl> <dt>aa-bb</dt> <dd>sacred-<abbr>G2.SG</abbr></dd> </dl>
+<dl> <dt>aa-bb-cc-dd</dt> <dd>ability-<abbr>G5.PL-POSS-ACC</abbr></dd> </dl>
+<dl> <dt>aa-bb-cc</dt> <dd><abbr>2SG-GEN-G5.PL</abbr></dd> </dl>
+<dl> <dt>aa</dt> <dd>moreover</dd> </dl>
+<dl> <dt>theni</dt> <dd><abbr>NEG</abbr></dd> </dl>
+<dl> <dt>aa-bb-cc.</dt> <dd><abbr>2SG</abbr>-acknowledge-<abbr>IPFV</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"I hate the gift that displeases me.  Rather I will say that my sacred presence doesn’t need your gifts or even to acknowledge you."</p>
 </div>
