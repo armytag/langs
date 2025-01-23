@@ -182,7 +182,7 @@ Bee said:
 <div class="gloss">
 <div class="interlinear">
 <dl> <dt>aa-ge-dʼa-ta</dt> <dd>calmness-<abbr>G5.SG-NOM-REL:PRS</abbr></dd> </dl>
-<dl> <dt>aa</dt> <dd>yet</dd> </dl>
+<dl> <dt>bʼaqa</dt> <dd>yet</dd> </dl>
 <dl> <dt>aa-ili</dt> <dd>exist.<abbr>COP-REL</abbr></dd> </dl>
 <dl> <dt>qʼath-e-ko</dt> <dd>speak-<abbr>PFV-G5.PL</abbr></dd> </dl>
 <dl> <dt>pʼa-dʼe-bʼi</dt> <dd><abbr>1PL-NOM-PRS</abbr></dd> </dl>
