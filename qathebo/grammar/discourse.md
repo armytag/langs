@@ -104,7 +104,7 @@ It is a cumbersome to use the negated prohibitive in consecutive clauses, so sev
 <div class="interlinear">
 <dl> <dt>theni</dt> <dd><abbr>NEG</abbr></dd> </dl>
 <dl> <dt>aa-bb-opa,</dt> <dd>chair-sit<abbr>-PROH</abbr></dd> </dl>
-<dl> <dt>aa-obʼi</dt> <dd>emotion.be<abbr>-OPT</abbr></dd> </dl>
+<dl> <dt>aa-obʼi</dt> <dd>emotion.COP<abbr>-OPT</abbr></dd> </dl>
 <dl> <dt>aa</dt> <dd>relaxed</dd> </dl>
 </div>
 <p class="freetranslation">"Have a seat, make yourself comfortable."</p>

@@ -260,7 +260,7 @@ Bee said:
 <div class="interlinear">
 <dl> <dt>aa-bb-cc-dd</dt> <dd>calmness-<abbr>G5.PL-NOM-REL:PRS</abbr></dd> </dl>
 <dl> <dt>aa</dt> <dd>yet</dd> </dl>
-<dl> <dt>aa-bb</dt> <dd>exist.be-<abbr>REL</abbr></dd> </dl>
+<dl> <dt>aa-bb</dt> <dd>exist.COP-<abbr>REL</abbr></dd> </dl>
 <dl> <dt>aa-bb-cc</dt> <dd>speak-<abbr>PFV-G5.PL</abbr></dd> </dl>
 <dl> <dt>aa-bb-cc</dt> <dd><abbr>1PL-NOM-PRS</abbr></dd> </dl>
 <dl> <dt>aa-bb-∅</dt> <dd>story-<abbr>G5.PL-ACC</abbr></dd> </dl>
@@ -276,7 +276,7 @@ Bee said:
 <dl> <dt>aa-ma-dʼa-qʼo</dt> <dd>bee-<abbr>G2.SG-NOM-REM.PST</abbr></dd> </dl>
 <dl> <dt>aa-bb-cc</dt> <dd>day-<abbr>G5.PL-LOC</abbr></dd> </dl>
 <dl> <dt>aa-bb</dt> <dd>ancient-<abbr>G5.PL</abbr></dd> </dl>
-<dl> <dt>aa-bb</dt> <dd>porperty.be-<abbr>PFV</abbr></dd> </dl>
+<dl> <dt>aa-bb</dt> <dd>porperty.COP-<abbr>PFV</abbr></dd> </dl>
 <dl> <dt>aa-bb-cc-dd</dt> <dd>thing-<abbr>G3.PL-NOM-FUT</abbr></dd> </dl>
 <dl> <dt>aa-bb</dt> <dd>many-<abbr>G3.PL</abbr></dd> </dl>
 <dl> <dt>aa-bb-cc</dt> <dd>improvement-<abbr>G5.SG-ESS</abbr></dd> </dl>
@@ -378,7 +378,7 @@ Bee said:
 <dl> <dt>aa-bb-cc</dt> <dd><abbr>1SG-NOM-PST</abbr></dd> </dl>
 <dl> <dt>aa</dt> <dd>also</dd> </dl>
 <dl> <dt>theni</dt> <dd><abbr>NEG</abbr></dd> </dl>
-<dl> <dt>aa-i</dt> <dd>exist.be-<abbr>IPFV</abbr></dd> </dl>
+<dl> <dt>aa-i</dt> <dd>exist.COP-<abbr>IPFV</abbr></dd> </dl>
 <dl> <dt>aa-bb-cc</dt> <dd>that-<abbr>G2.PL-NOM-PST</abbr></dd> </dl>
 
 <dl> <dt>theni</dt> <dd><abbr>NEG</abbr></dd> </dl>

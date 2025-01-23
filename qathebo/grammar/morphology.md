@@ -48,7 +48,7 @@ When nouns are possessed, they take an additional suffix *-tʼo* after number an
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.be<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
 <dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"There was a dog."</p>
@@ -57,7 +57,7 @@ When nouns are possessed, they take an additional suffix *-tʼo* after number an
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.be<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
 <dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"There was a dog."</p>
@@ -89,7 +89,7 @@ The Nominative case indicates which noun is performing the action described by t
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.be<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
 <dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"There was a dog."</p>
@@ -98,7 +98,7 @@ The Nominative case indicates which noun is performing the action described by t
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.be<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
 <dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"There was a dog."</p>
@@ -111,7 +111,7 @@ The Accusative case indicates which noun is being acted upon by the verb.  This 
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.be<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
 <dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"There was a dog."</p>
@@ -120,7 +120,7 @@ The Accusative case indicates which noun is being acted upon by the verb.  This 
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.be<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
 <dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"There was a dog."</p>
@@ -133,7 +133,7 @@ The Dative case indicates which noun is receiving something from the verb.  The 
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.be<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
 <dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"There was a dog."</p>
@@ -142,7 +142,7 @@ The Dative case indicates which noun is receiving something from the verb.  The 
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.be<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
 <dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"There was a dog."</p>
@@ -155,7 +155,7 @@ The Genitive case indicates that the noun is related to another noun in some way
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.be<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
 <dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"There was a dog."</p>
@@ -164,7 +164,7 @@ The Genitive case indicates that the noun is related to another noun in some way
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.be<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
 <dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"There was a dog."</p>
@@ -177,7 +177,7 @@ The Instrumental case indicates which noun is used to perform the verb.  This co
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.be<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
 <dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"There was a dog."</p>
@@ -186,7 +186,7 @@ The Instrumental case indicates which noun is used to perform the verb.  This co
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.be<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
 <dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"There was a dog."</p>
@@ -195,7 +195,7 @@ The Instrumental case indicates which noun is used to perform the verb.  This co
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.be<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
 <dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"There was a dog."</p>
@@ -206,7 +206,7 @@ When used with a temporal noun, it indicates that the predicate occurs *througho
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.be<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
 <dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"There was a dog."</p>
@@ -217,7 +217,7 @@ When a stative noun like a feeling or emotion is put in the instrumental case, i
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.be<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
 <dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"There was a dog."</p>
@@ -230,7 +230,7 @@ The Locative case indicates which noun the verb occurs at or near.  It is broadl
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.be<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
 <dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"There was a dog."</p>
@@ -239,7 +239,7 @@ The Locative case indicates which noun the verb occurs at or near.  It is broadl
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.be<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
 <dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"There was a dog."</p>
@@ -250,7 +250,7 @@ When used with a temporal noun it indicates that the predicate occurs *within* t
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.be<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
 <dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"There was a dog."</p>
@@ -259,7 +259,7 @@ When used with a temporal noun it indicates that the predicate occurs *within* t
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.be<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
 <dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"There was a dog."</p>
@@ -272,7 +272,7 @@ The Allative case indicates which noun the verb occurs toward.  Unlike the Locat
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.be<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
 <dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"There was a dog."</p>
@@ -281,7 +281,7 @@ The Allative case indicates which noun the verb occurs toward.  Unlike the Locat
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.be<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
 <dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"There was a dog."</p>
@@ -292,7 +292,7 @@ When used with a temporal or stative noun, it indicates that the predicate occur
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.be<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
 <dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"There was a dog."</p>
@@ -301,7 +301,7 @@ When used with a temporal or stative noun, it indicates that the predicate occur
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.be<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
 <dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"There was a dog."</p>
@@ -314,7 +314,7 @@ The Ablative case indicates which noun the verb occurs away from.  Unlike the Lo
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.be<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
 <dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"There was a dog."</p>
@@ -323,7 +323,7 @@ The Ablative case indicates which noun the verb occurs away from.  Unlike the Lo
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.be<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
 <dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"There was a dog."</p>
@@ -338,7 +338,7 @@ The Essive inidicates which noun the nominative subject is equivalent to or exis
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.be<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
 <dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"There was a dog."</p>
@@ -347,7 +347,7 @@ The Essive inidicates which noun the nominative subject is equivalent to or exis
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.be<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
 <dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"There was a dog."</p>
@@ -358,7 +358,7 @@ However, when used with [one of the copulae](#copulae) it can convey true or las
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.be<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
 <dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"There was a dog."</p>
@@ -367,7 +367,7 @@ However, when used with [one of the copulae](#copulae) it can convey true or las
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.be<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
 <dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"There was a dog."</p>
@@ -378,7 +378,7 @@ Ultimately the temporary or permanent nature of the essive-nominative equivalenc
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.be<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
 <dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"There was a dog."</p>
@@ -387,7 +387,7 @@ Ultimately the temporary or permanent nature of the essive-nominative equivalenc
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.be<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
 <dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"There was a dog."</p>
@@ -573,7 +573,7 @@ There are two demonstrative pronouns in Qʼathebʼo.  One is for referents near 
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>notebʼ-i</dt> <dd>equivalence.be<abbr>-IPFV</abbr></dd> </dl>
+<dl> <dt>notebʼ-i</dt> <dd>equivalence.COP<abbr>-IPFV</abbr></dd> </dl>
 <dl> <dt>notebʼ-i</dt> <dd>this<abbr>-G1.SG-NOM-PRS</abbr></dd> </dl>
 <dl> <dt>notebʼ-i</dt> <dd>sister<abbr>-G1.SG-ESS</abbr></dd> </dl>
 <dl> <dt>notebʼ-i</dt> <dd><abbr>1SG-GEN</abbr></dd> </dl>
@@ -817,7 +817,7 @@ There are several verbs in Qʼathebʼo that perform the functions of English "be
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>qʼoqebʼ-a</dt> <dd>property.be<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>qʼoqebʼ-a</dt> <dd>property.COP<abbr>-PFV</abbr></dd> </dl>
 <dl> <dt>qona-dʼe-bʼi</dt> <dd><abbr>2DU-NOM-PRS</abbr></dd> </dl>
 <dl> <dt>aa-qʼa</dt> <dd>tall<abbr>-ESS</abbr></dd> </dl>
 </div>
@@ -827,7 +827,7 @@ There are several verbs in Qʼathebʼo that perform the functions of English "be
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>qʼoqibʼ-i</dt> <dd>property.be<abbr>-IPFV</abbr></dd> </dl>
+<dl> <dt>qʼoqibʼ-i</dt> <dd>property.COP<abbr>-IPFV</abbr></dd> </dl>
 <dl> <dt>kome-ga-dʼa-bʼi</dt> <dd>window<abbr>-G3.SG-NOM-PRS</abbr></dd> </dl>
 <dl> <dt>aa-qʼa</dt> <dd>open<abbr>-ESS</abbr></dd> </dl>
 </div>
@@ -839,7 +839,7 @@ There are several verbs in Qʼathebʼo that perform the functions of English "be
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>moqʼabʼ-a</dt> <dd>emotion.be<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>moqʼabʼ-a</dt> <dd>emotion.COP<abbr>-PFV</abbr></dd> </dl>
 <dl> <dt>pʼa-dʼe-mi</dt> <dd><abbr>1SG-NOM-PST</abbr></dd> </dl>
 <dl> <dt>aa-ge-qʼa</dt> <dd>anger<abbr>-G5.SG-ESS</abbr></dd> </dl>
 </div>
@@ -851,7 +851,7 @@ There are several verbs in Qʼathebʼo that perform the functions of English "be
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>tʼethabʼ-a</dt> <dd>location.be<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>tʼethabʼ-a</dt> <dd>location.COP<abbr>-PFV</abbr></dd> </dl>
 <dl> <dt>mebʼa-dʼa-do</dt> <dd><abbr>1PAU-NOM-FUT</abbr></dd> </dl>
 <dl> <dt>aa-qe-to</dt> <dd>school<abbr>-G4.SG-LOC</abbr></dd> </dl>
 </div>
@@ -863,7 +863,7 @@ There are several verbs in Qʼathebʼo that perform the functions of English "be
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>notebʼ-i</dt> <dd>equivalence.be<abbr>-IPFV</abbr></dd> </dl>
+<dl> <dt>notebʼ-i</dt> <dd>equivalence.COP<abbr>-IPFV</abbr></dd> </dl>
 <dl> <dt>pʼa-dʼe-bʼi</dt> <dd><abbr>1SG-NOM-PRS</abbr></dd> </dl>
 <dl> <dt>aa-ta-qʼo</dt> <dd>potter<abbr>-G1.SG-ESS</abbr></dd> </dl>
 </div>
@@ -875,7 +875,7 @@ There are several verbs in Qʼathebʼo that perform the functions of English "be
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.be<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
 <dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"There was a dog."</p>
@@ -898,7 +898,7 @@ Some adverbs place verbs in context of the broader discourse.  Some simple examp
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.be<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
 <dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"There was a dog."</p>
@@ -907,7 +907,7 @@ Some adverbs place verbs in context of the broader discourse.  Some simple examp
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.be<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
 <dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"There was a dog."</p>
