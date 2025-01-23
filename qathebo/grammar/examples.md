@@ -311,10 +311,10 @@ Bee said:
 <dl> <dt>aa-bb-cc</dt> <dd>head-<abbr>G4.SG-ALL</abbr></dd> </dl>
 <dl> <dt>aa-bb-cc-dd</dt> <dd>mountain-<abbr>G4.SG-GEN-G4.SG</abbr></dd> </dl>
 <dl> <dt>aa</dt> <dd><abbr>REL</abbr></dd> </dl>
-<dl> <dt>aa</dt> <dd>sun-<abbr>G2.SG-NOM-PST</abbr></dd> </dl>
+<dl> <dt>aa</dt> <dd>sun-<abbr>G2.SG-NOM-REL:PST</abbr></dd> </dl>
 <dl> <dt>aa-bb-cc</dt> <dd>failure-<abbr>G5.SG-LOC</abbr></dd> </dl>
 <dl> <dt>theni</dt> <dd><abbr>NEG</abbr></dd> </dl>
-<dl> <dt>aa-bb-cc</dt> <dd>reach-<abbr>PFV-G4.SG</abbr></dd> </dl>
+<dl> <dt>aa-bb</dt> <dd>reach-<abbr>REL</abbr></dd> </dl>
 </div>
 <p class="freetranslation">Bee said "I'll fly up to the mountain top that even Sun fails to achieve."</p>
 </div>
@@ -323,7 +323,34 @@ Bee said:
 <p class="number"></p>
 <p class="original"></p>
 <div class="interlinear">
-<dl> <dt></dt> <dd></dd> </dl>
+<dl> <dt>theni</dt> <dd><abbr>NEG</abbr></dd> </dl>
+<dl> <dt>aa-bb</dt> <dd>property.<abbr>COP-IMPF</abbr></dd> </dl>
+<dl> <dt>aa-bb-cc-dd</dt> <dd>sun-<abbr>G2.SG-NOM-REM.PST</abbr></dd> </dl>
+<dl> <dt>aa-bb</dt> <dd>skillful-<abbr>ESS</abbr></dd> </dl>
+<dl> <dt>aa</dt> <dd>thus</dd> </dl>
+<dl> <dt>aa-bb-cc</dt> <dd>eat-<abbr>PFV-G5.SG</abbr></dd> </dl>
+<dl> <dt>(aa-bb-cc-dd)</dt> <dd>(this-<abbr>G2.SG-NOM-REM.PST</abbr>)</dd> </dl>
+<dl> <dt>aa-bb-cc</dt> <dd>unhappiness-<abbr>G5.SG-ACC</abbr></dd> </dl>
+
+<dl> <dt>aa-bb-cc-dd</dt> <dd>sun-<abbr>G2.SG-NOM-REL:PRS</abbr></dd> </dl>
+<dl> <dt>aa-bb</dt> <dd>this-<abbr>G5.SG</abbr></dd> </dl>
+<dl> <dt>aa</dt> <dd><abbr>REL</abbr></dd> </dl>
+<dl> <dt>aa-bb-cc-dd</dt> <dd>that-<abbr>G2.SG-NOM-REL:FUT</abbr></dd> </dl>
+<dl> <dt>aa-bb-cc</dt> <dd>beehive-<abbr>G4.SG-ACC</abbr></dd> </dl>
+<dl> <dt>aa-bb-cc</dt> <dd>steal-<abbr>REL-G4.SG</abbr></dd> </dl>
+<dl> <dt>aa-bb</dt> <dd>decide-<abbr>REL-G5.SG</abbr></dd> </dl>
+<dl> <dt>aa-bb</dt> <dd>enter-<abbr>PFV</abbr></dd> </dl>
+<dl> <dt>aa-bb-cc-dd</dt> <dd>bee-<abbr>G2.SG-NOM-REM.PST</abbr></dd> </dl>
+<dl> <dt>aa-bb-cc</dt> <dd>sting-<abbr>PFV-G2.SG</abbr></dd> </dl>
+<dl> <dt>aa-bb-cc-dd</dt> <dd>that-<abbr>G2.SG-ACC</abbr></dd> </dl>
+<dl> <dt>aa</dt> <dd>however</dd> </dl>
+<dl> <dt>aa-bb-cc</dt> <dd>lose-<abbr>PFV-G2.SG</dd> </dl>
+<dl> <dt>aa-bb-cc-dd</dt> <dd>this-<abbr>G2.SG-NOM-REM.PST</dd> </dl>
+<dl> <dt>aa-bb-cc</dt> <dd>stinger-<abbr>G2.SG-ACC</dd> </dl>
+<dl> <dt>aa</dt> <dd>thus</dd> </dl>
+<dl> <dt>aa</dt> <dd>later</dd> </dl>
+<dl> <dt>aa-bb-cc</dt> <dd>die-<abbr>PFV-G2.SG</abbr></dd> </dl>
+<dl> <dt>aa-bb-cc-dd</dt> <dd>this-<abbr>G2.SG-NOM-REL:FUT</abbr></dd> </dl>
 </div>
 <p class="freetranslation">Sun wasn't gifted.  He wasn't happy about this, and while Sun vowed to steal the beehive Bee entered and stung him, but the stinger was lost and will cause him to die.</p>
 </div>
@@ -370,7 +397,7 @@ Bee said:
 <dl> <dt>aa-bb-cc</dt> <dd><abbr>1SG-GEN-G2.SG</abbr></dd> </dl>
 <dl> <dt>aa</dt> <dd>rather</dd> </dl>
 <dl> <dt>aa-bb-cc</dt> <dd>steal-<abbr>PFV-G2.PL</abbr></dd> </dl>
-<dl> <dt>aa-bb-cc</dt> <dd><abbr>3SG-NOM-PST</abbr></dd> </dl>
+<dl> <dt>aa-bb-cc-dd</dt> <dd>that-<abbr>G2.SG-NOM-PST</abbr></dd> </dl>
 <dl> <dt>aa-bb-∅</dt> <dd>stinger-<abbr>G2.SG-ACC</abbr></dd> </dl>
 <dl> <dt>aa-bb-∅</dt> <dd>beehive-<abbr>G3.SG-ACC</abbr></dd> </dl>
 <dl> <dt>aa</dt> <dd>thus</dd> </dl>
