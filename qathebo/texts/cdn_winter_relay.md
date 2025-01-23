@@ -181,26 +181,26 @@ Bee said:
 
 <div class="gloss">
 <div class="interlinear">
-<dl> <dt>aa-ge-dʼa-ta</dt> <dd>calmness-<abbr>G5.SG-NOM-REL:PRS</abbr></dd> </dl>
+<dl> <dt>gonepi-ge-dʼa-ta</dt> <dd>calmness-<abbr>G5.SG-NOM-REL:PRS</abbr></dd> </dl>
 <dl> <dt>bʼaqa</dt> <dd>yet</dd> </dl>
-<dl> <dt>aa-ili</dt> <dd>exist.<abbr>COP-REL</abbr></dd> </dl>
-<dl> <dt>qʼath-e-ko</dt> <dd>speak-<abbr>PFV-G5.PL</abbr></dd> </dl>
-<dl> <dt>pʼa-dʼe-bʼi</dt> <dd><abbr>1PL-NOM-PRS</abbr></dd> </dl>
-<dl> <dt>aa-ta-∅</dt> <dd>story-<abbr>G5.PL-ACC</abbr></dd> </dl>
+<dl> <dt>qipʼabʼa-ili</dt> <dd>exist.<abbr>COP-REL</abbr></dd> </dl>
+<dl> <dt>qʼath-a-ko</dt> <dd>speak-<abbr>PFV-G5.PL</abbr></dd> </dl>
+<dl> <dt>bʼopʼi-dʼe-bʼi</dt> <dd><abbr>1PL-NOM-PRS</abbr></dd> </dl>
+<dl> <dt>qʼamaqʼi-ta-∅</dt> <dd>story-<abbr>G5.PL-ACC</abbr></dd> </dl>
 </div>
 <p class="freetranslation">When the tides calm we tell stories:</p>
 </div>
 
 <div class="gloss">
 <div class="interlinear">
-<dl> <dt>lothi-aa-i</dt> <dd>this-wish-<abbr>IPFV</abbr></dd> </dl>
-<dl> <dt>aa-ma-dʼa-qʼo</dt> <dd>bee-<abbr>G2.SG-NOM-REM.PST</abbr></dd> </dl>
-<dl> <dt>aa-ta-to</dt> <dd>day-<abbr>G5.PL-LOC</abbr></dd> </dl>
-<dl> <dt>aa-to</dt> <dd>ancient-<abbr>G5.PL</abbr></dd> </dl>
-<dl> <dt>aa-a</dt> <dd>porperty.<abbr>COP-PFV</abbr></dd> </dl>
-<dl> <dt>aa-la-dʼa-do</dt> <dd>thing-<abbr>G3.PL-NOM-FUT</abbr></dd> </dl>
-<dl> <dt>aa-lo</dt> <dd>many-<abbr>G3.PL</abbr></dd> </dl>
-<dl> <dt>aa-gi-qʼa</dt> <dd>improvement-<abbr>G5.SG-ESS</abbr></dd> </dl>
+<dl> <dt>lothi-kʼapopʼ-i</dt> <dd>this-wish-<abbr>IPFV</abbr></dd> </dl>
+<dl> <dt>memebʼo-ma-dʼa-qʼo</dt> <dd>bee-<abbr>G2.SG-NOM-REM.PST</abbr></dd> </dl>
+<dl> <dt>bʼito-ta-to</dt> <dd>day-<abbr>G5.PL-LOC</abbr></dd> </dl>
+<dl> <dt>bahligo-to</dt> <dd>ancient-<abbr>G5.PL</abbr></dd> </dl>
+<dl> <dt>qʼoqebʼ-a</dt> <dd>porperty.<abbr>COP-PFV</abbr></dd> </dl>
+<dl> <dt>kʼika-la-dʼa-do</dt> <dd>thing-<abbr>G3.PL-NOM-FUT</abbr></dd> </dl>
+<dl> <dt>moli-lo</dt> <dd>many-<abbr>G3.PL</abbr></dd> </dl>
+<dl> <dt>modipehlepi-gi-qʼa</dt> <dd>improvement-<abbr>G5.SG-ESS</abbr></dd> </dl>
 </div>
 <p class="freetranslation">A long time ago, Bee wished many things would get better.</p>
 </div>
