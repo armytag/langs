@@ -330,8 +330,9 @@ Bee said:
 <dl> <dt>aa</dt> <dd>thus</dd> </dl>
 <dl> <dt>aa-bb-cc</dt> <dd>eat-<abbr>PFV-G5.SG</abbr></dd> </dl>
 <dl> <dt>(aa-bb-cc-dd)</dt> <dd>(this-<abbr>G2.SG-NOM-REM.PST</abbr>)</dd> </dl>
-<dl> <dt>aa-bb-cc</dt> <dd>unhappiness-<abbr>G5.SG-ACC</abbr></dd> </dl>
-
+<dl> <dt>aa-bb-cc.</dt> <dd>unhappiness-<abbr>G5.SG-ACC</abbr></dd> </dl>
+</div>
+<div class="interlinear">
 <dl> <dt>aa-bb-cc-dd</dt> <dd>sun-<abbr>G2.SG-NOM-REL:PRS</abbr></dd> </dl>
 <dl> <dt>aa-bb</dt> <dd>this-<abbr>G5.SG</abbr></dd> </dl>
 <dl> <dt>aa</dt> <dd><abbr>REL</abbr></dd> </dl>
@@ -406,8 +407,9 @@ Bee said:
 <dl> <dt>aa</dt> <dd>also</dd> </dl>
 <dl> <dt>theni</dt> <dd><abbr>NEG</abbr></dd> </dl>
 <dl> <dt>aa-i</dt> <dd>exist.COP-<abbr>IPFV</abbr></dd> </dl>
-<dl> <dt>aa-bb-cc</dt> <dd>that-<abbr>G2.PL-NOM-PST</abbr></dd> </dl>
-
+<dl> <dt>aa-bb-cc.</dt> <dd>that-<abbr>G2.PL-NOM-PST</abbr></dd> </dl>
+</div>
+<div class="interlinear">
 <dl> <dt>theni</dt> <dd><abbr>NEG</abbr></dd> </dl>
 <dl> <dt>aa-bb-i</dt> <dd>that-understand-<abbr>IPFV</abbr></dd> </dl>
 <dl> <dt>aa-bb-cc</dt> <dd><abbr>1SG-NOM-PST</abbr></dd> </dl>
