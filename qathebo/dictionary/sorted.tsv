@@ -1,4 +1,5 @@
 Adlam	Phonetic	Part of Speech	Definitions	Tags
+𞤣𞤢	da	particle	relativizer	
 𞤣𞤫𞤦𞤢	dɛba	adverb	before; marks that something happens before affected verb	
 𞤤𞤢	la	verb	go	
 𞤤𞤢𞤨𞤮	lapo	adverb	after; marks that something happens after affected verb	
@@ -22,13 +23,16 @@ Adlam	Phonetic	Part of Speech	Definitions	Tags
 𞤦𞤭	bi	pronoun	interrogative pronoun (who, what, where, etc.)	
 𞤦𞤭𞤹𞤮	biqo	number	three	
 𞤦𞤮𞤳𞥇𞤢	bokʼa	number	six	
+𞤨𞤢𞤺𞤫𞤺𞤭	pagɛgi	noun (G5)	happiness	
 𞤨𞤢𞤼𞥇𞤮	patʼo	pronoun	creates reflexive pronouns from personal or demonstrative pronouns	
 𞤨𞤫𞤼𞥇𞤢	pɛtʼa	number	four	
+𞤨𞤭𞤼𞥇𞤫𞤬𞤢	pitʼɛθa	verb	decide; vow, commit to something	
 𞤨𞤮𞤼𞤢	pota	noun (G1/G2)	eye	
 𞤨𞥇𞤢	pʼa	pronoun	1SG	
 𞤨𞥇𞤢𞤹𞤫𞤹𞤮	pʼaqɛqo	noun (G4)	hill	
 𞤨𞥇𞤢𞤹𞥇𞤮𞤺𞤢	pʼaqʼoga	noun (G3)	grass	
 𞤨𞥇𞤢𞤼𞤫𞤺𞤢	pʼatɛga	noun (G3)	breakfast	
+𞤨𞥇𞤫𞤹𞥇𞤢𞤼𞥇𞤮	pʼɛqʼatʼo	verb	reach, arrive at	
 𞤨𞥇𞤫𞤼𞤢	pʼɛta	verb	cook (with heat)	
 𞤩𞤢	ɓa	verb	idly move	
 𞤩𞤢𞤦𞤮	ɓabo	pronoun	1DU	
@@ -40,6 +44,7 @@ Adlam	Phonetic	Part of Speech	Definitions	Tags
 𞤩𞤮𞤯𞤭	ɓoɗi	number	eight	
 𞤬𞤫𞤲𞤭	θɛni	adverb	NEG; negates the following verb	
 𞤬𞤫𞤹𞤢	θɛqa	number	one	
+𞤬𞤭𞤳𞤫𞤹𞥇𞤢	θikɛqʼa	verb	fly	
 𞤬𞤭𞤼𞤮𞤺𞤢	θitoga	noun (G3)	vine	
 𞤬𞤭𞤼𞥇𞤭	θitʼi	number	first (ordinal)	
 𞤬𞤮𞤥𞤢	θoma	noun (G2)	cat	
@@ -48,6 +53,8 @@ Adlam	Phonetic	Part of Speech	Definitions	Tags
 𞤯𞤢	ɗa	verb	make	
 𞤯𞤫𞤸𞤫𞤹𞤮	ɗɛɬɛqo	noun (G4)	house	
 𞤯𞤮𞤬𞤢𞤺𞤢	ɗoθaga	noun (G3)	rose	
+𞤲𞤫𞤯𞤮	nɛɗo	modifier	above, upward (adposition)	
+𞤲𞤫𞤳𞤮𞤼𞥇𞤢	nɛkotʼa	verb	enter	
 𞤲𞤫𞤹𞥇𞤢	nɛqʼa	verb	walk	
 𞤲𞤮𞤼𞤢𞤩𞤢	notaɓa	verb	equivalence copula	
 𞤲𞤮𞤼𞤢𞤼𞤢	notata	noun (G1/G2)	heart	
@@ -55,18 +62,25 @@ Adlam	Phonetic	Part of Speech	Definitions	Tags
 𞤳𞤫𞤣𞤭	kɛdi	pronoun	distal demonstrative	
 𞤳𞤭𞤤𞤮𞤥𞤢	kiloma	noun (G2)	small bird	
 𞤳𞤭𞤬𞤮𞤼𞤢	kiθota	noun (G1/G2)	head	
+𞤳𞤭𞤯𞤭	kiɗi	adverb	however; marks the affected verb in opposition to a prior predicate	
 𞤳𞤭𞤼𞤭	kiti	number	two	
 𞤳𞤮𞤥𞤫𞤺𞤢	komɛga	noun (G3)	window	
+𞤳𞤮𞤦𞤢𞤺𞤫𞤺𞤢	kobagɛga	noun (G3)	needle; splinter; small thin sharp object	
 𞤳𞤮𞤦𞤫𞤥𞤢	kobɛma	noun (G2)	dog	
 𞤳𞥇𞤢	kʼa	verb	sit	
 𞤳𞥇𞤢𞤨𞤮𞤨𞥇𞤢	kʼapopʼa	verb	desire, wish	
 𞤳𞥇𞤢𞤸𞤢	kʼaɬa	adverb	so that; marks affected verb as purpose behind something else	
+𞤳𞥇𞤫𞤦𞤮𞤤𞤢	kʼɛbola	verb	stab; poke	
 𞤳𞥇𞤫𞤳𞤢𞤺𞤢	kʼɛkaga	noun (G3)	thing; something indeterminate or unspecified	
+𞤳𞥇𞤭𞤼𞤫𞤹𞤫𞤳𞤮𞤺𞤭	kʼitɛqɛkogi	noun (G5)	failure	
 𞤸𞤢	ɬa	verb	eat (involves chewing)	
 𞤸𞤢𞤩𞤫𞤼𞤢	ɬaɓɛta	noun (G1)	hand	
 𞤸𞤢𞤬𞤢𞤥𞤢	ɬaθama	noun (G2)	rain	
 𞤹𞤢𞤤𞤫𞤼𞤢	qalɛta	noun (G1/G2)	mouth	
 𞤹𞤢𞤹𞥇𞤮𞤥𞤢	qaqʼoma	noun (G2)	fish	
+𞤹𞤢𞤼𞥇𞤫𞤨𞥇𞤮	qatʼɛpʼo	modifier	skillful	
+𞤹𞤢𞤼𞥇𞤮𞤺𞤭	qatʼogi	noun (G5)	skill, ability, talent	
+𞤹𞤫𞤣𞤭𞤥𞤫𞤹𞤮	qɛdimɛqo	noun (G4)	mountain	
 𞤹𞤫𞤨𞥇𞤢𞤩𞤢	qɛpʼaɓa	verb	existential copula	
 𞤹𞤫𞤨𞥇𞤢𞤼𞤢	qɛpʼata	noun (G1/G2)	body	
 𞤹𞤭	qi	pronoun	2SG	
@@ -75,7 +89,9 @@ Adlam	Phonetic	Part of Speech	Definitions	Tags
 𞤹𞥇𞤢𞤥𞤫𞤹𞥇𞤭	qʼamɛqʼi	noun (G5)	story	
 𞤹𞥇𞤢𞤬𞤢	qʼaθa	verb	speak	
 𞤹𞥇𞤢𞤬𞤫𞤩𞤮𞤺𞤭	qʼaθɛɓogi	noun (G5)	language	
+𞤹𞥇𞤫𞤨𞤢𞤲𞤢	qʼɛpana	verb	steal; take	
 𞤹𞥇𞤫𞤩𞤢	qʼɛɓa	number	nine	
+𞤹𞥇𞤭𞤩𞤫𞤳𞥇𞤢	qʼiɓɛkʼa	verb	lose (a possession); misplace	
 𞤹𞥇𞤮𞤩𞤢	qʼoɓa	pronoun	2PAU	
 𞤹𞥇𞤮𞤹𞤫𞤩𞤢	qʼoqɛɓa	verb	property copula	
 𞤹𞥇𞤮𞤹𞤫𞤼𞤢	qʼoqɛta	noun (G1)	face	
@@ -89,7 +105,10 @@ Adlam	Phonetic	Part of Speech	Definitions	Tags
 𞤺𞤮𞤹𞤭	goqi	number	five	
 𞤺𞤮𞤺𞤭	gogi	pronoun	3PL	
 𞤼𞤢	ta	verb	throw (pottery)	
+𞤼𞤢𞤳𞥇𞤮	takʼo	adverb	thus; marks the affected verb as the result of another event	
 𞤼𞤫𞤬𞤮𞤺𞤢	tɛθoga	noun (G3)	egg	
+𞤼𞤫𞤹𞤫𞤳𞤮𞤺𞤭	tɛqɛkogi	noun (G5)	success	
+𞤼𞤭𞤳𞤭𞤥𞤮𞤹𞥇𞤢𞤹𞤮	tikimoqʼaqo	noun (G4)	beehive	
 𞤼𞥇𞤢𞤹𞤢	tʼaqa	verb	wear (clothing)	
 𞤼𞥇𞤢𞤹𞤫𞤥𞤢	tʼaqɛma	noun (G2)	road/path	
 𞤼𞥇𞤢𞤼𞤢𞤥𞤢	tʼatama	noun (G2)	snow	
