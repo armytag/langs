@@ -397,6 +397,7 @@ body {
     text-rendering: optimizeLegibility;
     font-kerning: normal;
     text-align: justify;
+    line-height: 1.5em;
 }
 
 @media (max-width: 600px) {
@@ -450,6 +451,7 @@ header {
 h1, h2, h3, h4, h5, h6 {
     margin-top: 1.25rem;
     margin-bottom: 0.5rem;
+    line-height: initial;
 }
 
 h1 {
@@ -462,7 +464,7 @@ h1:not(.title) {
 }
 
 p {
-    margin: 1ch 0.33ch;
+    margin: 1em 0.33ch;
 }
 
 a {
@@ -575,6 +577,11 @@ li > ol, li > ul {
 
 .freetranslation {
     text-align: left;
+}
+
+.qathebo {
+    text-align: justify;
+    word-spacing: 1ch;
 }
 
 .source {

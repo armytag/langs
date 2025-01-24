@@ -349,7 +349,11 @@ Bee said:
 <p class="freetranslation">"I didn't please Sun with my gift of a stinger, rather he stole honey and took the stinger, thus I died and they disappeared as well.  I don’t understand it but they hurt me a lot."</p>
 </div>
 
-# Winter Relay -- Qʼathebʼo Torch
+<h1></h1>
+
+<h2 style="text-align: center">Qʼathebʼo Torch in Adlam Script</h2>
+
+<h2></h2>
 
 <p class="original">𞤘𞤮𞤲𞤫𞤨𞤭𞤺𞤫𞤯𞤢𞤼𞤢 𞤩𞤢𞤹𞤢 𞤹𞤫𞤨𞥇𞤫𞤩𞤭𞤤𞤭 𞤹𞥇𞤢𞤬𞤢𞤳𞤮 𞤩𞤮𞤨𞥇𞤫𞤯𞤫𞤩𞤭 𞤹𞥇𞤢𞤥𞤢𞤹𞥇𞤫𞤼𞤢.</p>
 <p class="original">𞤂𞤮𞤬𞤫𞤳𞥇𞤢𞤨𞤮𞤨𞥇𞤭 𞤥𞤫𞤥𞤫𞤩𞤮𞤥𞤢𞤯𞤢𞤹𞥇𞤮 𞤩𞤭𞤼𞤮𞤼𞤢𞤼𞤮 𞤦𞤫𞤸𞤭𞤺𞤫𞤼𞤮 𞤹𞥇𞤮𞤹𞤫𞤩𞤢 𞤳𞥇𞤫𞤳𞤢𞤤𞤢𞤯𞤢𞤣𞤮 𞤥𞤮𞤤𞤭𞤤𞤮 𞤥𞤮𞤣𞤭𞤨𞤫𞤸𞤫𞤨𞤭𞤺𞤫𞤹𞥇𞤢.</p>
@@ -361,20 +365,26 @@ Bee said:
 <p class="original">𞤂𞤮𞤬𞤫𞤹𞥇𞤢𞤬𞤢 𞤥𞤫𞤥𞤫𞤩𞤮𞤥𞤢𞤯𞤢𞤹𞥇𞤮:</p>
 <p class="original">"𞤃𞤮𞤹𞥇𞤫𞤲𞤢𞤦𞤫𞤺𞤭 𞤨𞥇𞤢𞤯𞤫𞤥𞤭 𞤩𞤫𞤲𞤮𞤥𞤢 𞤳𞥇𞤫𞤨𞤢𞤺𞤫𞤺𞤭𞤺𞤭 𞤹𞤢𞤼𞥇𞤮𞤺𞤭𞤺𞤭 𞤳𞤮𞤦𞤢𞤺𞤫𞤺𞤢𞤼𞥇𞤮𞤼𞥇𞤭𞤺𞤮 𞤨𞥇𞤫𞤼𞥇𞤭𞤺𞤮 𞤣𞤢𞤤𞤢 𞤹𞥇𞤫𞤨𞤢𞤲𞤢𞤤𞤮 𞤳𞤢𞤣𞤫𞤥𞤢𞤯𞤫𞤥𞤭 𞤳𞤮𞤦𞤢𞤺𞤫𞤺𞤢 𞤼𞤫𞤲𞤢𞤼𞥇𞤮𞤺𞤢 𞤼𞤢𞤳𞥇𞤮 𞤣𞤫𞤼𞥇𞤢 𞤨𞥇𞤢𞤯𞤫𞤥𞤭 𞤸𞤮𞤳𞥇𞤮 𞤬𞤫𞤲𞤭 𞤹𞤫𞤨𞥇𞤫𞤩𞤭 𞤳𞤢𞤣𞤫𞤬𞤢𞤯𞤫𞤥𞤭. 𞤊𞤫𞤲𞤭 𞤳𞤫𞤣𞤭𞤨𞥇𞤮𞤼𞥇𞤮𞤺𞤭 𞤨𞥇𞤢𞤯𞤫𞤥𞤭 𞤳𞤭𞤯𞤭 𞤥𞤮𞤹𞥇𞤫𞤳𞥇𞤭 𞤨𞥇𞤢𞤯𞤫𞤥𞤭 𞤹𞥇𞤫𞤨𞤫𞤲𞤭𞤳𞤭𞤺𞤭𞤺𞤭 𞤳𞤢𞤣𞤫𞤼𞤢𞤼𞥇𞤫𞤺𞤮 𞤨𞤭𞤨𞤮𞤺𞤭."</p>
 
-<p class="freetranslation">Gonepigedʼata bʼaqa qepʼebʼili qʼathako bʼopʼedʼebʼi qʼamaqʼeta.</p>
+<h1></h1>
 
-<p class="freetranslation">Lothekʼapopʼi memebʼomadʼaqʼo bʼitotato behligeto qʼoqebʼa kʼekaladʼado molilo modipehlepigeqʼa.</p>
+<h2 style="text-align: center">Qʼathebʼo Torch in Roman Script</h2>
 
-<p class="freetranslation">Memebʼomadʼata kahla kʼekedʼili la nedʼo lothemadʼaqʼo kʼekalamo.</p>
+<h2></h2>
 
-<p class="freetranslation">Lotheqʼatha memebʼomadʼaqʼo "Thikeqʼa nedʼo pʼadʼebʼi kithotaqemo qedimeqotʼiqo da bʼenomadʼepʼi kʼiteqekogito theni kedipʼeqʼetʼili."</p>
+<p class="qathebo">Gonepigedʼata bʼaqa qepʼebʼili qʼathako bʼopʼedʼebʼi qʼamaqʼeta.</p>
 
-<p class="freetranslation">Theni qʼoqibʼi bʼenomadʼaqʼo qatʼepʼeqʼo takʼo moqʼekʼi pagegi. Bʼenomadʼata lothigi da kademadʼana tikimoqʼaqo qʼepeniletha pitʼithilikʼi nekotʼa memebʼomadʼaqʼo kʼeboleni kadema kidʼi qʼibʼekʼeni lothemadʼaqʼo kobagega takʼo lapo ditʼili lothemadʼana.</p>
+<p class="qathebo">Lothekʼapopʼi memebʼomadʼaqʼo bʼitotato behligeto qʼoqebʼa kʼekaladʼado molilo modipehlepigeqʼa.</p>
 
-<p class="freetranslation">Lotheqʼatha bʼenomadʼaqʼo:</p>
+<p class="qathebo">Memebʼomadʼata kahla kʼekedʼili la nedʼo lothemadʼaqʼo kʼekalamo.</p>
 
-<p class="freetranslation">"Tothapekʼi pʼadʼebʼi kʼethalogi qatʼogimo da lothigedʼata kʼepagɛgigi pʼamoqʼenebili. Takʼo lotheqʼatha pʼadʼebʼi theni kopʼomiko patʼopʼadʼebʼi qʼedʼepʼemo qʼatotatʼo qitʼito deqo theni qibonigi."</p>
+<p class="qathebo">Lotheqʼatha memebʼomadʼaqʼo "Thikeqʼa nedʼo pʼadʼebʼi kithotaqemo qedimeqotʼiqo da bʼenomadʼepʼi kʼiteqekogito theni kedipʼeqʼetʼili."</p>
 
-<p class="freetranslation">Lotheqʼatha memebʼomadʼaqʼo:</p>
+<p class="qathebo">Theni qʼoqibʼi bʼenomadʼaqʼo qatʼepʼeqʼo takʼo moqʼekʼi pagegi. Bʼenomadʼata lothigi da kademadʼana tikimoqʼaqo qʼepeniletha pitʼithilikʼi nekotʼa memebʼomadʼaqʼo kʼeboleni kadema kidʼi qʼibʼekʼeni lothemadʼaqʼo kobagega takʼo lapo ditʼili lothemadʼana.</p>
 
-<p class="freetranslation">"Moqʼenabegi pʼadʼemi bʼenoma kʼepagegigi qatʼogigi kobagegatʼotʼigo pʼetʼigo dala qʼepanalo kademadʼemi kobagega tenatʼoga takʼo detʼa pʼadʼemi hlokʼo theni qepʼebʼi kadethadʼemi. Theni kedipʼotʼogi pʼadʼemi kidʼi moqʼekʼi pʼadʼemi qʼepenikigigi kadetatʼego pipogi."</p>
+<p class="qathebo">Lotheqʼatha bʼenomadʼaqʼo:</p>
+
+<p class="qathebo">"Tothapekʼi pʼadʼebʼi kʼethalogi qatʼogimo da lothigedʼata kʼepagɛgigi pʼamoqʼenebili. Takʼo lotheqʼatha pʼadʼebʼi theni kopʼomiko patʼopʼadʼebʼi qʼedʼepʼemo qʼatotatʼo qitʼito deqo theni qibonigi."</p>
+
+<p class="qathebo">Lotheqʼatha memebʼomadʼaqʼo:</p>
+
+<p class="qathebo">"Moqʼenabegi pʼadʼemi bʼenoma kʼepagegigi qatʼogigi kobagegatʼotʼigo pʼetʼigo dala qʼepanalo kademadʼemi kobagega tenatʼoga takʼo detʼa pʼadʼemi hlokʼo theni qepʼebʼi kadethadʼemi. Theni kedipʼotʼogi pʼadʼemi kidʼi moqʼekʼi pʼadʼemi qʼepenikigigi kadetatʼego pipogi."</p>
