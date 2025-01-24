@@ -16,7 +16,8 @@ Adlam	Phonetic	Part of Speech	Definitions	Tags
 𞤥𞤭𞤼𞥇𞤫𞤥𞤢	mitʼɛma	noun (G2)	moon	
 𞤥𞤮𞤣𞤭𞤨𞤫𞤸𞤫𞤨𞤭𞤺𞤭	modipɛɬɛpigi	noun (G5)	improvement	
 𞤥𞤮𞤤𞤭	moli	modifier	many, much	
-𞤥𞤮𞤹𞥇𞤢	moqʼa	verb	swallow	
+𞤥𞤮𞤹𞥇𞤢	moqʼa	verb	swallow; feel	
+	moqʼenaba	verb	cause to swallow; cause to feel	
 𞤥𞤮𞤹𞥇𞤢𞤩𞤢	moqʼaɓa	verb	emotional copula	
 𞤥𞤮𞤹𞥇𞤢𞤼𞤢	moqʼata	noun (G1/G2)	throat	
 𞤥𞤮𞤺𞤢	moga	verb	shine	
@@ -37,7 +38,7 @@ Adlam	Phonetic	Part of Speech	Definitions	Tags
 𞤨𞥇𞤢𞤹𞤫𞤹𞤮	pʼaqɛqo	noun (G4)	hill	
 𞤨𞥇𞤢𞤹𞥇𞤮𞤺𞤢	pʼaqʼoga	noun (G3)	grass	
 𞤨𞥇𞤢𞤼𞤫𞤺𞤢	pʼatɛga	noun (G3)	breakfast	
-𞤨𞥇𞤫𞤹𞥇𞤢𞤼𞥇𞤮	pʼɛqʼatʼo	verb	reach, arrive at	
+𞤨𞥇𞤫𞤹𞥇𞤢𞤼𞥇𞤮	pʼɛqʼatʼa	verb	reach, arrive at	
 𞤨𞥇𞤫𞤼𞤢	pʼɛta	verb	cook (with heat)	
 𞤨𞥇𞤫𞤼𞥇𞤮𞤺𞤢	pʼɛtʼoga	verb	understand	
 𞤩𞤢	ɓa	verb	idly move	
@@ -82,6 +83,7 @@ Adlam	Phonetic	Part of Speech	Definitions	Tags
 𞤳𞥇𞤫𞤦𞤮𞤤𞤢	kʼɛbola	verb	stab; poke	
 𞤳𞥇𞤫𞤬𞤢𞤤𞤮𞤺𞤭	kʼɛθalogi	noun (G5)	hatred	
 𞤳𞥇𞤫𞤳𞤢𞤺𞤢	kʼɛkaga	noun (G3)	thing; something indeterminate or unspecified	
+	kʼɛkaɗa	verb	work; make things	
 𞤳𞥇𞤭𞤼𞤫𞤹𞤫𞤳𞤮𞤺𞤭	kʼitɛqɛkogi	noun (G5)	failure	
 𞤸𞤢	ɬa	verb	eat (involves chewing)	
 𞤸𞤢𞤩𞤫𞤼𞤢	ɬaɓɛta	noun (G1)	hand	
@@ -97,7 +99,7 @@ Adlam	Phonetic	Part of Speech	Definitions	Tags
 𞤹𞤭	qi	pronoun	2SG	
 𞤹𞤭𞤲𞤫𞤥𞤢	qinɛma	noun (G2)	river	
 𞤹𞤮𞤲𞤢	qona	pronoun	2DU	
-𞤹𞥇𞤢𞤥𞤫𞤹𞥇𞤭	qʼamɛqʼi	noun (G5)	story	
+𞤹𞥇𞤢𞤥𞤫𞤹𞥇𞤭	qʼamɛqʼigi	noun (G5)	story	
 𞤹𞥇𞤢𞤬𞤢	qʼaθa	verb	speak	
 𞤹𞥇𞤢𞤬𞤫𞤩𞤮𞤺𞤭	qʼaθɛɓogi	noun (G5)	language	
 𞤹𞥇𞤫𞤨𞤢𞤲𞤢	qʼɛpana	verb	steal; take	
@@ -122,7 +124,7 @@ Adlam	Phonetic	Part of Speech	Definitions	Tags
 𞤼𞤫𞤬𞤮𞤺𞤢	tɛθoga	noun (G3)	egg	
 𞤼𞤫𞤲𞤢𞤼𞥇𞤮𞤺𞤢	tɛnatʼoga	noun (G3)	honey	
 𞤼𞤫𞤹𞤫𞤳𞤮𞤺𞤭	tɛqɛkogi	noun (G5)	success	
-𞤼𞤭𞤳𞤭𞤥𞤮𞤹𞥇𞤢𞤹𞤮	tikimoqʼaqo	noun (G4)	beehive	
+𞤼𞤭𞤳𞤭𞤥𞤮𞤹𞥇𞤢𞤹𞤮	tikimoqaqo	noun (G4)	beehive	
 𞤼𞤮𞤬𞤢𞤨𞤢	toθapa	verb	spit	
 𞤼𞥇𞤢𞤹𞤢	tʼaqa	verb	wear (clothing)	
 𞤼𞥇𞤢𞤹𞤫𞤥𞤢	tʼaqɛma	noun (G2)	road/path	
