@@ -207,13 +207,13 @@ Bee said:
 
 <div class="gloss">
 <div class="interlinear">
-<dl> <dt>aa-ma-dʼa-ta</dt> <dd>bee-<abbr>G2.SG-NOM-REL:PRS</abbr></dd> </dl>
-<dl> <dt>aa</dt> <dd>so_that</dd> </dl>
-<dl> <dt>aa-ili</dt> <dd>work-<abbr>REL</abbr></dd> </dl>
-<dl> <dt>aa-a</dt> <dd>go-<abbr>PFV</abbr></dd> </dl>
-<dl> <dt>aa</dt> <dd>upward</dd> </dl>
+<dl> <dt>memebʼo-ma-dʼa-ta</dt> <dd>bee-<abbr>G2.SG-NOM-REL:PRS</abbr></dd> </dl>
+<dl> <dt>kahla</dt> <dd>because</dd> </dl>
+<dl> <dt>kʼekedʼ-ili</dt> <dd>work-<abbr>REL</abbr></dd> </dl>
+<dl> <dt>l-a</dt> <dd>go-<abbr>PFV</abbr></dd> </dl>
+<dl> <dt>nedʼo</dt> <dd>upward</dd> </dl>
 <dl> <dt>lothe-ma-dʼa-qʼo</dt> <dd>this-<abbr>G2.SG-NOM-REM.PST</dd> </dl>
-<dl> <dt>aa-la-mo</dt> <dd>thing-<abbr>G3.PL-ALL</dd> </dl>
+<dl> <dt>kʼika-la-mo</dt> <dd>thing-<abbr>G3.PL-ALL</dd> </dl>
 </div>
 <p class="freetranslation">Because of his work he ascended up to things.</p>
 </div>
@@ -221,17 +221,17 @@ Bee said:
 <div class="gloss">
 <div class="interlinear">
 <dl> <dt>lothe-qʼath-a</dt> <dd>this-speak-<abbr>PFV</abbr></dd> </dl>
-<dl> <dt>aa-ma-dʼa-qʼo</dt> <dd>bee-<abbr>G2.SG-NOM-REM.PST</abbr></dd> </dl>
-<dl> <dt>aa-a</dt> <dd>fly-<abbr>PFV</abbr></dd> </dl>
-<dl> <dt>aa</dt> <dd>upward</dd> </dl>
+<dl> <dt>memebʼo-ma-dʼa-qʼo</dt> <dd>bee-<abbr>G2.SG-NOM-REM.PST</abbr></dd> </dl>
+<dl> <dt>thikiqʼ-a</dt> <dd>fly-<abbr>PFV</abbr></dd> </dl>
+<dl> <dt>nedʼo</dt> <dd>upward</dd> </dl>
 <dl> <dt>pʼa-dʼe-bʼi</dt> <dd><abbr>1SG-NOM-PRS</abbr></dd> </dl>
-<dl> <dt>aa-qe-mo</dt> <dd>head-<abbr>G4.SG-ALL</abbr></dd> </dl>
-<dl> <dt>aa-qo-tʼi-qo</dt> <dd>mountain-<abbr>G4.SG-GEN-G4.SG</abbr></dd> </dl>
-<dl> <dt>aa</dt> <dd><abbr>REL</abbr></dd> </dl>
+<dl> <dt>kithota-qe-mo</dt> <dd>head-<abbr>G4.SG-ALL</abbr></dd> </dl>
+<dl> <dt>qedime-qo-tʼi-qo</dt> <dd>mountain-<abbr>G4.SG-GEN-G4.SG</abbr></dd> </dl>
+<dl> <dt>da</dt> <dd><abbr>REL</abbr></dd> </dl>
 <dl> <dt>bʼeno-ma-dʼe-pʼi</dt> <dd>sun-<abbr>G2.SG-NOM-REL:PST</abbr></dd> </dl>
-<dl> <dt>aa-gi-to</dt> <dd>failure-<abbr>G5.SG-LOC</abbr></dd> </dl>
+<dl> <dt>kʼiteqeko-gi-to</dt> <dd>failure-<abbr>G5.SG-LOC</abbr></dd> </dl>
 <dl> <dt>theni</dt> <dd><abbr>NEG</abbr></dd> </dl>
-<dl> <dt>kadi-bb-ili</dt> <dd>that-reach-<abbr>REL</abbr></dd> </dl>
+<dl> <dt>kadi-pʼiqʼatʼ-ili</dt> <dd>that-reach-<abbr>REL</abbr></dd> </dl>
 </div>
 <p class="freetranslation">Bee said "I'll fly up to the mountain top that even Sun fails to achieve."</p>
 </div>
@@ -239,30 +239,29 @@ Bee said:
 <div class="gloss">
 <div class="interlinear">
 <dl> <dt>theni</dt> <dd><abbr>NEG</abbr></dd> </dl>
-<dl> <dt>aa-i</dt> <dd>property.<abbr>COP-IMPF</abbr></dd> </dl>
+<dl> <dt>qʼoqibʼ-i</dt> <dd>property.<abbr>COP-IMPF</abbr></dd> </dl>
 <dl> <dt>bʼeno-ma-dʼa-qʼo</dt> <dd>sun-<abbr>G2.SG-NOM-REM.PST</abbr></dd> </dl>
-<dl> <dt>aa-qʼo</dt> <dd>skillful-<abbr>ESS</abbr></dd> </dl>
-<dl> <dt>aa</dt> <dd>thus</dd> </dl>
+<dl> <dt>qatʼepʼe-qʼo</dt> <dd>skillful-<abbr>ESS</abbr></dd> </dl>
+<dl> <dt>takʼo</dt> <dd>thus</dd> </dl>
 <dl> <dt>moqʼ-e-kʼi</dt> <dd>swallow-<abbr>PFV-G5.SG</abbr></dd> </dl>
-<dl> <dt>(lothi-ma-dʼe-qʼo)</dt> <dd>(this-<abbr>G2.SG-NOM-REM.PST</abbr>)</dd> </dl>
-<dl> <dt>aa-gi-∅.</dt> <dd>unhappiness-<abbr>G5.SG-ACC</abbr></dd> </dl>
+<dl> <dt>paga-gi-∅.</dt> <dd>unhappiness-<abbr>G5.SG-ACC</abbr></dd> </dl>
 </div>
 <div class="interlinear">
 <dl> <dt>bʼeno-ma-dʼa-ta</dt> <dd>sun-<abbr>G2.SG-NOM-REL:PRS</abbr></dd> </dl>
 <dl> <dt>lothi-gi-∅</dt> <dd>this-<abbr>G5.SG-ACC</abbr></dd> </dl>
-<dl> <dt>aa</dt> <dd><abbr>REL</abbr></dd> </dl>
+<dl> <dt>da</dt> <dd><abbr>REL</abbr></dd> </dl>
 <dl> <dt>kade-ma-dʼa-na</dt> <dd>that-<abbr>G2.SG-NOM-REL:FUT</abbr></dd> </dl>
-<dl> <dt>aa-qo-∅</dt> <dd>beehive-<abbr>G4.SG-ACC</abbr></dd> </dl>
-<dl> <dt>aa-ili-tha</dt> <dd>steal-<abbr>REL-G4.SG</abbr></dd> </dl>
-<dl> <dt>aa-ili-kʼi</dt> <dd>decide-<abbr>REL-G5.SG</abbr></dd> </dl>
-<dl> <dt>aa-a</dt> <dd>enter-<abbr>PFV</abbr></dd> </dl>
-<dl> <dt>aa-ma-dʼe-qʼo</dt> <dd>bee-<abbr>G2.SG-NOM-REM.PST</abbr></dd> </dl>
-<dl> <dt>aa-a-ni</dt> <dd>sting-<abbr>PFV-G2.SG</abbr></dd> </dl>
+<dl> <dt>tikimoqʼa-qo-∅</dt> <dd>beehive-<abbr>G4.SG-ACC</abbr></dd> </dl>
+<dl> <dt>qʼepen-ili-tha</dt> <dd>steal-<abbr>REL-G4.SG</abbr></dd> </dl>
+<dl> <dt>pitʼith-ili-kʼi</dt> <dd>decide-<abbr>REL-G5.SG</abbr></dd> </dl>
+<dl> <dt>nokotʼ-a</dt> <dd>enter-<abbr>PFV</abbr></dd> </dl>
+<dl> <dt>memebʼo-ma-dʼe-qʼo</dt> <dd>bee-<abbr>G2.SG-NOM-REM.PST</abbr></dd> </dl>
+<dl> <dt>kʼebol-a-ni</dt> <dd>sting-<abbr>PFV-G2.SG</abbr></dd> </dl>
 <dl> <dt>kade-ma-∅</dt> <dd>that-<abbr>G2.SG-ACC</abbr></dd> </dl>
-<dl> <dt>aa</dt> <dd>however</dd> </dl>
-<dl> <dt>aa-a-ni</dt> <dd>lose-<abbr>PFV-G3.SG</dd> </dl>
+<dl> <dt>kidʼi</dt> <dd>however</dd> </dl>
+<dl> <dt>qʼibʼikʼ-a-ni</dt> <dd>lose-<abbr>PFV-G3.SG</dd> </dl>
 <dl> <dt>lothe-ma-dʼe-qʼo</dt> <dd>this-<abbr>G2.SG-NOM-REM.PST</dd> </dl>
-<dl> <dt>aa-ga-∅</dt> <dd>stinger-<abbr>G2.SG-ACC</dd> </dl>
+<dl> <dt>kobagi-ga-∅</dt> <dd>stinger-<abbr>G2.SG-ACC</dd> </dl>
 <dl> <dt>aa</dt> <dd>thus</dd> </dl>
 <dl> <dt>aa</dt> <dd>later</dd> </dl>
 <dl> <dt>aa-a</dt> <dd>die-<abbr>PFV-G2.SG</abbr></dd> </dl>
@@ -285,7 +284,7 @@ Bee said:
 <dl> <dt>pʼa-dʼe-bʼi</dt> <dd><abbr>1SG-NOM-PRS</abbr></dd> </dl>
 <dl> <dt>aa-gi-∅</dt> <dd>hatred-<abbr>G5.SG-ACC</abbr></dd> </dl>
 <dl> <dt>aa-gi-mo</dt> <dd>ability-<abbr>G5.SG-ALL</abbr></dd> </dl>
-<dl> <dt>aa</dt> <dd><abbr>REL</abbr></dd> </dl>
+<dl> <dt>da</dt> <dd><abbr>REL</abbr></dd> </dl>
 <dl> <dt>lothi-gi-dʼa-ta</dt> <dd>this-<abbr>G5.SG-NOM-REL.PRS</abbr></dd> </dl>
 <dl> <dt>aa-gi-gi</dt> <dd>unhappiness-<abbr>G5.SG-INST</abbr></dd> </dl>
 <dl> <dt>pʼa-moqʼeneb-ili.</dt> <dd><abbr>1SG</abbr>-swallow.<abbr>CAUS-REL</abbr></dd> </dl>
@@ -310,7 +309,7 @@ Bee said:
 <div class="gloss">
 <div class="interlinear">
 <dl> <dt>lothe-qʼath-a</dt> <dd>this-speak-<abbr>PFV</abbr></dd> </dl>
-<dl> <dt>aa-ma-dʼa-qʼo</dt> <dd>bee-<abbr>G2.SG-NOM-REM.PST</abbr></dd> </dl>
+<dl> <dt>memebʼo-ma-dʼa-qʼo</dt> <dd>bee-<abbr>G2.SG-NOM-REM.PST</abbr></dd> </dl>
 </div>
 <p class="freetranslation">Bee said:</p>
 </div>
