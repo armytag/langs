@@ -262,9 +262,9 @@ Bee said:
 <dl> <dt>qʼibʼikʼ-a-ni</dt> <dd>lose-<abbr>PFV-G3.SG</dd> </dl>
 <dl> <dt>lothe-ma-dʼe-qʼo</dt> <dd>this-<abbr>G2.SG-NOM-REM.PST</dd> </dl>
 <dl> <dt>kobagi-ga-∅</dt> <dd>stinger-<abbr>G2.SG-ACC</dd> </dl>
-<dl> <dt>aa</dt> <dd>thus</dd> </dl>
-<dl> <dt>aa</dt> <dd>later</dd> </dl>
-<dl> <dt>aa-ili</dt> <dd>die-<abbr>REL</abbr></dd> </dl>
+<dl> <dt>takʼo</dt> <dd>thus</dd> </dl>
+<dl> <dt>lapo</dt> <dd>before</dd> </dl>
+<dl> <dt>ditʼ-ili</dt> <dd>die-<abbr>REL</abbr></dd> </dl>
 <dl> <dt>lothe-ma-dʼa-na</dt> <dd>this-<abbr>G2.SG-NOM-REL:FUT</abbr></dd> </dl>
 </div>
 <p class="freetranslation">Sun wasn't gifted.  He wasn't happy about this, and while Sun vowed to steal the beehive Bee entered and stung him, but the stinger was lost and will cause him to die.</p>
@@ -280,28 +280,28 @@ Bee said:
 
 <div class="gloss">
 <div class="interlinear">
-<dl> <dt>aa-a-kʼi</dt> <dd>spit-<abbr>PFV-G5.SG</abbr></dd> </dl>
+<dl> <dt>tothap-a-kʼi</dt> <dd>spit-<abbr>PFV-G5.SG</abbr></dd> </dl>
 <dl> <dt>pʼa-dʼe-bʼi</dt> <dd><abbr>1SG-NOM-PRS</abbr></dd> </dl>
-<dl> <dt>aa-gi-∅</dt> <dd>hatred-<abbr>G5.SG-ACC</abbr></dd> </dl>
-<dl> <dt>aa-gi-mo</dt> <dd>ability-<abbr>G5.SG-ALL</abbr></dd> </dl>
+<dl> <dt>kʼithalo-gi-∅</dt> <dd>hatred-<abbr>G5.SG-ACC</abbr></dd> </dl>
+<dl> <dt>qatʼo-gi-mo</dt> <dd>ability-<abbr>G5.SG-ALL</abbr></dd> </dl>
 <dl> <dt>da</dt> <dd><abbr>REL</abbr></dd> </dl>
 <dl> <dt>lothi-gi-dʼa-ta</dt> <dd>this-<abbr>G5.SG-NOM-REL.PRS</abbr></dd> </dl>
-<dl> <dt>aa-gi-gi</dt> <dd>unhappiness-<abbr>G5.SG-INST</abbr></dd> </dl>
+<dl> <dt>kʼipagɛ-gi-gi</dt> <dd>unhappiness-<abbr>G5.SG-INST</abbr></dd> </dl>
 <dl> <dt>pʼa-moqʼeneb-ili.</dt> <dd><abbr>1SG</abbr>-swallow.<abbr>CAUS-REL</abbr></dd> </dl>
 </div>
 <div class="interlinear">
-<dl> <dt>aa</dt> <dd>thus</dd> </dl>
+<dl> <dt>takʼo</dt> <dd>thus</dd> </dl>
 <dl> <dt>lothe-qʼath-a</dt> <dd>this-speak-<abbr>PFV</abbr></dd> </dl>
 <dl> <dt>pʼa-dʼe-bʼi</dt> <dd><abbr>1SG-NOM-PRS</abbr></dd> </dl>
 <dl> <dt>theni</dt> <dd><abbr>NEG</abbr></dd> </dl>
-<dl> <dt>aa-i-ko</dt> <dd>need-<abbr>IPFV-G5.PL</abbr></dd> </dl>
+<dl> <dt>kopʼom-i-ko</dt> <dd>need-<abbr>IPFV-G5.PL</abbr></dd> </dl>
 <dl> <dt>patʼopʼa-dʼe-bʼi</dt> <dd>self.<abbr>1SG-NOM-PRS</abbr></dd> </dl>
-<dl> <dt>aa-mo</dt> <dd>sacred-<abbr>G2.SG</abbr></dd> </dl>
-<dl> <dt>aa-ta-tʼo-∅</dt> <dd>ability-<abbr>G5.PL-POSS-ACC</abbr></dd> </dl>
+<dl> <dt>qʼedʼepʼe-mo</dt> <dd>sacred-<abbr>G2.SG</abbr></dd> </dl>
+<dl> <dt>qʼato-ta-tʼo-∅</dt> <dd>ability-<abbr>G5.PL-POSS-ACC</abbr></dd> </dl>
 <dl> <dt>qi-tʼi-to</dt> <dd><abbr>2SG-GEN-G5.PL</abbr></dd> </dl>
-<dl> <dt>aa</dt> <dd>moreover</dd> </dl>
+<dl> <dt>doqo</dt> <dd>moreover</dd> </dl>
 <dl> <dt>theni</dt> <dd><abbr>NEG</abbr></dd> </dl>
-<dl> <dt>qi-bb-i.</dt> <dd><abbr>2SG</abbr>-acknowledge-<abbr>IPFV</abbr></dd> </dl>
+<dl> <dt>qi-bonig-i.</dt> <dd><abbr>2SG</abbr>-acknowledge-<abbr>IPFV</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"I hate the gift that displeases me.  Rather I will say that my sacred presence doesn’t need your gifts or even to acknowledge you."</p>
 </div>
@@ -319,33 +319,33 @@ Bee said:
 <dl> <dt>moqʼenab-a-gi</dt> <dd>swallow.<abbr>CAUS-PFV-3SG</abbr></dd> </dl>
 <dl> <dt>pʼa-dʼe-mi</dt> <dd><abbr>1SG-NOM-PST</abbr></dd> </dl>
 <dl> <dt>bʼeno-ma-∅</dt> <dd>sun-<abbr>G2.SG-ACC</dd> </dl>
-<dl> <dt>aa-gi-gi</dt> <dd>unhappiness-<abbr>G5.SG-INST</abbr></dd> </dl>
-<dl> <dt>aa-gi-gi</dt> <dd>ability-<abbr>G5.SG-INST</dd> </dl>
-<dl> <dt>aa-ga-tʼo-tʼi-go</dt> <dd>stinger-<abbr>G3.SG-POSS-GEN-G5.SG</dd> </dl>
+<dl> <dt>kʼipage-gi-gi</dt> <dd>unhappiness-<abbr>G5.SG-INST</abbr></dd> </dl>
+<dl> <dt>qatʼo-gi-gi</dt> <dd>ability-<abbr>G5.SG-INST</dd> </dl>
+<dl> <dt>kobagi-ga-tʼo-tʼi-go</dt> <dd>stinger-<abbr>G3.SG-POSS-GEN-G5.SG</dd> </dl>
 <dl> <dt>pʼa-tʼi-go</dt> <dd><abbr>1SG-GEN-G3.SG</abbr></dd> </dl>
-<dl> <dt>aa</dt> <dd>rather</dd> </dl>
-<dl> <dt>aa-a-lo</dt> <dd>steal-<abbr>PFV-G3.PL</abbr></dd> </dl>
+<dl> <dt>dala</dt> <dd>rather</dd> </dl>
+<dl> <dt>qʼepan-a-lo</dt> <dd>steal-<abbr>PFV-G3.PL</abbr></dd> </dl>
 <dl> <dt>kadi-ma-dʼa-mi</dt> <dd>that-<abbr>G2.SG-NOM-PST</abbr></dd> </dl>
-<dl> <dt>aa-ga-∅</dt> <dd>stinger-<abbr>G3.SG-ACC</abbr></dd> </dl>
-<dl> <dt>aa-ga-∅</dt> <dd>honey-<abbr>G3.SG-ACC</abbr></dd> </dl>
-<dl> <dt>aa</dt> <dd>thus</dd> </dl>
-<dl> <dt>aa-a</dt> <dd>die-<abbr>PFV</abbr></dd> </dl>
+<dl> <dt>kobagi-ga-∅</dt> <dd>stinger-<abbr>G3.SG-ACC</abbr></dd> </dl>
+<dl> <dt>tenatʼo-ga-∅</dt> <dd>honey-<abbr>G3.SG-ACC</abbr></dd> </dl>
+<dl> <dt>takʼo</dt> <dd>thus</dd> </dl>
+<dl> <dt>ditʼa-a</dt> <dd>die-<abbr>PFV</abbr></dd> </dl>
 <dl> <dt>pʼa-dʼe-mi</dt> <dd><abbr>1SG-NOM-PST</abbr></dd> </dl>
-<dl> <dt>aa</dt> <dd>also</dd> </dl>
+<dl> <dt>hlokʼo</dt> <dd>also</dd> </dl>
 <dl> <dt>theni</dt> <dd><abbr>NEG</abbr></dd> </dl>
-<dl> <dt>aa-i</dt> <dd>exist.<abbr>COP-IPFV</abbr></dd> </dl>
+<dl> <dt>qepʼebʼ-i</dt> <dd>exist.<abbr>COP-IPFV</abbr></dd> </dl>
 <dl> <dt>kade-tha-dʼe-mi.</dt> <dd>that-<abbr>G2.DU-NOM-PST</abbr></dd> </dl>
 </div>
 <div class="interlinear">
 <dl> <dt>theni</dt> <dd><abbr>NEG</abbr></dd> </dl>
-<dl> <dt>kadi-bb-i</dt> <dd>that-understand-<abbr>IPFV</abbr></dd> </dl>
+<dl> <dt>kadi-pʼotʼog-i</dt> <dd>that-understand-<abbr>IPFV</abbr></dd> </dl>
 <dl> <dt>pʼa-dʼe-mi</dt> <dd><abbr>1SG-NOM-PST</abbr></dd> </dl>
-<dl> <dt>aa</dt> <dd>however</dd> </dl>
+<dl> <dt>kidʼi</dt> <dd>however</dd> </dl>
 <dl> <dt>moqʼ-e-kʼi</dt> <dd>swallow-<abbr>PFV-G5.SG</abbr></dd> </dl>
 <dl> <dt>pʼa-dʼe-mi</dt> <dd><abbr>1SG-NOM-PST</abbr></dd> </dl>
-<dl> <dt>aa-gi-gi</dt> <dd>theft-<abbr>G5.PL-INST</abbr></dd> </dl>
+<dl> <dt>qʼepaniki-gi-gi</dt> <dd>theft-<abbr>G5.PL-INST</abbr></dd> </dl>
 <dl> <dt>kade-ta-tʼo-go</dt> <dd>that-<abbr>G5.PL-GEN-G5.SG</abbr></dd> </dl>
-<dl> <dt>aa-gi-∅</dt> <dd>pain-<abbr>G5.SG-ACC</abbr></dd> </dl>
+<dl> <dt>pipo-gi-∅</dt> <dd>pain-<abbr>G5.SG-ACC</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"I didn't please Sun with my gift of a stinger, rather he stole honey and took the stinger, thus I died and they disappeared as well.  I don’t understand it but they hurt me a lot."</p>
 </div>
