@@ -264,7 +264,7 @@ Bee said:
 <dl> <dt>kobagi-ga-∅</dt> <dd>stinger-<abbr>G2.SG-ACC</dd> </dl>
 <dl> <dt>aa</dt> <dd>thus</dd> </dl>
 <dl> <dt>aa</dt> <dd>later</dd> </dl>
-<dl> <dt>aa-a</dt> <dd>die-<abbr>PFV-G2.SG</abbr></dd> </dl>
+<dl> <dt>aa-ili</dt> <dd>die-<abbr>REL</abbr></dd> </dl>
 <dl> <dt>lothe-ma-dʼa-na</dt> <dd>this-<abbr>G2.SG-NOM-REL:FUT</abbr></dd> </dl>
 </div>
 <p class="freetranslation">Sun wasn't gifted.  He wasn't happy about this, and while Sun vowed to steal the beehive Bee entered and stung him, but the stinger was lost and will cause him to die.</p>
