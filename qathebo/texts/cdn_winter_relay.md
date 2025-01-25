@@ -1,5 +1,11 @@
 # Winter Relay Original
 
+## Fun Stats
+
+- Received Torch: 84 words 683 characters
+- Interpretation: 139 words 706 characters
+- Written Torch: 111 words 969 characters
+
 ## Given Text
 
 <div class="gloss">
