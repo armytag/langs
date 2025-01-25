@@ -158,11 +158,17 @@
 
 ## Interpretation
 
-When the tides calm we tell stories:
+<h1></h1>
+
+<h2 style="text-align: center">Qʼathebʼo Torch English Text</h2>
+
+<h2></h2>
+
+When it is calm we tell stories:
 
 A long time ago, Bee wished many things would get better.
 
-Because of his work he ascended up to things.
+Because of his work he went up to things.
 
 Bee said "I'll fly up to the mountain top that even Sun fails to achieve."
 
@@ -174,11 +180,16 @@ Sun said:
 
 Bee said:
 
-"I didn't please Sun with my gift of a stinger, rather he stole honey and took the stinger, thus I died and they disappeared as well.  I don’t understand it but they hurt me a lot."
+"I didn't please Sun with my gift of a stinger, rather he stole honey and took the stinger, thus I died and they disappeared as well.  I don’t understand it but their theft hurt me a lot."
 
-## Translation
+<h1></h1>
+
+<h2 style="text-align: center">Qʼathebʼo Torch Interlinear Gloss</h2>
+
+<h2></h2>
 
 <div class="gloss">
+<p class="number"></p>
 <div class="interlinear">
 <dl> <dt>Gonepi-ge-dʼa-ta</dt> <dd>calmness-<abbr>G5.SG-NOM-REL:PRS</abbr></dd> </dl>
 <dl> <dt>bʼaqa</dt> <dd>yet</dd> </dl>
@@ -191,6 +202,7 @@ Bee said:
 </div>
 
 <div class="gloss">
+<p class="number"></p>
 <div class="interlinear">
 <dl> <dt>Lothe-kʼapopʼ-i</dt> <dd>this-wish-<abbr>IPFV</abbr></dd> </dl>
 <dl> <dt>memebʼo-ma-dʼa-qʼo</dt> <dd>bee-<abbr>G2.SG-NOM-REM.PST</abbr></dd> </dl>
@@ -205,6 +217,7 @@ Bee said:
 </div>
 
 <div class="gloss">
+<p class="number"></p>
 <div class="interlinear">
 <dl> <dt>Memebʼo-ma-dʼa-ta</dt> <dd>bee-<abbr>G2.SG-NOM-REL:PRS</abbr></dd> </dl>
 <dl> <dt>kʼahla</dt> <dd>because</dd> </dl>
@@ -218,6 +231,7 @@ Bee said:
 </div>
 
 <div class="gloss">
+<p class="number"></p>
 <div class="interlinear">
 <dl> <dt>Lothe-qʼath-a</dt> <dd>this-speak-<abbr>PFV</abbr></dd> </dl>
 <dl> <dt>memebʼo-ma-dʼa-qʼo</dt> <dd>bee-<abbr>G2.SG-NOM-REM.PST</abbr></dd> </dl>
@@ -236,6 +250,7 @@ Bee said:
 </div>
 
 <div class="gloss">
+<p class="number"></p>
 <div class="interlinear">
 <dl> <dt>Theni</dt> <dd><abbr>NEG</abbr></dd> </dl>
 <dl> <dt>qʼoqibʼ-i</dt> <dd>property.<abbr>COP-IMPF</abbr></dd> </dl>
@@ -270,6 +285,7 @@ Bee said:
 </div>
 
 <div class="gloss">
+<p class="number"></p>
 <div class="interlinear">
 <dl> <dt>Lothe-qʼath-a</dt> <dd>this-speak-<abbr>PFV</abbr></dd> </dl>
 <dl> <dt>bʼeno-ma-dʼa-qʼo:</dt> <dd>sun-<abbr>G2.SG-NOM-REM.PST</abbr></dd> </dl>
@@ -278,6 +294,7 @@ Bee said:
 </div>
 
 <div class="gloss">
+<p class="number"></p>
 <div class="interlinear">
 <dl> <dt>"Tothap-e-kʼi</dt> <dd>spit-<abbr>PFV-G5.SG</abbr></dd> </dl>
 <dl> <dt>pʼa-dʼe-bʼi</dt> <dd><abbr>1SG-NOM-PRS</abbr></dd> </dl>
@@ -306,6 +323,7 @@ Bee said:
 </div>
 
 <div class="gloss">
+<p class="number"></p>
 <div class="interlinear">
 <dl> <dt>Lothe-qʼath-a</dt> <dd>this-speak-<abbr>PFV</abbr></dd> </dl>
 <dl> <dt>memebʼo-ma-dʼa-qʼo:</dt> <dd>bee-<abbr>G2.SG-NOM-REM.PST</abbr></dd> </dl>
@@ -314,6 +332,7 @@ Bee said:
 </div>
 
 <div class="gloss">
+<p class="number"></p>
 <div class="interlinear">
 <dl> <dt>"Moqʼenab-e-gi</dt> <dd>swallow.<abbr>CAUS-PFV-3SG</abbr></dd> </dl>
 <dl> <dt>pʼa-dʼe-mi</dt> <dd><abbr>1SG-NOM-PST</abbr></dd> </dl>
