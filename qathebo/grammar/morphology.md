@@ -48,19 +48,29 @@ When nouns are possessed, they take an additional suffix *-tʼo* after number an
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
-<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
+<dl> <dt>kʼoqahlo-la-tʼo-∅</dt> <dd>clothing-<abbr>G3.PL-POSS-ACC</abbr></dd> </dl>
+<dl> <dt>pʼe-tʼi-lo</dt> <dd><abbr>1SG-GEN-G3.PL</abbr></dd> </dl>
 </div>
-<p class="freetranslation">"There was a dog."</p>
+<p class="freetranslation">"my clothes"</p>
 </div>
 
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
-<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
+<dl> <dt>qeni-thi-∅</dt> <dd>parent-<abbr>G1.DU-ACC</abbr></dd> </dl>
+<dl> <dt>pʼe-tʼi-go</dt> <dd><abbr>1SG-GEN-G1.SG</abbr></dd> </dl>
 </div>
-<p class="freetranslation">"There was a dog."</p>
+<p class="freetranslation">"my parents"</p>
+</div>
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>kʼoqahlo-la-tʼo-∅</dt> <dd>clothing-<abbr>G3.PL-POSS-ACC</abbr></dd> </dl>
+<dl> <dt>qeni-thi-tʼi-lo</dt> <dd>parent-<abbr>G1.DU-GEN-G3.PL</abbr></dd> </dl>
+<dl> <dt>pʼe-tʼi-go</dt> <dd><abbr>1SG-GEN-G1.PL</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"my parents' clothes"</p>
 </div>
 
 ### Case
@@ -84,7 +94,7 @@ Below is a table summarizing the cases, their morphological affix form, and thei
 
 #### Nominative (*-dʼa*)
 
-The Nominative case indicates which noun is performing the action described by the verb.  This is roughly equivalent to the subject or agent in an English sentence.
+The Nominative case indicates which noun is performing the action described by the verb.  This is roughly equivalent to the subject or agent in an English sentence.  The nominative case also requires [tense marking](#tense).
 
 <div class="gloss">
 <p class="number"></p>
