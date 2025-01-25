@@ -121,19 +121,21 @@ The Accusative case indicates which noun is being acted upon by the verb.  This 
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
-<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
+<dl> <dt>hl-i</dt> <dd>eat-<abbr>IPFV-G3.PL</abbr></dd> </dl>
+<dl> <dt>pʼa-dʼe-bʼi</dt> <dd><abbr>1SG-NOM-PRS</abbr></dd> </dl>
+<dl> <dt>kabʼe-la-∅</dt> <dd>berry-<abbr>G3.PL-ACC</abbr></dd> </dl>
 </div>
-<p class="freetranslation">"There was a dog."</p>
+<p class="freetranslation">"I am eating berries."</p>
 </div>
 
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
-<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
+<dl> <dt></dt> <dd>sting-<abbr>PFV-G2.SG</abbr></dd> </dl>
+<dl> <dt></dt> <dd>dog-<abbr>G2.SG-ACC</abbr></dd> </dl>
+<dl> <dt></dt> <dd>bee-<abbr>G2.PAU-NOM-PST</abbr></dd> </dl>
 </div>
-<p class="freetranslation">"There was a dog."</p>
+<p class="freetranslation">"Some bees stung the dog."</p>
 </div>
 
 #### Dative (*-ta*)
@@ -146,7 +148,7 @@ The Dative case indicates which noun is receiving something from the verb.  The 
 <dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
 <dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
 </div>
-<p class="freetranslation">"There was a dog."</p>
+<p class="freetranslation">"She made this pot for me."</p>
 </div>
 
 <div class="gloss">
@@ -155,7 +157,7 @@ The Dative case indicates which noun is receiving something from the verb.  The 
 <dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
 <dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
 </div>
-<p class="freetranslation">"There was a dog."</p>
+<p class="freetranslation">"Tell me a story."</p>
 </div>
 
 #### Genitive (*-tʼi*)
