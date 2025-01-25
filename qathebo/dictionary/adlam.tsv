@@ -1,15 +1,21 @@
 Adlam	Phonetic	Part of Speech	Definitions	Tags
 𞤣𞤢	da	particle	relativizer	
-𞤣𞤮𞤦𞤭𞤨𞥇𞤭𞤺𞤭	dobipʼigi	noun (G5)	trust	
-𞤳𞥇𞤭𞤣𞤮𞤦𞤭𞤨𞥇𞤭𞤺𞤭	kʼidobipʼigi	noun (G5)	mistrust	
 𞤣𞤢𞤤𞤢	dala	adverb	rather; marks that the affected verb occured instead of another possibility (usually a different negated verb)	
 𞤣𞤫𞤦𞤢	dɛba	adverb	later; marks that the affected verb happens after something else	
+𞤣𞤫𞤳𞥇𞤮	dɛkʼo	modifier	large	
+𞤣𞤫𞤳𞥇𞤮𞤨𞤭𞤺𞤭	dɛkʼopigi	noun (G5)	largeness	
 𞤣𞤫𞤹𞤮	dɛqo	adverb	moreover; marks the affected verb as reinforcing or expanding on something expressed previously	
 𞤣𞤫𞤼𞥇𞤢	dɛtʼa	verb	die	
+𞤣𞤭𞤼𞥇𞤫𞤲𞤢𞤦𞤢	ditʼɛnaba	verb	cause to die; kill	
+𞤣𞤮𞤦𞤭𞤨𞥇𞤭𞤺𞤭	dobipʼigi	noun (G5)	trust	
 𞤤𞤢	la	verb	go	
 𞤤𞤢𞤨𞤮	lapo	adverb	earlier; marks that the affected verb occurs before something else	
 𞤤𞤫𞤨𞥇𞤭	lɛpʼi	number	seven	
+𞤤𞤭𞤨𞥇𞤭𞤥𞤫𞤨𞤢𞤺𞤢𞤼𞤢	lipʼimɛpagata	noun (G1)	a small person	
+𞤤𞤭𞤨𞥇𞤭𞤥𞤭	lipʼimi	modifier	small	
 𞤤𞤮𞤬𞤭	loθi	pronoun	proximate demonstrative	
+𞤥𞤢𞤣𞤮𞤬𞤭𞤼𞥇𞤮𞤤𞤢𞤼𞤢	madoθitʼolata	noun (G1)	great leader	
+𞤥𞤢𞤣𞤮𞤼𞥇𞤭𞤺𞤭𞤼𞥇𞤫𞤺𞤢	madotʼigitʼɛga	noun (G3)	a classic	
 𞤥𞤢𞤹𞤮	maqo	noun (G4)	tree	
 𞤥𞤫𞤥𞤫𞤩𞤮𞤥𞤢	mɛmɛɓoma	noun (G2)	bee	
 𞤥𞤫𞤩𞤢	mɛɓa	pronoun	1PAU	
@@ -30,8 +36,14 @@ Adlam	Phonetic	Part of Speech	Definitions	Tags
 𞤦𞤭𞤹𞤮	biqo	number	three	
 𞤦𞤮𞤲𞤫𞤺𞤢	bonɛga	verb	acknowledge; regard	
 𞤦𞤮𞤳𞥇𞤢	bokʼa	number	six	
+𞤨𞤢𞤨𞤮𞤥𞤭𞤤𞤫𞤼𞤢	papomilɛta	noun (G1)	beautiful person	
+𞤨𞤢𞤨𞤮𞤥𞤭𞤺𞤭	papomigi	noun (G5)	beauty	
 𞤨𞤢𞤺𞤫𞤺𞤭	pagɛgi	noun (G5)	happiness	
+𞤨𞤢𞤼𞤢𞤩𞤢	pataɓa	modifier	poor	
+𞤨𞤢𞤼𞤢𞤩𞤢𞤨𞤢𞤺𞤢𞤼𞤢	pataɓapagata	noun (G1)	a poor person	
+𞤨𞤢𞤼𞤢𞤩𞤫𞤨𞤭𞤺𞤭	pataɓɛpigi	noun (G5)	poverty	
 𞤨𞤢𞤼𞥇𞤮	patʼo	pronoun	creates reflexive pronouns from personal or demonstrative pronouns	
+𞤨𞤫𞤯𞤫𞤼𞥇𞤭𞤺𞤭	pɛɗɛtʼigi	noun (G5)	war	
 𞤨𞤫𞤼𞥇𞤢	pɛtʼa	number	four	
 𞤨𞤭𞤨𞤮𞤺𞤭	pipogi	noun (G5)	pain	
 𞤨𞤭𞤼𞥇𞤫𞤬𞤢	pitʼɛθa	verb	decide; vow, commit to something	
@@ -40,53 +52,67 @@ Adlam	Phonetic	Part of Speech	Definitions	Tags
 𞤨𞥇𞤢𞤹𞤫𞤹𞤮	pʼaqɛqo	noun (G4)	hill	
 𞤨𞥇𞤢𞤹𞥇𞤮𞤺𞤢	pʼaqʼoga	noun (G3)	grass	
 𞤨𞥇𞤢𞤼𞤫𞤺𞤢	pʼatɛga	noun (G3)	breakfast	
+𞤨𞥇𞤢𞤼𞥇𞤮𞤲𞤭𞤨𞥇𞤮	pʼatʼonipʼo	modifier	angry	
+𞤨𞥇𞤢𞤼𞥇𞤮𞤲𞤭𞤺𞤭	pʼatʼonigi	noun (G5)	anger	
 𞤨𞥇𞤫𞤹𞥇𞤢𞤼𞥇𞤢	pʼɛqʼatʼa	verb	reach, arrive at	
+𞤨𞥇𞤮𞤤𞤫𞤲𞤢	pʼolɛna	verb	grow up	
+𞤨𞥇𞤮𞤤𞤭𞤲𞤫𞤹𞥇𞤮	pʼolinɛqʼo	modifier	grown	
 𞤨𞥇𞤫𞤼𞤢	pʼɛta	verb	cook (with heat)	
 𞤨𞥇𞤫𞤼𞥇𞤮𞤺𞤢	pʼɛtʼoga	verb	understand	
+𞤨𞥇𞤭𞤨𞥇𞤭𞤼𞤫𞤸𞤢𞤤𞤢	pʼipʼitɛɬala	verb	sputter	
+𞤨𞥇𞤭𞤨𞥇𞤭𞤼𞤭	pʼipʼiti	modifier	sputtering	
+𞤨𞥇𞤭𞤼𞤫𞤹𞥇𞤮	pʼitɛqʼo	modifier	cooked	
+𞤨𞥇𞤭𞤼𞤭𞤩𞤮𞤺𞤢	pʼitiɓoga	noun (G3)	food; meal	
 𞤩𞤢	ɓa	verb	idly move	
-𞤩𞤫𞤳𞥇𞤫𞤺𞤭	ɓɛkʼɛgi	noun (G5)	leisure	
 𞤩𞤢𞤦𞤮	ɓabo	pronoun	1DU	
-𞤩𞤢𞤼𞥇𞤢𞤼𞤢	ɓatʼata	noun (G1)	fool	
-𞤩𞤢𞤼𞥇𞤢𞤣𞤢𞤼𞤮𞤺𞤭	ɓatʼadatogi	noun (G5)	foolishness	
-𞤩𞤭𞤨𞤫𞤹𞤮	ɓipɛqo	noun (G4)	land	
-𞤩𞤭𞤨𞤮𞤼𞤢𞤤𞤮𞤼𞤢	ɓipotalota	noun (G1)	land owner	
 𞤩𞤢𞤲𞤮𞤺𞤢	ɓanoga	noun (G3)	clay	
 𞤩𞤢𞤹𞤢	ɓaqa	adverb	yet	
+𞤩𞤢𞤼𞥇𞤢𞤣𞤢𞤼𞤮𞤺𞤭	ɓatʼadatogi	noun (G5)	foolishness	
+𞤩𞤢𞤼𞥇𞤢𞤼𞤢	ɓatʼata	noun (G1)	fool	
+𞤩𞤫𞤯𞤮𞤦𞤫𞤸𞤫𞤨𞤭𞤺𞤭	ɓɛɗobɛɬɛpigi	noun (G5)	urbanization	
+𞤩𞤫𞤯𞤮𞤦𞤭𞤹𞤮	ɓɛɗobiqo	noun (G4)	city	
 𞤩𞤫𞤲𞤮𞤥𞤢	ɓɛnoma	noun (G2)	sun	
+𞤩𞤫𞤳𞥇𞤫𞤺𞤭	ɓɛkʼɛgi	noun (G5)	leisure	
+𞤩𞤭𞤨𞤫𞤹𞤮	ɓipɛqo	noun (G4)	land	
+𞤩𞤭𞤨𞤮𞤼𞤢𞤤𞤮𞤼𞤢	ɓipotalota	noun (G1)	land owner	
+𞤩𞤭𞤼𞤫𞤣𞤮	ɓitɛdo	modifier	daily	
 𞤩𞤭𞤼𞤮𞤺𞤭	ɓitogi	noun (G5)	day	
 𞤩𞤮𞤨𞥇𞤭	ɓopʼi	pronoun	1PL	
 𞤩𞤮𞤯𞤭	ɓoɗi	number	eight	
 𞤬𞤢𞤤𞤮𞤺𞤭	θalogi	noun (G5)	love	
+𞤬𞤢𞤨𞤢	θapa	verb	hit	
+𞤬𞤫𞤨𞤭𞤳𞤫𞤺𞤢	θɛpikɛga	noun (G3)	a blow	
 𞤬𞤫𞤲𞤭	θɛni	adverb	NEG; negates the following verb	
 𞤬𞤫𞤹𞤢	θɛqa	number	one	
 𞤬𞤭𞤳𞤫𞤹𞥇𞤢	θikɛqʼa	verb	fly	
 𞤬𞤭𞤼𞤮𞤺𞤢	θitoga	noun (G3)	vine	
 𞤬𞤭𞤼𞥇𞤭	θitʼi	number	first (ordinal)	
+𞤬𞤭𞤼𞥇𞤮𞤤𞤢𞤼𞤢	θitʼolata	noun (G1)	leader	
 𞤬𞤮𞤥𞤢	θoma	noun (G2)	cat	
 𞤬𞤮𞤸𞤢	θoɬa	modifier	quiet	
 𞤬𞤮𞤹𞤭	θoqi	pronoun	2PL	
 𞤯𞤢	ɗa	verb	make	
 𞤯𞤫𞤸𞤫𞤹𞤮	ɗɛɬɛqo	noun (G4)	house	
-𞤩𞤫𞤯𞤮𞤦𞤭𞤹𞤮	ɓɛɗobiqo	noun (G4)	city	
-𞤩𞤫𞤯𞤮𞤦𞤫𞤸𞤫𞤨𞤭𞤺𞤭	ɓɛɗobɛɬɛpigi	noun (G5)	urbanization	
 𞤯𞤮𞤬𞤢𞤺𞤢	ɗoθaga	noun (G3)	rose	
+𞤲𞤢𞤼𞥇𞤢𞤸𞤮	natʼaɬo	modifier	crunchy	
+𞤲𞤢𞤼𞥇𞤢𞤸𞤮𞤸𞤢𞤤𞤢	natʼaɬoɬala	verb	crunch	
 𞤲𞤫𞤨𞤢	nɛpa	verb	live	
-𞤲𞤭𞤨𞤮𞤸𞤫𞤤𞤭𞤺𞤭	nipoɬɛligi	noun (G5)	longevity	
 𞤲𞤫𞤯𞤮	nɛɗo	modifier	above, upward (adposition)	
-𞤲𞤫𞤸𞤫𞤹𞤭𞤺𞤭	nɛɬɛqigi	noun (G5)	a change	
-𞤲𞤫𞤸𞤢𞤹𞤫𞤣𞤢𞤼𞤮𞤺𞤭	nɛɬaqɛdatogi	noun (G5)	evolution	
 𞤲𞤫𞤳𞤮𞤼𞥇𞤢	nɛkotʼa	verb	enter	
+𞤲𞤫𞤸𞤢𞤹𞤫𞤣𞤢𞤼𞤮𞤺𞤭	nɛɬaqɛdatogi	noun (G5)	evolution	
+𞤲𞤫𞤸𞤫𞤹𞤭𞤺𞤭	nɛɬɛqigi	noun (G5)	a change	
 𞤲𞤫𞤹𞥇𞤢	nɛqʼa	verb	walk	
 𞤲𞤫𞤹𞥇𞤫𞤳𞥇𞤭𞤺𞤭	nɛqʼɛkʼigi	noun (G5)	wandering	
+𞤲𞤭𞤨𞤮𞤸𞤫𞤤𞤭𞤺𞤭	nipoɬɛligi	noun (G5)	longevity	
 𞤲𞤮𞤼𞤢𞤩𞤢	notaɓa	verb	equivalence copula	
 𞤲𞤮𞤼𞤢𞤼𞤢	notata	noun (G1/G2)	heart	
 𞤳𞤢𞤩𞤫𞤺𞤢	kaɓɛga	noun (G3)	berry	
 𞤳𞤫𞤣𞤭	kɛdi	pronoun	distal demonstrative	
 𞤳𞤫𞤨𞥇𞤮𞤥𞤢	kɛpʼoma	verb	need; require	
 𞤳𞤭𞤤𞤮𞤥𞤢	kiloma	noun (G2)	small bird	
-𞤳𞤭𞤬𞤮𞤼𞤢	kiθota	noun (G1/G2)	head	
-𞤳𞤭𞤦𞤭𞤳𞥇𞤮𞤺𞤭	kibikʼogi	noun (G5)	idea	
 𞤳𞤭𞤦𞤭𞤳𞥇𞤮𞤹𞥇𞤫𞤼𞤢	kibikʼoqʼɛta	noun (G1)	thinker	
+𞤳𞤭𞤦𞤭𞤳𞥇𞤮𞤺𞤭	kibikʼogi	noun (G5)	idea	
+𞤳𞤭𞤬𞤮𞤼𞤢	kiθota	noun (G1/G2)	head	
 𞤳𞤭𞤯𞤭	kiɗi	adverb	however; marks the affected verb in opposition to a prior predicate	
 𞤳𞤭𞤼𞤭	kiti	number	two	
 𞤳𞤮𞤥𞤫𞤺𞤢	komɛga	noun (G3)	window	
@@ -96,35 +122,36 @@ Adlam	Phonetic	Part of Speech	Definitions	Tags
 𞤳𞥇𞤢𞤨𞤮𞤨𞥇𞤢	kʼapopʼa	verb	desire, wish	
 𞤳𞥇𞤢𞤸𞤢	kʼaɬa	adverb	because; marks affected verb as purpose behind something else	
 𞤳𞥇𞤫𞤦𞤮𞤤𞤢	kʼɛbola	verb	stab; poke	
+𞤳𞥇𞤫𞤨𞤢𞤤𞤢	kʼɛpala	verb	lie	
+𞤳𞥇𞤫𞤨𞤫𞤤𞤭𞤳𞤭𞤹𞥇𞤫𞤼𞤢	kʼɛpɛlikiqʼɛta	noun (G1)	liar	
+𞤳𞥇𞤫𞤨𞤫𞤤𞤭𞤳𞤭𞤺𞤭	kʼɛpɛlikigi	noun (G5)	a lie	
+𞤳𞥇𞤫𞤩𞤭𞤺𞤭	kʼɛɓigi	noun (G5)	fear	
+𞤳𞥇𞤫𞤩𞤭𞤼𞥇𞤮𞤳𞤭	kʼɛɓitʼoki	modifier	frightening	
 𞤳𞥇𞤫𞤬𞤢𞤤𞤮𞤺𞤭	kʼɛθalogi	noun (G5)	hatred	
 𞤳𞥇𞤫𞤳𞤢𞤯𞤢	kʼɛkaɗa	verb	work; make things	
 𞤳𞥇𞤫𞤳𞤢𞤺𞤢	kʼɛkaga	noun (G3)	thing; something indeterminate or unspecified	
+𞤳𞥇𞤭𞤣𞤮𞤦𞤭𞤨𞥇𞤭𞤺𞤭	kʼidobipʼigi	noun (G5)	mistrust	
 𞤳𞥇𞤭𞤼𞤫𞤹𞤫𞤳𞤮𞤺𞤭	kʼitɛqɛkogi	noun (G5)	failure	
 𞤸𞤢	ɬa	verb	eat (involves chewing)	
+𞤸𞤢𞤨𞥇𞤮𞤺𞤢	ɬapʼoga	noun (G3)	water	
 𞤸𞤢𞤩𞤫𞤼𞤢	ɬaɓɛta	noun (G1)	hand	
 𞤸𞤢𞤬𞤢𞤥𞤢	ɬaθama	noun (G2)	rain	
 𞤸𞤫𞤳𞥇𞤮	ɬɛkʼo	adverb	also; additionally	
-𞤸𞤢𞤨𞥇𞤮𞤺𞤢	ɬapʼoga	noun (G3)	water	
-𞤺𞤮𞤬𞤢𞤸𞤢𞤨𞥇𞤮𞤺𞤭	goθaɬapʼogi	noun (G5)	flood	
-𞤬𞤭𞤼𞥇𞤮𞤤𞤢𞤼𞤢	θitʼolata	noun (G1)	leader	
-𞤥𞤢𞤣𞤮𞤬𞤭𞤼𞥇𞤮𞤤𞤢𞤼𞤢	madoθitʼolata	noun (G1)	great leader	
-𞤼𞥇𞤭𞤺𞤭𞤼𞥇𞤫𞤺𞤢	tʼigitʼɛga	noun (G3)	a creative work	
-𞤥𞤢𞤣𞤮𞤼𞥇𞤭𞤺𞤭𞤼𞥇𞤫𞤺𞤢	madotʼigitʼɛga	noun (G3)	a classic	
-𞤼𞥇𞤢𞤹𞤫𞤯𞤢	tʼaqɛɗa	verb	write	
-𞤼𞥇𞤫𞤹𞤭𞤯𞤫𞤯𞤢𞤼𞤢	tʼɛqiɗɛɗata	noun (G1)	writer	
+𞤸𞤭𞤬𞤫𞤨𞤢𞤼𞥇𞤮𞤳𞤭	ɬiθɛpatʼoki	modifier	suspicious	
+𞤸𞤭𞤬𞤫𞤨𞤫𞤺𞤭	ɬiθɛpɛgi	noun (G5)	doubt	
 𞤹𞤢𞤤𞤫𞤼𞤢	qalɛta	noun (G1/G2)	mouth	
 𞤹𞤢𞤹𞥇𞤮𞤥𞤢	qaqʼoma	noun (G2)	fish	
-𞤹𞤫𞤬𞤢	qɛθa	verb	trap; capture	
 𞤹𞤢𞤹𞥇𞤮𞤹𞤫𞤬𞤢	qaqʼoqɛθa	verb	catch fish	
 𞤹𞤢𞤹𞥇𞤮𞤹𞤭𞤬𞤫𞤯𞤢𞤼𞤢	qaqʼoqiθɛɗata	noun (G1)	fisherman	
-𞤺𞤮𞤥𞤫𞤲𞤢	gomɛna	verb	appear; become visible	
-𞤺𞤮𞤥𞤭𞤲𞤮𞤸𞤫𞤤𞤭𞤺𞤭	gominoɬɛligi	noun (G5)	appearance; visible features	
 𞤹𞤢𞤼𞥇𞤫𞤨𞥇𞤮	qatʼɛpʼo	modifier	skillful	
 𞤹𞤢𞤼𞥇𞤮𞤺𞤭	qatʼogi	noun (G5)	skill, ability, talent	
 𞤹𞤫𞤣𞤭𞤥𞤫𞤹𞤮	qɛdimɛqo	noun (G4)	mountain	
 𞤹𞤫𞤨𞥇𞤢𞤩𞤢	qɛpʼaɓa	verb	existential copula	
 𞤹𞤫𞤨𞥇𞤢𞤼𞤢	qɛpʼata	noun (G1/G2)	body	
+𞤹𞤫𞤬𞤢	qɛθa	verb	trap; capture	
 𞤹𞤭	qi	pronoun	2SG	
+𞤹𞤭𞤨𞥇𞤫𞤨𞥇𞤮	qipʼɛpʼo	modifier	strong	
+𞤹𞤭𞤨𞥇𞤮𞤺𞤭	qipʼogi	noun (G5)	strength	
 𞤹𞤭𞤲𞤫𞤥𞤢	qinɛma	noun (G2)	river	
 𞤹𞤮𞤲𞤢	qona	pronoun	2DU	
 𞤹𞥇𞤢𞤥𞤫𞤹𞥇𞤭𞤺𞤭	qʼamɛqʼigi	noun (G5)	story	
@@ -135,43 +162,44 @@ Adlam	Phonetic	Part of Speech	Definitions	Tags
 𞤹𞥇𞤫𞤯𞤫𞤨𞥇𞤮	qʼɛɗɛpʼo	modifier	divine; sacred	
 𞤹𞥇𞤫𞤯𞤮𞤺𞤭	qʼɛɗogi	noun (G5)	god	
 𞤹𞥇𞤫𞤯𞤮𞤼𞤢𞤤𞤮𞤼𞤢	qʼɛɗotalota	noun (G1)	priest	
-𞤹𞥇𞤮𞤸𞤭𞤥𞤮𞤺𞤢	qʼoɬimoga	noun (G3)	bow	
-𞤹𞥇𞤮𞤸𞤭𞤥𞤫𞤲𞤮𞤼𞤢	qʼoɬimɛnota	noun (G1)	archer	
-𞤨𞤢𞤨𞤮𞤥𞤭𞤺𞤭	papomigi	noun (G5)	beauty	
-𞤨𞤢𞤨𞤮𞤥𞤭𞤤𞤫𞤼𞤢	papomilɛta	noun (G1)	beautiful person	
 𞤹𞥇𞤭𞤩𞤫𞤳𞥇𞤢	qʼiɓɛkʼa	verb	lose (a possession); misplace	
 𞤹𞥇𞤮𞤩𞤢	qʼoɓa	pronoun	2PAU	
+𞤹𞥇𞤮𞤸𞤭𞤥𞤫𞤲𞤮𞤼𞤢	qʼoɬimɛnota	noun (G1)	archer	
+𞤹𞥇𞤮𞤸𞤭𞤥𞤮𞤺𞤢	qʼoɬimoga	noun (G3)	bow	
 𞤹𞥇𞤮𞤹𞤫𞤩𞤢	qʼoqɛɓa	verb	property copula	
 𞤹𞥇𞤮𞤹𞤫𞤼𞤢	qʼoqɛta	noun (G1)	face	
-𞤺𞤫𞤹𞥇𞤭𞤺𞤭	gɛqʼigi	noun (G5)	light	
-𞤺𞤢𞤹𞥇𞤫𞤸𞤫𞤨𞤭𞤺𞤭	gaqʼɛɬɛpigi	noun (G5)	illumination	
 𞤺𞤢𞤣𞤢𞤬𞤢	gadaθa	verb	arrange	
 𞤺𞤢𞤣𞤢𞤬𞤮𞤸𞤫𞤤𞤭𞤺𞤭	gadaθoɬɛligi	noun (G5)	arrangement; grammar	
 𞤺𞤢𞤬𞤮	gaθo	pronoun	3DU	
+𞤺𞤢𞤹𞥇𞤫𞤸𞤫𞤨𞤭𞤺𞤭	gaqʼɛɬɛpigi	noun (G5)	illumination	
 𞤺𞤫𞤩𞤢	gɛɓa	pronoun	3PAU	
+𞤺𞤫𞤹𞥇𞤭𞤺𞤭	gɛqʼigi	noun (G5)	light	
+𞤣𞤫𞤬𞤫𞤳𞤭	dɛθɛki	modifier	spicy	
+𞤯𞤭𞤹𞤫𞤨𞥇𞤢	ɗiqɛpʼa	modifier	dark	
 𞤺𞤭	gi	pronoun	3SG	
+𞤺𞤮𞤥𞤫𞤲𞤢	gomɛna	verb	appear; become visible	
+𞤺𞤮𞤥𞤭𞤲𞤮𞤸𞤫𞤤𞤭𞤺𞤭	gominoɬɛligi	noun (G5)	appearance; visible features	
+𞤺𞤮𞤬𞤢𞤸𞤢𞤨𞥇𞤮𞤺𞤭	goθaɬapʼogi	noun (G5)	flood	
 𞤺𞤮𞤲𞤢	gona	modifier	still, calm	
 𞤺𞤮𞤲𞤫𞤨𞤭𞤺𞤭	gonɛpigi	noun (G5)	calmness	
 𞤺𞤮𞤹𞤭	goqi	number	five	
 𞤺𞤮𞤺𞤭	gogi	pronoun	3PL	
 𞤼𞤢	ta	verb	throw (pottery)	
 𞤼𞤢𞤳𞥇𞤮	takʼo	adverb	thus; marks the affected verb as the result of another event	
+𞤼𞤫𞤥𞤫𞤤𞤫𞤩𞤮𞤺𞤢	tɛmɛlɛɓoga	noun (G3)	attachment	
+𞤼𞤫𞤥𞤮𞤤𞤢	tɛmola	verb	attach	
 𞤼𞤫𞤬𞤮𞤺𞤢	tɛθoga	noun (G3)	egg	
 𞤼𞤫𞤲𞤢𞤼𞥇𞤮𞤺𞤢	tɛnatʼoga	noun (G3)	honey	
 𞤼𞤫𞤹𞤫𞤳𞤮𞤺𞤭	tɛqɛkogi	noun (G5)	success	
 𞤼𞤭𞤳𞤭𞤥𞤮𞤹𞤢𞤹𞤮	tikimoqaqo	noun (G4)	beehive	
-𞤼𞤭𞤺𞤮𞤹𞥇𞤭𞤺𞤭	tigoqʼigi	noun (G5)	wisdom	
 𞤼𞤭𞤺𞤮𞤹𞥇𞤭𞤤𞤫𞤼𞤢	tigoqʼilɛta	noun (G1)	sage	
+𞤼𞤭𞤺𞤮𞤹𞥇𞤭𞤺𞤭	tigoqʼigi	noun (G5)	wisdom	
 𞤼𞤮𞤬𞤢𞤨𞤢	toθapa	verb	spit	
 𞤼𞥇𞤢𞤹𞤢	tʼaqa	verb	wear (clothing)	
 𞤼𞥇𞤢𞤹𞤫𞤥𞤢	tʼaqɛma	noun (G2)	road/path	
+𞤼𞥇𞤢𞤹𞤫𞤯𞤢	tʼaqɛɗa	verb	write	
 𞤼𞥇𞤢𞤼𞤢𞤥𞤢	tʼatama	noun (G2)	snow	
 𞤼𞥇𞤫𞤬𞤢𞤩𞤢	tʼɛθaɓa	verb	locational copula	
 𞤼𞥇𞤫𞤬𞤢𞤼𞤢	tʼɛθata	noun (G1/G2)	foot	
-𞤼𞤫𞤥𞤮𞤤𞤢	tɛmola	verb	attach	
-𞤼𞤫𞤥𞤫𞤤𞤫𞤩𞤮𞤺𞤢	tɛmɛlɛɓoga	noun (G3)	attachment	
-𞤬𞤢𞤨𞤢	θapa	verb	hit	
-𞤬𞤫𞤨𞤭𞤳𞤫𞤺𞤢	θɛpikɛga	noun (G3)	a blow	
-𞤳𞥇𞤫𞤨𞤢𞤤𞤢	kʼɛpala	verb	lie	
-𞤳𞥇𞤫𞤨𞤫𞤤𞤭𞤳𞤭𞤺𞤭	kʼɛpɛlikigi	noun (G5)	a lie	
-𞤳𞥇𞤫𞤨𞤫𞤤𞤭𞤳𞤭𞤹𞥇𞤫𞤼𞤢	kʼɛpɛlikiqʼɛta	noun (G1)	liar	
+𞤼𞥇𞤫𞤹𞤭𞤯𞤫𞤯𞤢𞤼𞤢	tʼɛqiɗɛɗata	noun (G1)	writer	
+𞤼𞥇𞤭𞤺𞤭𞤼𞥇𞤫𞤺𞤢	tʼigitʼɛga	noun (G3)	a creative work	

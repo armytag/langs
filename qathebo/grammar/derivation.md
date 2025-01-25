@@ -169,10 +169,10 @@ This suffix denotes one instance of the base verb.  The result is a Group 3 or G
 This suffix denotes the abstract sense of the base modifier.  The result is a Group 5 noun.
 
 <dl class="comparison col4">
-<dt></dt> <dd>"large"</dd>
-<dt></dt> <dd>"largeness"</dd>
-<dt></dt> <dd>"poor"</dd>
-<dt></dt> <dd>"poverty"</dd>
+<dt>dekʼo</dt> <dd>"large"</dd>
+<dt>dekʼopi-gi</dt> <dd>"largeness"</dd>
+<dt>patabʼa</dt> <dd>"poor"</dd>
+<dt>patabʼepi-gi</dt> <dd>"poverty"</dd>
 </dl>
 
 #### _-paga_
@@ -180,10 +180,10 @@ This suffix denotes the abstract sense of the base modifier.  The result is a Gr
 This suffix derives a personal noun with the characteristics of the base modifier.  The result is a Group 1 noun.
 
 <dl class="comparison col4">
-<dt></dt> <dd>"small"</dd>
-<dt></dt> <dd>"small person"</dd>
-<dt></dt> <dd>"poor"</dd>
-<dt></dt> <dd>"beggar"</dd>
+<dt>lipʼimi</dt> <dd>"small"</dd>
+<dt>lipʼimepaga-ta</dt> <dd>"small person"</dd>
+<dt>patabʼa</dt> <dd>"poor"</dd>
+<dt>patabʼapaga-ta</dt> <dd>"beggar"</dd>
 </dl>
 
 ## Verbs
@@ -200,7 +200,7 @@ This affix can turn an intransitive verb into a transitive verb, or turn a trans
 
 <dl class="comparison col4">
 <dt>detʼa</dt> <dd>"die"</dd>
-<dt>detʼenaba</dt> <dd>"kill"</dd>
+<dt>ditʼenaba</dt> <dd>"kill"</dd>
 <dt>moqʼa</dt> <dd>"feel"</dd>
 <dt>moqʼenaba</dt> <dd>"cause to feel"</dd>
 </dl>
@@ -212,10 +212,10 @@ This affix can turn an intransitive verb into a transitive verb, or turn a trans
 This affix is used to turn onomatopoeic modifiers into verbs.
 
 <dl class="comparison col4">
-<dt></dt> <dd>"sputtering"</dd>
-<dt></dt> <dd>"sputter"</dd>
-<dt></dt> <dd>"crunchy"</dd>
-<dt></dt> <dd>"crunch"</dd>
+<dt>pʼipʼiti</dt> <dd>"sputtering"</dd>
+<dt>pʼipʼitehlala</dt> <dd>"sputter"</dd>
+<dt>natʼalo</dt> <dd>"crunchy"</dd>
+<dt>natʼalohlala</dt> <dd>"crunch"</dd>
 </dl>
 
 ## Adverbs
@@ -242,10 +242,10 @@ This suffix conveys a sense of repeated occurances of the base noun it derives f
 This suffix conveys the possession of the quality denoted by the base noun.
 
 <dl class="comparison col4">
-<dt></dt> <dd>"strength"</dd>
-<dt></dt> <dd>"strong"</dd>
-<dt></dt> <dd>"anger"</dd>
-<dt></dt> <dd>"angry"</dd>
+<dt>qipʼo-gi</dt> <dd>"strength"</dd>
+<dt>qipʼepʼo</dt> <dd>"strong"</dd>
+<dt>pʼatʼoni-gi</dt> <dd>"anger"</dd>
+<dt>pʼatʼonipʼo</dt> <dd>"angry"</dd>
 </dl>
 
 #### _-tʼoki_
@@ -253,10 +253,10 @@ This suffix conveys the possession of the quality denoted by the base noun.
 This suffix denotes the possibility to give rise to the base noun.
 
 <dl class="comparison col4">
-<dt></dt> <dd>"doubt"</dd>
-<dt></dt> <dd>"suspicious"</dd>
-<dt></dt> <dd>"fear"</dd>
-<dt></dt> <dd>"frightening"</dd>
+<dt>hlithepe-gi</dt> <dd>"doubt"</dd>
+<dt>hlithepatʼoki</dt> <dd>"suspicious"</dd>
+<dt>kʼebʼi-gi</dt> <dd>"fear"</dd>
+<dt>kʼebʼitokʼi</dt> <dd>"frightening"</dd>
 </dl>
 
 #### _-bʼopʼa_
@@ -264,10 +264,10 @@ This suffix denotes the possibility to give rise to the base noun.
 This suffix conveys the occurence before the base noun.
 
 <dl class="comparison col4">
-<dt></dt> <dd>"war"</dd>
-<dt></dt> <dd>"pre-war"</dd>
-<dt></dt> <dd>"food"</dd>
-<dt></dt> <dd>"pre-meal"</dd>
+<dt>pedʼetʼi-gi</dt> <dd>"war"</dd>
+<dt>pedʼetʼibʼopʼa</dt> <dd>"pre-war"</dd>
+<dt>pʼitibʼo-ga</dt> <dd>"food"</dd>
+<dt>pʼitibʼebʼopʼa</dt> <dd>"pre-meal"</dd>
 </dl>
 
 #### _-pʼapʼo_
@@ -275,10 +275,10 @@ This suffix conveys the occurence before the base noun.
 This suffix conveys the occurence after the base noun.
 
 <dl class="comparison col4">
-<dt></dt> <dd>"war"</dd>
-<dt></dt> <dd>"post-war"</dd>
-<dt></dt> <dd>"food"</dd>
-<dt></dt> <dd>"post-meal"</dd>
+<dt>pedʼetʼi-gi</dt> <dd>"war"</dd>
+<dt>pedʼatʼepʼapʼo</dt> <dd>"post-war"</dd>
+<dt>pʼitibʼo-ga</dt> <dd>"food"</dd>
+<dt>pʼitibʼopʼapʼo</dt> <dd>"post-meal"</dd>
 </dl>
 
 ### From Verbs
@@ -288,10 +288,10 @@ This suffix conveys the occurence after the base noun.
 This suffix conveys that something has undergone or experienced the base verb.
 
 <dl class="comparison col4">
-<dt></dt> <dd>"grow up"</dd>
-<dt></dt> <dd>"grown"</dd>
+<dt>pʼolena</dt> <dd>"grow up"</dd>
+<dt>pʼolineqʼo</dt> <dd>"grown"</dd>
 <dt>pʼeta</dt> <dd>"cook"</dd>
-<dt>pʼeteqʼo</dt> <dd>"cooked"</dd>
+<dt>pʼiteqʼo</dt> <dd>"cooked"</dd>
 </dl>
 
 ### From Modifiers
@@ -301,9 +301,9 @@ This suffix conveys that something has undergone or experienced the base verb.
 This suffix conveys a lesser degree of the original modifier.
 
 <dl class="comparison col4">
-<dt></dt> <dd>"spicy"</dd>
-<dt></dt> <dd>"somewhat spicy"</dd>
-<dt></dt> <dd>"dark"</dd>
-<dt></dt> <dd>"dim"</dd>
+<dt>detheki</dt> <dd>"spicy"</dd>
+<dt>dethekihlena</dt> <dd>"somewhat spicy"</dd>
+<dt>dʼiqepʼa</dt> <dd>"dark"</dd>
+<dt>dʼiqepʼahlena</dt> <dd>"dim"</dd>
 </dl>
 
