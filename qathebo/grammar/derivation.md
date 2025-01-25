@@ -22,8 +22,8 @@ This suffix denotes someone with an institutional relationship to the base noun.
 <dl class="comparison col4">
 <dt></dt> <dd>"land"</dd>
 <dt></dt> <dd>"land-owner"</dd>
-<dt></dt> <dd>"god"</dd>
-<dt></dt> <dd>"priest"</dd>
+<dt>qʼedʼo-gi</dt> <dd>"god"</dd>
+<dt>qʼedʼotalo-ta</dt> <dd>"priest"</dd>
 </dl>
 
 #### _-no_
@@ -31,8 +31,8 @@ This suffix denotes someone with an institutional relationship to the base noun.
 This suffix denotes someone who uses or is associated with the base noun.  The result is a Group 1 noun.
 
 <dl class="comparison col4">
-<dt></dt> <dd>"clay"</dd>
-<dt></dt> <dd>"potter"</dd>
+<dt>bʼano-ga</dt> <dd>"clay"</dd>
+<dt>bʼaneno-ta</dt> <dd>"potter"</dd>
 <dt></dt> <dd>"bow"</dd>
 <dt></dt> <dd>"archer"</dd>
 </dl>
@@ -77,8 +77,8 @@ This prefix derives a negative opposite from the base noun.  The result is a nou
 <dl class="comparison col4">
 <dt></dt> <dd>"trust"</dd>
 <dt></dt> <dd>"mistrust"</dd>
-<dt></dt> <dd>"god"</dd>
-<dt></dt> <dd>"demon"</dd>
+<dt>qʼedʼo-gi</dt> <dd>"god"</dd>
+<dt>kʼiqʼedʼo-gi</dt> <dd>"demon"</dd>
 </dl>
 
 #### _gotha-_
@@ -86,8 +86,8 @@ This prefix derives a negative opposite from the base noun.  The result is a nou
 This prefix denotes an excessive degree of the base noun.  The result is a Group 5 noun.
 
 <dl class="comparison col4">
-<dt></dt> <dd>"desire"</dd>
-<dt></dt> <dd>"greed"</dd>
+<dt>kʼapopʼiki-gi</dt> <dd>"desire"</dd>
+<dt>kʼapopʼikigotha-gi</dt> <dd>"greed"</dd>
 <dt></dt> <dd>"water"</dd>
 <dt></dt> <dd>"flood"</dd>
 </dl>
@@ -123,8 +123,8 @@ This suffix derives the abstract sense of the base verb.  The result is a Group 
 <dl class="comparison col4">
 <dt></dt> <dd>"appear"</dd>
 <dt></dt> <dd>"appearance"</dd>
-<dt></dt> <dd>"live"</dd>
-<dt></dt> <dd>"longevity"</dd>
+<dt>nepa</dt> <dd>"live"</dd>
+<dt>nepohleli-gi</dt> <dd>"longevity"</dd>
 </dl>
 
 #### _-ekʼa_
@@ -156,8 +156,8 @@ This suffix denotes one instance of the base verb.  The result is a Group 3 or G
 <dl class="comparison col4">
 <dt></dt> <dd>"hit"</dd>
 <dt></dt> <dd>"a blow"</dd>
-<dt></dt> <dd>"feel"</dd>
-<dt></dt> <dd>"a feeling"</dd>
+<dt>kʼapopʼa</dt> <dd>"desire"</dd>
+<dt>kʼapopʼiki-gi</dt> <dd>"a desire"</dd>
 </dl>
 
 ### From Modifiers
@@ -197,10 +197,10 @@ There are no verbs derived from nouns.  There is widespread [noun incorporation]
 This affix can turn an intransitive verb into a transitive verb, or turn a transitive verb into a causative verb.
 
 <dl class="comparison col4">
-<dt></dt> <dd>"die"</dd>
-<dt></dt> <dd>"kill"</dd>
-<dt></dt> <dd>"eat"</dd>
-<dt></dt> <dd>"feed"</dd>
+<dt>detʼa</dt> <dd>"die"</dd>
+<dt>detʼenaba</dt> <dd>"kill"</dd>
+<dt>moqʼa</dt> <dd>"feel"</dd>
+<dt>moqʼenaba</dt> <dd>"cause to feel"</dd>
 </dl>
 
 ### From Modifiers
@@ -288,8 +288,8 @@ This suffix conveys that something has undergone or experienced the base verb.
 <dl class="comparison col4">
 <dt></dt> <dd>"grow up"</dd>
 <dt></dt> <dd>"grown"</dd>
-<dt></dt> <dd>"cook"</dd>
-<dt></dt> <dd>"cooked"</dd>
+<dt>pʼeta</dt> <dd>"cook"</dd>
+<dt>pʼeteqʼo</dt> <dd>"cooked"</dd>
 </dl>
 
 ### From Modifiers
