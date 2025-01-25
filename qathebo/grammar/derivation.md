@@ -11,10 +11,10 @@ Nouns, verbs, and modifiers all have words derived from each other using various
 This suffix derives personal nouns from individuated abstract nouns.  The result is a Group 1 noun.
 
 <dl class="comparison col4">
-<dt></dt> <dd>"a lie"</dd>
-<dt></dt> <dd>"liar"</dd>
-<dt></dt> <dd>"idea"</dd>
-<dt></dt> <dd>"thinker"</dd>
+<dt>kʼepeliki-gi</dt> <dd>"a lie"</dd>
+<dt>kʼepelikiqʼe-ta</dt> <dd>"liar"</dd>
+<dt>kibikʼo-gi</dt> <dd>"idea"</dd>
+<dt>kibikʼoqʼi-ta</dt> <dd>"thinker"</dd>
 </dl>
 
 #### _-talo_
@@ -22,8 +22,8 @@ This suffix derives personal nouns from individuated abstract nouns.  The result
 This suffix denotes someone with an institutional relationship to the base noun.  The result is a Group 1 noun.
 
 <dl class="comparison col4">
-<dt></dt> <dd>"land"</dd>
-<dt></dt> <dd>"land-owner"</dd>
+<dt>bʼipe-qo</dt> <dd>"land"</dd>
+<dt>bʼipotalo-ta</dt> <dd>"land-owner"</dd>
 <dt>qʼedʼo-gi</dt> <dd>"god"</dd>
 <dt>qʼedʼotalo-ta</dt> <dd>"priest"</dd>
 </dl>
@@ -35,8 +35,8 @@ This suffix denotes someone who uses or is associated with the base noun.  The r
 <dl class="comparison col4">
 <dt>bʼano-ga</dt> <dd>"clay"</dd>
 <dt>bʼaneno-ta</dt> <dd>"potter"</dd>
-<dt></dt> <dd>"bow"</dd>
-<dt></dt> <dd>"archer"</dd>
+<dt>qʼohlimo-ga</dt> <dd>"bow"</dd>
+<dt>qʼohlimeno-ta</dt> <dd>"archer"</dd>
 </dl>
 
 #### _-li_
@@ -44,10 +44,10 @@ This suffix denotes someone who uses or is associated with the base noun.  The r
 This suffix denotes someone who possess the abstract base noun.  The result is a Group 1 noun.
 
 <dl class="comparison col4">
-<dt></dt> <dd>"beauty"</dd>
-<dt></dt> <dd>"beautiful person"</dd>
-<dt></dt> <dd>"wisdom"</dd>
-<dt></dt> <dd>"sage"</dd>
+<dt>papomi-gi</dt> <dd>"beauty"</dd>
+<dt>papomile-ta</dt> <dd>"beautiful person"</dd>
+<dt>tigoqʼi-gi</dt> <dd>"wisdom"</dd>
+<dt>tigoqʼile-ta</dt> <dd>"sage"</dd>
 </dl>
 
 #### _-dato_
@@ -55,10 +55,10 @@ This suffix denotes someone who possess the abstract base noun.  The result is a
 This suffix derives a general abstracted sense from a personal or abstract noun.  The result is a Group 5 noun.
 
 <dl class="comparison col4">
-<dt></dt> <dd>"fool"</dd>
-<dt></dt> <dd>"foolishness"</dd>
-<dt></dt> <dd>"change"</dd>
-<dt></dt> <dd>"evolution"</dd>
+<dt>bʼatʼa-ta</dt> <dd>"fool"</dd>
+<dt>bʼatʼadato-gi</dt> <dd>"foolishness"</dd>
+<dt>nehleqi-gi</dt> <dd>"a change"</dd>
+<dt>nehlaqedato-gi</dt> <dd>"evolution"</dd>
 </dl>
 
 #### _-hlepi_
@@ -66,10 +66,10 @@ This suffix derives a general abstracted sense from a personal or abstract noun.
 This suffix denotes a general process increasing or expanding the base noun.  The result is a Group 5 noun.
 
 <dl class="comparison col4">
-<dt></dt> <dd>"city"</dd>
-<dt></dt> <dd>"urbanization"</dd>
-<dt></dt> <dd>"light"</dd>
-<dt></dt> <dd>"illumination"</dd>
+<dt>bʼedʼobi-qo</dt> <dd>"city"</dd>
+<dt>bʼedʼobihlepi-gi</dt> <dd>"urbanization"</dd>
+<dt>gaqʼe-gi</dt> <dd>"light"</dd>
+<dt>gaqʼahlepi-gi</dt> <dd>"illumination"</dd>
 </dl>
 
 #### _kʼi-_
@@ -77,8 +77,8 @@ This suffix denotes a general process increasing or expanding the base noun.  Th
 This prefix derives a negative opposite from the base noun.  The result is a noun of the same Group as the base noun.
 
 <dl class="comparison col4">
-<dt></dt> <dd>"trust"</dd>
-<dt></dt> <dd>"mistrust"</dd>
+<dt>dobipʼi-gi</dt> <dd>"trust"</dd>
+<dt>kʼidobipiʼi-gi</dt> <dd>"mistrust"</dd>
 <dt>qʼedʼo-gi</dt> <dd>"god"</dd>
 <dt>kʼiqʼedʼo-gi</dt> <dd>"demon"</dd>
 </dl>
@@ -90,19 +90,19 @@ This prefix denotes an excessive degree of the base noun.  The result is a Group
 <dl class="comparison col4">
 <dt>kʼapopʼiki-gi</dt> <dd>"desire"</dd>
 <dt>kʼapopʼikigotha-gi</dt> <dd>"greed"</dd>
-<dt></dt> <dd>"water"</dd>
-<dt></dt> <dd>"flood"</dd>
+<dt>hlapʼo-ga</dt> <dd>"water"</dd>
+<dt>gothahlapʼo-gi</dt> <dd>"flood"</dd>
 </dl>
 
-#### _kʼido-_
+#### _mado-_
 
 This prefix denotes a great, important version of the base noun.  The result is a noun of the same Group as the base noun.
 
 <dl class="comparison col4">
-<dt></dt> <dd>"creative work"</dd>
-<dt></dt> <dd>"classic"</dd>
-<dt></dt> <dd>"leader"</dd>
-<dt></dt> <dd>"great leader"</dd>
+<dt>tʼigitʼe-ga</dt> <dd>"creative work"</dd>
+<dt>madotʼigitʼe-ga</dt> <dd>"a classic"</dd>
+<dt>thitʼola-ta</dt> <dd>"leader"</dd>
+<dt>madothitʼola-ta</dt> <dd>"great leader"</dd>
 </dl>
 
 ### From Verbs
@@ -112,10 +112,10 @@ This prefix denotes a great, important version of the base noun.  The result is 
 This suffix denotes someone who performs the base verb.  The result is a Group 1 noun.
 
 <dl class="comparison col4">
-<dt></dt> <dd>"write"</dd>
-<dt></dt> <dd>"writer"</dd>
-<dt></dt> <dd>"catch fish"</dd>
-<dt></dt> <dd>"fisherman"</dd>
+<dt>tʼaqedʼa</dt> <dd>"write"</dd>
+<dt>tʼeqidʼedʼa-ta</dt> <dd>"writer"</dd>
+<dt>qaqʼoqetha</dt> <dd>"catch fish"</dd>
+<dt>qaqʼoqithedʼa-ta</dt> <dd>"fisherman"</dd>
 </dl>
 
 #### _-ohleli_
@@ -123,8 +123,8 @@ This suffix denotes someone who performs the base verb.  The result is a Group 1
 This suffix derives the abstract sense of the base verb.  The result is a Group 5 noun.
 
 <dl class="comparison col4">
-<dt></dt> <dd>"appear"</dd>
-<dt></dt> <dd>"appearance"</dd>
+<dt>gomina</dt> <dd>"appear"</dd>
+<dt>gominohleli-gi</dt> <dd>"appearance"</dd>
 <dt>nepa</dt> <dd>"live"</dd>
 <dt>nepohleli-gi</dt> <dd>"longevity"</dd>
 </dl>
@@ -145,8 +145,8 @@ This suffix derives a casual/nonserious abstract noun related to the base verb. 
 This suffix denotes the process or result of the base verb.  The result is a Group 3 or Group 5 noun depending on the method of performing the action.
 
 <dl class="comparison col4">
-<dt></dt> <dd>"attach"</dd>
-<dt></dt> <dd>"attachment"</dd>
+<dt>temola</dt> <dd>"attach"</dd>
+<dt>temelebʼo-ga</dt> <dd>"attachment"</dd>
 <dt>qʼatha</dt> <dd>"to speak"</dd>
 <dt>qʼathebʼo-gi</dt> <dd>"language"</dd>
 </dl>
@@ -156,10 +156,10 @@ This suffix denotes the process or result of the base verb.  The result is a Gro
 This suffix denotes one instance of the base verb.  The result is a Group 3 or Group 5 noun depending on the method of performing the action.
 
 <dl class="comparison col4">
-<dt></dt> <dd>"hit"</dd>
-<dt></dt> <dd>"a blow"</dd>
-<dt>kʼapopʼa</dt> <dd>"desire"</dd>
-<dt>kʼapopʼiki-gi</dt> <dd>"a desire"</dd>
+<dt>thapa</dt> <dd>"hit"</dd>
+<dt>thepike-ga</dt> <dd>"a blow"</dd>
+<dt>kʼepala</dt> <dd>"lie"</dd>
+<dt>kʼepeliki-gi</dt> <dd>"a lie"</dd>
 </dl>
 
 ### From Modifiers
