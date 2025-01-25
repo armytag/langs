@@ -94,24 +94,24 @@ Below is a table summarizing the cases, their morphological affix form, and thei
 
 #### Nominative (*-dʼa*)
 
-The Nominative case indicates which noun is performing the action described by the verb.  This is roughly equivalent to the subject or agent in an English sentence.  The nominative case also requires [tense marking](#tense).
+The Nominative case indicates which noun is performing the action described by the verb.  This is roughly equivalent to the subject or agent in an English sentence.  The nominative case also requires [tense marking](#tense) after it.
 
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
-<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
+<dl> <dt>hl-i</dt> <dd>eat-<abbr>IPFV</abbr></dd> </dl>
+<dl> <dt>pʼa-dʼe-bʼi</dt> <dd><abbr>1SG-NOM-PRS</abbr></dd> </dl>
 </div>
-<p class="freetranslation">"There was a dog."</p>
+<p class="freetranslation">"I am eating."</p>
 </div>
 
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
-<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
+<dl> <dt>detʼ-a</dt> <dd>die-<abbr>PFV</abbr></dd> </dl>
+<dl> <dt>ma-qo-dʼa-do</dt> <dd>tree-<abbr>G4.SG-NOM-FUT</abbr></dd> </dl>
 </div>
-<p class="freetranslation">"There was a dog."</p>
+<p class="freetranslation">"The tree will die."</p>
 </div>
 
 #### Accusative

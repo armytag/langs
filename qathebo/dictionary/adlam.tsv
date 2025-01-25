@@ -2,6 +2,7 @@ Adlam	Phonetic	Part of Speech	Definitions	Tags
 𞤣𞤢	da	particle	relativizer	
 𞤣𞤢𞤤𞤢	dala	adverb	rather; marks that the affected verb occured instead of another possibility (usually a different negated verb)	
 𞤣𞤫𞤦𞤢	dɛba	adverb	later; marks that the affected verb happens after something else	
+𞤣𞤫𞤬𞤫𞤳𞤭	dɛθɛki	modifier	spicy	
 𞤣𞤫𞤳𞥇𞤮	dɛkʼo	modifier	large	
 𞤣𞤫𞤳𞥇𞤮𞤨𞤭𞤺𞤭	dɛkʼopigi	noun (G5)	largeness	
 𞤣𞤫𞤹𞤮	dɛqo	adverb	moreover; marks the affected verb as reinforcing or expanding on something expressed previously	
@@ -55,14 +56,14 @@ Adlam	Phonetic	Part of Speech	Definitions	Tags
 𞤨𞥇𞤢𞤼𞥇𞤮𞤲𞤭𞤨𞥇𞤮	pʼatʼonipʼo	modifier	angry	
 𞤨𞥇𞤢𞤼𞥇𞤮𞤲𞤭𞤺𞤭	pʼatʼonigi	noun (G5)	anger	
 𞤨𞥇𞤫𞤹𞥇𞤢𞤼𞥇𞤢	pʼɛqʼatʼa	verb	reach, arrive at	
-𞤨𞥇𞤮𞤤𞤫𞤲𞤢	pʼolɛna	verb	grow up	
-𞤨𞥇𞤮𞤤𞤭𞤲𞤫𞤹𞥇𞤮	pʼolinɛqʼo	modifier	grown	
 𞤨𞥇𞤫𞤼𞤢	pʼɛta	verb	cook (with heat)	
 𞤨𞥇𞤫𞤼𞥇𞤮𞤺𞤢	pʼɛtʼoga	verb	understand	
 𞤨𞥇𞤭𞤨𞥇𞤭𞤼𞤫𞤸𞤢𞤤𞤢	pʼipʼitɛɬala	verb	sputter	
 𞤨𞥇𞤭𞤨𞥇𞤭𞤼𞤭	pʼipʼiti	modifier	sputtering	
 𞤨𞥇𞤭𞤼𞤫𞤹𞥇𞤮	pʼitɛqʼo	modifier	cooked	
 𞤨𞥇𞤭𞤼𞤭𞤩𞤮𞤺𞤢	pʼitiɓoga	noun (G3)	food; meal	
+𞤨𞥇𞤮𞤤𞤫𞤲𞤢	pʼolɛna	verb	grow up	
+𞤨𞥇𞤮𞤤𞤭𞤲𞤫𞤹𞥇𞤮	pʼolinɛqʼo	modifier	grown	
 𞤩𞤢	ɓa	verb	idly move	
 𞤩𞤢𞤦𞤮	ɓabo	pronoun	1DU	
 𞤩𞤢𞤲𞤮𞤺𞤢	ɓanoga	noun (G3)	clay	
@@ -93,6 +94,7 @@ Adlam	Phonetic	Part of Speech	Definitions	Tags
 𞤬𞤮𞤹𞤭	θoqi	pronoun	2PL	
 𞤯𞤢	ɗa	verb	make	
 𞤯𞤫𞤸𞤫𞤹𞤮	ɗɛɬɛqo	noun (G4)	house	
+𞤯𞤭𞤹𞤫𞤨𞥇𞤢	ɗiqɛpʼa	modifier	dark	
 𞤯𞤮𞤬𞤢𞤺𞤢	ɗoθaga	noun (G3)	rose	
 𞤲𞤢𞤼𞥇𞤢𞤸𞤮	natʼaɬo	modifier	crunchy	
 𞤲𞤢𞤼𞥇𞤢𞤸𞤮𞤸𞤢𞤤𞤢	natʼaɬoɬala	verb	crunch	
@@ -132,6 +134,7 @@ Adlam	Phonetic	Part of Speech	Definitions	Tags
 𞤳𞥇𞤫𞤳𞤢𞤺𞤢	kʼɛkaga	noun (G3)	thing; something indeterminate or unspecified	
 𞤳𞥇𞤭𞤣𞤮𞤦𞤭𞤨𞥇𞤭𞤺𞤭	kʼidobipʼigi	noun (G5)	mistrust	
 𞤳𞥇𞤭𞤼𞤫𞤹𞤫𞤳𞤮𞤺𞤭	kʼitɛqɛkogi	noun (G5)	failure	
+𞤳𞥇𞤮𞤹𞤢𞤸𞤮𞤺𞤢	kʼoqaɬoga	noun (G3)	clothing	
 𞤸𞤢	ɬa	verb	eat (involves chewing)	
 𞤸𞤢𞤨𞥇𞤮𞤺𞤢	ɬapʼoga	noun (G3)	water	
 𞤸𞤢𞤩𞤫𞤼𞤢	ɬaɓɛta	noun (G1)	hand	
@@ -140,6 +143,7 @@ Adlam	Phonetic	Part of Speech	Definitions	Tags
 𞤸𞤭𞤬𞤫𞤨𞤢𞤼𞥇𞤮𞤳𞤭	ɬiθɛpatʼoki	modifier	suspicious	
 𞤸𞤭𞤬𞤫𞤨𞤫𞤺𞤭	ɬiθɛpɛgi	noun (G5)	doubt	
 𞤹𞤢𞤤𞤫𞤼𞤢	qalɛta	noun (G1/G2)	mouth	
+𞤹𞤢𞤲𞤫𞤼𞤢	qanɛta	noun (G1)	a parent; mother; father	
 𞤹𞤢𞤹𞥇𞤮𞤥𞤢	qaqʼoma	noun (G2)	fish	
 𞤹𞤢𞤹𞥇𞤮𞤹𞤫𞤬𞤢	qaqʼoqɛθa	verb	catch fish	
 𞤹𞤢𞤹𞥇𞤮𞤹𞤭𞤬𞤫𞤯𞤢𞤼𞤢	qaqʼoqiθɛɗata	noun (G1)	fisherman	
@@ -174,8 +178,6 @@ Adlam	Phonetic	Part of Speech	Definitions	Tags
 𞤺𞤢𞤹𞥇𞤫𞤸𞤫𞤨𞤭𞤺𞤭	gaqʼɛɬɛpigi	noun (G5)	illumination	
 𞤺𞤫𞤩𞤢	gɛɓa	pronoun	3PAU	
 𞤺𞤫𞤹𞥇𞤭𞤺𞤭	gɛqʼigi	noun (G5)	light	
-𞤣𞤫𞤬𞤫𞤳𞤭	dɛθɛki	modifier	spicy	
-𞤯𞤭𞤹𞤫𞤨𞥇𞤢	ɗiqɛpʼa	modifier	dark	
 𞤺𞤭	gi	pronoun	3SG	
 𞤺𞤮𞤥𞤫𞤲𞤢	gomɛna	verb	appear; become visible	
 𞤺𞤮𞤥𞤭𞤲𞤮𞤸𞤫𞤤𞤭𞤺𞤭	gominoɬɛligi	noun (G5)	appearance; visible features	
