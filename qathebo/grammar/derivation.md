@@ -1,5 +1,7 @@
 # Derivation
 
+Nouns, verbs, and modifiers all have words derived from each other using various affixes.  Adverbs, however, do not appear to be involved in any derivational processes.  Below are some of the most common derivational paradigms.  Note that nouns are listed with singular number agreement of the appropriate animacy group as is typical for citation form; in this section it will be separated form the lexical root by a hyphen.
+
 ## Nouns
 
 ### From Nouns
