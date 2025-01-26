@@ -139,15 +139,3 @@ Because the strong emotions are located in the throat, the verbs used to describ
 <p class="freetranslation">"We're happy for you!"</p>
 </div>
 
-### Basic Terms
-
-#### Anger (*pʼatʼonigi*)
-
-#### Shame (*tʼithikigi*)
-
-#### Surprise (*tʼitʼogi*)
-
-#### Happiness (*pagegi*)
-
-#### Sadness (*dʼeqʼigi*)
-
