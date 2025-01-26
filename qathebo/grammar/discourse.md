@@ -116,15 +116,38 @@ It is a cumbersome to use the negated prohibitive in consecutive clauses, so sev
 
 There are two cultural metaphors that guide how emotions are discussed.  Strong, specific emotions are believed to exist in the throat.  These kinds of emotions are temporary and strong enough to affect someone's actions.  In contrast, weaker emotions reside in the sinuses.  These weak emotions are subtle and imprecise, more of a background feeling that is hard to describe.
 
+Because the strong emotions are located in the throat, the verbs used to describe them are *moqʼa* ("swallow") and *tothapa* ("spit").  When the emotions are simply felt but not being expressed or acted upon, the person is said to swallow them as demonstrated in %{+1}%.  However, if the emotions are being expressed through words or actions, it is said that the person is "spitting" the emotions, as seen in %{+2}%.  Note that in this context *moqʼa* and *tothapa* do not carry positive or negative connotations themselves, and are used with all emotions.
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>moqʼ-e-kʼi</dt> <dd>swallow-<abbr>PFV-G5.SG</abbr></dd> </dl>
+<dl> <dt>qane-ta-dʼa-do</dt> <dd>parent-<abbr>G1.SG-NOM-FUT</abbr></dd> </dl>
+<dl> <dt>dʼeqʼi-gi-∅</dt> <dd>sadness-<abbr>G5.SG-ACC</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"My mother will be sad."</p>
+</div>
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>tothap-e-kʼi</dt> <dd>spit-<abbr>PFV-G5.SG</abbr></dd> </dl>
+<dl> <dt>bʼopʼe-dʼe-bʼi</dt> <dd><abbr>1PL-NOM-PRS</abbr></dd> </dl>
+<dl> <dt>qi-mo</dt> <dd><abbr>2SG-ALL</abbr></dd> </dl>
+<dl> <dt>page-gi-∅</dt> <dd>happiness-<abbr>G5.SG-ACC</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"We're happy for you!"</p>
+</div>
+
 ### Basic Terms
 
-#### Anger
+#### Anger (*pʼatʼonigi*)
 
-#### Shame
+#### Shame (*tʼithikigi*)
 
-#### Surprise
+#### Surprise (*tʼitʼogi*)
 
-#### Happiness
+#### Happiness (*pagegi*)
 
-#### Sadness
+#### Sadness (*dʼeqʼigi*)
 

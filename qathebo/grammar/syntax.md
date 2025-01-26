@@ -54,7 +54,7 @@ Personal pronouns usually occur before other Group 1 nouns.  First-person and se
 
 ## Relative Clauses
 
-Relative clauses are predicates that are being used to modify part of another clause (known as the matrix clause).  These predicates contain everything a regular clause would contain, but typically take different tense or aspect marking and appear verb-finally rather than verb-initially.  When affecting the other clause as a whole, they appear before the matrix verb as seen in sentence %{+1}% below.  When affecting a noun, they appear after the matrix noun and begin with a relativizer as seen in sentence %{+2}% below.
+Relative clauses are predicates that are being used to modify part of another clause (known as the matrix clause).  These predicates contain everything a regular clause would contain, but typically take different tense or aspect marking and appear verb-finally rather than verb-initially.  When affecting the other clause as a whole, they appear before the matrix verb as seen in sentence %{+1}% below.  When affecting a noun, they appear after the matrix noun and begin with the relativizer *da* as seen in sentence %{+2}% below.
 
 <div class="gloss">
 <p class="number"></p>
