@@ -145,8 +145,11 @@ The Dative case indicates which noun is receiving something from the verb.  The 
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
-<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
+<dl> <dt>t-e-di</dt> <dd>make-<abbr>PFV-G3.SG</abbr></dd> </dl>
+<dl> <dt>pʼa-ta</dt> <dd><abbr>1SG-DAT</abbr></dd> </dl>
+<dl> <dt>gi-dʼe-mi</dt> <dd><abbr>3SG-NOM-PST</abbr></dd> </dl>
+<dl> <dt>takʼelo-ga-∅</dt> <dd>pot-<abbr>G3.SG-ACC</abbr></dd> </dl>
+<dl> <dt>lothi-go</dt> <dd>this-<abbr>G3.SG</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"She made this pot for me."</p>
 </div>
@@ -154,32 +157,34 @@ The Dative case indicates which noun is receiving something from the verb.  The 
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
-<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
+<dl> <dt>qʼath-o-kʼi</dt> <dd>speak-<abbr>IMP-G5.SG</abbr></dd> </dl>
+<dl> <dt>ge-ta</dt> <dd><abbr>3SG-DAT</abbr></dd> </dl>
+<dl> <dt>qʼameqʼi-gi-tʼo-∅</dt> <dd>story-<abbr>G5.SG-POSS-ACC</abbr></dd> </dl>
+<dl> <dt>qi-tʼi-go</dt> <dd><abbr>2SG-GEN-G5.SG</abbr></dd> </dl>
 </div>
-<p class="freetranslation">"Tell me a story."</p>
+<p class="freetranslation">"Tell him your story."</p>
 </div>
 
 #### Genitive (*-tʼi*)
 
-The Genitive case indicates that the noun is related to another noun in some way.  This could be a form of possession as in %{+1}% below, or .  Unlike other cases, genetive nouns function like [modifiers](#modifiers), appearing after the noun they are related to and taking modifier agreement affixes.
+The Genitive case indicates that the noun is related to another noun in some way.  This could be a form of possession as in %{+1}% below, or simply association like a body part as in %{+2}%.  Unlike other cases, genetive nouns function like [modifiers](#modifiers), appearing after the noun they are related to and taking modifier agreement affixes.
 
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
-<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
+<dl> <dt>tho-ma-tʼo-∅</dt> <dd>cat-<abbr>G2.SG-POSS-ACC</abbr></dd> </dl>
+<dl> <dt>pʼe-tʼi-mo</dt> <dd><abbr>1SG-GEN-G2.SG</abbr></dd> </dl>
 </div>
-<p class="freetranslation">"There was a dog."</p>
+<p class="freetranslation">"my cat"</p>
 </div>
 
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
-<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
+<dl> <dt>hlebʼi-thi-∅</dt> <dd>hand-<abbr>G1.DU-ACC</abbr></dd> </dl>
+<dl> <dt>pʼe-tʼi-tho</dt> <dd><abbr>1SG-GEN-G1.PL</abbr></dd> </dl>
 </div>
-<p class="freetranslation">"There was a dog."</p>
+<p class="freetranslation">"my hands"</p>
 </div>
 
 #### Instrumental (*-gi*)
@@ -905,7 +910,7 @@ The adverb *theni* negates the following verb.  This is often a simple negation,
 
 ### Time
 
-Some adverbs place verbs in context of the broader discourse.  Some simple examples include *dibo* ("before") and *lapo* ("after") which place the affected verb as background context, and which another verb can occur either before or after.
+Some adverbs place verbs in context of the broader discourse.  Some simple examples include *lapo* ("earlier; before") and *deba* ("later; after") which place the affected verb as background context, and which another verb can occur either before or after.
 
 <div class="gloss">
 <p class="number"></p>
@@ -929,7 +934,7 @@ Another temporal adverb is *bʼaqa* ("yet"), which emphasizes that the affected 
 
 ### Purpose
 
-The adverb *kʼahla* ("so that") indicates that the affected verb describes the reason or intention for another verb to happen.  It usually links two independent clauses that might otherwise require one of them to become a relative clause.
+The adverb *kʼahla* ("because; so that") indicates that the affected verb describes the reason or intention for another verb to happen.  It usually links two independent clauses that might otherwise require one of them to become a relative clause.
 
 ## Modifiers
 
