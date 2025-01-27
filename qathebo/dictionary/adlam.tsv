@@ -22,9 +22,18 @@ Adlam	Phonetic	Part of Speech	Definitions	Tags
 𞤥𞤫𞤩𞤢	mɛɓa	pronoun	1PAU	
 𞤥𞤭𞤣𞤮	mido	modifier	good	
 𞤥𞤭𞤣𞤮𞤨𞤭𞤺𞤭	midopigi	noun (G5)	goodness	
+𞤥𞤭𞤼𞤮𞤣𞤢	mitoda	verb	wash	
 𞤥𞤭𞤼𞥇𞤫𞤥𞤢	mitʼɛma	noun (G2)	moon	
 𞤥𞤮𞤣𞤭𞤨𞤫𞤸𞤫𞤨𞤭𞤺𞤭	modipɛɬɛpigi	noun (G5)	improvement	
 𞤥𞤮𞤤𞤭	moli	modifier	many, much	
+𞤥𞤢𞤲𞤫𞤲𞤢𞤹𞤮	manɛnaqo	noun (G4)	school	
+𞤥𞤮𞤲𞤭	moni	modifier	open	
+𞤳𞤭𞤳𞤭𞤨𞥇𞤮	kikipʼo	modifier	tall	
+𞤯𞤢𞤥𞤫𞤹𞥇𞤫𞤹𞤮	ɗamɛqʼɛqo	noun (G4)	nest	
+𞤨𞥇𞤫𞤳𞥇𞤮𞤥𞤢𞤺𞤢	pʼɛkʼomaga	noun (G3)	bush	
+𞤳𞥇𞤢𞤳𞥇𞤢	kʼakʼa	verb	close	
+𞤸𞤮𞤼𞤭𞤺𞤫𞤺𞤢	ɬotigɛga	noun (G3)	door	
+𞤣𞤭𞤣𞤫𞤥𞤢	didɛma	verb	be careful	
 𞤥𞤮𞤹𞥇𞤢	moqʼa	verb	swallow; feel	
 𞤥𞤮𞤹𞥇𞤢𞤩𞤢	moqʼaɓa	verb	emotional copula	
 𞤥𞤮𞤹𞥇𞤢𞤼𞤢	moqʼata	noun (G1/G2)	throat	
@@ -80,6 +89,7 @@ Adlam	Phonetic	Part of Speech	Definitions	Tags
 𞤩𞤭𞤼𞤮𞤺𞤭	ɓitogi	noun (G5)	day	
 𞤩𞤮𞤨𞥇𞤭	ɓopʼi	pronoun	1PL	
 𞤩𞤮𞤯𞤭	ɓoɗi	number	eight	
+𞤩𞤮𞤹𞥇𞤭𞤯𞤮𞤺𞤢	ɓoqʼiɗoga	noun (G3)	scarf	
 𞤬𞤢𞤤𞤮𞤺𞤭	θalogi	noun (G5)	love	
 𞤬𞤢𞤨𞤢	θapa	verb	hit	
 𞤬𞤫𞤨𞤭𞤳𞤫𞤺𞤢	θɛpikɛga	noun (G3)	a blow	
@@ -165,6 +175,7 @@ Adlam	Phonetic	Part of Speech	Definitions	Tags
 𞤹𞥇𞤢𞤥𞤫𞤹𞥇𞤭𞤺𞤭	qʼamɛqʼigi	noun (G5)	story	
 𞤹𞥇𞤢𞤬𞤢	qʼaθa	verb	speak	
 𞤹𞥇𞤢𞤬𞤫𞤩𞤮𞤺𞤭	qʼaθɛɓogi	noun (G5)	language	
+𞤹𞥇𞤢𞤳𞤫𞤦𞤢𞤼𞤢	qʼakɛbata	noun (G1)	grandparent	
 𞤹𞥇𞤫𞤨𞤢𞤲𞤢	qʼɛpana	verb	steal; take	
 𞤹𞥇𞤫𞤩𞤢	qʼɛɓa	number	nine	
 𞤹𞥇𞤫𞤯𞤫𞤨𞥇𞤮	qʼɛɗɛpʼo	modifier	divine; sacred	
@@ -188,10 +199,11 @@ Adlam	Phonetic	Part of Speech	Definitions	Tags
 𞤺𞤮𞤥𞤭𞤲𞤮𞤸𞤫𞤤𞤭𞤺𞤭	gominoɬɛligi	noun (G5)	appearance; visible features	
 𞤺𞤮𞤬𞤢𞤸𞤢𞤨𞥇𞤮𞤺𞤭	goθaɬapʼogi	noun (G5)	flood	
 𞤺𞤮𞤲𞤢	gona	modifier	still, calm	
+𞤩𞤢𞤲𞤫𞤲𞤮𞤼𞤢	ɓanɛnota	noun (G1)	potter	
 𞤺𞤮𞤲𞤫𞤨𞤭𞤺𞤭	gonɛpigi	noun (G5)	calmness	
 𞤺𞤮𞤹𞤭	goqi	number	five	
 𞤺𞤮𞤺𞤭	gogi	pronoun	3PL	
-𞤼𞤢	ta	verb	throw (pottery)	
+𞤼𞤢	ta	verb	make pottery	
 𞤼𞤢𞤳𞥇𞤫𞤤𞤮𞤺𞤢	takʼɛloga	noun (G3)	clay pot	
 𞤼𞤢𞤳𞥇𞤮	takʼo	adverb	thus; marks the affected verb as the result of another event	
 𞤼𞤢𞤸𞤢𞤹𞤫𞤺𞤢	taɬaqɛga	noun (G3)	book	
@@ -206,17 +218,14 @@ Adlam	Phonetic	Part of Speech	Definitions	Tags
 𞤼𞤭𞤺𞤮𞤹𞥇𞤭𞤺𞤭	tigoqʼigi	noun (G5)	wisdom	
 𞤼𞤮𞤬𞤢𞤨𞤢	toθapa	verb	spit	
 𞤼𞤮𞤲𞤢	tona	verb	drink	
+𞤼𞤮𞤳𞤫𞤺𞤢	tokɛga	verb	find	
 𞤼𞥇𞤢𞤹𞤢	tʼaqa	verb	wear (clothing)	
 𞤼𞥇𞤢𞤹𞤫𞤥𞤢	tʼaqɛma	noun (G2)	road/path	
 𞤼𞥇𞤢𞤹𞤫𞤯𞤢	tʼaqɛɗa	verb	write	
 𞤼𞥇𞤢𞤼𞤢𞤥𞤢	tʼatama	noun (G2)	snow	
-𞤼𞥇𞤫𞤳𞥇𞤮𞤩𞤢	tʼɛkʼoɓa	verb	sleep	
-𞤥𞤭𞤼𞤮𞤣𞤢	mitoda	verb	wash	
-𞤼𞤮𞤳𞤫𞤺𞤢	tokɛga	verb	find	
-𞤩𞤮𞤹𞥇𞤭𞤯𞤮𞤺𞤢	ɓoqʼiɗoga	noun (G3)	scarf	
-𞤹𞥇𞤢𞤳𞤫𞤦𞤢𞤼𞤢	qʼakɛbata	noun (G1)	grandparent	
 𞤼𞥇𞤫𞤬𞤢𞤩𞤢	tʼɛθaɓa	verb	locational copula	
 𞤼𞥇𞤫𞤬𞤢𞤼𞤢	tʼɛθata	noun (G1/G2)	foot	
+𞤼𞥇𞤫𞤳𞥇𞤮𞤩𞤢	tʼɛkʼoɓa	verb	sleep	
 𞤼𞥇𞤫𞤹𞤭𞤯𞤫𞤯𞤢𞤼𞤢	tʼɛqiɗɛɗata	noun (G1)	writer	
 𞤼𞥇𞤭𞤬𞤭𞤳𞤭𞤺𞤭	tʼiθikigi	noun (G5)	shame	
 𞤼𞥇𞤭𞤺𞤭𞤼𞥇𞤫𞤺𞤢	tʼigitʼɛga	noun (G3)	a creative work	

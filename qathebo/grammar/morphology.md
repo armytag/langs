@@ -739,7 +739,7 @@ The imperative aspect is used for commands or urgent statements to the listener.
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>aa</dt> <dd>be.careful<abbr>-IMP</abbr></dd> </dl>
+<dl> <dt>didim-o</dt> <dd>be.careful<abbr>-IMP</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"Be careful!"</p>
 </div>
@@ -747,12 +747,12 @@ The imperative aspect is used for commands or urgent statements to the listener.
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>bb</dt> <dd>close<abbr>-IMP</abbr></dd> </dl>
-<dl> <dt>aa</dt> <dd>door<abbr>-G3.SG-ACC</abbr></dd> </dl>
+<dl> <dt>kʼakʼ-o-di</dt> <dd>close<abbr>-IMP-G3.SG</abbr></dd> </dl>
+<dl> <dt>hlotigi-ga-∅</dt> <dd>door<abbr>-G3.SG-ACC</abbr></dd> </dl>
 <dl> <dt>kʼahla</dt> <dd>so.that</dd> </dl>
 <dl> <dt>theni</dt> <dd><abbr>NEG</abbr></dd> </dl>
-<dl> <dt>ee</dt> <dd>outside-go-<abbr>IND</abbr></dd> </dl>
-<dl> <dt>ff</dt> <dd>cat-<abbr>G2.SG-NOM-PRS</abbr></dd> </dl>
+<dl> <dt>dʼobʼatal-a</dt> <dd>outside-go-<abbr>PFV</abbr></dd> </dl>
+<dl> <dt>tho-ma-dʼe-bʼi</dt> <dd>cat-<abbr>G2.SG-NOM-PRS</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"Close the door before the cat gets out!"</p>
 </div>
@@ -760,10 +760,10 @@ The imperative aspect is used for commands or urgent statements to the listener.
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>aa</dt> <dd>get<abbr>-IMP</abbr></dd> </dl>
-<dl> <dt>bb</dt> <dd><abbr>2PL-NOM-PRS</abbr></dd> </dl>
-<dl> <dt>cc</dt> <dd><abbr>1SG-DAT</abbr></dd> </dl>
-<dl> <dt>dd</dt> <dd>bush<abbr>-G3.SG-ACC</abbr></dd> </dl>
+<dl> <dt>tekʼeq-o-di</dt> <dd>carry<abbr>-IMP-G3.SG</abbr></dd> </dl>
+<dl> <dt>thoqe-dʼe-bʼi</dt> <dd><abbr>2PL-NOM-PRS</abbr></dd> </dl>
+<dl> <dt>pʼa-mo</dt> <dd><abbr>1SG-ALL</abbr></dd> </dl>
+<dl> <dt>pʼekʼoma-ga-∅</dt> <dd>bush<abbr>-G3.SG-ACC</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"Bring me a shrubbery."</p>
 </div>
@@ -787,11 +787,11 @@ Transitive verbs are marked for the animacy group, person, and number of the dir
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>aa</dt> <dd>hit<abbr>-PFV-G2.PL</abbr></dd> </dl>
-<dl> <dt>bb</dt> <dd><abbr>1SG-NOM-PST</abbr></dd> </dl>
-<dl> <dt>cc</dt> <dd>and-bird-<abbr>G2.SG-ACC</abbr></dd> </dl>
-<dl> <dt>dd</dt> <dd>and-nest<abbr>-G4.SG-POSS-ACC</abbr></dd> </dl>
-<dl> <dt>ee</dt> <dd><abbr>G2.SG-GEN</abbr></dd> </dl>
+<dl> <dt>thap-a-mo</dt> <dd>hit<abbr>-PFV-G2.PL</abbr></dd> </dl>
+<dl> <dt>pʼa-dʼe-mi</dt> <dd><abbr>1SG-NOM-PST</abbr></dd> </dl>
+<dl> <dt>kilo-ma-∅</dt> <dd>bird-<abbr>G2.SG-ACC</abbr></dd> </dl>
+<dl> <dt>dʼameqʼe-qe-tʼo-∅</dt> <dd>nest<abbr>-G4.SG-POSS-ACC</abbr></dd> </dl>
+<dl> <dt>kade-me-tʼi-qo</dt> <dd>that-<abbr>G2.SG-GEN-G4.SG</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"I hit the bird and its nest with the stone."</p>
 </div>
@@ -836,7 +836,7 @@ There are several verbs in Qʼathebʼo that perform the functions of English "be
 <div class="interlinear">
 <dl> <dt>qʼoqebʼ-a</dt> <dd>property.COP<abbr>-PFV</abbr></dd> </dl>
 <dl> <dt>qona-dʼe-bʼi</dt> <dd><abbr>2DU-NOM-PRS</abbr></dd> </dl>
-<dl> <dt>aa-qʼa</dt> <dd>tall<abbr>-ESS</abbr></dd> </dl>
+<dl> <dt>kikipʼo-qʼa</dt> <dd>tall<abbr>-ESS</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"You two are tall."</p>
 </div>
@@ -846,7 +846,7 @@ There are several verbs in Qʼathebʼo that perform the functions of English "be
 <div class="interlinear">
 <dl> <dt>qʼoqibʼ-i</dt> <dd>property.COP<abbr>-IPFV</abbr></dd> </dl>
 <dl> <dt>kome-ga-dʼa-bʼi</dt> <dd>window<abbr>-G3.SG-NOM-PRS</abbr></dd> </dl>
-<dl> <dt>aa-qʼa</dt> <dd>open<abbr>-ESS</abbr></dd> </dl>
+<dl> <dt>moni-qʼa</dt> <dd>open<abbr>-ESS</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"The window is open."</p>
 </div>
@@ -858,7 +858,7 @@ There are several verbs in Qʼathebʼo that perform the functions of English "be
 <div class="interlinear">
 <dl> <dt>moqʼabʼ-a</dt> <dd>emotion.COP<abbr>-PFV</abbr></dd> </dl>
 <dl> <dt>pʼa-dʼe-mi</dt> <dd><abbr>1SG-NOM-PST</abbr></dd> </dl>
-<dl> <dt>aa-ge-qʼa</dt> <dd>anger<abbr>-G5.SG-ESS</abbr></dd> </dl>
+<dl> <dt>pʼatʼoni-ge-qʼa</dt> <dd>anger<abbr>-G5.SG-ESS</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"I was angry."</p>
 </div>
@@ -870,7 +870,7 @@ There are several verbs in Qʼathebʼo that perform the functions of English "be
 <div class="interlinear">
 <dl> <dt>tʼethabʼ-a</dt> <dd>location.COP<abbr>-PFV</abbr></dd> </dl>
 <dl> <dt>mebʼa-dʼa-do</dt> <dd><abbr>1PAU-NOM-FUT</abbr></dd> </dl>
-<dl> <dt>aa-qe-to</dt> <dd>school<abbr>-G4.SG-LOC</abbr></dd> </dl>
+<dl> <dt>manena-qe-to</dt> <dd>school<abbr>-G4.SG-LOC</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"We will be at school."</p>
 </div>
@@ -882,7 +882,7 @@ There are several verbs in Qʼathebʼo that perform the functions of English "be
 <div class="interlinear">
 <dl> <dt>notebʼ-i</dt> <dd>equivalence.COP<abbr>-IPFV</abbr></dd> </dl>
 <dl> <dt>pʼa-dʼe-bʼi</dt> <dd><abbr>1SG-NOM-PRS</abbr></dd> </dl>
-<dl> <dt>aa-ta-qʼo</dt> <dd>potter<abbr>-G1.SG-ESS</abbr></dd> </dl>
+<dl> <dt>bʼaneno-ta-qʼo</dt> <dd>potter<abbr>-G1.SG-ESS</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"I am a potter."</p>
 </div>
