@@ -194,28 +194,11 @@ The Instrumental case indicates which noun is used to perform the verb.  This co
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
-<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
+<dl> <dt>thap-e-pi</dt> <dd>hit<abbr>-PFV-1SG</abbr></dd> </dl>
+<dl> <dt>gi-dʼe-bʼi</dt> <dd><abbr>3SG-NOM-PRS</abbr></dd> </dl>
+<dl> <dt>qaqʼo-me-gi</dt> <dd>fish-<abbr>G2.SG-INST</abbr></dd> </dl>
 </div>
-<p class="freetranslation">"There was a dog."</p>
-</div>
-
-<div class="gloss">
-<p class="number"></p>
-<div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
-<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
-</div>
-<p class="freetranslation">"There was a dog."</p>
-</div>
-
-<div class="gloss">
-<p class="number"></p>
-<div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
-<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
-</div>
-<p class="freetranslation">"There was a dog."</p>
+<p class="freetranslation">"He hit me with a fish."</p>
 </div>
 
 When used with a temporal noun, it indicates that the predicate occurs *throughout* the instrumental time period as seen in %{+1}% below.
@@ -223,10 +206,12 @@ When used with a temporal noun, it indicates that the predicate occurs *througho
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
-<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
+<dl> <dt>moqʼ-i-kʼi</dt> <dd>swallow<abbr>-IPFV-G5.SG</abbr></dd> </dl>
+<dl> <dt>ge-dʼa-qʼo</dt> <dd><abbr>3SG-NOM-REM.PST</abbr></dd> </dl>
+<dl> <dt>page-gi-∅</dt> <dd>happiness-<abbr>G5.SG-ACC</abbr></dd> </dl>
+<dl> <dt>tethe-gi-gi</dt> <dd>year-<abbr>G5.SG-INST</abbr></dd> </dl>
 </div>
-<p class="freetranslation">"There was a dog."</p>
+<p class="freetranslation">"He was happy throughout the year."</p>
 </div>
 
 When a stative noun like a feeling or emotion is put in the instrumental case, it highlights the state as a *cause or contributor* to the verb occuring, as seen in %{+1}% below.
@@ -234,10 +219,11 @@ When a stative noun like a feeling or emotion is put in the instrumental case, i
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
-<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
+<dl> <dt>thap-e-pi</dt> <dd>hit<abbr>-PFV-1SG</abbr></dd> </dl>
+<dl> <dt>gi-dʼe-bʼi</dt> <dd><abbr>3SG-NOM-PRS</abbr></dd> </dl>
+<dl> <dt>pʼatʼoni-gi-gi</dt> <dd>anger-<abbr>G5.SG-INST</abbr></dd> </dl>
 </div>
-<p class="freetranslation">"There was a dog."</p>
+<p class="freetranslation">"He hit me out of anger."</p>
 </div>
 
 #### Locative (*-to*)
@@ -527,7 +513,7 @@ Still, even if they remained homeless for the entire time afterward, they would 
 
 #### Relative Tense
 
-Within dependant clauses the past and remote-past merge into a single tense, leaving three tense distinctions: present (*-na*), future (*-ta*), and past (*-pʼi*).  The point of reference for these relative tenses is not the moment of speech, but rather the time of the event in the matrix predicate.
+Within dependant clauses the past and remote-past merge into a single tense, leaving three tense distinctions: **present** (*-na*), **future** (*-ta*), and **past** (*-pʼi*).  The point of reference for these relative tenses is not the moment of speech, but rather the time of the event in the matrix predicate.
 
 ## Pronouns
 
