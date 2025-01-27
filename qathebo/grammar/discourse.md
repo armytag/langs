@@ -22,6 +22,10 @@ A verb with prohibitive mood inherently conveys that the listener should not und
 <p class="number"></p>
 <div class="interlinear">
 <dl> <dt>theni</dt> <dd><abbr>NEG</abbr></dd> </dl>
+<dl> <dt>tʼethabʼ-opi</dt> <dd>location.<abbr>COP-PROH</abbr></dd> </dl>
+<dl> <dt>ɗoɓata-qe-to</dt> <dd>outside-<abbr>G4.SG-LOC</abbr></dd> </dl>
+<dl> <dt>dʼedʼobe-gi-mo</dt> <dd>late-<abbr>G5.SG-ALL</abbr></dd> </dl>
+<dl> <dt>moli-go</dt> <dd>much-<abbr>G5.SG</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"Don't stay out too late."</p>
 </div>
@@ -64,16 +68,16 @@ A common use of the optative request is ordering something in a store or restaur
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>aa-bb-obʼi</dt> <dd>water-drink<abbr>-OPT</abbr></dd> </dl>
+<dl> <dt>hlape-ten-obʼi</dt> <dd>water-drink<abbr>-OPT</abbr></dd> </dl>
 <dl> <dt>pʼa-dʼe-bʼi</dt> <dd><abbr>1SG-NOM-PRS</abbr></dd> </dl>
 </div>
-<p class="freetranslation">"Can I have some water?"</p>
+<p class="freetranslation">"Can I have some water?" (lit. "I hope to drink water")</p>
 </div>
 
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>aa-obʼi-lo</dt> <dd>buy<abbr>-OPT-G3.PL</abbr></dd> </dl>
+<dl> <dt>gabʼahl-obʼi-lo</dt> <dd>buy<abbr>-OPT-G3.PL</abbr></dd> </dl>
 <dl> <dt>bʼabʼo-dʼe-bʼi</dt> <dd><abbr>1DU-NOM-PRS</abbr></dd> </dl>
 <dl> <dt>dʼotha-la-∅</dt> <dd>rose<abbr>-G3.PL-ACC</abbr></dd> </dl>
 <dl> <dt>batha-lo</dt> <dd>ten<abbr>-G3.PL</abbr></dd> </dl>
@@ -89,23 +93,23 @@ Another way of forming a request is to negate a verb in the prohibitive mood.  T
 <p class="number"></p>
 <div class="interlinear">
 <dl> <dt>theni</dt> <dd><abbr>NEG</abbr></dd> </dl>
-<dl> <dt>aa-opi-di</dt> <dd>carry<abbr>-PROH-G3.SG</abbr></dd> </dl>
+<dl> <dt>tekʼeq-opi-di</dt> <dd>carry<abbr>-PROH-G3.SG</abbr></dd> </dl>
 <dl> <dt>pʼa-mo</dt> <dd><abbr>1SG-ALL</abbr></dd> </dl>
-<dl> <dt>aa-ga-∅</dt> <dd>book<abbr>-G3.SG-ACC</abbr></dd> </dl>
+<dl> <dt>tahlaqe-ga-∅</dt> <dd>book<abbr>-G3.SG-ACC</abbr></dd> </dl>
 <dl> <dt>kedi-go</dt> <dd>that<abbr>-G3.SG</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"Pass me that book."</p>
 </div>
 
-It is a cumbersome to use the negated prohibitive in consecutive clauses, so several related requests might start with a negated prohibitive to set the tone then switch to optative requests for subsequent statements, as demonstrated in %{+1}% below.  Note that the implied subject of the prohibitive remains implicit into the second clause.
+It is cumbersome to use the negated prohibitive in consecutive clauses, so several related requests might start with a negated prohibitive to set the tone then switch to optative requests for subsequent statements, as demonstrated in %{+1}% below.  Note that the implied subject of the prohibitive remains implicit into the second clause.
 
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
 <dl> <dt>theni</dt> <dd><abbr>NEG</abbr></dd> </dl>
-<dl> <dt>aa-bb-opa,</dt> <dd>chair-sit<abbr>-PROH</abbr></dd> </dl>
-<dl> <dt>aa-obʼi</dt> <dd>emotion<abbr>.COP-OPT</abbr></dd> </dl>
-<dl> <dt>aa</dt> <dd>relaxed</dd> </dl>
+<dl> <dt>ɬodʼedi-kʼ-opa,</dt> <dd>chair-sit<abbr>-PROH</abbr></dd> </dl>
+<dl> <dt>qʼoqibʼ-obʼi</dt> <dd>property<abbr>.COP-OPT</abbr></dd> </dl>
+<dl> <dt>bʼekʼapʼo-qʼa</dt> <dd>relaxed-ESS</dd> </dl>
 </div>
 <p class="freetranslation">"Have a seat, make yourself comfortable."</p>
 </div>

@@ -93,8 +93,11 @@ Adlam	Phonetic	Part of Speech	Definitions	Tags
 𞤬𞤮𞤸𞤢	θoɬa	modifier	quiet	
 𞤬𞤮𞤹𞤭	θoqi	pronoun	2PL	
 𞤯𞤢	ɗa	verb	make	
+𞤯𞤫𞤯𞤮𞤦𞤫𞤺𞤭	ɗɛɗobɛgi	noun (G5)	a late time of day	
 𞤯𞤫𞤸𞤫𞤹𞤮	ɗɛɬɛqo	noun (G4)	house	
+𞤯𞤫𞤹𞥇𞤭𞤺𞤭	ɗɛqʼigi	noun (G5)	sadness	
 𞤯𞤭𞤹𞤫𞤨𞥇𞤢	ɗiqɛpʼa	modifier	dark	
+𞤯𞤮𞤩𞤢𞤼𞤢𞤹𞤮	ɗoɓataqo	noun (G4)	outside	
 𞤯𞤮𞤬𞤢𞤺𞤢	ɗoθaga	noun (G3)	rose	
 𞤲𞤢𞤼𞥇𞤢𞤸𞤮	natʼaɬo	modifier	crunchy	
 𞤲𞤢𞤼𞥇𞤢𞤸𞤮𞤸𞤢𞤤𞤢	natʼaɬoɬala	verb	crunch	
@@ -142,12 +145,10 @@ Adlam	Phonetic	Part of Speech	Definitions	Tags
 𞤸𞤫𞤳𞥇𞤮	ɬɛkʼo	adverb	also; additionally	
 𞤸𞤭𞤬𞤫𞤨𞤢𞤼𞥇𞤮𞤳𞤭	ɬiθɛpatʼoki	modifier	suspicious	
 𞤸𞤭𞤬𞤫𞤨𞤫𞤺𞤭	ɬiθɛpɛgi	noun (G5)	doubt	
+𞤸𞤮𞤯𞤢𞤣𞤫𞤺𞤢	ɬoɗadɛga	noun (G3)	chair	
 𞤹𞤢𞤤𞤫𞤼𞤢	qalɛta	noun (G1/G2)	mouth	
 𞤹𞤢𞤲𞤫𞤼𞤢	qanɛta	noun (G1)	parent; mother, father	
 𞤹𞤢𞤹𞥇𞤮𞤥𞤢	qaqʼoma	noun (G2)	fish	
-	tʼiθikigi	noun (G5)	shame	
-	ɗaqʼigi	noun (G5)	sadness	
-	tʼitʼogi	noun (G5)	surprise	
 𞤹𞤢𞤹𞥇𞤮𞤹𞤫𞤬𞤢	qaqʼoqɛθa	verb	catch fish	
 𞤹𞤢𞤹𞥇𞤮𞤹𞤭𞤬𞤫𞤯𞤢𞤼𞤢	qaqʼoqiθɛɗata	noun (G1)	fisherman	
 𞤹𞤢𞤼𞥇𞤫𞤨𞥇𞤮	qatʼɛpʼo	modifier	skillful	
@@ -177,6 +178,7 @@ Adlam	Phonetic	Part of Speech	Definitions	Tags
 𞤹𞥇𞤮𞤹𞤫𞤼𞤢	qʼoqɛta	noun (G1)	face	
 𞤺𞤢𞤣𞤢𞤬𞤢	gadaθa	verb	arrange	
 𞤺𞤢𞤣𞤢𞤬𞤮𞤸𞤫𞤤𞤭𞤺𞤭	gadaθoɬɛligi	noun (G5)	arrangement; grammar	
+𞤺𞤢𞤩𞤢𞤸𞤢	gaɓaɬa	verb	buy	
 𞤺𞤢𞤬𞤮	gaθo	pronoun	3DU	
 𞤺𞤢𞤹𞥇𞤫𞤸𞤫𞤨𞤭𞤺𞤭	gaqʼɛɬɛpigi	noun (G5)	illumination	
 𞤺𞤫𞤩𞤢	gɛɓa	pronoun	3PAU	
@@ -192,15 +194,18 @@ Adlam	Phonetic	Part of Speech	Definitions	Tags
 𞤼𞤢	ta	verb	throw (pottery)	
 𞤼𞤢𞤳𞥇𞤫𞤤𞤮𞤺𞤢	takʼɛloga	noun (G3)	clay pot	
 𞤼𞤢𞤳𞥇𞤮	takʼo	adverb	thus; marks the affected verb as the result of another event	
+𞤼𞤢𞤸𞤢𞤹𞤫𞤺𞤢	taɬaqɛga	noun (G3)	book	
 𞤼𞤫𞤥𞤫𞤤𞤫𞤩𞤮𞤺𞤢	tɛmɛlɛɓoga	noun (G3)	attachment	
 𞤼𞤫𞤥𞤮𞤤𞤢	tɛmola	verb	attach	
 𞤼𞤫𞤬𞤮𞤺𞤢	tɛθoga	noun (G3)	egg	
 𞤼𞤫𞤲𞤢𞤼𞥇𞤮𞤺𞤢	tɛnatʼoga	noun (G3)	honey	
+𞤼𞤫𞤳𞥇𞤮𞤹𞤢	tɛkʼoqa	verb	carry	
 𞤼𞤫𞤹𞤫𞤳𞤮𞤺𞤭	tɛqɛkogi	noun (G5)	success	
 𞤼𞤭𞤳𞤭𞤥𞤮𞤹𞤢𞤹𞤮	tikimoqaqo	noun (G4)	beehive	
 𞤼𞤭𞤺𞤮𞤹𞥇𞤭𞤤𞤫𞤼𞤢	tigoqʼilɛta	noun (G1)	sage	
 𞤼𞤭𞤺𞤮𞤹𞥇𞤭𞤺𞤭	tigoqʼigi	noun (G5)	wisdom	
 𞤼𞤮𞤬𞤢𞤨𞤢	toθapa	verb	spit	
+𞤼𞤮𞤲𞤢	tona	verb	drink	
 𞤼𞥇𞤢𞤹𞤢	tʼaqa	verb	wear (clothing)	
 𞤼𞥇𞤢𞤹𞤫𞤥𞤢	tʼaqɛma	noun (G2)	road/path	
 𞤼𞥇𞤢𞤹𞤫𞤯𞤢	tʼaqɛɗa	verb	write	
@@ -208,4 +213,6 @@ Adlam	Phonetic	Part of Speech	Definitions	Tags
 𞤼𞥇𞤫𞤬𞤢𞤩𞤢	tʼɛθaɓa	verb	locational copula	
 𞤼𞥇𞤫𞤬𞤢𞤼𞤢	tʼɛθata	noun (G1/G2)	foot	
 𞤼𞥇𞤫𞤹𞤭𞤯𞤫𞤯𞤢𞤼𞤢	tʼɛqiɗɛɗata	noun (G1)	writer	
+𞤼𞥇𞤭𞤬𞤭𞤳𞤭𞤺𞤭	tʼiθikigi	noun (G5)	shame	
 𞤼𞥇𞤭𞤺𞤭𞤼𞥇𞤫𞤺𞤢	tʼigitʼɛga	noun (G3)	a creative work	
+𞤼𞥇𞤭𞤼𞥇𞤮𞤺𞤭	tʼitʼogi	noun (G5)	surprise	
