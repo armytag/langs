@@ -145,7 +145,7 @@ The Dative case indicates which noun is receiving something from the verb.  The 
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>t-e-di</dt> <dd>make-<abbr>PFV-G3.SG</abbr></dd> </dl>
+<dl> <dt>t-e-di</dt> <dd>make_pottery-<abbr>PFV-G3.SG</abbr></dd> </dl>
 <dl> <dt>pʼa-ta</dt> <dd><abbr>1SG-DAT</abbr></dd> </dl>
 <dl> <dt>gi-dʼe-mi</dt> <dd><abbr>3SG-NOM-PST</abbr></dd> </dl>
 <dl> <dt>takʼelo-ga-∅</dt> <dd>pot-<abbr>G3.SG-ACC</abbr></dd> </dl>
@@ -228,24 +228,16 @@ When a stative noun like a feeling or emotion is put in the instrumental case, i
 
 #### Locative (*-to*)
 
-The Locative case indicates which noun the verb occurs at or near.  It is broadly used for any noun around which the predicate happens without conveying a sense of motion toward or away from the noun.  Most prepositions require a noun in the locative case, as sentence %{+2}% demonstrates.
+The Locative case indicates which noun the verb occurs at or near.  It is broadly used for any noun around which the predicate happens without conveying a sense of motion toward or away from the noun.
 
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
-<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
+<dl> <dt>qaqʼo-qith-i</dt> <dd>fish-catch-<abbr>IPFV</abbr></dd> </dl>
+<dl> <dt>mebʼa-dʼe-bʼi</dt> <dd><abbr>1PAU-NOM-PRS</abbr></dd> </dl>
+<dl> <dt>qine-ma-to</dt> <dd>river-<abbr>G2.SG-LOC</abbr></dd> </dl>
 </div>
-<p class="freetranslation">"There was a dog."</p>
-</div>
-
-<div class="gloss">
-<p class="number"></p>
-<div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
-<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
-</div>
-<p class="freetranslation">"There was a dog."</p>
+<p class="freetranslation">"We catch fish at the river."</p>
 </div>
 
 When used with a temporal noun it indicates that the predicate occurs *within* the locative time frame as seen in %{+1}% below.  Similarly, when used with a stative noun it indicates that the predicate occurs *while* the locative state was in effect as seen in %{+2}% below.
@@ -253,19 +245,21 @@ When used with a temporal noun it indicates that the predicate occurs *within* t
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
-<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
+<dl> <dt>t-a</dt> <dd>make_pottery<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>pʼa-dʼe-bʼi</dt> <dd><abbr>1SG-NOM-PRS</abbr></dd> </dl>
+<dl> <dt>dʼedʼobʼe-gi-to</dt> <dd>evening<abbr>-G5.SG-LOC</abbr></dd> </dl>
 </div>
-<p class="freetranslation">"There was a dog."</p>
+<p class="freetranslation">"I make pottery in the evening."</p>
 </div>
 
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
-<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
+<dl> <dt>nip-i</dt> <dd>live<abbr>-IPFV</abbr></dd> </dl>
+<dl> <dt>tho-me-dʼe-bʼi</dt> <dd>cat<abbr>-G2.PL-NOM-PRS</abbr></dd> </dl>
+<dl> <dt>bʼekʼe-gi-to</dt> <dd>leisure<abbr>-G5.SG-LOC</abbr></dd> </dl>
 </div>
-<p class="freetranslation">"There was a dog."</p>
+<p class="freetranslation">"Cats live in leisure."</p>
 </div>
 
 #### Allative (*-mo*)
@@ -275,40 +269,14 @@ The Allative case indicates which noun the verb occurs toward.  Unlike the Locat
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
-<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
+<dl> <dt>neqʼ-a</dt> <dd>walk<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>pʼa-dʼa-na</dt> <dd><abbr>1SG-NOM-FUT</abbr></dd> </dl>
+<dl> <dt>manena-qe-mo</dt> <dd>school-<abbr>G4.SG-ALL</abbr></dd> </dl>
 </div>
-<p class="freetranslation">"There was a dog."</p>
-</div>
-
-<div class="gloss">
-<p class="number"></p>
-<div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
-<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
-</div>
-<p class="freetranslation">"There was a dog."</p>
+<p class="freetranslation">"I will walk to school."</p>
 </div>
 
-When used with a temporal or stative noun, it indicates that the predicate occurs *until* the allative time or state is reached, as in %{+1}% and %{+2}% respectively.
-
-<div class="gloss">
-<p class="number"></p>
-<div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
-<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
-</div>
-<p class="freetranslation">"There was a dog."</p>
-</div>
-
-<div class="gloss">
-<p class="number"></p>
-<div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
-<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
-</div>
-<p class="freetranslation">"There was a dog."</p>
-</div>
+When used with a temporal or stative noun, it indicates that the predicate occurs *until* the allative time or state is reached.
 
 #### Ablative (*-di*)
 
@@ -317,84 +285,43 @@ The Ablative case indicates which noun the verb occurs away from.  Unlike the Lo
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
-<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
+<dl> <dt>mog-a</dt> <dd>shine<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>bʼeno-me-di</dt> <dd>sun-<abbr>G2.SG-ABL</abbr></dd> </dl>
+<dl> <dt>gaqʼe-ta-dʼe-mi</dt> <dd>light-<abbr>G5.PL-NOM-PRS</abbr></dd> </dl>
 </div>
-<p class="freetranslation">"There was a dog."</p>
-</div>
-
-<div class="gloss">
-<p class="number"></p>
-<div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
-<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
-</div>
-<p class="freetranslation">"There was a dog."</p>
+<p class="freetranslation">"Light shines from the sun."</p>
 </div>
 
-When used with temporal or stative nouns it indicates that the predicate has occured *since* the ablative time or state, as seen in %{+1}% and %{+2}% respectively.
+When used with temporal or stative nouns it indicates that the predicate has occured *since* the ablative time or state.
 
 #### Essive (*-qʼa*)
 
-The Essive inidicates which noun the nominative subject is equivalent to or existing as while the verb occurs.  On its own an essive noun typically reflects something which only situationally describes the nominative subject but might not be something fundamental to them, as %{+1}% and %{+2}% demonstrate.
+The Essive inidicates which noun the nominative subject is equivalent to or existing as while the verb occurs.  On its own an essive noun typically reflects something which only situationally describes the nominative subject but might not be something fundamental to them.
 
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
-<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
+<dl> <dt>tʼeq-i</dt> <dd>wear-<abbr>IPFV</abbr></dd> </dl>
+<dl> <dt>goge-dʼe-bʼi</dt> <dd><abbr>3PL-NOM-PRS</abbr></dd> </dl>
+<dl> <dt>thito-la-∅</dt> <dd>vines-<abbr>-G3.PL-ACC</abbr></dd> </dl>
+<dl> <dt>kʼoqahlo-la-qʼa</dt> <dd>clothing-<abbr>-G3.PL-ESS</abbr></dd> </dl>
 </div>
-<p class="freetranslation">"There was a dog."</p>
+<p class="freetranslation">"They wear vines as clothes."</p>
 </div>
+
+However, when used with [one of the copulae](#copulae) it can convey true or lasting equivalence as in %{+1}% below.
 
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
-<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
+<dl> <dt>notebʼ-i</dt> <dd>equivalence<abbr>.COP-IPFV</abbr></dd> </dl>
+<dl> <dt>lothe-ma-dʼe-bʼi</dt> <dd>that-<abbr>G2.SG-NOM-PRS</abbr></dd> </dl>
+<dl> <dt>kobe-ma-qʼa</dt> <dd>dog-<abbr>G2.SG-ESS</abbr></dd> </dl>
 </div>
-<p class="freetranslation">"There was a dog."</p>
-</div>
-
-However, when used with [one of the copulae](#copulae) it can convey true or lasting equivalence as in %{+1}% and %{+2}% below.
-
-<div class="gloss">
-<p class="number"></p>
-<div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
-<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
-</div>
-<p class="freetranslation">"There was a dog."</p>
-</div>
-
-<div class="gloss">
-<p class="number"></p>
-<div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
-<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
-</div>
-<p class="freetranslation">"There was a dog."</p>
+<p class="freetranslation">"That is a dog."</p>
 </div>
 
 Ultimately the temporary or permanent nature of the essive-nominative equivalence is dependant on the context, and periphrastic constructions can be used to clarify which sense is intended.
-
-<div class="gloss">
-<p class="number"></p>
-<div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
-<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
-</div>
-<p class="freetranslation">"There was a dog."</p>
-</div>
-
-<div class="gloss">
-<p class="number"></p>
-<div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
-<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
-</div>
-<p class="freetranslation">"There was a dog."</p>
-</div>
 
 ### Tense
 
