@@ -93,9 +93,11 @@ Adlam	Phonetic	Part of Speech	Definitions	Tags
 𞤬𞤮𞤸𞤢	θoɬa	modifier	quiet	
 𞤬𞤮𞤹𞤭	θoqi	pronoun	2PL	
 𞤯𞤢	ɗa	verb	make	
+𞤯𞤫𞤯𞤮𞤦𞤫𞤺𞤭	ɗɛɗobɛgi	noun (G5)	a late time of day	
 𞤯𞤫𞤸𞤫𞤹𞤮	ɗɛɬɛqo	noun (G4)	house	
 𞤯𞤫𞤹𞥇𞤭𞤺𞤭	ɗɛqʼigi	noun (G5)	sadness	
 𞤯𞤭𞤹𞤫𞤨𞥇𞤢	ɗiqɛpʼa	modifier	dark	
+𞤯𞤮𞤩𞤢𞤼𞤢𞤹𞤮	ɗoɓataqo	noun (G4)	outside	
 𞤯𞤮𞤬𞤢𞤺𞤢	ɗoθaga	noun (G3)	rose	
 𞤲𞤢𞤼𞥇𞤢𞤸𞤮	natʼaɬo	modifier	crunchy	
 𞤲𞤢𞤼𞥇𞤢𞤸𞤮𞤸𞤢𞤤𞤢	natʼaɬoɬala	verb	crunch	
@@ -193,8 +195,6 @@ Adlam	Phonetic	Part of Speech	Definitions	Tags
 𞤼𞤢𞤳𞥇𞤫𞤤𞤮𞤺𞤢	takʼɛloga	noun (G3)	clay pot	
 𞤼𞤢𞤳𞥇𞤮	takʼo	adverb	thus; marks the affected verb as the result of another event	
 𞤼𞤢𞤸𞤢𞤹𞤫𞤺𞤢	taɬaqɛga	noun (G3)	book	
-𞤯𞤮𞤩𞤢𞤼𞤢𞤹𞤮	ɗoɓataqo	noun (G4)	outside	
-𞤯𞤫𞤯𞤮𞤦𞤫𞤺𞤭	ɗɛɗobɛgi	noun (G5)	a late time of day	
 𞤼𞤫𞤥𞤫𞤤𞤫𞤩𞤮𞤺𞤢	tɛmɛlɛɓoga	noun (G3)	attachment	
 𞤼𞤫𞤥𞤮𞤤𞤢	tɛmola	verb	attach	
 𞤼𞤫𞤬𞤮𞤺𞤢	tɛθoga	noun (G3)	egg	
@@ -210,6 +210,11 @@ Adlam	Phonetic	Part of Speech	Definitions	Tags
 𞤼𞥇𞤢𞤹𞤫𞤥𞤢	tʼaqɛma	noun (G2)	road/path	
 𞤼𞥇𞤢𞤹𞤫𞤯𞤢	tʼaqɛɗa	verb	write	
 𞤼𞥇𞤢𞤼𞤢𞤥𞤢	tʼatama	noun (G2)	snow	
+𞤼𞥇𞤫𞤳𞥇𞤮𞤩𞤢	tʼɛkʼoɓa	verb	sleep	
+𞤥𞤭𞤼𞤮𞤣𞤢	mitoda	verb	wash	
+𞤼𞤮𞤳𞤫𞤺𞤢	tokɛga	verb	find	
+𞤩𞤮𞤹𞥇𞤭𞤯𞤮𞤺𞤢	ɓoqʼiɗoga	noun (G3)	scarf	
+𞤹𞥇𞤢𞤳𞤫𞤦𞤢𞤼𞤢	qʼakɛbata	noun (G1)	grandparent	
 𞤼𞥇𞤫𞤬𞤢𞤩𞤢	tʼɛθaɓa	verb	locational copula	
 𞤼𞥇𞤫𞤬𞤢𞤼𞤢	tʼɛθata	noun (G1/G2)	foot	
 𞤼𞥇𞤫𞤹𞤭𞤯𞤫𞤯𞤢𞤼𞤢	tʼɛqiɗɛɗata	noun (G1)	writer	

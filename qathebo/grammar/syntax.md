@@ -7,13 +7,15 @@ Independant clauses follow a somewhat strict word order.  The predicate verb occ
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>aa-bb-cc</dt> <dd><abbr>G1.SG-NOM-REL:FUT</abbr></dd> </dl>
-<dl> <dt>aa</dt> <dd>before</dd> </dl>
-<dl> <dt>aa-bb</dt> <dd>sleep<abbr>-REL</abbr></dd> </dl>
-<dl> <dt>aa-bb-cc</dt> <dd>face-wash<abbr>-PFV</abbr></dd> </dl>
-<dl> <dt>aa-bb-cc</dt> <dd><abbr>G1.SG-NOM-PRS</abbr></dd> </dl>
+<dl> <dt>tekʼoq-a-mo</dt> <dd>carry<abbr>-PFV-G2.PL</abbr></dd> </dl>
+<dl> <dt>mebʼa-dʼa-na</dt> <dd><abbr>1PAU-NOM-FUT</abbr></dd> </dl>
+<dl> <dt>qaqʼo-la-∅</dt> <dd>fish-<abbr>G2.PL-ACC</abbr></dd> </dl>
+<dl> <dt>goqi-lo</dt> <dd>five-<abbr>G2.PL</abbr></dd> </dl>
+<dl> <dt>qine-me-di</dt> <dd>river-<abbr>G2.SG-ABL</abbr></dd> </dl>
+<dl> <dt>dʼehle-qe-tʼe-mo</dt> <dd>house-<abbr>G4.SG-POSS-ALL</abbr></dd> </dl>
+<dl> <dt>qobʼe-tʼi-qo</dt> <dd><abbr>2PAU-GEN-G4.SG</abbr></dd> </dl>
 </div>
-<p class="freetranslation">"Before I would sleep, I wash my face."</p>
+<p class="freetranslation">"We will bring five large fish from the river to your house."</p>
 </div>
 
 Personal pronouns usually occur before other Group 1 nouns.  First-person and second-person pronouns can occur in any order relative to each other, as sentences %{+1}% and %{+2}% demonstrate.  However, third-person pronouns always occur after the other two; sentence %{+3}% would be considered ungrammatical.
@@ -59,11 +61,11 @@ Relative clauses are predicates that are being used to modify part of another cl
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>aa-bb-cc</dt> <dd><abbr>G1.SG-NOM-REL:FUT</abbr></dd> </dl>
-<dl> <dt>aa</dt> <dd>before</dd> </dl>
-<dl> <dt>aa-bb</dt> <dd>sleep<abbr>-REL</abbr></dd> </dl>
-<dl> <dt>aa-bb-cc</dt> <dd>face-wash<abbr>-PFV</abbr></dd> </dl>
-<dl> <dt>aa-bb-cc</dt> <dd><abbr>G1.SG-NOM-PRS</abbr></dd> </dl>
+<dl> <dt>pʼa-dʼa-na</dt> <dd><abbr>G1.SG-NOM-REL:FUT</abbr></dd> </dl>
+<dl> <dt>lapo</dt> <dd>before</dd> </dl>
+<dl> <dt>tʼekʼobʼ-ili</dt> <dd>sleep<abbr>-REL</abbr></dd> </dl>
+<dl> <dt>qʼoqi-mitod-a</dt> <dd>face-wash<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>pʼa-dʼe-bʼi</dt> <dd><abbr>G1.SG-NOM-PRS</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"Before I would sleep, I wash my face."</p>
 </div>
@@ -72,20 +74,18 @@ Relative clauses are predicates that are being used to modify part of another cl
 <p class="number"></p>
 <div class="interlinear">
 <dl> <dt>theni</dt> <dd><abbr>NEG</abbr></dd> </dl>
-<dl> <dt>aa-e-di</dt> <dd>find<abbr>-PFV-G3.SG</abbr></dd> </dl>
+<dl> <dt>tokig-e-di</dt> <dd>find<abbr>-PFV-G3.SG</abbr></dd> </dl>
 <dl> <dt>pʼa-dʼe-bʼi</dt> <dd><abbr>1SG-NOM-PRS</abbr></dd> </dl>
-<dl> <dt>aa-ga-∅</dt> <dd>scarf<abbr>-G3.SG-ACC</abbr></dd> </dl>
-<dl> <dt>aa</dt> <dd><abbr>REL</abbr></dd> </dl>
+<dl> <dt>bʼoqʼidʼo-ga-∅</dt> <dd>scarf<abbr>-G3.SG-ACC</abbr></dd> </dl>
+<dl> <dt>da</dt> <dd><abbr>REL</abbr></dd> </dl>
 <dl> <dt>pʼa-ta</dt> <dd><abbr>1SG-DAT</abbr></dd> </dl>
-<dl> <dt>aa-ta-tʼo-dʼe-pʼi</dt> <dd>grandmother<abbr>-G1.SG-NOM-REL:PST</abbr></dd> </dl>
+<dl> <dt>qʼakeba-ta-tʼo-dʼe-pʼi</dt> <dd>grandmother<abbr>-G1.SG-NOM-REL:PST</abbr></dd> </dl>
 <dl> <dt>pʼe-tʼi</dt> <dd><abbr>1SG-GEN</abbr></dd> </dl>
 <dl> <dt>(kade-ga-∅)</dt> <dd><abbr>(that-G3.SG-ACC)</abbr></dd> </dl>
 <dl> <dt>dʼ-a-di</dt> <dd>make<abbr>-PFV-G3.SG</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"I can't find the scarf my grandmother made for me."</p>
 </div>
-
-
 
 ## Expressing Time
 
