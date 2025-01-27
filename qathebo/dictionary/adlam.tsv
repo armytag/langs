@@ -7,16 +7,21 @@ Adlam	Phonetic	Part of Speech	Definitions	Tags
 𞤣𞤫𞤳𞥇𞤮𞤨𞤭𞤺𞤭	dɛkʼopigi	noun (G5)	largeness	
 𞤣𞤫𞤹𞤮	dɛqo	adverb	moreover; marks the affected verb as reinforcing or expanding on something expressed previously	
 𞤣𞤫𞤼𞥇𞤢	dɛtʼa	verb	die	
+𞤣𞤭𞤣𞤫𞤥𞤢	didɛma	verb	be careful	
 𞤣𞤭𞤼𞥇𞤫𞤲𞤢𞤦𞤢	ditʼɛnaba	verb	cause to die; kill	
 𞤣𞤮𞤦𞤭𞤨𞥇𞤭𞤺𞤭	dobipʼigi	noun (G5)	trust	
 𞤤𞤢	la	verb	go	
 𞤤𞤢𞤨𞤮	lapo	adverb	earlier; marks that the affected verb occurs before something else	
 𞤤𞤫𞤨𞥇𞤭	lɛpʼi	number	seven	
+𞤤𞤫𞤤𞤢	lɛla	verb	fall	
+𞤩𞤭𞤩𞤮𞤯𞤢	ɓiɓoɗa	verb	shower	
+𞤼𞤫𞤬𞤫𞤺𞤭	tɛθɛgi	noun (G5)	year	
 𞤤𞤭𞤨𞥇𞤭𞤥𞤫𞤨𞤢𞤺𞤢𞤼𞤢	lipʼimɛpagata	noun (G1)	a small person	
 𞤤𞤭𞤨𞥇𞤭𞤥𞤭	lipʼimi	modifier	small	
 𞤤𞤮𞤬𞤭	loθi	pronoun	proximate demonstrative	
 𞤥𞤢𞤣𞤮𞤬𞤭𞤼𞥇𞤮𞤤𞤢𞤼𞤢	madoθitʼolata	noun (G1)	great leader	
 𞤥𞤢𞤣𞤮𞤼𞥇𞤭𞤺𞤭𞤼𞥇𞤫𞤺𞤢	madotʼigitʼɛga	noun (G3)	a classic	
+𞤥𞤢𞤲𞤫𞤲𞤢𞤹𞤮	manɛnaqo	noun (G4)	school	
 𞤥𞤢𞤹𞤮	maqo	noun (G4)	tree	
 𞤥𞤫𞤥𞤫𞤩𞤮𞤥𞤢	mɛmɛɓoma	noun (G2)	bee	
 𞤥𞤫𞤩𞤢	mɛɓa	pronoun	1PAU	
@@ -26,20 +31,15 @@ Adlam	Phonetic	Part of Speech	Definitions	Tags
 𞤥𞤭𞤼𞥇𞤫𞤥𞤢	mitʼɛma	noun (G2)	moon	
 𞤥𞤮𞤣𞤭𞤨𞤫𞤸𞤫𞤨𞤭𞤺𞤭	modipɛɬɛpigi	noun (G5)	improvement	
 𞤥𞤮𞤤𞤭	moli	modifier	many, much	
-𞤥𞤢𞤲𞤫𞤲𞤢𞤹𞤮	manɛnaqo	noun (G4)	school	
 𞤥𞤮𞤲𞤭	moni	modifier	open	
-𞤳𞤭𞤳𞤭𞤨𞥇𞤮	kikipʼo	modifier	tall	
-𞤯𞤢𞤥𞤫𞤹𞥇𞤫𞤹𞤮	ɗamɛqʼɛqo	noun (G4)	nest	
-𞤨𞥇𞤫𞤳𞥇𞤮𞤥𞤢𞤺𞤢	pʼɛkʼomaga	noun (G3)	bush	
-𞤳𞥇𞤢𞤳𞥇𞤢	kʼakʼa	verb	close	
-𞤸𞤮𞤼𞤭𞤺𞤫𞤺𞤢	ɬotigɛga	noun (G3)	door	
-𞤣𞤭𞤣𞤫𞤥𞤢	didɛma	verb	be careful	
 𞤥𞤮𞤹𞥇𞤢	moqʼa	verb	swallow; feel	
 𞤥𞤮𞤹𞥇𞤢𞤩𞤢	moqʼaɓa	verb	emotional copula	
 𞤥𞤮𞤹𞥇𞤢𞤼𞤢	moqʼata	noun (G1/G2)	throat	
 𞤥𞤮𞤹𞥇𞤫𞤲𞤢𞤦𞤢	moqʼɛnaba	verb	cause to swallow; cause to feel	
 𞤥𞤮𞤺𞤢	moga	verb	shine	
 𞤦𞤢𞤥𞤢	bama	noun (G2)	squirrel	
+𞤼𞤢𞤨𞥇𞤢	tapʼa	verb	burn	
+𞤲𞤢𞤣𞤢𞤹𞤢𞤺𞤢	nadaqaga	noun (G3)	ash; dust	
 𞤦𞤢𞤬𞤢	baθa	number	ten	
 𞤦𞤫𞤸𞤭𞤺𞤮	bɛɬigo	modifier	ancient	
 𞤦𞤭	bi	pronoun	interrogative pronoun (who, what, where, etc.)	
@@ -64,6 +64,7 @@ Adlam	Phonetic	Part of Speech	Definitions	Tags
 𞤨𞥇𞤢𞤼𞤫𞤺𞤢	pʼatɛga	noun (G3)	breakfast	
 𞤨𞥇𞤢𞤼𞥇𞤮𞤲𞤭𞤨𞥇𞤮	pʼatʼonipʼo	modifier	angry	
 𞤨𞥇𞤢𞤼𞥇𞤮𞤲𞤭𞤺𞤭	pʼatʼonigi	noun (G5)	anger	
+𞤨𞥇𞤫𞤳𞥇𞤮𞤥𞤢𞤺𞤢	pʼɛkʼomaga	noun (G3)	bush	
 𞤨𞥇𞤫𞤹𞥇𞤢𞤼𞥇𞤢	pʼɛqʼatʼa	verb	reach, arrive at	
 𞤨𞥇𞤫𞤼𞤢	pʼɛta	verb	cook (with heat)	
 𞤨𞥇𞤫𞤼𞥇𞤮𞤺𞤢	pʼɛtʼoga	verb	understand	
@@ -75,6 +76,7 @@ Adlam	Phonetic	Part of Speech	Definitions	Tags
 𞤨𞥇𞤮𞤤𞤭𞤲𞤫𞤹𞥇𞤮	pʼolinɛqʼo	modifier	grown	
 𞤩𞤢	ɓa	verb	idly move	
 𞤩𞤢𞤦𞤮	ɓabo	pronoun	1DU	
+𞤩𞤢𞤲𞤫𞤲𞤮𞤼𞤢	ɓanɛnota	noun (G1)	potter	
 𞤩𞤢𞤲𞤮𞤺𞤢	ɓanoga	noun (G3)	clay	
 𞤩𞤢𞤹𞤢	ɓaqa	adverb	yet	
 𞤩𞤢𞤼𞥇𞤢𞤣𞤢𞤼𞤮𞤺𞤭	ɓatʼadatogi	noun (G5)	foolishness	
@@ -103,6 +105,7 @@ Adlam	Phonetic	Part of Speech	Definitions	Tags
 𞤬𞤮𞤸𞤢	θoɬa	modifier	quiet	
 𞤬𞤮𞤹𞤭	θoqi	pronoun	2PL	
 𞤯𞤢	ɗa	verb	make	
+𞤯𞤢𞤥𞤫𞤹𞥇𞤫𞤹𞤮	ɗamɛqʼɛqo	noun (G4)	nest	
 𞤯𞤫𞤯𞤮𞤦𞤫𞤺𞤭	ɗɛɗobɛgi	noun (G5)	a late time of day	
 𞤯𞤫𞤸𞤫𞤹𞤮	ɗɛɬɛqo	noun (G4)	house	
 𞤯𞤫𞤹𞥇𞤭𞤺𞤭	ɗɛqʼigi	noun (G5)	sadness	
@@ -129,12 +132,14 @@ Adlam	Phonetic	Part of Speech	Definitions	Tags
 𞤳𞤭𞤦𞤭𞤳𞥇𞤮𞤺𞤭	kibikʼogi	noun (G5)	idea	
 𞤳𞤭𞤬𞤮𞤼𞤢	kiθota	noun (G1/G2)	head	
 𞤳𞤭𞤯𞤭	kiɗi	adverb	however; marks the affected verb in opposition to a prior predicate	
+𞤳𞤭𞤳𞤭𞤨𞥇𞤮	kikipʼo	modifier	tall	
 𞤳𞤭𞤼𞤭	kiti	number	two	
 𞤳𞤮𞤥𞤫𞤺𞤢	komɛga	noun (G3)	window	
 𞤳𞤮𞤦𞤢𞤺𞤫𞤺𞤢	kobagɛga	noun (G3)	needle; splinter; small thin sharp object	
 𞤳𞤮𞤦𞤫𞤥𞤢	kobɛma	noun (G2)	dog	
 𞤳𞥇𞤢	kʼa	verb	sit	
 𞤳𞥇𞤢𞤨𞤮𞤨𞥇𞤢	kʼapopʼa	verb	desire, wish	
+𞤳𞥇𞤢𞤳𞥇𞤢	kʼakʼa	verb	close	
 𞤳𞥇𞤢𞤸𞤢	kʼaɬa	adverb	because; marks affected verb as purpose behind something else	
 𞤳𞥇𞤫𞤦𞤮𞤤𞤢	kʼɛbola	verb	stab; poke	
 𞤳𞥇𞤫𞤨𞤢𞤤𞤢	kʼɛpala	verb	lie	
@@ -156,6 +161,7 @@ Adlam	Phonetic	Part of Speech	Definitions	Tags
 𞤸𞤭𞤬𞤫𞤨𞤢𞤼𞥇𞤮𞤳𞤭	ɬiθɛpatʼoki	modifier	suspicious	
 𞤸𞤭𞤬𞤫𞤨𞤫𞤺𞤭	ɬiθɛpɛgi	noun (G5)	doubt	
 𞤸𞤮𞤯𞤢𞤣𞤫𞤺𞤢	ɬoɗadɛga	noun (G3)	chair	
+𞤸𞤮𞤼𞤭𞤺𞤫𞤺𞤢	ɬotigɛga	noun (G3)	door	
 𞤹𞤢𞤤𞤫𞤼𞤢	qalɛta	noun (G1/G2)	mouth	
 𞤹𞤢𞤲𞤫𞤼𞤢	qanɛta	noun (G1)	parent; mother, father	
 𞤹𞤢𞤹𞥇𞤮𞤥𞤢	qaqʼoma	noun (G2)	fish	
@@ -199,7 +205,6 @@ Adlam	Phonetic	Part of Speech	Definitions	Tags
 𞤺𞤮𞤥𞤭𞤲𞤮𞤸𞤫𞤤𞤭𞤺𞤭	gominoɬɛligi	noun (G5)	appearance; visible features	
 𞤺𞤮𞤬𞤢𞤸𞤢𞤨𞥇𞤮𞤺𞤭	goθaɬapʼogi	noun (G5)	flood	
 𞤺𞤮𞤲𞤢	gona	modifier	still, calm	
-𞤩𞤢𞤲𞤫𞤲𞤮𞤼𞤢	ɓanɛnota	noun (G1)	potter	
 𞤺𞤮𞤲𞤫𞤨𞤭𞤺𞤭	gonɛpigi	noun (G5)	calmness	
 𞤺𞤮𞤹𞤭	goqi	number	five	
 𞤺𞤮𞤺𞤭	gogi	pronoun	3PL	
@@ -207,6 +212,10 @@ Adlam	Phonetic	Part of Speech	Definitions	Tags
 𞤼𞤢𞤳𞥇𞤫𞤤𞤮𞤺𞤢	takʼɛloga	noun (G3)	clay pot	
 𞤼𞤢𞤳𞥇𞤮	takʼo	adverb	thus; marks the affected verb as the result of another event	
 𞤼𞤢𞤸𞤢𞤹𞤫𞤺𞤢	taɬaqɛga	noun (G3)	book	
+𞤤𞤭𞤺𞤫𞤲𞤢	ligɛna	verb	study	
+𞤨𞥇𞤢𞤨𞤫𞤨𞥇𞤢𞤺𞤢	pʼapɛpʼaga	verb	foodstuffs; groceries	
+𞤲𞤫𞤣𞤮𞤩𞤭𞤼𞤮𞤺𞤭	nɛdoɓitogi	noun (G5)	yesterday	
+𞤨𞤢𞤹𞥇𞤢	paqʼa	verb	see	
 𞤼𞤫𞤥𞤫𞤤𞤫𞤩𞤮𞤺𞤢	tɛmɛlɛɓoga	noun (G3)	attachment	
 𞤼𞤫𞤥𞤮𞤤𞤢	tɛmola	verb	attach	
 𞤼𞤫𞤬𞤮𞤺𞤢	tɛθoga	noun (G3)	egg	

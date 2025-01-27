@@ -433,20 +433,9 @@ Simple clauses make four tense distinctions: present, future, past, and remote p
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>aa</dt> <dd>search-<abbr>IPFV-G1.SG</abbr></dd> </dl>
-<dl> <dt>pʼa-dʼe-bʼi</dt> <dd><abbr>1SG-NOM-PRS</abbr></dd> </dl>
-<dl> <dt>cc</dt> <dd>mother-<abbr>G1.SG-ACC</abbr></dd> </dl>
-<dl> <dt>dd</dt> <dd><abbr>1SG-GEN</abbr></dd> </dl>
-</div>
-<p class="freetranslation">"I'm looking for my mother."</p>
-</div>
-
-<div class="gloss">
-<p class="number"></p>
-<div class="interlinear">
-<dl> <dt>aa</dt> <dd>fall-<abbr>IPFV</abbr></dd> </dl>
-<dl> <dt>bb</dt> <dd>rain-<abbr>G3.PL-NOM-PRS</abbr></dd> </dl>
-<dl> <dt>cc</dt> <dd>outside-<abbr>G4.SG-LOC</abbr></dd> </dl>
+<dl> <dt>lil-i</dt> <dd>fall-<abbr>IPFV</abbr></dd> </dl>
+<dl> <dt>hlatha-me-dʼe-bʼi</dt> <dd>rain-<abbr>G2.PL-NOM-PRS</abbr></dd> </dl>
+<dl> <dt>dʼobʼata-qe-to</dt> <dd>outside-<abbr>G4.SG-LOC</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"It's raining outside."</p>
 </div>
@@ -456,19 +445,18 @@ Events that have just happened or events that are about to happen are typically 
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>aa</dt> <dd>spill-<abbr>PFV-G3.SG</dd> </dl>
-<dl> <dt>aa</dt> <dd><abbr>3SG-NOM-PRS</dd> </dl>
-<dl> <dt>aa</dt> <dd>milk-<abbr>G3.SG-ACC</dd> </dl>
-<dl> <dt>aa</dt> <dd>table-<abbr>G4.SG-LOC</dd> </dl>
+<dl> <dt>hlebi-kʼebol-a-tha</dt> <dd>hand-poke-<abbr>PFV-G4.SG</dd> </dl>
+<dl> <dt>ge-dʼe-bʼi</dt> <dd><abbr>3SG-NOM-PRS</dd> </dl>
+<dl> <dt>tikimoqa-qo-∅</dt> <dd>beehive-<abbr>G4.SG-ACC</dd> </dl>
 </div>
-<p class="freetranslation">"He just spilled milk on the table."</p>
+<p class="freetranslation">"He just poked the beehive."</p>
 </div>
 
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>aa</dt> <dd>shower<abbr>-PFV</abbr></dd> </dl>
-<dl> <dt>aa</dt> <dd><abbr>1SG-NOM-PRS</abbr></dd> </dl>
+<dl> <dt>bʼibʼodʼ-a</dt> <dd>shower<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>pʼa-dʼe-bʼi</dt> <dd><abbr>1SG-NOM-PRS</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"I'm going to take a shower now."</p>
 </div>
@@ -478,21 +466,10 @@ Events that have just happened or events that are about to happen are typically 
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>aa</dt> <dd>eat-<abbr>PFV-G3.PAU</abbr></dd> </dl>
-<dl> <dt>bb</dt> <dd><abbr>1SG-NOM-FUT</abbr></dd> </dl>
-<dl> <dt>cc</dt> <dd>cookie-<abbr>G3.PAU-ACC</abbr></dd> </dl>
-<dl> <dt>cc</dt> <dd>dessert-<abbr>G3.SG-ESS</abbr></dd> </dl>
-</div>
-<p class="freetranslation">"I'll have some cookies for dessert."</p>
-</div>
-
-<div class="gloss">
-<p class="number"></p>
-<div class="interlinear">
-<dl> <dt>aa</dt> <dd>study-<abbr>IPFV</abbr></dd> </dl>
-<dl> <dt>bb</dt> <dd><abbr>3SG-NOM-FUT</abbr></dd> </dl>
-<dl> <dt>cc</dt> <dd>year-<abbr>G5.PL-INS</abbr></dd> </dl>
-<dl> <dt>cc</dt> <dd>three-<abbr>G5.PL</abbr></dd> </dl>
+<dl> <dt>ligin-i</dt> <dd>study-<abbr>IPFV</abbr></dd> </dl>
+<dl> <dt>gi-dʼa-do</dt> <dd><abbr>3SG-NOM-FUT</abbr></dd> </dl>
+<dl> <dt>tetha-te-gi</dt> <dd>year-<abbr>G5.PL-INS</abbr></dd> </dl>
+<dl> <dt>biqe-to</dt> <dd>three-<abbr>G5.PL</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"She will be studying for three years."</p>
 </div>
@@ -502,21 +479,11 @@ Events that have just happened or events that are about to happen are typically 
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>aa</dt> <dd>groceries-buy-<abbr>PFV</abbr></dd> </dl>
-<dl> <dt>bb</dt> <dd><abbr>1DU-NOM-PST</abbr></dd> </dl>
-<dl> <dt>cc</dt> <dd>yesterday-<abbr>G5.SG-LOC</abbr></dd> </dl>
+<dl> <dt>pʼapepʼa-gabʼahl-a</dt> <dd>groceries-buy-<abbr>PFV</abbr></dd> </dl>
+<dl> <dt>bʼabo-dʼe-mi</dt> <dd><abbr>1DU-NOM-PST</abbr></dd> </dl>
+<dl> <dt>nedʼobʼito-gi-to</dt> <dd>yesterday-<abbr>G5.SG-LOC</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"We bought groceries yesterday."</p>
-</div>
-
-<div class="gloss">
-<p class="number"></p>
-<div class="interlinear">
-<dl> <dt>aa</dt> <dd>sleep-<abbr>PFV</abbr></dd> </dl>
-<dl> <dt>bb</dt> <dd><abbr>2SG-NOM-PST</abbr></dd> </dl>
-<dl> <dt>cc</dt> <dd>noon-<abbr>G5.SG-ALL</abbr></dd> </dl>
-</div>
-<p class="freetranslation">"You slept until noon."</p>
 </div>
 
 ***Remote-past*** tense (-*qʼo*) is used to mark events long before to the moment of speech.
@@ -524,22 +491,12 @@ Events that have just happened or events that are about to happen are typically 
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>aa</dt> <dd>see-<abbr>PFV-2SG</abbr></dd> </dl>
-<dl> <dt>bb</dt> <dd><abbr>1SG-NOM-REM</abbr></dd> </dl>
-<dl> <dt>cc</dt> <dd>prior.year-<abbr>G5.SG-LOC</abbr></dd> </dl>
-<dl> <dt>cc</dt> <dd>holiday-<abbr>G5.SG-LOC</abbr></dd> </dl>
+<dl> <dt>paqʼ-e-qʼi</dt> <dd>see-<abbr>PFV-2SG</abbr></dd> </dl>
+<dl> <dt>pʼa-dʼa-qʼo</dt> <dd><abbr>1SG-NOM-REM.PST</abbr></dd> </dl>
+<dl> <dt>nedʼotethe-gi-to</dt> <dd>prior.year-<abbr>G5.SG-LOC</abbr></dd> </dl>
+<dl> <dt>bekʼebʼito-gi-to</dt> <dd>holiday-<abbr>G5.SG-LOC</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"I saw you during the holiday last year"</p>
-</div>
-
-<div class="gloss">
-<p class="number"></p>
-<div class="interlinear">
-<dl> <dt>aa</dt> <dd>fall-<abbr>IPFV</abbr></dd> </dl>
-<dl> <dt>bb</dt> <dd>rain-<abbr>G3.PL-NOM</abbr></dd> </dl>
-<dl> <dt>cc</dt> <dd>outside-<abbr>G4.SG-LOC</abbr></dd> </dl>
-</div>
-<p class="freetranslation">"It's raining outside."</p>
 </div>
 
 The distinction between *past* and *remote-past* involves both length of time and relevance to the present moment.  For example, imagine someone's house burned down and they were left homeless.  If the next day they were asked what happened, they would certainly respond using the *past* tense.
@@ -547,8 +504,9 @@ The distinction between *past* and *remote-past* involves both length of time an
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>aa</dt> <dd>burn_down-<abbr>PFV</abbr></dd> </dl>
-<dl> <dt>bb</dt> <dd>house-<abbr>G4.SG-NOM-PST</abbr></dd> </dl>
+<dl> <dt>nadaqatapʼ-a</dt> <dd>burn_down-<abbr>PFV</abbr></dd> </dl>
+<dl> <dt>dʼehle-qo-dʼe-mi</dt> <dd>house-<abbr>G4.SG-NOM-PST</abbr></dd> </dl>
+<dl> <dt>pʼe-tʼi-qo</dt> <dd><abbr>1SG-GEN-G5.SG</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"My house burned down (recently)."</p>
 </div>
@@ -558,8 +516,9 @@ Even up to several months later they would still likely describe the situation i
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>aa</dt> <dd>burn_down-<abbr>PFV</abbr></dd> </dl>
-<dl> <dt>bb</dt> <dd>house-<abbr>G4.SG-NOM-REM</abbr></dd> </dl>
+<dl> <dt>nadaqatapʼ-a</dt> <dd>burn_down-<abbr>PFV</abbr></dd> </dl>
+<dl> <dt>dʼehle-qo-dʼa-qʼo</dt> <dd>house-<abbr>G4.SG-POSS-NOM-REM.PST</abbr></dd> </dl>
+<dl> <dt>pʼe-tʼi-qo</dt> <dd><abbr>1SG-GEN-G5.SG</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"My house burned down (a while ago)."</p>
 </div>
@@ -687,8 +646,8 @@ There is a general interrogative pronoun *bi* used in most wh-questions.  It is 
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>aa-i</dt> <dd>write<abbr>-IPFV</abbr></dd> </dl>
-<dl> <dt>qe-dʼe-bi</dt> <dd><abbr>2SG-NOM-PRS</abbr></dd> </dl>
+<dl> <dt>tʼeqidʼ-i</dt> <dd>write<abbr>-IPFV</abbr></dd> </dl>
+<dl> <dt>qe-dʼe-bʼi</dt> <dd><abbr>2SG-NOM-PRS</abbr></dd> </dl>
 <dl> <dt>bi-gi</dt> <dd><abbr>Q-INST</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"What are you writing with?"</p>
@@ -697,7 +656,7 @@ There is a general interrogative pronoun *bi* used in most wh-questions.  It is 
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>aa-a</dt> <dd>sit<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>kʼ-a</dt> <dd>sit<abbr>-PFV</abbr></dd> </dl>
 <dl> <dt>bʼabo-dʼe-bi</dt> <dd><abbr>1DU-NOM-PRS</abbr></dd> </dl>
 <dl> <dt>bi-to</dt> <dd><abbr>Q-LOC</abbr></dd> </dl>
 </div>
