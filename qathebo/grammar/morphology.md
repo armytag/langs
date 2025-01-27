@@ -948,7 +948,6 @@ When modifiers are used with verbs, they occur after the verb and before any nou
 
 <div class="gloss">
 <p class="number"></p>
-<p class="original">𞤑𞥇𞤢 𞤬𞤮𞤸𞤢 𞤬𞤮𞤥𞤢𞤯𞤫𞤥𞤭 𞤳𞤮𞤥𞤫𞤯𞤢𞤼𞤮.</p>
 <div class="interlinear">
 <dl> <dt>kʼ-a</dt> <dd>sit-<abbr>PFV</abbr></dd> </dl>
 <dl> <dt>thohla</dt> <dd>quiet</dd> </dl>
@@ -960,7 +959,6 @@ When modifiers are used with verbs, they occur after the verb and before any nou
 
 <div class="gloss">
 <p class="number"></p>
-<p class="original">𞤖𞤫𞤣𞤭 𞤩𞤭𞤼𞤫𞤣𞤫 𞤨𞥇𞤢𞤯𞤫𞤩𞤭 𞤼𞤫𞤬𞤮𞤯𞤢 𞤨𞤢𞤼𞥇𞤫𞤯𞤢𞤹𞥇𞤢.</p>
 <div class="interlinear">
 <dl> <dt>hl-e-di</dt> <dd>eat-<abbr>PFV-G3.SG</abbr></dd> </dl>
 <dl> <dt>bʼitedo</dt> <dd>daily</dd> </dl>
@@ -986,7 +984,6 @@ When modifiers are used with nouns, they occur after the noun and inflect to agr
 
 <div class="gloss">
 <p class="number"></p>
-<p class="original">𞤑𞥇𞤢 𞤬𞤮𞤥𞤢𞤯𞤫𞤥𞤭 𞤬𞤮𞤸𞤢𞤥𞤮 𞤳𞤮𞤥𞤫𞤯𞤢𞤼𞤮.</p>
 <div class="interlinear">
 <dl> <dt>kʼ-a</dt> <dd>sit-<abbr>PFV</abbr></dd> </dl>
 <dl> <dt>tho-ma-dʼe-mi</dt> <dd>cat-<abbr>G2.SG-NOM-PST</abbr></dd> </dl>
@@ -998,7 +995,6 @@ When modifiers are used with nouns, they occur after the noun and inflect to agr
 
 <div class="gloss">
 <p class="number"></p>
-<p class="original">𞤖𞤫𞤣𞤭 𞤨𞥇𞤢𞤯𞤫𞤩𞤭 𞤼𞤫𞤬𞤮𞤯𞤢 𞤨𞤢𞤼𞥇𞤫𞤯𞤢𞤹𞥇𞤢 𞤩𞤭𞤼𞤫𞤣𞤫𞤯𞤮.</p>
 <div class="interlinear">
 <dl> <dt>hl-e-di</dt> <dd>eat-<abbr>PFV-G3.SG</abbr></dd> </dl>
 <dl> <dt>pʼa-dʼe-bʼi</dt> <dd><abbr>1SG-NOM-PRS</abbr></dd> </dl>
@@ -1015,7 +1011,6 @@ Numbers in Qʼathebʼo are modifiers that specify either the number of instances
 
 <div class="gloss">
 <p class="number"></p>
-<p class="original">𞤆𞥇𞤫𞤼𞤢𞤥𞤮 𞤺𞤫𞤯𞤫𞤥𞤭 𞤹𞤢𞤹𞥇𞤮𞤬𞤭 𞤦𞤭𞤹𞤫𞤥𞤮.</p>
 <div class="interlinear">
 <dl> <dt>pʼet-a-mo</dt> <dd>cook-<abbr>PFV-G2.PL</abbr></dd> </dl>
 <dl> <dt>ge-dʼe-mi</dt> <dd><abbr>3SG-NOM-PST</abbr></dd> </dl>
@@ -1027,7 +1022,6 @@ Numbers in Qʼathebʼo are modifiers that specify either the number of instances
 
 <div class="gloss">
 <p class="number"></p>
-<p class="original">𞤂𞤮 𞤯𞤫𞤸𞤫𞤹𞤫𞤥𞤮 𞤹𞤮𞤦𞤭𞤹𞤫𞤹𞤮.</p>
 <div class="interlinear">
 <dl> <dt>l-o</dt> <dd>go<abbr>-IMP</abbr></dd> </dl>
 <dl> <dt>dʼehle-qe-mo</dt> <dd>house<abbr>-G4.SG-ALL</abbr></dd> </dl>
@@ -1038,7 +1032,6 @@ Numbers in Qʼathebʼo are modifiers that specify either the number of instances
 
 <div class="gloss">
 <p class="number"></p>
-<p class="original">𞤐𞤫𞤹𞥇𞤢 𞤦𞤢𞤬𞤢 𞤨𞥇𞤢𞤯𞤫𞤩𞤭 𞤥𞤢𞤼𞤮.</p>
 <div class="interlinear">
 <dl> <dt>neqʼ-a</dt> <dd>walk<abbr>-PFV</abbr></dd> </dl>
 <dl> <dt>batha</dt> <dd>ten</dd> </dl>
