@@ -189,7 +189,7 @@ The Genitive case indicates that the noun is related to another noun in some way
 
 #### Instrumental (*-gi*)
 
-The Instrumental case indicates which noun is used to perform the verb.  This could be a tool as in %{+1}% below, a method as in %{+2}%, or even a collaborator as in %{+3}%.
+The Instrumental case indicates which noun is used to perform the verb.  This could be a tool, a method, or even a collaborator.
 
 <div class="gloss">
 <p class="number"></p>
@@ -462,20 +462,12 @@ There are two demonstrative pronouns in Qʼathebʼo.  One is for referents near 
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>notebʼ-i</dt> <dd>equivalence.COP<abbr>-IPFV</abbr></dd> </dl>
-<dl> <dt>notebʼ-i</dt> <dd>this<abbr>-G1.SG-NOM-PRS</abbr></dd> </dl>
-<dl> <dt>notebʼ-i</dt> <dd>sister<abbr>-G1.SG-ESS</abbr></dd> </dl>
-<dl> <dt>notebʼ-i</dt> <dd><abbr>1SG-GEN</abbr></dd> </dl>
+<dl> <dt>notebʼ-i</dt> <dd>equivalence<abbr>.COP-IPFV</abbr></dd> </dl>
+<dl> <dt>lothe-ta-dʼe-bʼi</dt> <dd>this<abbr>-G1.SG-NOM-PRS</abbr></dd> </dl>
+<dl> <dt>qane-ta-qʼa</dt> <dd>parent<abbr>-G1.SG-ESS</abbr></dd> </dl>
+<dl> <dt>pʼe-tʼi-to</dt> <dd><abbr>1SG-GEN-G1.SG</abbr></dd> </dl>
 </div>
-<p class="freetranslation">"This is my sister."</p>
-</div>
-
-<div class="gloss">
-<p class="number"></p>
-<div class="interlinear">
-<dl> <dt>hl-a-lo</dt> <dd>eat<abbr>-PFV-G3.PL</abbr></dd> </dl>
-</div>
-<p class="freetranslation">"Bring that here."</p>
+<p class="freetranslation">"This is my mother."</p>
 </div>
 
 Like the English demonstratives "this" and "that", the Qʼathebʼo demonstratives can also be used to specify another noun rather than replacing it.  In this case they act like modifiers, appearing after the referent and taking [modifier agreement](#modifying-nouns) rather than number/case marking.
@@ -483,64 +475,28 @@ Like the English demonstratives "this" and "that", the Qʼathebʼo demonstrative
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>hl-a-lo</dt> <dd>eat<abbr>-PFV-G3.PL</abbr></dd> </dl>
+<dl> <dt>l-opa</dt> <dd><abbr>go-PROH</abbr></dd> </dl>
+<dl> <dt>ba-ma-mo</dt> <dd>squirrel-<abbr>G2.SG-ALL</abbr></dd> </dl>
+<dl> <dt>kedi-mo</dt> <dd>that-<abbr>G2.SG</abbr></dd> </dl>
 </div>
-<p class="freetranslation">"Don't go to near that squirrel."</p>
-</div>
-
-<div class="gloss">
-<p class="number"></p>
-<div class="interlinear">
-<dl> <dt>hl-a-lo</dt> <dd>eat<abbr>-PFV-G3.PL</abbr></dd> </dl>
-</div>
-<p class="freetranslation">"You should return this book to the library."</p>
+<p class="freetranslation">"Don't go near that squirrel."</p>
 </div>
 
 ### Reflexive Pronouns
 
-Reflexive pronouns are formed from personal or demonstrative pronouns by prefixing *patʼo-* to the front.  Reflexive pronouns refer to another established noun and are not used by themselves, though they can appear earlier in the same sentence as the referent, as sentence %{+3}% demonstrates.
+Reflexive pronouns are formed from personal or demonstrative pronouns by prefixing *patʼo-* to the front.  Reflexive pronouns refer to another established noun and are not used by themselves, though they can appear earlier in the same sentence as the referent.
 
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>hl-a-lo</dt> <dd>eat<abbr>-PFV-G3.PL</abbr></dd> </dl>
-<dl> <dt>be-ta-dʼe-mi</dt> <dd><abbr>Q-G1.SG-NOM-PST</abbr></dd> </dl>
-<dl> <dt>kebʼi-ki-∅</dt> <dd><abbr>berry-G3.PAU-ACC</abbr></dd> </dl>
+<dl> <dt>danopo-tʼaqedʼ-a</dt> <dd>letter-write<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>qʼedʼotalo-ta-dʼe-mi</dt> <dd>priest-<abbr>G1.SG-NOM-PST</abbr></dd> </dl>
+<dl> <dt>patʼo-ge-ta</dt> <dd>self-<abbr>3SG-DAT</abbr></dd> </dl>
 </div>
-<p class="freetranslation">"Who ate the berries?"</p>
-</div>
-
-<div class="gloss">
-<p class="number"></p>
-<div class="interlinear">
-<dl> <dt>hl-a-lo</dt> <dd>eat<abbr>-PFV-G3.PL</abbr></dd> </dl>
-<dl> <dt>be-ta-dʼe-mi</dt> <dd><abbr>Q-G1.SG-NOM-PST</abbr></dd> </dl>
-<dl> <dt>kebʼi-ki-∅</dt> <dd><abbr>berry-G3.PAU-ACC</abbr></dd> </dl>
-</div>
-<p class="freetranslation">"Who ate the berries?"</p>
+<p class="freetranslation">"The priest wrote a letter to herself."</p>
 </div>
 
-<div class="gloss">
-<p class="number"></p>
-<div class="interlinear">
-<dl> <dt>hl-a-lo</dt> <dd>eat<abbr>-PFV-G3.PL</abbr></dd> </dl>
-<dl> <dt>be-ta-dʼe-mi</dt> <dd><abbr>Q-G1.SG-NOM-PST</abbr></dd> </dl>
-<dl> <dt>kebʼi-ki-∅</dt> <dd><abbr>berry-G3.PAU-ACC</abbr></dd> </dl>
-</div>
-<p class="freetranslation">"Who ate the berries?"</p>
-</div>
-
-Reflexive nouns are frequently [incorporated into verbs](#noun-incorporation) when the subject and object match, as seen in sentence %{+1}% below.
-
-<div class="gloss">
-<p class="number"></p>
-<div class="interlinear">
-<dl> <dt>hl-a-lo</dt> <dd>eat<abbr>-PFV-G3.PL</abbr></dd> </dl>
-<dl> <dt>be-ta-dʼe-mi</dt> <dd><abbr>Q-G1.SG-NOM-PST</abbr></dd> </dl>
-<dl> <dt>kebʼi-ki-∅</dt> <dd><abbr>berry-G3.PAU-ACC</abbr></dd> </dl>
-</div>
-<p class="freetranslation">"Who ate the berries?"</p>
-</div>
+Reflexive nouns are frequently [incorporated into verbs](#noun-incorporation) when the subject and object match.
 
 ### Interrogative Pronouns
 
@@ -782,24 +738,18 @@ The adverb *theni* negates the following verb.  This is often a simple negation,
 
 ### Time
 
-Some adverbs place verbs in context of the broader discourse.  Some simple examples include *lapo* ("earlier; before") and *deba* ("later; after") which place the affected verb as background context, and which another verb can occur either before or after.
+Some adverbs place verbs in context of the broader discourse.  Some simple examples include *lapo* ("earlier") and *deba* ("later") which place the affected verb as background context and places it either before or after another verb, respectively.
 
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
-<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
+<dl> <dt></dt> <dd>breakfast-eat-<abbr>PFV</abbr></dd> </dl>
+<dl> <dt></dt> <dd><abbr>1SG-NOM-PST</abbr></dd> </dl>
+<dl> <dt>deba</dt> <dd>later</dd> </dl>
+<dl> <dt></dt> <dd>go-<abbr>PFV</abbr></dd> </dl>
+<dl> <dt></dt> <dd>school-<abbr>G4.SG-ALL</abbr></dd> </dl>
 </div>
-<p class="freetranslation">"There was a dog."</p>
-</div>
-
-<div class="gloss">
-<p class="number"></p>
-<div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
-<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
-</div>
-<p class="freetranslation">"There was a dog."</p>
+<p class="freetranslation">"I ate breakfast, then went to school." or "I went to school after I ate breakfast."</p>
 </div>
 
 Another temporal adverb is *bʼaqa* ("yet"), which emphasizes that the affected verb continues to reflect the current situation and hasn't changed.  This is described in more detail in the [section on Phasal Polarity](#adverb-bʼaqa).
@@ -807,6 +757,14 @@ Another temporal adverb is *bʼaqa* ("yet"), which emphasizes that the affected 
 ### Purpose
 
 The adverb *kʼahla* ("because; so that") indicates that the affected verb describes the reason or intention for another verb to happen.  It usually links two independent clauses that might otherwise require one of them to become a relative clause.
+
+### Result
+
+The adverb *takʼo* ("thus") indicates that the affected verb is the result of some other predicate.
+
+### Linking Clauses
+
+There are several adverbs that specify the relationship between one predicate to another.  These include *dala* ("rather"), *deqo* ("moreover"), *kidʼi* ("however"), and *hlekʼo* ("also").  They place the affected verb in context of another predicate, usually the predicate that preceded it.
 
 ## Modifiers
 
