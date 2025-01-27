@@ -1,168 +1,42 @@
-# Winter Relay Original
+<h1></h1>
 
-## Fun Stats
+<h2 style="text-align: center">Qʼathebʼo Torch in Adlam Script</h2>
 
-- Received Torch: 84 words 683 characters
-- Interpretation: 139 words 706 characters
-- Written Torch: 111 words 969 characters
+<h2></h2>
 
-## Given Text
+<p class="original">𞤘𞤮𞤲𞤫𞤨𞤭𞤺𞤫𞤯𞤢𞤼𞤢 𞤩𞤢𞤹𞤢 𞤹𞤫𞤨𞥇𞤫𞤩𞤭𞤤𞤭 𞤹𞥇𞤢𞤬𞤢𞤳𞤮 𞤩𞤮𞤨𞥇𞤫𞤯𞤫𞤩𞤭 𞤹𞥇𞤢𞤥𞤢𞤹𞥇𞤫𞤼𞤢.</p>
+<p class="original">𞤂𞤮𞤬𞤫𞤳𞥇𞤢𞤨𞤮𞤨𞥇𞤭 𞤥𞤫𞤥𞤫𞤩𞤮𞤥𞤢𞤯𞤢𞤹𞥇𞤮 𞤩𞤭𞤼𞤮𞤼𞤢𞤼𞤮 𞤦𞤫𞤸𞤭𞤺𞤫𞤼𞤮 𞤹𞥇𞤮𞤹𞤫𞤩𞤢 𞤳𞥇𞤫𞤳𞤢𞤤𞤢𞤯𞤢𞤣𞤮 𞤥𞤮𞤤𞤭𞤤𞤮 𞤥𞤮𞤣𞤭𞤨𞤫𞤸𞤫𞤨𞤭𞤺𞤫𞤹𞥇𞤢.</p>
+<p class="original">𞤃𞤫𞤥𞤫𞤩𞤮𞤥𞤢𞤯𞤢𞤼𞤢 𞤳𞥇𞤢𞤸𞤢 𞤳𞥇𞤫𞤳𞤫𞤯𞤭𞤤𞤭 𞤤𞤢 𞤲𞤫𞤯𞤮 𞤤𞤮𞤬𞤫𞤥𞤢𞤯𞤢𞤹𞥇𞤮 𞤳𞥇𞤫𞤳𞤢𞤤𞤢𞤥𞤮.</p>
+<p class="original">𞤂𞤮𞤬𞤫𞤹𞥇𞤢𞤬𞤢 𞤥𞤫𞤥𞤫𞤩𞤮𞤥𞤢𞤯𞤢𞤹𞥇𞤮 "𞤊𞤭𞤳𞤫𞤹𞥇𞤢 𞤲𞤫𞤯𞤮 𞤨𞥇𞤢𞤯𞤫𞤩𞤭 𞤳𞤭𞤬𞤮𞤹𞤫𞤥𞤮 𞤹𞤫𞤣𞤭𞤥𞤫𞤹𞤮𞤼𞥇𞤭𞤹𞤮 𞤣𞤢 𞤩𞤫𞤲𞤮𞤥𞤢𞤯𞤫𞤨𞥇𞤭 𞤳𞥇𞤭𞤼𞤫𞤹𞤫𞤳𞤮𞤺𞤭𞤼𞤮 𞤬𞤫𞤲𞤭 𞤳𞤫𞤣𞤭𞤨𞥇𞤫𞤹𞥇𞤫𞤼𞥇𞤭𞤤𞤭."</p>
+<p class="original">𞤊𞤫𞤲𞤭 𞤹𞥇𞤮𞤹𞤭𞤩𞤭 𞤩𞤫𞤲𞤮𞤥𞤢𞤯𞤢𞤹𞥇𞤮 𞤹𞤢𞤼𞥇𞤫𞤨𞥇𞤫𞤹𞥇𞤮 𞤼𞤢𞤳𞥇𞤮 𞤥𞤮𞤹𞥇𞤫𞤳𞥇𞤭 𞤨𞤢𞤺𞤫𞤺𞤭. 𞤇𞤫𞤲𞤮𞤥𞤢𞤯𞤢𞤼𞤢 𞤤𞤮𞤬𞤭𞤺𞤭 𞤣𞤢 𞤳𞤢𞤣𞤫𞤥𞤢𞤯𞤢𞤲𞤢 𞤼𞤭𞤳𞤭𞤥𞤮𞤹𞤢𞤹𞤮 𞤹𞥇𞤫𞤨𞤫𞤲𞤭𞤤𞤫𞤬𞤢 𞤨𞤭𞤼𞥇𞤭𞤬𞤭𞤤𞤭𞤳𞥇𞤭 𞤲𞤫𞤳𞤮𞤼𞥇𞤢 𞤥𞤫𞤥𞤫𞤩𞤮𞤥𞤢𞤯𞤢𞤹𞥇𞤮 𞤳𞥇𞤫𞤦𞤮𞤤𞤫𞤲𞤭 𞤳𞤢𞤣𞤫𞤥𞤢 𞤳𞤭𞤯𞤭 𞤹𞥇𞤭𞤩𞤫𞤳𞥇𞤫𞤣𞤭 𞤤𞤮𞤬𞤫𞤥𞤢𞤯𞤢𞤹𞥇𞤮 𞤳𞤮𞤦𞤢𞤺𞤫𞤺𞤢 𞤼𞤢𞤳𞥇𞤮 𞤣𞤫𞤦𞤢 𞤣𞤭𞤼𞥇𞤭𞤤𞤭 𞤤𞤮𞤬𞤫𞤥𞤢𞤯𞤢𞤲𞤢.</p>
+<p class="original">𞤂𞤮𞤬𞤫𞤹𞥇𞤢𞤬𞤢 𞤩𞤫𞤲𞤮𞤥𞤢𞤯𞤢𞤹𞥇𞤮:</p>
+<p class="original">"𞤚𞤮𞤬𞤢𞤨𞤫𞤳𞥇𞤭 𞤨𞥇𞤢𞤯𞤫𞤩𞤭 𞤳𞥇𞤫𞤬𞤢𞤤𞤮𞤺𞤭 𞤹𞤢𞤼𞥇𞤮𞤺𞤭𞤥𞤮 𞤣𞤢 𞤤𞤮𞤬𞤭𞤺𞤫𞤯𞤢𞤼𞤢 𞤳𞥇𞤫𞤨𞤢𞤺𞤫𞤺𞤭𞤺𞤭 𞤨𞥇𞤢𞤥𞤮𞤹𞥇𞤫𞤲𞤫𞤦𞤭𞤤𞤭. 𞤚𞤢𞤳𞥇𞤮 𞤤𞤮𞤬𞤫𞤹𞥇𞤢𞤬𞤢 𞤨𞥇𞤢𞤯𞤫𞤩𞤭 𞤬𞤫𞤲𞤭 𞤳𞤫𞤨𞥇𞤮𞤥𞤭𞤳𞤮 𞤨𞤢𞤼𞥇𞤮𞤨𞥇𞤢𞤯𞤫𞤩𞤭 𞤹𞥇𞤫𞤯𞤫𞤨𞥇𞤫𞤥𞤮 𞤹𞥇𞤢𞤼𞤮𞤼𞤢𞤼𞥇𞤮 𞤹𞤭𞤼𞥇𞤭𞤼𞤮 𞤣𞤫𞤹𞤮 𞤬𞤫𞤲𞤭 𞤹𞤭𞤦𞤮𞤲𞤭𞤺𞤭."</p>
+<p class="original">𞤂𞤮𞤬𞤫𞤹𞥇𞤢𞤬𞤢 𞤥𞤫𞤥𞤫𞤩𞤮𞤥𞤢𞤯𞤢𞤹𞥇𞤮:</p>
+<p class="original">"𞤃𞤮𞤹𞥇𞤫𞤲𞤢𞤦𞤫𞤺𞤭 𞤨𞥇𞤢𞤯𞤫𞤥𞤭 𞤩𞤫𞤲𞤮𞤥𞤢 𞤳𞥇𞤫𞤨𞤢𞤺𞤫𞤺𞤭𞤺𞤭 𞤹𞤢𞤼𞥇𞤮𞤺𞤭𞤺𞤭 𞤳𞤮𞤦𞤢𞤺𞤫𞤺𞤢𞤼𞥇𞤮𞤼𞥇𞤭𞤺𞤮 𞤨𞥇𞤫𞤼𞥇𞤭𞤺𞤮 𞤣𞤢𞤤𞤢 𞤹𞥇𞤫𞤨𞤢𞤲𞤢𞤤𞤮 𞤳𞤢𞤣𞤫𞤥𞤢𞤯𞤫𞤥𞤭 𞤳𞤮𞤦𞤢𞤺𞤫𞤺𞤢 𞤼𞤫𞤲𞤢𞤼𞥇𞤮𞤺𞤢 𞤼𞤢𞤳𞥇𞤮 𞤣𞤫𞤼𞥇𞤢 𞤨𞥇𞤢𞤯𞤫𞤥𞤭 𞤸𞤫𞤳𞥇𞤮 𞤬𞤫𞤲𞤭 𞤹𞤫𞤨𞥇𞤫𞤩𞤭 𞤳𞤫𞤣𞤭𞤳𞤭𞤯𞤫𞤥𞤭. 𞤊𞤫𞤲𞤭 𞤳𞤫𞤣𞤭𞤨𞥇𞤫𞤼𞥇𞤮𞤺𞤭 𞤨𞥇𞤢𞤯𞤫𞤥𞤭 𞤳𞤭𞤯𞤭 𞤥𞤮𞤹𞥇𞤫𞤳𞥇𞤭 𞤨𞥇𞤢𞤯𞤫𞤥𞤭 𞤹𞥇𞤫𞤨𞤫𞤲𞤭𞤳𞤭𞤺𞤭𞤺𞤭 𞤳𞤫𞤣𞤭𞤳𞤭𞤼𞥇𞤫𞤺𞤮 𞤨𞤭𞤨𞤮𞤺𞤭."</p>
 
-<div class="gloss">
-<p>Kɨcyu ʼesɨmɨm ñilasa ndaʼner ndiŋoka:</p>
-<div class="interlinear">
-<dl> <dt>Kɨcyu</dt> <dd>when</dd> </dl>
-<dl> <dt>ʼesɨm-ɨm</dt> <dd>tide-<abbr>PL</abbr></dd> </dl>
-<dl> <dt>ñi-lasa</dt> <dd><abbr>INAN</abbr>-calm</dd> </dl>
-<dl> <dt>ndaʼ-ner </dt> <dd><abbr>1.PL</abbr>-tell</dd> </dl>
-<dl> <dt>ndiŋo-ka</dt> <dd>story-<abbr>PL</abbr></dd> </dl>
-</div>
-<p class="freetranslation">When the tides calm we tell stories:</p>
-</div>
+<h1></h1>
 
-<div class="gloss">
-<p>Ndundunduvol ndekas tɨreŋenja-ŋgɨ elaʼ ɨtɨka ñinuy atut.</p>
-<div class="interlinear">
-<dl> <dt>Ndu-ndu-nduvol</dt> <dd>RDP-RDP-time</dd> </dl>
-<dl> <dt>ndekas</dt> <dd>Bee</dd> </dl>
-<dl> <dt>tɨr-eŋenja-ŋgɨ</dt> <dd><abbr>INAN-</abbr>wish<abbr>-PST</abbr></dd> </dl>
-<dl> <dt>elaʼ</dt> <dd>many</dd> </dl>
-<dl> <dt>ɨtɨ-ka</dt> <dd>thing<abbr>-PL</abbr></dd> </dl>
-<dl> <dt>ñi-nuy</dt> <dd><abbr>INAN-</abbr>become</dd> </dl>
-<dl> <dt>atut</dt> <dd>good</dd> </dl>
-</div>
-<p class="freetranslation">A long time ago, Bee wished many things would get better.</p>
-</div>
+<h2 style="text-align: center">Qʼathebʼo Torch in Roman Script</h2>
 
-<div class="gloss">
-<p>Njo yukararanje ŋaytɨrceʼaraŋɨ masa tɨrɨtɨ.</p>
-<div class="interlinear">
-<dl> <dt>Njo</dt> <dd>because</dd> </dl>
-<dl> <dt>yu-kararanje</dt> <dd><abbr>3SG.POSS</abbr>-work</dd> </dl>
-<dl> <dt>ŋay-tɨr-ceʼar-aŋɨ</dt> <dd>upward-<abbr>3SG</abbr>-ascend-<abbr>PST</abbr></dd> </dl>
-<dl> <dt>masa</dt> <dd>to</dd> </dl>
-<dl> <dt>tɨr-ɨtɨ</dt> <dd><abbr>3SG</abbr>-thing</dd> </dl>
-</div>
-<p class="freetranslation">Because of his work he ascended up toward him-thing.</p>
-</div>
+<h2></h2>
 
-<div class="gloss">
-<p>Ndekas tɨrneraŋɨ ŋaymbuvonjaʼ masa pal cet cu tɨreŋgorɨ-ŋgɨ-le alerukɨt ñelayay Orɨm.</p>
-<div class="interlinear">
-<dl> <dt>Ndekas</dt> <dd>Bee</dd> </dl>
-<dl> <dt>tɨr-ner-aŋɨ</dt> <dd><abbr>3SG</abbr>-say-<abbr>PST</abbr></dd> </dl>
-<dl> <dt>ŋay-mbu-vonjaʼ</dt> <dd>upward-<abbr>1SG</abbr>-fly</dd> </dl>
-<dl> <dt>masa</dt> <dd>to</dd> </dl>
-<dl> <dt>pal</dt> <dd>mountain</dd> </dl>
-<dl> <dt>cet</dt> <dd>top</dd> </dl>
-<dl> <dt>cu</dt> <dd>but</dd> </dl>
-<dl> <dt>tɨr-eŋgorɨ-ŋgɨ-le</dt> <dd><abbr>1SG</abbr>-succeed-<abbr>PST-NEG</abbr></dd> </dl>
-<dl> <dt>alerukɨt</dt> <dd><abbr>COMP</abbr></dd> </dl>
-<dl> <dt>ñ-elay-ay</dt> <dd><abbr>INAN</abbr>-carry-<abbr>INF</abbr></dd> </dl>
-<dl> <dt>Orɨm</dt> <dd>Sun</dd> </dl>
-</div>
-<p class="freetranslation">Bee said "I'll fly up to Sun that even the mountain top fails to carry."</p>
-</div>
+<p class="qathebo">Gonepigedʼata bʼaqa qepʼebʼili qʼathako bʼopʼedʼebʼi qʼamaqʼeta.</p>
 
-<div class="gloss">
-<p>Orɨm tɨrxuruñaŋɨle xexka.</p>
-<div class="interlinear">
-<dl> <dt>Orɨm</dt> <dd>Sun</dd> </dl>
-<dl> <dt>tɨr-xuru-ñ-aŋɨ-le</dt> <dd><abbr>3SG</abbr>-take-<abbr>INAN-PST-NEG</abbr></dd> </dl>
-<dl> <dt>xex-ka</dt> <dd>gift-<abbr>PL</abbr></dd> </dl>
-</div>
-<p class="freetranslation">Sun didn’t take gifts.</p>
-</div>
+<p class="qathebo">Lothekʼapopʼi memebʼomadʼaqʼo bʼitotato behligeto qʼoqebʼa kʼekaladʼado molilo modipehlepigeqʼa.</p>
 
-<div class="gloss">
-<p>Se masa Orɨm tɨrcanjaŋgɨle mbuɨxɨmbañaŋɨ ñivemboŋgɨ ruxo yo mbulalasiyñaŋɨ rukɨtɨ ndekas ñivutluŋgɨ cu ivutoñ ñivemboŋgɨ ñilonjoreye voŋɨnde.</p>
-<div class="interlinear">
-<dl> <dt>Se</dt> <dd>this</dd> </dl>
-<dl> <dt>masa</dt> <dd>to</dd> </dl>
-<dl> <dt>Orɨm</dt> <dd>Sun</dd> </dl>
-<dl> <dt>tɨr-canja-ŋgɨ-le</dt> <dd><abbr>3SG</abbr>-happy-<abbr>PST-NEG</abbr></dd> </dl>
-<dl> <dt>mbu-ɨxɨmba-ñ-aŋɨ</dt> <dd><abbr>1SG</abbr>-vow-<abbr>INAN-PST</abbr></dd> </dl>
-<dl> <dt>ñi-vembo-ŋgɨ</dt> <dd><abbr>INAN</abbr>-steal-<abbr>PST</abbr></dd> </dl>
-<dl> <dt>ruxo</dt> <dd>beehive</dd> </dl>
-<dl> <dt>yo</dt> <dd>and</dd> </dl>
-<dl> <dt>mbu-lalasiy-ñ-aŋɨ</dt> <dd><abbr>1SG</abbr>-enter-<abbr>INAN-PST</abbr></dd> </dl>
-<dl> <dt>rukɨtɨ</dt> <dd><abbr>IPFV.LOC.COND.CVB</abbr></dd> </dl>
-<dl> <dt>ndekas</dt> <dd>Bee</dd> </dl>
-<dl> <dt>ñi-vutlu-ŋgɨ</dt> <dd><abbr>INAN</abbr>-sting-<abbr>PST</abbr></dd> </dl>
-<dl> <dt>cu</dt> <dd>but</dd> </dl>
-<dl> <dt>ivut-oñ</dt> <dd>sting-<abbr>NMZ</abbr></dd> </dl>
-<dl> <dt>ñi-vembo-ŋgɨ</dt> <dd><abbr>INAN</abbr>-steal-<abbr>PST</abbr></dd> </dl>
-<dl> <dt>ñi-lonjor-eye</dt> <dd><abbr>INAN</abbr>-die-<abbr>NPST</abbr></dd> </dl>
-<dl> <dt>voŋɨ-nde</dt> <dd>for<abbr>-2SG</abbr></dd> </dl>
-</div>
-<p class="freetranslation">Sun wasn't happy about this, and he vowed ... and will cause you to die.</p>
-</div>
+<p class="qathebo">Memebʼomadʼata kʼahla kʼekedʼili la nedʼo lothemadʼaqʼo kʼekalamo.</p>
 
-<div class="gloss">
-<p>Orɨm tɨrneraŋɨ:</p>
-<div class="interlinear">
-<dl> <dt>Orɨm</dt> <dd>Sun</dd> </dl>
-<dl> <dt>tɨr-ner-aŋɨ</dt> <dd><abbr>3SG</abbr>-say-<abbr>PST</abbr></dd> </dl>
-</div>
-<p class="freetranslation">Sun said:</p>
-</div>
+<p class="qathebo">Lotheqʼatha memebʼomadʼaqʼo "Thikeqʼa nedʼo pʼadʼebʼi kithoqemo qedimeqotʼiqo da bʼenomadʼepʼi kʼiteqekogito theni kedipʼeqʼetʼili."</p>
 
-<div class="gloss">
-<p>"Se xex ñimbitelairele mbuacɨnderele cu mbunereye se rendañu supa mbuparilñye tuxexka cu otiʼndenja"</p>
-<div class="interlinear">
-<dl> <dt>se</dt> <dd>this</dd> </dl>
-<dl> <dt>xex</dt> <dd>gift</dd> </dl>
-<dl> <dt>ñi-mbite-lai-re-le</dt> <dd><abbr>INAN</abbr>-please-<abbr>1SG-NPST-NEG</abbr></dd> </dl>
-<dl> <dt>mbu-acɨ-nde-re-le</dt> <dd><abbr>1SG</abbr>-love-<abbr>2SG-NPST-NEG</abbr></dd> </dl>
-<dl> <dt>cu</dt> <dd>but</dd> </dl>
-<dl> <dt>mbu-ner-eye</dt> <dd><abbr>1SG</abbr>-say-<abbr>NPST</abbr></dd> </dl>
-<dl> <dt>se</dt> <dd>this</dd> </dl>
-<dl> <dt>re-ndañu</dt> <dd><abbr>1SG.POSS</abbr>-sacred</dd> </dl>
-<dl> <dt>supa</dt> <dd>face/presence</dd> </dl>
-<dl> <dt>mbu-paril-ñ-ye</dt> <dd><abbr>1SG</abbr>-need-<abbr>INAN-NEG</abbr></dd> </dl>
-<dl> <dt>tu-xex-ka</dt> <dd><abbr>2SG.POSS</abbr>-gift-<abbr>PL</abbr></dd> </dl>
-<dl> <dt>cu</dt> <dd>but</dd> </dl>
-<dl> <dt>otiʼ-nde-nja</dt> <dd>see-<abbr>2SG-INF</abbr></dd> </dl>
-</div>
-<p class="freetranslation">"This gift doesn’t please me.  I won't love you, but rather I will say that my sacred presence doesn’t need your gifts or even to acknowledge you."</p>
-</div>
+<p class="qathebo">Theni qʼoqibʼi bʼenomadʼaqʼo qatʼepʼeqʼo takʼo moqʼekʼi pagegi. Bʼenomadʼata lothigi da kademadʼana tikimoqaqo qʼepeniletha pitʼithilikʼi nekotʼa memebʼomadʼaqʼo kʼeboleni kadema kidʼi qʼibʼekʼedi lothemadʼaqʼo kobagega takʼo deba ditʼili lothemadʼana.</p>
 
-<div class="gloss">
-<p>Ndekas tɨrneraŋɨ:</p>
-<div class="interlinear">
-<dl> <dt>Ndekas</dt> <dd>Bee</dd> </dl>
-<dl> <dt>tɨr-ner-aŋɨ</dt> <dd><abbr>3SG</abbr>-say-<abbr>PST</abbr></dd> </dl>
-</div>
-<p class="freetranslation">Bee said:</p>
-</div>
+<p class="qathebo">Lotheqʼatha bʼenomadʼaqʼo:</p>
 
-<div class="gloss">
-<p>"Mbumbitembaiʼaŋɨle Orɨm yuxex ŋgo ivutoñmo cu tɨrvemboñaŋɨ lurus tɨrxuruñaŋɨ ivutoñmo tirya mbulonjoraŋɨ yo eñot ŋgeslonjoraŋɨ mbuŋgurñye cu elaʼ ŋgessayambolai."</p>
-<div class="interlinear">
-<dl> <dt>Mbu-mbite-mbaiʼ-aŋɨ-le</dt> <dd><abbr>1SG</abbr>-please-<abbr>3SG-PST-NEG</abbr></dd> </dl>
-<dl> <dt>Orɨm</dt> <dd>Sun</dd> </dl>
-<dl> <dt>yu-xex</dt> <dd><abbr>3SG.POSS</abbr>-gift</dd> </dl>
-<dl> <dt>ŋgo</dt> <dd><abbr>COM_GEN_DAT</abbr></dd> </dl>
-<dl> <dt>ivut-oñmo</dt> <dd>sting-<abbr>NMZ</abbr></dd> </dl>
-<dl> <dt>cu</dt> <dd>but</dd> </dl>
-<dl> <dt>tɨr-vembo-ñ-aŋɨ</dt> <dd><abbr>3SG</abbr>-steal-<abbr>INAN-PST</abbr></dd> </dl>
-<dl> <dt>lurus</dt> <dd>honey</dd> </dl>
-<dl> <dt>tɨr-xuru-ñ-aŋɨ</dt> <dd><abbr>3SG</abbr>-take-<abbr>INAN-PST</abbr></dd> </dl>
-<dl> <dt>ivut-oñmo</dt> <dd>sting-<abbr>NMZ</abbr></dd> </dl>
-<dl> <dt>tirya</dt> <dd>thus</dd> </dl>
-<dl> <dt>mbu-lonjor-aŋɨ</dt> <dd><abbr>1SG</abbr>-die-<abbr>PST</abbr></dd> </dl>
-<dl> <dt>yo</dt> <dd>and</dd> </dl>
-<dl> <dt>eñot</dt> <dd>also</dd> </dl>
-<dl> <dt>ŋges-lonjor-aŋɨ</dt> <dd><abbr>23PL</abbr>-die-<abbr>PST</abbr></dd> </dl>
-<dl> <dt>mbu-ŋgur-ñ-ye</dt> <dd><abbr>1SG</abbr>-understand-<abbr>INAN-NEG</abbr></dd> </dl>
-<dl> <dt>cu</dt> <dd>but</dd> </dl>
-<dl> <dt>elaʼ</dt> <dd>much</dd> </dl>
-<dl> <dt>ŋges-sayambo-lai</dt> <dd><abbr>23PL</abbr>-hurt-<abbr>1SG</abbr></dd> </dl>
-</div>
-<p class="freetranslation">"I didn't please Sun with his gift of a stinger, rather he stole honey and took the stinger, thus I died and they disappeared as well.  I don’t understand it but they hurt me a lot."</p>
-</div>
+<p class="qathebo">"Tothapekʼi pʼadʼebʼi kʼethalogi qatʼogimo da lothigedʼata kʼepagegigi pʼamoqʼenebili. Takʼo lotheqʼatha pʼadʼebʼi theni kepʼomiko patʼopʼadʼebʼi qʼedʼepʼemo qʼatotatʼo qitʼito deqo theni qibonigi."</p>
 
-## Interpretation
+<p class="qathebo">Lotheqʼatha memebʼomadʼaqʼo:</p>
+
+<p class="qathebo">"Moqʼenabegi pʼadʼemi bʼenoma kʼepagegigi qatʼogigi kobagegatʼotʼigo pʼetʼigo dala qʼepanalo kademadʼemi kobagega tenatʼoga takʼo detʼa pʼadʼemi hlekʼo theni qepʼebʼi kedikidʼemi. Theni kedipʼetʼogi pʼadʼemi kidʼi moqʼekʼi pʼadʼemi qʼepenikigigi kedikitʼego pipogi."</p>
 
 <h1></h1>
 
@@ -374,42 +248,3 @@ Bee said:
 <p class="freetranslation">"I didn't please Sun with my gift of a stinger, rather he stole honey and took the stinger, thus I died and they disappeared as well.  I don’t understand it but their theft hurt me a lot."</p>
 </div>
 
-<h1></h1>
-
-<h2 style="text-align: center">Qʼathebʼo Torch in Adlam Script</h2>
-
-<h2></h2>
-
-<p class="original">𞤘𞤮𞤲𞤫𞤨𞤭𞤺𞤫𞤯𞤢𞤼𞤢 𞤩𞤢𞤹𞤢 𞤹𞤫𞤨𞥇𞤫𞤩𞤭𞤤𞤭 𞤹𞥇𞤢𞤬𞤢𞤳𞤮 𞤩𞤮𞤨𞥇𞤫𞤯𞤫𞤩𞤭 𞤹𞥇𞤢𞤥𞤢𞤹𞥇𞤫𞤼𞤢.</p>
-<p class="original">𞤂𞤮𞤬𞤫𞤳𞥇𞤢𞤨𞤮𞤨𞥇𞤭 𞤥𞤫𞤥𞤫𞤩𞤮𞤥𞤢𞤯𞤢𞤹𞥇𞤮 𞤩𞤭𞤼𞤮𞤼𞤢𞤼𞤮 𞤦𞤫𞤸𞤭𞤺𞤫𞤼𞤮 𞤹𞥇𞤮𞤹𞤫𞤩𞤢 𞤳𞥇𞤫𞤳𞤢𞤤𞤢𞤯𞤢𞤣𞤮 𞤥𞤮𞤤𞤭𞤤𞤮 𞤥𞤮𞤣𞤭𞤨𞤫𞤸𞤫𞤨𞤭𞤺𞤫𞤹𞥇𞤢.</p>
-<p class="original">𞤃𞤫𞤥𞤫𞤩𞤮𞤥𞤢𞤯𞤢𞤼𞤢 𞤳𞥇𞤢𞤸𞤢 𞤳𞥇𞤫𞤳𞤫𞤯𞤭𞤤𞤭 𞤤𞤢 𞤲𞤫𞤯𞤮 𞤤𞤮𞤬𞤫𞤥𞤢𞤯𞤢𞤹𞥇𞤮 𞤳𞥇𞤫𞤳𞤢𞤤𞤢𞤥𞤮.</p>
-<p class="original">𞤂𞤮𞤬𞤫𞤹𞥇𞤢𞤬𞤢 𞤥𞤫𞤥𞤫𞤩𞤮𞤥𞤢𞤯𞤢𞤹𞥇𞤮 "𞤊𞤭𞤳𞤫𞤹𞥇𞤢 𞤲𞤫𞤯𞤮 𞤨𞥇𞤢𞤯𞤫𞤩𞤭 𞤳𞤭𞤬𞤮𞤹𞤫𞤥𞤮 𞤹𞤫𞤣𞤭𞤥𞤫𞤹𞤮𞤼𞥇𞤭𞤹𞤮 𞤣𞤢 𞤩𞤫𞤲𞤮𞤥𞤢𞤯𞤫𞤨𞥇𞤭 𞤳𞥇𞤭𞤼𞤫𞤹𞤫𞤳𞤮𞤺𞤭𞤼𞤮 𞤬𞤫𞤲𞤭 𞤳𞤫𞤣𞤭𞤨𞥇𞤫𞤹𞥇𞤫𞤼𞥇𞤭𞤤𞤭."</p>
-<p class="original">𞤊𞤫𞤲𞤭 𞤹𞥇𞤮𞤹𞤭𞤩𞤭 𞤩𞤫𞤲𞤮𞤥𞤢𞤯𞤢𞤹𞥇𞤮 𞤹𞤢𞤼𞥇𞤫𞤨𞥇𞤫𞤹𞥇𞤮 𞤼𞤢𞤳𞥇𞤮 𞤥𞤮𞤹𞥇𞤫𞤳𞥇𞤭 𞤨𞤢𞤺𞤫𞤺𞤭. 𞤇𞤫𞤲𞤮𞤥𞤢𞤯𞤢𞤼𞤢 𞤤𞤮𞤬𞤭𞤺𞤭 𞤣𞤢 𞤳𞤢𞤣𞤫𞤥𞤢𞤯𞤢𞤲𞤢 𞤼𞤭𞤳𞤭𞤥𞤮𞤹𞤢𞤹𞤮 𞤹𞥇𞤫𞤨𞤫𞤲𞤭𞤤𞤫𞤬𞤢 𞤨𞤭𞤼𞥇𞤭𞤬𞤭𞤤𞤭𞤳𞥇𞤭 𞤲𞤫𞤳𞤮𞤼𞥇𞤢 𞤥𞤫𞤥𞤫𞤩𞤮𞤥𞤢𞤯𞤢𞤹𞥇𞤮 𞤳𞥇𞤫𞤦𞤮𞤤𞤫𞤲𞤭 𞤳𞤢𞤣𞤫𞤥𞤢 𞤳𞤭𞤯𞤭 𞤹𞥇𞤭𞤩𞤫𞤳𞥇𞤫𞤣𞤭 𞤤𞤮𞤬𞤫𞤥𞤢𞤯𞤢𞤹𞥇𞤮 𞤳𞤮𞤦𞤢𞤺𞤫𞤺𞤢 𞤼𞤢𞤳𞥇𞤮 𞤣𞤫𞤦𞤢 𞤣𞤭𞤼𞥇𞤭𞤤𞤭 𞤤𞤮𞤬𞤫𞤥𞤢𞤯𞤢𞤲𞤢.</p>
-<p class="original">𞤂𞤮𞤬𞤫𞤹𞥇𞤢𞤬𞤢 𞤩𞤫𞤲𞤮𞤥𞤢𞤯𞤢𞤹𞥇𞤮:</p>
-<p class="original">"𞤚𞤮𞤬𞤢𞤨𞤫𞤳𞥇𞤭 𞤨𞥇𞤢𞤯𞤫𞤩𞤭 𞤳𞥇𞤫𞤬𞤢𞤤𞤮𞤺𞤭 𞤹𞤢𞤼𞥇𞤮𞤺𞤭𞤥𞤮 𞤣𞤢 𞤤𞤮𞤬𞤭𞤺𞤫𞤯𞤢𞤼𞤢 𞤳𞥇𞤫𞤨𞤢𞤺𞤫𞤺𞤭𞤺𞤭 𞤨𞥇𞤢𞤥𞤮𞤹𞥇𞤫𞤲𞤫𞤦𞤭𞤤𞤭. 𞤚𞤢𞤳𞥇𞤮 𞤤𞤮𞤬𞤫𞤹𞥇𞤢𞤬𞤢 𞤨𞥇𞤢𞤯𞤫𞤩𞤭 𞤬𞤫𞤲𞤭 𞤳𞤫𞤨𞥇𞤮𞤥𞤭𞤳𞤮 𞤨𞤢𞤼𞥇𞤮𞤨𞥇𞤢𞤯𞤫𞤩𞤭 𞤹𞥇𞤫𞤯𞤫𞤨𞥇𞤫𞤥𞤮 𞤹𞥇𞤢𞤼𞤮𞤼𞤢𞤼𞥇𞤮 𞤹𞤭𞤼𞥇𞤭𞤼𞤮 𞤣𞤫𞤹𞤮 𞤬𞤫𞤲𞤭 𞤹𞤭𞤦𞤮𞤲𞤭𞤺𞤭."</p>
-<p class="original">𞤂𞤮𞤬𞤫𞤹𞥇𞤢𞤬𞤢 𞤥𞤫𞤥𞤫𞤩𞤮𞤥𞤢𞤯𞤢𞤹𞥇𞤮:</p>
-<p class="original">"𞤃𞤮𞤹𞥇𞤫𞤲𞤢𞤦𞤫𞤺𞤭 𞤨𞥇𞤢𞤯𞤫𞤥𞤭 𞤩𞤫𞤲𞤮𞤥𞤢 𞤳𞥇𞤫𞤨𞤢𞤺𞤫𞤺𞤭𞤺𞤭 𞤹𞤢𞤼𞥇𞤮𞤺𞤭𞤺𞤭 𞤳𞤮𞤦𞤢𞤺𞤫𞤺𞤢𞤼𞥇𞤮𞤼𞥇𞤭𞤺𞤮 𞤨𞥇𞤫𞤼𞥇𞤭𞤺𞤮 𞤣𞤢𞤤𞤢 𞤹𞥇𞤫𞤨𞤢𞤲𞤢𞤤𞤮 𞤳𞤢𞤣𞤫𞤥𞤢𞤯𞤫𞤥𞤭 𞤳𞤮𞤦𞤢𞤺𞤫𞤺𞤢 𞤼𞤫𞤲𞤢𞤼𞥇𞤮𞤺𞤢 𞤼𞤢𞤳𞥇𞤮 𞤣𞤫𞤼𞥇𞤢 𞤨𞥇𞤢𞤯𞤫𞤥𞤭 𞤸𞤫𞤳𞥇𞤮 𞤬𞤫𞤲𞤭 𞤹𞤫𞤨𞥇𞤫𞤩𞤭 𞤳𞤫𞤣𞤭𞤳𞤭𞤯𞤫𞤥𞤭. 𞤊𞤫𞤲𞤭 𞤳𞤫𞤣𞤭𞤨𞥇𞤫𞤼𞥇𞤮𞤺𞤭 𞤨𞥇𞤢𞤯𞤫𞤥𞤭 𞤳𞤭𞤯𞤭 𞤥𞤮𞤹𞥇𞤫𞤳𞥇𞤭 𞤨𞥇𞤢𞤯𞤫𞤥𞤭 𞤹𞥇𞤫𞤨𞤫𞤲𞤭𞤳𞤭𞤺𞤭𞤺𞤭 𞤳𞤫𞤣𞤭𞤳𞤭𞤼𞥇𞤫𞤺𞤮 𞤨𞤭𞤨𞤮𞤺𞤭."</p>
-
-<h1></h1>
-
-<h2 style="text-align: center">Qʼathebʼo Torch in Roman Script</h2>
-
-<h2></h2>
-
-<p class="qathebo">Gonepigedʼata bʼaqa qepʼebʼili qʼathako bʼopʼedʼebʼi qʼamaqʼeta.</p>
-
-<p class="qathebo">Lothekʼapopʼi memebʼomadʼaqʼo bʼitotato behligeto qʼoqebʼa kʼekaladʼado molilo modipehlepigeqʼa.</p>
-
-<p class="qathebo">Memebʼomadʼata kʼahla kʼekedʼili la nedʼo lothemadʼaqʼo kʼekalamo.</p>
-
-<p class="qathebo">Lotheqʼatha memebʼomadʼaqʼo "Thikeqʼa nedʼo pʼadʼebʼi kithoqemo qedimeqotʼiqo da bʼenomadʼepʼi kʼiteqekogito theni kedipʼeqʼetʼili."</p>
-
-<p class="qathebo">Theni qʼoqibʼi bʼenomadʼaqʼo qatʼepʼeqʼo takʼo moqʼekʼi pagegi. Bʼenomadʼata lothigi da kademadʼana tikimoqaqo qʼepeniletha pitʼithilikʼi nekotʼa memebʼomadʼaqʼo kʼeboleni kadema kidʼi qʼibʼekʼedi lothemadʼaqʼo kobagega takʼo deba ditʼili lothemadʼana.</p>
-
-<p class="qathebo">Lotheqʼatha bʼenomadʼaqʼo:</p>
-
-<p class="qathebo">"Tothapekʼi pʼadʼebʼi kʼethalogi qatʼogimo da lothigedʼata kʼepagegigi pʼamoqʼenebili. Takʼo lotheqʼatha pʼadʼebʼi theni kepʼomiko patʼopʼadʼebʼi qʼedʼepʼemo qʼatotatʼo qitʼito deqo theni qibonigi."</p>
-
-<p class="qathebo">Lotheqʼatha memebʼomadʼaqʼo:</p>
-
-<p class="qathebo">"Moqʼenabegi pʼadʼemi bʼenoma kʼepagegigi qatʼogigi kobagegatʼotʼigo pʼetʼigo dala qʼepanalo kademadʼemi kobagega tenatʼoga takʼo detʼa pʼadʼemi hlekʼo theni qepʼebʼi kedikidʼemi. Theni kedipʼetʼogi pʼadʼemi kidʼi moqʼekʼi pʼadʼemi qʼepenikigigi kedikitʼego pipogi."</p>
