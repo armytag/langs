@@ -649,10 +649,6 @@ Lexical Compounding turns a transitive verb into an intransitive verb with a nar
 
 Another type of noun incorporation affects the structure of a clause by moving an instrument, location, or possessed noun to direct object (or even subject) role.  This turns a transitive verb into another transitive verb, but with different relationships to the nouns in the phrase.  Unlike Lexical Compounding, this could involve individuated objects and doesn't necessarily mean that the incorporated object is non-specific.
 
-#### Manipulation of Discourse Structure
-
-Noun incorporation is sometimes used to background one of the referents established earlier in the discourse, moving focus to some other unincorporated part of the sentence.  Like the Lexical Compounding type of incoporation this usually creates an intransitive verb, but because the referent was previously established it does not lose its specificity.  This is hard to demonstrate in a single sentence, so a short paragraph is given below with the discourse-type incorporation highlighted in bold.
-
 ### Copulae
 
 There are several verbs in Qʼathebʼo that perform the functions of English "be".  Aside from marking tense ("was, is, will be"; see [nominal tense](#tense)), the English verb "be" links a subject to another noun phrase reflecting a property, states, location, equivalence, exists, or some other aspect of the subject.  These various types of noun phrases are differentiated in Qʼathebʼo by different verbs, though they all take the form of a body part incorporated into the verb *bʼa* roughly meaning "idly move" (see dictionary for related terms).  When using these copula verbs, the compliment noun phrase typically appears in a specific case other than accusative.

@@ -3,6 +3,11 @@ table {
 	width: max-content;
 }
 
+header,
+header > h1 {
+	margin: 0;
+}
+
 .even {
 	background-color: #e6e6e6;
 }
