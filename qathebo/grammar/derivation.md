@@ -1,5 +1,7 @@
 # Derivation
 
+Nouns, verbs, and modifiers all have words derived from each other using various affixes.  Adverbs, however, do not appear to be involved in any derivational processes.  Below are some of the most common derivational paradigms.  Note that nouns are listed with singular number agreement of the appropriate animacy group as is typical for citation form; in this section it will be separated form the lexical root by a hyphen.
+
 ## Nouns
 
 ### From Nouns
@@ -9,10 +11,10 @@
 This suffix derives personal nouns from individuated abstract nouns.  The result is a Group 1 noun.
 
 <dl class="comparison col4">
-<dt></dt> <dd>"a lie"</dd>
-<dt></dt> <dd>"liar"</dd>
-<dt></dt> <dd>"idea"</dd>
-<dt></dt> <dd>"thinker"</dd>
+<dt>kʼepeliki-gi</dt> <dd>"a lie"</dd>
+<dt>kʼepelikiqʼe-ta</dt> <dd>"liar"</dd>
+<dt>kibikʼo-gi</dt> <dd>"idea"</dd>
+<dt>kibikʼoqʼi-ta</dt> <dd>"thinker"</dd>
 </dl>
 
 #### _-talo_
@@ -20,10 +22,10 @@ This suffix derives personal nouns from individuated abstract nouns.  The result
 This suffix denotes someone with an institutional relationship to the base noun.  The result is a Group 1 noun.
 
 <dl class="comparison col4">
-<dt></dt> <dd>"land"</dd>
-<dt></dt> <dd>"land-owner"</dd>
-<dt></dt> <dd>"god"</dd>
-<dt></dt> <dd>"priest"</dd>
+<dt>bʼipe-qo</dt> <dd>"land"</dd>
+<dt>bʼipotalo-ta</dt> <dd>"land-owner"</dd>
+<dt>qʼedʼo-gi</dt> <dd>"god"</dd>
+<dt>qʼedʼotalo-ta</dt> <dd>"priest"</dd>
 </dl>
 
 #### _-no_
@@ -31,10 +33,10 @@ This suffix denotes someone with an institutional relationship to the base noun.
 This suffix denotes someone who uses or is associated with the base noun.  The result is a Group 1 noun.
 
 <dl class="comparison col4">
-<dt></dt> <dd>"clay"</dd>
-<dt></dt> <dd>"potter"</dd>
-<dt></dt> <dd>"bow"</dd>
-<dt></dt> <dd>"archer"</dd>
+<dt>bʼano-ga</dt> <dd>"clay"</dd>
+<dt>bʼaneno-ta</dt> <dd>"potter"</dd>
+<dt>qʼohlimo-ga</dt> <dd>"bow"</dd>
+<dt>qʼohlimeno-ta</dt> <dd>"archer"</dd>
 </dl>
 
 #### _-li_
@@ -42,10 +44,10 @@ This suffix denotes someone who uses or is associated with the base noun.  The r
 This suffix denotes someone who possess the abstract base noun.  The result is a Group 1 noun.
 
 <dl class="comparison col4">
-<dt></dt> <dd>"beauty"</dd>
-<dt></dt> <dd>"beautiful person"</dd>
-<dt></dt> <dd>"wisdom"</dd>
-<dt></dt> <dd>"sage"</dd>
+<dt>papomi-gi</dt> <dd>"beauty"</dd>
+<dt>papomile-ta</dt> <dd>"beautiful person"</dd>
+<dt>tigoqʼi-gi</dt> <dd>"wisdom"</dd>
+<dt>tigoqʼile-ta</dt> <dd>"sage"</dd>
 </dl>
 
 #### _-dato_
@@ -53,10 +55,10 @@ This suffix denotes someone who possess the abstract base noun.  The result is a
 This suffix derives a general abstracted sense from a personal or abstract noun.  The result is a Group 5 noun.
 
 <dl class="comparison col4">
-<dt></dt> <dd>"fool"</dd>
-<dt></dt> <dd>"foolishness"</dd>
-<dt></dt> <dd>"change"</dd>
-<dt></dt> <dd>"evolution"</dd>
+<dt>bʼatʼa-ta</dt> <dd>"fool"</dd>
+<dt>bʼatʼadato-gi</dt> <dd>"foolishness"</dd>
+<dt>nehleqi-gi</dt> <dd>"a change"</dd>
+<dt>nehlaqedato-gi</dt> <dd>"evolution"</dd>
 </dl>
 
 #### _-hlepi_
@@ -64,10 +66,10 @@ This suffix derives a general abstracted sense from a personal or abstract noun.
 This suffix denotes a general process increasing or expanding the base noun.  The result is a Group 5 noun.
 
 <dl class="comparison col4">
-<dt></dt> <dd>"city"</dd>
-<dt></dt> <dd>"urbanization"</dd>
-<dt></dt> <dd>"light"</dd>
-<dt></dt> <dd>"illumination"</dd>
+<dt>bʼedʼobi-qo</dt> <dd>"city"</dd>
+<dt>bʼedʼobihlepi-gi</dt> <dd>"urbanization"</dd>
+<dt>gaqʼe-gi</dt> <dd>"light"</dd>
+<dt>gaqʼahlepi-gi</dt> <dd>"illumination"</dd>
 </dl>
 
 #### _kʼi-_
@@ -75,10 +77,10 @@ This suffix denotes a general process increasing or expanding the base noun.  Th
 This prefix derives a negative opposite from the base noun.  The result is a noun of the same Group as the base noun.
 
 <dl class="comparison col4">
-<dt></dt> <dd>"trust"</dd>
-<dt></dt> <dd>"mistrust"</dd>
-<dt></dt> <dd>"god"</dd>
-<dt></dt> <dd>"demon"</dd>
+<dt>dobipʼi-gi</dt> <dd>"trust"</dd>
+<dt>kʼidobipiʼi-gi</dt> <dd>"mistrust"</dd>
+<dt>qʼedʼo-gi</dt> <dd>"god"</dd>
+<dt>kʼiqʼedʼo-gi</dt> <dd>"demon"</dd>
 </dl>
 
 #### _gotha-_
@@ -86,21 +88,21 @@ This prefix derives a negative opposite from the base noun.  The result is a nou
 This prefix denotes an excessive degree of the base noun.  The result is a Group 5 noun.
 
 <dl class="comparison col4">
-<dt></dt> <dd>"desire"</dd>
-<dt></dt> <dd>"greed"</dd>
-<dt></dt> <dd>"water"</dd>
-<dt></dt> <dd>"flood"</dd>
+<dt>kʼapopʼiki-gi</dt> <dd>"desire"</dd>
+<dt>kʼapopʼikigotha-gi</dt> <dd>"greed"</dd>
+<dt>hlapʼo-ga</dt> <dd>"water"</dd>
+<dt>gothahlapʼo-gi</dt> <dd>"flood"</dd>
 </dl>
 
-#### _kʼido-_
+#### _mado-_
 
 This prefix denotes a great, important version of the base noun.  The result is a noun of the same Group as the base noun.
 
 <dl class="comparison col4">
-<dt></dt> <dd>"creative work"</dd>
-<dt></dt> <dd>"classic"</dd>
-<dt></dt> <dd>"leader"</dd>
-<dt></dt> <dd>"great leader"</dd>
+<dt>tʼigitʼe-ga</dt> <dd>"creative work"</dd>
+<dt>madotʼigitʼe-ga</dt> <dd>"a classic"</dd>
+<dt>thitʼola-ta</dt> <dd>"leader"</dd>
+<dt>madothitʼola-ta</dt> <dd>"great leader"</dd>
 </dl>
 
 ### From Verbs
@@ -110,10 +112,10 @@ This prefix denotes a great, important version of the base noun.  The result is 
 This suffix denotes someone who performs the base verb.  The result is a Group 1 noun.
 
 <dl class="comparison col4">
-<dt></dt> <dd>"write"</dd>
-<dt></dt> <dd>"writer"</dd>
-<dt></dt> <dd>"catch fish"</dd>
-<dt></dt> <dd>"fisherman"</dd>
+<dt>tʼaqedʼa</dt> <dd>"write"</dd>
+<dt>tʼeqidʼedʼa-ta</dt> <dd>"writer"</dd>
+<dt>qaqʼoqetha</dt> <dd>"catch fish"</dd>
+<dt>qaqʼoqithedʼa-ta</dt> <dd>"fisherman"</dd>
 </dl>
 
 #### _-ohleli_
@@ -121,10 +123,10 @@ This suffix denotes someone who performs the base verb.  The result is a Group 1
 This suffix derives the abstract sense of the base verb.  The result is a Group 5 noun.
 
 <dl class="comparison col4">
-<dt></dt> <dd>"appear"</dd>
-<dt></dt> <dd>"appearance"</dd>
-<dt></dt> <dd>"live"</dd>
-<dt></dt> <dd>"longevity"</dd>
+<dt>gomina</dt> <dd>"appear"</dd>
+<dt>gominohleli-gi</dt> <dd>"appearance"</dd>
+<dt>nepa</dt> <dd>"live"</dd>
+<dt>nepohleli-gi</dt> <dd>"longevity"</dd>
 </dl>
 
 #### _-ekʼa_
@@ -143,8 +145,8 @@ This suffix derives a casual/nonserious abstract noun related to the base verb. 
 This suffix denotes the process or result of the base verb.  The result is a Group 3 or Group 5 noun depending on the method of performing the action.
 
 <dl class="comparison col4">
-<dt></dt> <dd>"attach"</dd>
-<dt></dt> <dd>"attachment"</dd>
+<dt>temola</dt> <dd>"attach"</dd>
+<dt>temelebʼo-ga</dt> <dd>"attachment"</dd>
 <dt>qʼatha</dt> <dd>"to speak"</dd>
 <dt>qʼathebʼo-gi</dt> <dd>"language"</dd>
 </dl>
@@ -154,10 +156,10 @@ This suffix denotes the process or result of the base verb.  The result is a Gro
 This suffix denotes one instance of the base verb.  The result is a Group 3 or Group 5 noun depending on the method of performing the action.
 
 <dl class="comparison col4">
-<dt></dt> <dd>"hit"</dd>
-<dt></dt> <dd>"a blow"</dd>
-<dt></dt> <dd>"feel"</dd>
-<dt></dt> <dd>"a feeling"</dd>
+<dt>thapa</dt> <dd>"hit"</dd>
+<dt>thepike-ga</dt> <dd>"a blow"</dd>
+<dt>kʼepala</dt> <dd>"lie"</dd>
+<dt>kʼepeliki-gi</dt> <dd>"a lie"</dd>
 </dl>
 
 ### From Modifiers
@@ -167,10 +169,10 @@ This suffix denotes one instance of the base verb.  The result is a Group 3 or G
 This suffix denotes the abstract sense of the base modifier.  The result is a Group 5 noun.
 
 <dl class="comparison col4">
-<dt></dt> <dd>"large"</dd>
-<dt></dt> <dd>"largeness"</dd>
-<dt></dt> <dd>"poor"</dd>
-<dt></dt> <dd>"poverty"</dd>
+<dt>dekʼo</dt> <dd>"large"</dd>
+<dt>dekʼopi-gi</dt> <dd>"largeness"</dd>
+<dt>patabʼa</dt> <dd>"poor"</dd>
+<dt>patabʼepi-gi</dt> <dd>"poverty"</dd>
 </dl>
 
 #### _-paga_
@@ -178,10 +180,10 @@ This suffix denotes the abstract sense of the base modifier.  The result is a Gr
 This suffix derives a personal noun with the characteristics of the base modifier.  The result is a Group 1 noun.
 
 <dl class="comparison col4">
-<dt></dt> <dd>"small"</dd>
-<dt></dt> <dd>"small person"</dd>
-<dt></dt> <dd>"poor"</dd>
-<dt></dt> <dd>"beggar"</dd>
+<dt>lipʼimi</dt> <dd>"small"</dd>
+<dt>lipʼimepaga-ta</dt> <dd>"small person"</dd>
+<dt>patabʼa</dt> <dd>"poor"</dd>
+<dt>patabʼapaga-ta</dt> <dd>"beggar"</dd>
 </dl>
 
 ## Verbs
@@ -197,10 +199,10 @@ There are no verbs derived from nouns.  There is widespread [noun incorporation]
 This affix can turn an intransitive verb into a transitive verb, or turn a transitive verb into a causative verb.
 
 <dl class="comparison col4">
-<dt></dt> <dd>"die"</dd>
-<dt></dt> <dd>"kill"</dd>
-<dt></dt> <dd>"eat"</dd>
-<dt></dt> <dd>"feed"</dd>
+<dt>detʼa</dt> <dd>"die"</dd>
+<dt>ditʼenaba</dt> <dd>"kill"</dd>
+<dt>moqʼa</dt> <dd>"feel"</dd>
+<dt>moqʼenaba</dt> <dd>"cause to feel"</dd>
 </dl>
 
 ### From Modifiers
@@ -210,10 +212,10 @@ This affix can turn an intransitive verb into a transitive verb, or turn a trans
 This affix is used to turn onomatopoeic modifiers into verbs.
 
 <dl class="comparison col4">
-<dt></dt> <dd>"sputtering"</dd>
-<dt></dt> <dd>"sputter"</dd>
-<dt></dt> <dd>"crunchy"</dd>
-<dt></dt> <dd>"crunch"</dd>
+<dt>pʼipʼiti</dt> <dd>"sputtering"</dd>
+<dt>pʼipʼitehlala</dt> <dd>"sputter"</dd>
+<dt>natʼalo</dt> <dd>"crunchy"</dd>
+<dt>natʼalohlala</dt> <dd>"crunch"</dd>
 </dl>
 
 ## Adverbs
@@ -240,10 +242,10 @@ This suffix conveys a sense of repeated occurances of the base noun it derives f
 This suffix conveys the possession of the quality denoted by the base noun.
 
 <dl class="comparison col4">
-<dt></dt> <dd>"strength"</dd>
-<dt></dt> <dd>"strong"</dd>
-<dt></dt> <dd>"anger"</dd>
-<dt></dt> <dd>"angry"</dd>
+<dt>qipʼo-gi</dt> <dd>"strength"</dd>
+<dt>qipʼepʼo</dt> <dd>"strong"</dd>
+<dt>pʼatʼoni-gi</dt> <dd>"anger"</dd>
+<dt>pʼatʼonipʼo</dt> <dd>"angry"</dd>
 </dl>
 
 #### _-tʼoki_
@@ -251,10 +253,10 @@ This suffix conveys the possession of the quality denoted by the base noun.
 This suffix denotes the possibility to give rise to the base noun.
 
 <dl class="comparison col4">
-<dt></dt> <dd>"doubt"</dd>
-<dt></dt> <dd>"suspicious"</dd>
-<dt></dt> <dd>"fear"</dd>
-<dt></dt> <dd>"frightening"</dd>
+<dt>hlithepe-gi</dt> <dd>"doubt"</dd>
+<dt>hlithepatʼoki</dt> <dd>"suspicious"</dd>
+<dt>kʼebʼi-gi</dt> <dd>"fear"</dd>
+<dt>kʼebʼitokʼi</dt> <dd>"frightening"</dd>
 </dl>
 
 #### _-bʼopʼa_
@@ -262,10 +264,10 @@ This suffix denotes the possibility to give rise to the base noun.
 This suffix conveys the occurence before the base noun.
 
 <dl class="comparison col4">
-<dt></dt> <dd>"war"</dd>
-<dt></dt> <dd>"pre-war"</dd>
-<dt></dt> <dd>"food"</dd>
-<dt></dt> <dd>"pre-meal"</dd>
+<dt>pedʼetʼi-gi</dt> <dd>"war"</dd>
+<dt>pedʼetʼibʼopʼa</dt> <dd>"pre-war"</dd>
+<dt>pʼitibʼo-ga</dt> <dd>"food"</dd>
+<dt>pʼitibʼebʼopʼa</dt> <dd>"pre-meal"</dd>
 </dl>
 
 #### _-pʼapʼo_
@@ -273,10 +275,10 @@ This suffix conveys the occurence before the base noun.
 This suffix conveys the occurence after the base noun.
 
 <dl class="comparison col4">
-<dt></dt> <dd>"war"</dd>
-<dt></dt> <dd>"post-war"</dd>
-<dt></dt> <dd>"food"</dd>
-<dt></dt> <dd>"post-meal"</dd>
+<dt>pedʼetʼi-gi</dt> <dd>"war"</dd>
+<dt>pedʼatʼepʼapʼo</dt> <dd>"post-war"</dd>
+<dt>pʼitibʼo-ga</dt> <dd>"food"</dd>
+<dt>pʼitibʼopʼapʼo</dt> <dd>"post-meal"</dd>
 </dl>
 
 ### From Verbs
@@ -286,10 +288,10 @@ This suffix conveys the occurence after the base noun.
 This suffix conveys that something has undergone or experienced the base verb.
 
 <dl class="comparison col4">
-<dt></dt> <dd>"grow up"</dd>
-<dt></dt> <dd>"grown"</dd>
-<dt></dt> <dd>"cook"</dd>
-<dt></dt> <dd>"cooked"</dd>
+<dt>pʼolena</dt> <dd>"grow up"</dd>
+<dt>pʼolineqʼo</dt> <dd>"grown"</dd>
+<dt>pʼeta</dt> <dd>"cook"</dd>
+<dt>pʼiteqʼo</dt> <dd>"cooked"</dd>
 </dl>
 
 ### From Modifiers
@@ -299,9 +301,9 @@ This suffix conveys that something has undergone or experienced the base verb.
 This suffix conveys a lesser degree of the original modifier.
 
 <dl class="comparison col4">
-<dt></dt> <dd>"spicy"</dd>
-<dt></dt> <dd>"somewhat spicy"</dd>
-<dt></dt> <dd>"dark"</dd>
-<dt></dt> <dd>"dim"</dd>
+<dt>detheki</dt> <dd>"spicy"</dd>
+<dt>dethekihlena</dt> <dd>"somewhat spicy"</dd>
+<dt>dʼiqepʼa</dt> <dd>"dark"</dd>
+<dt>dʼiqepʼahlena</dt> <dd>"dim"</dd>
 </dl>
 

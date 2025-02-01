@@ -22,6 +22,10 @@ A verb with prohibitive mood inherently conveys that the listener should not und
 <p class="number"></p>
 <div class="interlinear">
 <dl> <dt>theni</dt> <dd><abbr>NEG</abbr></dd> </dl>
+<dl> <dt>tʼethabʼ-opi</dt> <dd>location.<abbr>COP-PROH</abbr></dd> </dl>
+<dl> <dt>ɗoɓata-qe-to</dt> <dd>outside-<abbr>G4.SG-LOC</abbr></dd> </dl>
+<dl> <dt>dʼedʼobe-gi-mo</dt> <dd>late-<abbr>G5.SG-ALL</abbr></dd> </dl>
+<dl> <dt>moli-go</dt> <dd>much-<abbr>G5.SG</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"Don't stay out too late."</p>
 </div>
@@ -35,7 +39,7 @@ An imperative command can be negated to form a negative command.  This has the s
 <div class="interlinear">
 <dl> <dt>theni</dt> <dd><abbr>NEG</abbr></dd> </dl>
 <dl> <dt>hl-o-di</dt> <dd>eat<abbr>-IMP-G3.SG</abbr></dd> </dl>
-<dl> <dt>kedi</dt> <dd>that</dd> </dl>
+<dl> <dt>kade-ga</dt> <dd>that-<abbr>G3.SG</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"Don't eat that!"</p>
 </div>
@@ -64,16 +68,16 @@ A common use of the optative request is ordering something in a store or restaur
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>aa-bb-obʼi</dt> <dd>water-drink<abbr>-OPT</abbr></dd> </dl>
+<dl> <dt>hlape-ten-obʼi</dt> <dd>water-drink<abbr>-OPT</abbr></dd> </dl>
 <dl> <dt>pʼa-dʼe-bʼi</dt> <dd><abbr>1SG-NOM-PRS</abbr></dd> </dl>
 </div>
-<p class="freetranslation">"Can I have some water?"</p>
+<p class="freetranslation">"Can I have some water?" (lit. "I hope to drink water")</p>
 </div>
 
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>aa-obʼi-lo</dt> <dd>buy<abbr>-OPT-G3.PL</abbr></dd> </dl>
+<dl> <dt>gabʼahl-obʼi-lo</dt> <dd>buy<abbr>-OPT-G3.PL</abbr></dd> </dl>
 <dl> <dt>bʼabʼo-dʼe-bʼi</dt> <dd><abbr>1DU-NOM-PRS</abbr></dd> </dl>
 <dl> <dt>dʼotha-la-∅</dt> <dd>rose<abbr>-G3.PL-ACC</abbr></dd> </dl>
 <dl> <dt>batha-lo</dt> <dd>ten<abbr>-G3.PL</abbr></dd> </dl>
@@ -89,61 +93,53 @@ Another way of forming a request is to negate a verb in the prohibitive mood.  T
 <p class="number"></p>
 <div class="interlinear">
 <dl> <dt>theni</dt> <dd><abbr>NEG</abbr></dd> </dl>
-<dl> <dt>aa-opi-di</dt> <dd>carry<abbr>-PROH-G3.SG</abbr></dd> </dl>
+<dl> <dt>tekʼeq-opi-di</dt> <dd>carry<abbr>-PROH-G3.SG</abbr></dd> </dl>
 <dl> <dt>pʼa-mo</dt> <dd><abbr>1SG-ALL</abbr></dd> </dl>
-<dl> <dt>aa-bb-∅</dt> <dd>book<abbr>-G3.SG-ACC</abbr></dd> </dl>
+<dl> <dt>tahlaqe-ga-∅</dt> <dd>book<abbr>-G3.SG-ACC</abbr></dd> </dl>
 <dl> <dt>kedi-go</dt> <dd>that<abbr>-G3.SG</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"Pass me that book."</p>
 </div>
 
-It is a cumbersome to use the negated prohibitive in consecutive clauses, so several related requests might start with a negated prohibitive to set the tone then switch to optative requests for subsequent statements, as demonstrated in %{+1}% below.  Note that the implied subject of the prohibitive remains implicit into the second clause.
+It is cumbersome to use the negated prohibitive in consecutive clauses, so several related requests might start with a negated prohibitive to set the tone then switch to optative requests for subsequent statements, as demonstrated in %{+1}% below.  Note that the implied subject of the prohibitive remains implicit into the second clause.
 
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
 <dl> <dt>theni</dt> <dd><abbr>NEG</abbr></dd> </dl>
-<dl> <dt>aa-bb-opa,</dt> <dd>chair-sit<abbr>-PROH</abbr></dd> </dl>
-<dl> <dt>aa-obʼi</dt> <dd>emotion.COP<abbr>-OPT</abbr></dd> </dl>
-<dl> <dt>aa</dt> <dd>relaxed</dd> </dl>
+<dl> <dt>ɬodʼedi-kʼ-opa,</dt> <dd>chair-sit<abbr>-PROH</abbr></dd> </dl>
+<dl> <dt>qʼoqibʼ-obʼi</dt> <dd>property<abbr>.COP-OPT</abbr></dd> </dl>
+<dl> <dt>bʼekʼapʼo-qʼa</dt> <dd>relaxed-ESS</dd> </dl>
 </div>
 <p class="freetranslation">"Have a seat, make yourself comfortable."</p>
 </div>
 
 ## Expressing Emotions
 
-### Basic Terms
-
-#### Anger
-
-#### Shame
-
-#### Surprise
-
-#### Happiness
-
-#### Sadness
-
 ### Bodily Emotions
 
-There are two cultural metaphors that guide how emotions are discussed.  Strong, specific emotions are believed to exist in the throat.  These kinds of emotions are temporary and strong enough to affect someone's actions.  In contrast, weaker emotions reside in the sinuses.  These weak emotions are subtle and imprecise, more of a background feeling that is hard to describe.  The weak emotions can drip back into the throat and eventually become strong emotions, which gave rise to the phrase given in %{+1}% below.
+There are two cultural metaphors that guide how emotions are discussed.  Strong, specific emotions are believed to exist in the throat.  These kinds of emotions are temporary and strong enough to affect someone's actions.  In contrast, weaker emotions reside in the sinuses.  These weak emotions are subtle and imprecise, more of a background feeling that is hard to describe.
+
+Because the strong emotions are located in the throat, the verbs used to describe them are *moqʼa* ("swallow") and *tothapa* ("spit").  When the emotions are simply felt but not being expressed or acted upon, the person is said to swallow them as demonstrated in %{+1}%.  However, if the emotions are being expressed through words or actions, it is said that the person is "spitting" the emotions, as seen in %{+2}%.  Note that *moqʼa* and *tothapa* do not carry positive or negative connotations themselves, and are used with all emotions.
 
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>aa-bb-obʼi</dt> <dd>feelings-release<abbr>-OPT</abbr></dd> </dl>
-<dl> <dt>kʼahla</dt> <dd>so.that<abbr></abbr></dd> </dl>
-<dl> <dt>theni</dt> <dd><abbr>NEG</abbr></dd> </dl>
-<dl> <dt></dt> <dd><abbr></abbr></dd> </dl>
+<dl> <dt>moqʼ-e-kʼi</dt> <dd>swallow-<abbr>PFV-G5.SG</abbr></dd> </dl>
+<dl> <dt>qane-ta-dʼa-do</dt> <dd>parent-<abbr>G1.SG-NOM-FUT</abbr></dd> </dl>
+<dl> <dt>dʼeqʼi-gi-∅</dt> <dd>sadness-<abbr>G5.SG-ACC</abbr></dd> </dl>
 </div>
-<p class="freetranslation">"(I hope that) the feelings are released, so that ..."</p>
+<p class="freetranslation">"My mother will be sad."</p>
 </div>
 
-This phrase usually appears in the shortened form, and is used after someone sneezes (similar to English "bless you").  It originally conveyed a desire for the weak emotions in the nose to be released before they become overwhelming strong emotions, but the phrase has started to be semantically bleached of its nuanced meaning.
-
-### Grammatical Distinctions
-
-#### Emotions as Stative Nouns
-
-#### Emotions as Verb Modifiers
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>tothap-e-kʼi</dt> <dd>spit-<abbr>PFV-G5.SG</abbr></dd> </dl>
+<dl> <dt>bʼopʼe-dʼe-bʼi</dt> <dd><abbr>1PL-NOM-PRS</abbr></dd> </dl>
+<dl> <dt>qi-mo</dt> <dd><abbr>2SG-ALL</abbr></dd> </dl>
+<dl> <dt>page-gi-∅</dt> <dd>happiness-<abbr>G5.SG-ACC</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"We're happy for you!"</p>
+</div>
 

@@ -3,12 +3,17 @@ table {
 	width: max-content;
 }
 
+header,
+header > h1 {
+	margin: 0;
+}
+
 .even {
 	background-color: #e6e6e6;
 }
 
 td:nth-child(1) {
-	font-weight: bold;
+	/* font-weight: bold; */
 	text-align: right;
 }
 

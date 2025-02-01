@@ -37,7 +37,8 @@ Sounds from inspiration:
 | VOWELS | Front | Central | Back |
 |---     |---    |---      |---   |
 | High   | i     | ɨ       | u    |
-| Low    | ɛ     | a       | ʌ    |
+| Mid    | e     |         | o    |
+| Low    |       | a       |      |
 
 - ij → iː
 - uw → uː

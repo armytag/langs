@@ -48,19 +48,29 @@ When nouns are possessed, they take an additional suffix *-tʼo* after number an
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
-<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
+<dl> <dt>kʼoqahlo-la-tʼo-∅</dt> <dd>clothing-<abbr>G3.PL-POSS-ACC</abbr></dd> </dl>
+<dl> <dt>pʼe-tʼi-lo</dt> <dd><abbr>1SG-GEN-G3.PL</abbr></dd> </dl>
 </div>
-<p class="freetranslation">"There was a dog."</p>
+<p class="freetranslation">"my clothes"</p>
 </div>
 
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
-<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
+<dl> <dt>qeni-thi-∅</dt> <dd>parent-<abbr>G1.DU-ACC</abbr></dd> </dl>
+<dl> <dt>pʼe-tʼi-go</dt> <dd><abbr>1SG-GEN-G1.SG</abbr></dd> </dl>
 </div>
-<p class="freetranslation">"There was a dog."</p>
+<p class="freetranslation">"my parents"</p>
+</div>
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>kʼoqahlo-la-tʼo-∅</dt> <dd>clothing-<abbr>G3.PL-POSS-ACC</abbr></dd> </dl>
+<dl> <dt>qeni-thi-tʼi-lo</dt> <dd>parent-<abbr>G1.DU-GEN-G3.PL</abbr></dd> </dl>
+<dl> <dt>pʼe-tʼi-go</dt> <dd><abbr>1SG-GEN-G1.PL</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"my parents' clothes"</p>
 </div>
 
 ### Case
@@ -84,24 +94,24 @@ Below is a table summarizing the cases, their morphological affix form, and thei
 
 #### Nominative (*-dʼa*)
 
-The Nominative case indicates which noun is performing the action described by the verb.  This is roughly equivalent to the subject or agent in an English sentence.
+The Nominative case indicates which noun is performing the action described by the verb.  This is roughly equivalent to the subject or agent in an English sentence.  The nominative case also requires [tense marking](#tense) after it.
 
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
-<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
+<dl> <dt>hl-i</dt> <dd>eat-<abbr>IPFV</abbr></dd> </dl>
+<dl> <dt>pʼa-dʼe-bʼi</dt> <dd><abbr>1SG-NOM-PRS</abbr></dd> </dl>
 </div>
-<p class="freetranslation">"There was a dog."</p>
+<p class="freetranslation">"I am eating."</p>
 </div>
 
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
-<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
+<dl> <dt>detʼ-a</dt> <dd>die-<abbr>PFV</abbr></dd> </dl>
+<dl> <dt>ma-qo-dʼa-do</dt> <dd>tree-<abbr>G4.SG-NOM-FUT</abbr></dd> </dl>
 </div>
-<p class="freetranslation">"There was a dog."</p>
+<p class="freetranslation">"The tree will die."</p>
 </div>
 
 #### Accusative
@@ -111,19 +121,21 @@ The Accusative case indicates which noun is being acted upon by the verb.  This 
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
-<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
+<dl> <dt>hl-i</dt> <dd>eat-<abbr>IPFV-G3.PL</abbr></dd> </dl>
+<dl> <dt>pʼa-dʼe-bʼi</dt> <dd><abbr>1SG-NOM-PRS</abbr></dd> </dl>
+<dl> <dt>kabʼe-la-∅</dt> <dd>berry-<abbr>G3.PL-ACC</abbr></dd> </dl>
 </div>
-<p class="freetranslation">"There was a dog."</p>
+<p class="freetranslation">"I am eating berries."</p>
 </div>
 
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
-<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
+<dl> <dt></dt> <dd>sting-<abbr>PFV-G2.SG</abbr></dd> </dl>
+<dl> <dt></dt> <dd>dog-<abbr>G2.SG-ACC</abbr></dd> </dl>
+<dl> <dt></dt> <dd>bee-<abbr>G2.PAU-NOM-PST</abbr></dd> </dl>
 </div>
-<p class="freetranslation">"There was a dog."</p>
+<p class="freetranslation">"Some bees stung the dog."</p>
 </div>
 
 #### Dative (*-ta*)
@@ -133,72 +145,60 @@ The Dative case indicates which noun is receiving something from the verb.  The 
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
-<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
+<dl> <dt>t-e-di</dt> <dd>make_pottery-<abbr>PFV-G3.SG</abbr></dd> </dl>
+<dl> <dt>pʼa-ta</dt> <dd><abbr>1SG-DAT</abbr></dd> </dl>
+<dl> <dt>gi-dʼe-mi</dt> <dd><abbr>3SG-NOM-PST</abbr></dd> </dl>
+<dl> <dt>takʼelo-ga-∅</dt> <dd>pot-<abbr>G3.SG-ACC</abbr></dd> </dl>
+<dl> <dt>lothi-go</dt> <dd>this-<abbr>G3.SG</abbr></dd> </dl>
 </div>
-<p class="freetranslation">"There was a dog."</p>
+<p class="freetranslation">"She made this pot for me."</p>
 </div>
 
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
-<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
+<dl> <dt>qʼath-o-kʼi</dt> <dd>speak-<abbr>IMP-G5.SG</abbr></dd> </dl>
+<dl> <dt>ge-ta</dt> <dd><abbr>3SG-DAT</abbr></dd> </dl>
+<dl> <dt>qʼameqʼi-gi-tʼo-∅</dt> <dd>story-<abbr>G5.SG-POSS-ACC</abbr></dd> </dl>
+<dl> <dt>qi-tʼi-go</dt> <dd><abbr>2SG-GEN-G5.SG</abbr></dd> </dl>
 </div>
-<p class="freetranslation">"There was a dog."</p>
+<p class="freetranslation">"Tell him your story."</p>
 </div>
 
 #### Genitive (*-tʼi*)
 
-The Genitive case indicates that the noun is related to another noun in some way.  This could be a form of possession as in %{+1}% below, or .  Unlike other cases, genetive nouns function like [modifiers](#modifiers), appearing after the noun they are related to and taking modifier agreement affixes.
+The Genitive case indicates that the noun is related to another noun in some way.  This could be a form of possession as in %{+1}% below, or simply association like a body part as in %{+2}%.  Unlike other cases, genetive nouns function like [modifiers](#modifiers), appearing after the noun they are related to and taking modifier agreement affixes.
 
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
-<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
+<dl> <dt>tho-ma-tʼo-∅</dt> <dd>cat-<abbr>G2.SG-POSS-ACC</abbr></dd> </dl>
+<dl> <dt>pʼe-tʼi-mo</dt> <dd><abbr>1SG-GEN-G2.SG</abbr></dd> </dl>
 </div>
-<p class="freetranslation">"There was a dog."</p>
+<p class="freetranslation">"my cat"</p>
 </div>
 
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
-<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
+<dl> <dt>hlebʼi-thi-∅</dt> <dd>hand-<abbr>G1.DU-ACC</abbr></dd> </dl>
+<dl> <dt>pʼe-tʼi-tho</dt> <dd><abbr>1SG-GEN-G1.PL</abbr></dd> </dl>
 </div>
-<p class="freetranslation">"There was a dog."</p>
+<p class="freetranslation">"my hands"</p>
 </div>
 
 #### Instrumental (*-gi*)
 
-The Instrumental case indicates which noun is used to perform the verb.  This could be a tool as in %{+1}% below, a method as in %{+2}%, or even a collaborator as in %{+3}%.
+The Instrumental case indicates which noun is used to perform the verb.  This could be a tool, a method, or even a collaborator.
 
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
-<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
+<dl> <dt>thap-e-pi</dt> <dd>hit<abbr>-PFV-1SG</abbr></dd> </dl>
+<dl> <dt>gi-dʼe-bʼi</dt> <dd><abbr>3SG-NOM-PRS</abbr></dd> </dl>
+<dl> <dt>qaqʼo-me-gi</dt> <dd>fish-<abbr>G2.SG-INST</abbr></dd> </dl>
 </div>
-<p class="freetranslation">"There was a dog."</p>
-</div>
-
-<div class="gloss">
-<p class="number"></p>
-<div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
-<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
-</div>
-<p class="freetranslation">"There was a dog."</p>
-</div>
-
-<div class="gloss">
-<p class="number"></p>
-<div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
-<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
-</div>
-<p class="freetranslation">"There was a dog."</p>
+<p class="freetranslation">"He hit me with a fish."</p>
 </div>
 
 When used with a temporal noun, it indicates that the predicate occurs *throughout* the instrumental time period as seen in %{+1}% below.
@@ -206,10 +206,12 @@ When used with a temporal noun, it indicates that the predicate occurs *througho
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
-<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
+<dl> <dt>moqʼ-i-kʼi</dt> <dd>swallow<abbr>-IPFV-G5.SG</abbr></dd> </dl>
+<dl> <dt>ge-dʼa-qʼo</dt> <dd><abbr>3SG-NOM-REM.PST</abbr></dd> </dl>
+<dl> <dt>page-gi-∅</dt> <dd>happiness-<abbr>G5.SG-ACC</abbr></dd> </dl>
+<dl> <dt>tethe-gi-gi</dt> <dd>year-<abbr>G5.SG-INST</abbr></dd> </dl>
 </div>
-<p class="freetranslation">"There was a dog."</p>
+<p class="freetranslation">"He was happy throughout the year."</p>
 </div>
 
 When a stative noun like a feeling or emotion is put in the instrumental case, it highlights the state as a *cause or contributor* to the verb occuring, as seen in %{+1}% below.
@@ -217,32 +219,25 @@ When a stative noun like a feeling or emotion is put in the instrumental case, i
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
-<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
+<dl> <dt>thap-e-pi</dt> <dd>hit<abbr>-PFV-1SG</abbr></dd> </dl>
+<dl> <dt>gi-dʼe-bʼi</dt> <dd><abbr>3SG-NOM-PRS</abbr></dd> </dl>
+<dl> <dt>pʼatʼoni-gi-gi</dt> <dd>anger-<abbr>G5.SG-INST</abbr></dd> </dl>
 </div>
-<p class="freetranslation">"There was a dog."</p>
+<p class="freetranslation">"He hit me out of anger."</p>
 </div>
 
 #### Locative (*-to*)
 
-The Locative case indicates which noun the verb occurs at or near.  It is broadly used for any noun around which the predicate happens without conveying a sense of motion toward or away from the noun.  Most prepositions require a noun in the locative case, as sentence %{+2}% demonstrates.
+The Locative case indicates which noun the verb occurs at or near.  It is broadly used for any noun around which the predicate happens without conveying a sense of motion toward or away from the noun.
 
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
-<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
+<dl> <dt>qaqʼo-qith-i</dt> <dd>fish-catch-<abbr>IPFV</abbr></dd> </dl>
+<dl> <dt>mebʼa-dʼe-bʼi</dt> <dd><abbr>1PAU-NOM-PRS</abbr></dd> </dl>
+<dl> <dt>qine-ma-to</dt> <dd>river-<abbr>G2.SG-LOC</abbr></dd> </dl>
 </div>
-<p class="freetranslation">"There was a dog."</p>
-</div>
-
-<div class="gloss">
-<p class="number"></p>
-<div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
-<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
-</div>
-<p class="freetranslation">"There was a dog."</p>
+<p class="freetranslation">"We catch fish at the river."</p>
 </div>
 
 When used with a temporal noun it indicates that the predicate occurs *within* the locative time frame as seen in %{+1}% below.  Similarly, when used with a stative noun it indicates that the predicate occurs *while* the locative state was in effect as seen in %{+2}% below.
@@ -250,19 +245,21 @@ When used with a temporal noun it indicates that the predicate occurs *within* t
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
-<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
+<dl> <dt>t-a</dt> <dd>make_pottery<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>pʼa-dʼe-bʼi</dt> <dd><abbr>1SG-NOM-PRS</abbr></dd> </dl>
+<dl> <dt>dʼedʼobʼe-gi-to</dt> <dd>evening<abbr>-G5.SG-LOC</abbr></dd> </dl>
 </div>
-<p class="freetranslation">"There was a dog."</p>
+<p class="freetranslation">"I make pottery in the evening."</p>
 </div>
 
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
-<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
+<dl> <dt>nip-i</dt> <dd>live<abbr>-IPFV</abbr></dd> </dl>
+<dl> <dt>tho-me-dʼe-bʼi</dt> <dd>cat<abbr>-G2.PL-NOM-PRS</abbr></dd> </dl>
+<dl> <dt>bʼekʼe-gi-to</dt> <dd>leisure<abbr>-G5.SG-LOC</abbr></dd> </dl>
 </div>
-<p class="freetranslation">"There was a dog."</p>
+<p class="freetranslation">"Cats live in leisure."</p>
 </div>
 
 #### Allative (*-mo*)
@@ -272,40 +269,14 @@ The Allative case indicates which noun the verb occurs toward.  Unlike the Locat
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
-<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
+<dl> <dt>neqʼ-a</dt> <dd>walk<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>pʼa-dʼa-na</dt> <dd><abbr>1SG-NOM-FUT</abbr></dd> </dl>
+<dl> <dt>manena-qe-mo</dt> <dd>school-<abbr>G4.SG-ALL</abbr></dd> </dl>
 </div>
-<p class="freetranslation">"There was a dog."</p>
-</div>
-
-<div class="gloss">
-<p class="number"></p>
-<div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
-<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
-</div>
-<p class="freetranslation">"There was a dog."</p>
+<p class="freetranslation">"I will walk to school."</p>
 </div>
 
-When used with a temporal or stative noun, it indicates that the predicate occurs *until* the allative time or state is reached, as in %{+1}% and %{+2}% respectively.
-
-<div class="gloss">
-<p class="number"></p>
-<div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
-<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
-</div>
-<p class="freetranslation">"There was a dog."</p>
-</div>
-
-<div class="gloss">
-<p class="number"></p>
-<div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
-<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
-</div>
-<p class="freetranslation">"There was a dog."</p>
-</div>
+When used with a temporal or stative noun, it indicates that the predicate occurs *until* the allative time or state is reached.
 
 #### Ablative (*-di*)
 
@@ -314,84 +285,43 @@ The Ablative case indicates which noun the verb occurs away from.  Unlike the Lo
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
-<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
+<dl> <dt>mog-a</dt> <dd>shine<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>bʼeno-me-di</dt> <dd>sun-<abbr>G2.SG-ABL</abbr></dd> </dl>
+<dl> <dt>gaqʼe-ta-dʼe-mi</dt> <dd>light-<abbr>G5.PL-NOM-PRS</abbr></dd> </dl>
 </div>
-<p class="freetranslation">"There was a dog."</p>
-</div>
-
-<div class="gloss">
-<p class="number"></p>
-<div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
-<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
-</div>
-<p class="freetranslation">"There was a dog."</p>
+<p class="freetranslation">"Light shines from the sun."</p>
 </div>
 
-When used with temporal or stative nouns it indicates that the predicate has occured *since* the ablative time or state, as seen in %{+1}% and %{+2}% respectively.
+When used with temporal or stative nouns it indicates that the predicate has occured *since* the ablative time or state.
 
 #### Essive (*-qʼa*)
 
-The Essive inidicates which noun the nominative subject is equivalent to or existing as while the verb occurs.  On its own an essive noun typically reflects something which only situationally describes the nominative subject but might not be something fundamental to them, as %{+1}% and %{+2}% demonstrate.
+The Essive inidicates which noun the nominative subject is equivalent to or existing as while the verb occurs.  On its own an essive noun typically reflects something which only situationally describes the nominative subject but might not be something fundamental to them.
 
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
-<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
+<dl> <dt>tʼeq-i</dt> <dd>wear-<abbr>IPFV</abbr></dd> </dl>
+<dl> <dt>goge-dʼe-bʼi</dt> <dd><abbr>3PL-NOM-PRS</abbr></dd> </dl>
+<dl> <dt>thito-la-∅</dt> <dd>vines-<abbr>-G3.PL-ACC</abbr></dd> </dl>
+<dl> <dt>kʼoqahlo-la-qʼa</dt> <dd>clothing-<abbr>-G3.PL-ESS</abbr></dd> </dl>
 </div>
-<p class="freetranslation">"There was a dog."</p>
+<p class="freetranslation">"They wear vines as clothes."</p>
 </div>
+
+However, when used with [one of the copulae](#copulae) it can convey true or lasting equivalence as in %{+1}% below.
 
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
-<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
+<dl> <dt>notebʼ-i</dt> <dd>equivalence<abbr>.COP-IPFV</abbr></dd> </dl>
+<dl> <dt>lothe-ma-dʼe-bʼi</dt> <dd>that-<abbr>G2.SG-NOM-PRS</abbr></dd> </dl>
+<dl> <dt>kobe-ma-qʼa</dt> <dd>dog-<abbr>G2.SG-ESS</abbr></dd> </dl>
 </div>
-<p class="freetranslation">"There was a dog."</p>
-</div>
-
-However, when used with [one of the copulae](#copulae) it can convey true or lasting equivalence as in %{+1}% and %{+2}% below.
-
-<div class="gloss">
-<p class="number"></p>
-<div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
-<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
-</div>
-<p class="freetranslation">"There was a dog."</p>
-</div>
-
-<div class="gloss">
-<p class="number"></p>
-<div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
-<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
-</div>
-<p class="freetranslation">"There was a dog."</p>
+<p class="freetranslation">"That is a dog."</p>
 </div>
 
 Ultimately the temporary or permanent nature of the essive-nominative equivalence is dependant on the context, and periphrastic constructions can be used to clarify which sense is intended.
-
-<div class="gloss">
-<p class="number"></p>
-<div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
-<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
-</div>
-<p class="freetranslation">"There was a dog."</p>
-</div>
-
-<div class="gloss">
-<p class="number"></p>
-<div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
-<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
-</div>
-<p class="freetranslation">"There was a dog."</p>
-</div>
 
 ### Tense
 
@@ -416,20 +346,9 @@ Simple clauses make four tense distinctions: present, future, past, and remote p
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>aa</dt> <dd>search-<abbr>IPFV-G1.SG</abbr></dd> </dl>
-<dl> <dt>pʼa-dʼe-bʼi</dt> <dd><abbr>1SG-NOM-PRS</abbr></dd> </dl>
-<dl> <dt>cc</dt> <dd>mother-<abbr>G1.SG-ACC</abbr></dd> </dl>
-<dl> <dt>dd</dt> <dd><abbr>1SG-GEN</abbr></dd> </dl>
-</div>
-<p class="freetranslation">"I'm looking for my mother."</p>
-</div>
-
-<div class="gloss">
-<p class="number"></p>
-<div class="interlinear">
-<dl> <dt>aa</dt> <dd>fall-<abbr>IPFV</abbr></dd> </dl>
-<dl> <dt>bb</dt> <dd>rain-<abbr>G3.PL-NOM-PRS</abbr></dd> </dl>
-<dl> <dt>cc</dt> <dd>outside-<abbr>G4.SG-LOC</abbr></dd> </dl>
+<dl> <dt>lil-i</dt> <dd>fall-<abbr>IPFV</abbr></dd> </dl>
+<dl> <dt>hlatha-me-dʼe-bʼi</dt> <dd>rain-<abbr>G2.PL-NOM-PRS</abbr></dd> </dl>
+<dl> <dt>dʼobʼata-qe-to</dt> <dd>outside-<abbr>G4.SG-LOC</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"It's raining outside."</p>
 </div>
@@ -439,19 +358,18 @@ Events that have just happened or events that are about to happen are typically 
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>aa</dt> <dd>spill-<abbr>PFV-G3.SG</dd> </dl>
-<dl> <dt>aa</dt> <dd><abbr>3SG-NOM-PRS</dd> </dl>
-<dl> <dt>aa</dt> <dd>milk-<abbr>G3.SG-ACC</dd> </dl>
-<dl> <dt>aa</dt> <dd>table-<abbr>G4.SG-LOC</dd> </dl>
+<dl> <dt>hlebi-kʼebol-a-tha</dt> <dd>hand-poke-<abbr>PFV-G4.SG</dd> </dl>
+<dl> <dt>ge-dʼe-bʼi</dt> <dd><abbr>3SG-NOM-PRS</dd> </dl>
+<dl> <dt>tikimoqa-qo-∅</dt> <dd>beehive-<abbr>G4.SG-ACC</dd> </dl>
 </div>
-<p class="freetranslation">"He just spilled milk on the table."</p>
+<p class="freetranslation">"He just poked the beehive."</p>
 </div>
 
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>aa</dt> <dd>shower<abbr>-PFV</abbr></dd> </dl>
-<dl> <dt>aa</dt> <dd><abbr>1SG-NOM-PRS</abbr></dd> </dl>
+<dl> <dt>bʼibʼodʼ-a</dt> <dd>shower<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>pʼa-dʼe-bʼi</dt> <dd><abbr>1SG-NOM-PRS</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"I'm going to take a shower now."</p>
 </div>
@@ -461,21 +379,10 @@ Events that have just happened or events that are about to happen are typically 
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>aa</dt> <dd>eat-<abbr>PFV-G3.PAU</abbr></dd> </dl>
-<dl> <dt>bb</dt> <dd><abbr>1SG-NOM-FUT</abbr></dd> </dl>
-<dl> <dt>cc</dt> <dd>cookie-<abbr>G3.PAU-ACC</abbr></dd> </dl>
-<dl> <dt>cc</dt> <dd>dessert-<abbr>G3.SG-ESS</abbr></dd> </dl>
-</div>
-<p class="freetranslation">"I'll have some cookies for dessert."</p>
-</div>
-
-<div class="gloss">
-<p class="number"></p>
-<div class="interlinear">
-<dl> <dt>aa</dt> <dd>study-<abbr>IPFV</abbr></dd> </dl>
-<dl> <dt>bb</dt> <dd><abbr>3SG-NOM-FUT</abbr></dd> </dl>
-<dl> <dt>cc</dt> <dd>year-<abbr>G5.PL-INS</abbr></dd> </dl>
-<dl> <dt>cc</dt> <dd>three-<abbr>G5.PL</abbr></dd> </dl>
+<dl> <dt>ligin-i</dt> <dd>study-<abbr>IPFV</abbr></dd> </dl>
+<dl> <dt>gi-dʼa-do</dt> <dd><abbr>3SG-NOM-FUT</abbr></dd> </dl>
+<dl> <dt>tetha-te-gi</dt> <dd>year-<abbr>G5.PL-INS</abbr></dd> </dl>
+<dl> <dt>biqe-to</dt> <dd>three-<abbr>G5.PL</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"She will be studying for three years."</p>
 </div>
@@ -485,21 +392,11 @@ Events that have just happened or events that are about to happen are typically 
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>aa</dt> <dd>groceries-buy-<abbr>PFV</abbr></dd> </dl>
-<dl> <dt>bb</dt> <dd><abbr>1DU-NOM-PST</abbr></dd> </dl>
-<dl> <dt>cc</dt> <dd>yesterday-<abbr>G5.SG-LOC</abbr></dd> </dl>
+<dl> <dt>pʼapepʼa-gabʼahl-a</dt> <dd>groceries-buy-<abbr>PFV</abbr></dd> </dl>
+<dl> <dt>bʼabo-dʼe-mi</dt> <dd><abbr>1DU-NOM-PST</abbr></dd> </dl>
+<dl> <dt>nedʼobʼito-gi-to</dt> <dd>yesterday-<abbr>G5.SG-LOC</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"We bought groceries yesterday."</p>
-</div>
-
-<div class="gloss">
-<p class="number"></p>
-<div class="interlinear">
-<dl> <dt>aa</dt> <dd>sleep-<abbr>PFV</abbr></dd> </dl>
-<dl> <dt>bb</dt> <dd><abbr>2SG-NOM-PST</abbr></dd> </dl>
-<dl> <dt>cc</dt> <dd>noon-<abbr>G5.SG-ALL</abbr></dd> </dl>
-</div>
-<p class="freetranslation">"You slept until noon."</p>
 </div>
 
 ***Remote-past*** tense (-*qʼo*) is used to mark events long before to the moment of speech.
@@ -507,22 +404,12 @@ Events that have just happened or events that are about to happen are typically 
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>aa</dt> <dd>see-<abbr>PFV-2SG</abbr></dd> </dl>
-<dl> <dt>bb</dt> <dd><abbr>1SG-NOM-REM</abbr></dd> </dl>
-<dl> <dt>cc</dt> <dd>prior.year-<abbr>G5.SG-LOC</abbr></dd> </dl>
-<dl> <dt>cc</dt> <dd>holiday-<abbr>G5.SG-LOC</abbr></dd> </dl>
+<dl> <dt>paqʼ-e-qʼi</dt> <dd>see-<abbr>PFV-2SG</abbr></dd> </dl>
+<dl> <dt>pʼa-dʼa-qʼo</dt> <dd><abbr>1SG-NOM-REM.PST</abbr></dd> </dl>
+<dl> <dt>nedʼotethe-gi-to</dt> <dd>prior.year-<abbr>G5.SG-LOC</abbr></dd> </dl>
+<dl> <dt>bekʼebʼito-gi-to</dt> <dd>holiday-<abbr>G5.SG-LOC</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"I saw you during the holiday last year"</p>
-</div>
-
-<div class="gloss">
-<p class="number"></p>
-<div class="interlinear">
-<dl> <dt>aa</dt> <dd>fall-<abbr>IPFV</abbr></dd> </dl>
-<dl> <dt>bb</dt> <dd>rain-<abbr>G3.PL-NOM</abbr></dd> </dl>
-<dl> <dt>cc</dt> <dd>outside-<abbr>G4.SG-LOC</abbr></dd> </dl>
-</div>
-<p class="freetranslation">"It's raining outside."</p>
 </div>
 
 The distinction between *past* and *remote-past* involves both length of time and relevance to the present moment.  For example, imagine someone's house burned down and they were left homeless.  If the next day they were asked what happened, they would certainly respond using the *past* tense.
@@ -530,8 +417,9 @@ The distinction between *past* and *remote-past* involves both length of time an
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>aa</dt> <dd>burn_down-<abbr>PFV</abbr></dd> </dl>
-<dl> <dt>bb</dt> <dd>house-<abbr>G4.SG-NOM-PST</abbr></dd> </dl>
+<dl> <dt>nadaqatapʼ-a</dt> <dd>burn_down-<abbr>PFV</abbr></dd> </dl>
+<dl> <dt>dʼehle-qo-dʼe-mi</dt> <dd>house-<abbr>G4.SG-NOM-PST</abbr></dd> </dl>
+<dl> <dt>pʼe-tʼi-qo</dt> <dd><abbr>1SG-GEN-G5.SG</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"My house burned down (recently)."</p>
 </div>
@@ -541,8 +429,9 @@ Even up to several months later they would still likely describe the situation i
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>aa</dt> <dd>burn_down-<abbr>PFV</abbr></dd> </dl>
-<dl> <dt>bb</dt> <dd>house-<abbr>G4.SG-NOM-REM</abbr></dd> </dl>
+<dl> <dt>nadaqatapʼ-a</dt> <dd>burn_down-<abbr>PFV</abbr></dd> </dl>
+<dl> <dt>dʼehle-qo-dʼa-qʼo</dt> <dd>house-<abbr>G4.SG-POSS-NOM-REM.PST</abbr></dd> </dl>
+<dl> <dt>pʼe-tʼi-qo</dt> <dd><abbr>1SG-GEN-G5.SG</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"My house burned down (a while ago)."</p>
 </div>
@@ -551,7 +440,7 @@ Still, even if they remained homeless for the entire time afterward, they would 
 
 #### Relative Tense
 
-Within dependant clauses the past and remote-past merge into a single tense, leaving three tense distinctions: present (*-na*), future (*-ta*), and past (*-pʼi*).  The point of reference for these relative tenses is not the moment of speech, but rather the time of the event in the matrix predicate.
+Within dependant clauses the past and remote-past merge into a single tense, leaving three tense distinctions: **present** (*-na*), **future** (*-ta*), and **past** (*-pʼi*).  The point of reference for these relative tenses is not the moment of speech, but rather the time of the event in the matrix predicate.
 
 ## Pronouns
 
@@ -573,20 +462,12 @@ There are two demonstrative pronouns in Qʼathebʼo.  One is for referents near 
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>notebʼ-i</dt> <dd>equivalence.COP<abbr>-IPFV</abbr></dd> </dl>
-<dl> <dt>notebʼ-i</dt> <dd>this<abbr>-G1.SG-NOM-PRS</abbr></dd> </dl>
-<dl> <dt>notebʼ-i</dt> <dd>sister<abbr>-G1.SG-ESS</abbr></dd> </dl>
-<dl> <dt>notebʼ-i</dt> <dd><abbr>1SG-GEN</abbr></dd> </dl>
+<dl> <dt>notebʼ-i</dt> <dd>equivalence<abbr>.COP-IPFV</abbr></dd> </dl>
+<dl> <dt>lothe-ta-dʼe-bʼi</dt> <dd>this<abbr>-G1.SG-NOM-PRS</abbr></dd> </dl>
+<dl> <dt>qane-ta-qʼa</dt> <dd>parent<abbr>-G1.SG-ESS</abbr></dd> </dl>
+<dl> <dt>pʼe-tʼi-to</dt> <dd><abbr>1SG-GEN-G1.SG</abbr></dd> </dl>
 </div>
-<p class="freetranslation">"This is my sister."</p>
-</div>
-
-<div class="gloss">
-<p class="number"></p>
-<div class="interlinear">
-<dl> <dt>hl-a-lo</dt> <dd>eat<abbr>-PFV-G3.PL</abbr></dd> </dl>
-</div>
-<p class="freetranslation">"Bring that here."</p>
+<p class="freetranslation">"This is my mother."</p>
 </div>
 
 Like the English demonstratives "this" and "that", the Qʼathebʼo demonstratives can also be used to specify another noun rather than replacing it.  In this case they act like modifiers, appearing after the referent and taking [modifier agreement](#modifying-nouns) rather than number/case marking.
@@ -594,64 +475,28 @@ Like the English demonstratives "this" and "that", the Qʼathebʼo demonstrative
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>hl-a-lo</dt> <dd>eat<abbr>-PFV-G3.PL</abbr></dd> </dl>
+<dl> <dt>l-opa</dt> <dd><abbr>go-PROH</abbr></dd> </dl>
+<dl> <dt>ba-ma-mo</dt> <dd>squirrel-<abbr>G2.SG-ALL</abbr></dd> </dl>
+<dl> <dt>kedi-mo</dt> <dd>that-<abbr>G2.SG</abbr></dd> </dl>
 </div>
-<p class="freetranslation">"Don't go to near that squirrel."</p>
-</div>
-
-<div class="gloss">
-<p class="number"></p>
-<div class="interlinear">
-<dl> <dt>hl-a-lo</dt> <dd>eat<abbr>-PFV-G3.PL</abbr></dd> </dl>
-</div>
-<p class="freetranslation">"You should return this book to the library."</p>
+<p class="freetranslation">"Don't go near that squirrel."</p>
 </div>
 
 ### Reflexive Pronouns
 
-Reflexive pronouns are formed from personal or demonstrative pronouns by prefixing *patʼo-* to the front.  Reflexive pronouns refer to another established noun and are not used by themselves, though they can appear earlier in the same sentence as the referent, as sentence %{+3}% demonstrates.
+Reflexive pronouns are formed from personal or demonstrative pronouns by prefixing *patʼo-* to the front.  Reflexive pronouns refer to another established noun and are not used by themselves, though they can appear earlier in the same sentence as the referent.
 
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>hl-a-lo</dt> <dd>eat<abbr>-PFV-G3.PL</abbr></dd> </dl>
-<dl> <dt>be-ta-dʼe-mi</dt> <dd><abbr>Q-G1.SG-NOM-PST</abbr></dd> </dl>
-<dl> <dt>kebʼi-ki-∅</dt> <dd><abbr>berry-G3.PAU-ACC</abbr></dd> </dl>
+<dl> <dt>danopo-tʼaqedʼ-a</dt> <dd>letter-write<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>qʼedʼotalo-ta-dʼe-mi</dt> <dd>priest-<abbr>G1.SG-NOM-PST</abbr></dd> </dl>
+<dl> <dt>patʼo-ge-ta</dt> <dd>self-<abbr>3SG-DAT</abbr></dd> </dl>
 </div>
-<p class="freetranslation">"Who ate the berries?"</p>
-</div>
-
-<div class="gloss">
-<p class="number"></p>
-<div class="interlinear">
-<dl> <dt>hl-a-lo</dt> <dd>eat<abbr>-PFV-G3.PL</abbr></dd> </dl>
-<dl> <dt>be-ta-dʼe-mi</dt> <dd><abbr>Q-G1.SG-NOM-PST</abbr></dd> </dl>
-<dl> <dt>kebʼi-ki-∅</dt> <dd><abbr>berry-G3.PAU-ACC</abbr></dd> </dl>
-</div>
-<p class="freetranslation">"Who ate the berries?"</p>
+<p class="freetranslation">"The priest wrote a letter to herself."</p>
 </div>
 
-<div class="gloss">
-<p class="number"></p>
-<div class="interlinear">
-<dl> <dt>hl-a-lo</dt> <dd>eat<abbr>-PFV-G3.PL</abbr></dd> </dl>
-<dl> <dt>be-ta-dʼe-mi</dt> <dd><abbr>Q-G1.SG-NOM-PST</abbr></dd> </dl>
-<dl> <dt>kebʼi-ki-∅</dt> <dd><abbr>berry-G3.PAU-ACC</abbr></dd> </dl>
-</div>
-<p class="freetranslation">"Who ate the berries?"</p>
-</div>
-
-Reflexive nouns are frequently [incorporated into verbs](#noun-incorporation) when the subject and object match, as seen in sentence %{+1}% below.
-
-<div class="gloss">
-<p class="number"></p>
-<div class="interlinear">
-<dl> <dt>hl-a-lo</dt> <dd>eat<abbr>-PFV-G3.PL</abbr></dd> </dl>
-<dl> <dt>be-ta-dʼe-mi</dt> <dd><abbr>Q-G1.SG-NOM-PST</abbr></dd> </dl>
-<dl> <dt>kebʼi-ki-∅</dt> <dd><abbr>berry-G3.PAU-ACC</abbr></dd> </dl>
-</div>
-<p class="freetranslation">"Who ate the berries?"</p>
-</div>
+Reflexive nouns are frequently [incorporated into verbs](#noun-incorporation) when the subject and object match.
 
 ### Interrogative Pronouns
 
@@ -670,8 +515,8 @@ There is a general interrogative pronoun *bi* used in most wh-questions.  It is 
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>aa-i</dt> <dd>write<abbr>-IPFV</abbr></dd> </dl>
-<dl> <dt>qe-dʼe-bi</dt> <dd><abbr>2SG-NOM-PRS</abbr></dd> </dl>
+<dl> <dt>tʼeqidʼ-i</dt> <dd>write<abbr>-IPFV</abbr></dd> </dl>
+<dl> <dt>qe-dʼe-bʼi</dt> <dd><abbr>2SG-NOM-PRS</abbr></dd> </dl>
 <dl> <dt>bi-gi</dt> <dd><abbr>Q-INST</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"What are you writing with?"</p>
@@ -680,7 +525,7 @@ There is a general interrogative pronoun *bi* used in most wh-questions.  It is 
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>aa-a</dt> <dd>sit<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>kʼ-a</dt> <dd>sit<abbr>-PFV</abbr></dd> </dl>
 <dl> <dt>bʼabo-dʼe-bi</dt> <dd><abbr>1DU-NOM-PRS</abbr></dd> </dl>
 <dl> <dt>bi-to</dt> <dd><abbr>Q-LOC</abbr></dd> </dl>
 </div>
@@ -722,7 +567,7 @@ The imperative aspect is used for commands or urgent statements to the listener.
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>aa</dt> <dd>be.careful<abbr>-IMP</abbr></dd> </dl>
+<dl> <dt>didim-o</dt> <dd>be.careful<abbr>-IMP</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"Be careful!"</p>
 </div>
@@ -730,12 +575,12 @@ The imperative aspect is used for commands or urgent statements to the listener.
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>bb</dt> <dd>close<abbr>-IMP</abbr></dd> </dl>
-<dl> <dt>aa</dt> <dd>door<abbr>-G3.SG-ACC</abbr></dd> </dl>
+<dl> <dt>kʼakʼ-o-di</dt> <dd>close<abbr>-IMP-G3.SG</abbr></dd> </dl>
+<dl> <dt>hlotigi-ga-∅</dt> <dd>door<abbr>-G3.SG-ACC</abbr></dd> </dl>
 <dl> <dt>kʼahla</dt> <dd>so.that</dd> </dl>
 <dl> <dt>theni</dt> <dd><abbr>NEG</abbr></dd> </dl>
-<dl> <dt>ee</dt> <dd>outside-go-<abbr>IND</abbr></dd> </dl>
-<dl> <dt>ff</dt> <dd>cat-<abbr>G2.SG-NOM-PRS</abbr></dd> </dl>
+<dl> <dt>dʼobʼatal-a</dt> <dd>outside-go-<abbr>PFV</abbr></dd> </dl>
+<dl> <dt>tho-ma-dʼe-bʼi</dt> <dd>cat-<abbr>G2.SG-NOM-PRS</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"Close the door before the cat gets out!"</p>
 </div>
@@ -743,10 +588,10 @@ The imperative aspect is used for commands or urgent statements to the listener.
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>aa</dt> <dd>get<abbr>-IMP</abbr></dd> </dl>
-<dl> <dt>bb</dt> <dd><abbr>2PL-NOM-PRS</abbr></dd> </dl>
-<dl> <dt>cc</dt> <dd><abbr>1SG-DAT</abbr></dd> </dl>
-<dl> <dt>dd</dt> <dd>bush<abbr>-G3.SG-ACC</abbr></dd> </dl>
+<dl> <dt>tekʼeq-o-di</dt> <dd>carry<abbr>-IMP-G3.SG</abbr></dd> </dl>
+<dl> <dt>thoqe-dʼe-bʼi</dt> <dd><abbr>2PL-NOM-PRS</abbr></dd> </dl>
+<dl> <dt>pʼa-mo</dt> <dd><abbr>1SG-ALL</abbr></dd> </dl>
+<dl> <dt>pʼekʼoma-ga-∅</dt> <dd>bush<abbr>-G3.SG-ACC</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"Bring me a shrubbery."</p>
 </div>
@@ -770,11 +615,11 @@ Transitive verbs are marked for the animacy group, person, and number of the dir
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>aa</dt> <dd>hit<abbr>-PFV-G2.PL</abbr></dd> </dl>
-<dl> <dt>bb</dt> <dd><abbr>1SG-NOM-PST</abbr></dd> </dl>
-<dl> <dt>cc</dt> <dd>and-bird-<abbr>G2.SG-ACC</abbr></dd> </dl>
-<dl> <dt>dd</dt> <dd>and-nest<abbr>-G4.SG-POSS-ACC</abbr></dd> </dl>
-<dl> <dt>ee</dt> <dd><abbr>G2.SG-GEN</abbr></dd> </dl>
+<dl> <dt>thap-a-mo</dt> <dd>hit<abbr>-PFV-G2.PL</abbr></dd> </dl>
+<dl> <dt>pʼa-dʼe-mi</dt> <dd><abbr>1SG-NOM-PST</abbr></dd> </dl>
+<dl> <dt>kilo-ma-∅</dt> <dd>bird-<abbr>G2.SG-ACC</abbr></dd> </dl>
+<dl> <dt>dʼameqʼe-qe-tʼo-∅</dt> <dd>nest<abbr>-G4.SG-POSS-ACC</abbr></dd> </dl>
+<dl> <dt>kade-me-tʼi-qo</dt> <dd>that-<abbr>G2.SG-GEN-G4.SG</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"I hit the bird and its nest with the stone."</p>
 </div>
@@ -804,10 +649,6 @@ Lexical Compounding turns a transitive verb into an intransitive verb with a nar
 
 Another type of noun incorporation affects the structure of a clause by moving an instrument, location, or possessed noun to direct object (or even subject) role.  This turns a transitive verb into another transitive verb, but with different relationships to the nouns in the phrase.  Unlike Lexical Compounding, this could involve individuated objects and doesn't necessarily mean that the incorporated object is non-specific.
 
-#### Manipulation of Discourse Structure
-
-Noun incorporation is sometimes used to background one of the referents established earlier in the discourse, moving focus to some other unincorporated part of the sentence.  Like the Lexical Compounding type of incoporation this usually creates an intransitive verb, but because the referent was previously established it does not lose its specificity.  This is hard to demonstrate in a single sentence, so a short paragraph is given below with the discourse-type incorporation highlighted in bold.
-
 ### Copulae
 
 There are several verbs in Qʼathebʼo that perform the functions of English "be".  Aside from marking tense ("was, is, will be"; see [nominal tense](#tense)), the English verb "be" links a subject to another noun phrase reflecting a property, states, location, equivalence, exists, or some other aspect of the subject.  These various types of noun phrases are differentiated in Qʼathebʼo by different verbs, though they all take the form of a body part incorporated into the verb *bʼa* roughly meaning "idly move" (see dictionary for related terms).  When using these copula verbs, the compliment noun phrase typically appears in a specific case other than accusative.
@@ -819,7 +660,7 @@ There are several verbs in Qʼathebʼo that perform the functions of English "be
 <div class="interlinear">
 <dl> <dt>qʼoqebʼ-a</dt> <dd>property.COP<abbr>-PFV</abbr></dd> </dl>
 <dl> <dt>qona-dʼe-bʼi</dt> <dd><abbr>2DU-NOM-PRS</abbr></dd> </dl>
-<dl> <dt>aa-qʼa</dt> <dd>tall<abbr>-ESS</abbr></dd> </dl>
+<dl> <dt>kikipʼo-qʼa</dt> <dd>tall<abbr>-ESS</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"You two are tall."</p>
 </div>
@@ -829,7 +670,7 @@ There are several verbs in Qʼathebʼo that perform the functions of English "be
 <div class="interlinear">
 <dl> <dt>qʼoqibʼ-i</dt> <dd>property.COP<abbr>-IPFV</abbr></dd> </dl>
 <dl> <dt>kome-ga-dʼa-bʼi</dt> <dd>window<abbr>-G3.SG-NOM-PRS</abbr></dd> </dl>
-<dl> <dt>aa-qʼa</dt> <dd>open<abbr>-ESS</abbr></dd> </dl>
+<dl> <dt>moni-qʼa</dt> <dd>open<abbr>-ESS</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"The window is open."</p>
 </div>
@@ -841,7 +682,7 @@ There are several verbs in Qʼathebʼo that perform the functions of English "be
 <div class="interlinear">
 <dl> <dt>moqʼabʼ-a</dt> <dd>emotion.COP<abbr>-PFV</abbr></dd> </dl>
 <dl> <dt>pʼa-dʼe-mi</dt> <dd><abbr>1SG-NOM-PST</abbr></dd> </dl>
-<dl> <dt>aa-ge-qʼa</dt> <dd>anger<abbr>-G5.SG-ESS</abbr></dd> </dl>
+<dl> <dt>pʼatʼoni-ge-qʼa</dt> <dd>anger<abbr>-G5.SG-ESS</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"I was angry."</p>
 </div>
@@ -853,7 +694,7 @@ There are several verbs in Qʼathebʼo that perform the functions of English "be
 <div class="interlinear">
 <dl> <dt>tʼethabʼ-a</dt> <dd>location.COP<abbr>-PFV</abbr></dd> </dl>
 <dl> <dt>mebʼa-dʼa-do</dt> <dd><abbr>1PAU-NOM-FUT</abbr></dd> </dl>
-<dl> <dt>aa-qe-to</dt> <dd>school<abbr>-G4.SG-LOC</abbr></dd> </dl>
+<dl> <dt>manena-qe-to</dt> <dd>school<abbr>-G4.SG-LOC</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"We will be at school."</p>
 </div>
@@ -865,7 +706,7 @@ There are several verbs in Qʼathebʼo that perform the functions of English "be
 <div class="interlinear">
 <dl> <dt>notebʼ-i</dt> <dd>equivalence.COP<abbr>-IPFV</abbr></dd> </dl>
 <dl> <dt>pʼa-dʼe-bʼi</dt> <dd><abbr>1SG-NOM-PRS</abbr></dd> </dl>
-<dl> <dt>aa-ta-qʼo</dt> <dd>potter<abbr>-G1.SG-ESS</abbr></dd> </dl>
+<dl> <dt>bʼaneno-ta-qʼo</dt> <dd>potter<abbr>-G1.SG-ESS</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"I am a potter."</p>
 </div>
@@ -893,31 +734,33 @@ The adverb *theni* negates the following verb.  This is often a simple negation,
 
 ### Time
 
-Some adverbs place verbs in context of the broader discourse.  Some simple examples include *dibo* ("before") and *lapo* ("after") which place the affected verb as background context, and which another verb can occur either before or after.
+Some adverbs place verbs in context of the broader discourse.  Some simple examples include *lapo* ("earlier") and *deba* ("later") which place the affected verb as background context and places it either before or after another verb, respectively.
 
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
-<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
+<dl> <dt></dt> <dd>breakfast-eat-<abbr>PFV</abbr></dd> </dl>
+<dl> <dt></dt> <dd><abbr>1SG-NOM-PST</abbr></dd> </dl>
+<dl> <dt>deba</dt> <dd>later</dd> </dl>
+<dl> <dt></dt> <dd>go-<abbr>PFV</abbr></dd> </dl>
+<dl> <dt></dt> <dd>school-<abbr>G4.SG-ALL</abbr></dd> </dl>
 </div>
-<p class="freetranslation">"There was a dog."</p>
-</div>
-
-<div class="gloss">
-<p class="number"></p>
-<div class="interlinear">
-<dl> <dt>qipʼabʼ-a</dt> <dd>exist.COP<abbr>-PFV</abbr></dd> </dl>
-<dl> <dt>kobe-ma-dʼa-qʼo</dt> <dd>dog<abbr>-G2.SG-NOM-REM.PST</abbr></dd> </dl>
-</div>
-<p class="freetranslation">"There was a dog."</p>
+<p class="freetranslation">"I ate breakfast, then went to school." or "I went to school after I ate breakfast."</p>
 </div>
 
 Another temporal adverb is *bʼaqa* ("yet"), which emphasizes that the affected verb continues to reflect the current situation and hasn't changed.  This is described in more detail in the [section on Phasal Polarity](#adverb-bʼaqa).
 
 ### Purpose
 
-The adverb *kʼahla* ("so that") indicates that the affected verb describes the reason or intention for another verb to happen.  It usually links two independent clauses that might otherwise require one of them to become a relative clause.
+The adverb *kʼahla* ("because; so that") indicates that the affected verb describes the reason or intention for another verb to happen.  It usually links two independent clauses that might otherwise require one of them to become a relative clause.
+
+### Result
+
+The adverb *takʼo* ("thus") indicates that the affected verb is the result of some other predicate.
+
+### Linking Clauses
+
+There are several adverbs that specify the relationship between one predicate to another.  These include *dala* ("rather"), *deqo* ("moreover"), *kidʼi* ("however"), and *hlekʼo* ("also").  They place the affected verb in context of another predicate, usually the predicate that preceded it.
 
 ## Modifiers
 
@@ -931,7 +774,6 @@ When modifiers are used with verbs, they occur after the verb and before any nou
 
 <div class="gloss">
 <p class="number"></p>
-<p class="original">𞤑𞥇𞤢 𞤬𞤮𞤸𞤢 𞤬𞤮𞤥𞤢𞤯𞤫𞤥𞤭 𞤳𞤮𞤥𞤫𞤯𞤢𞤼𞤮.</p>
 <div class="interlinear">
 <dl> <dt>kʼ-a</dt> <dd>sit-<abbr>PFV</abbr></dd> </dl>
 <dl> <dt>thohla</dt> <dd>quiet</dd> </dl>
@@ -943,7 +785,6 @@ When modifiers are used with verbs, they occur after the verb and before any nou
 
 <div class="gloss">
 <p class="number"></p>
-<p class="original">𞤖𞤫𞤣𞤭 𞤩𞤭𞤼𞤫𞤣𞤫 𞤨𞥇𞤢𞤯𞤫𞤩𞤭 𞤼𞤫𞤬𞤮𞤯𞤢 𞤨𞤢𞤼𞥇𞤫𞤯𞤢𞤹𞥇𞤢.</p>
 <div class="interlinear">
 <dl> <dt>hl-e-di</dt> <dd>eat-<abbr>PFV-G3.SG</abbr></dd> </dl>
 <dl> <dt>bʼitedo</dt> <dd>daily</dd> </dl>
@@ -969,7 +810,6 @@ When modifiers are used with nouns, they occur after the noun and inflect to agr
 
 <div class="gloss">
 <p class="number"></p>
-<p class="original">𞤑𞥇𞤢 𞤬𞤮𞤥𞤢𞤯𞤫𞤥𞤭 𞤬𞤮𞤸𞤢𞤥𞤮 𞤳𞤮𞤥𞤫𞤯𞤢𞤼𞤮.</p>
 <div class="interlinear">
 <dl> <dt>kʼ-a</dt> <dd>sit-<abbr>PFV</abbr></dd> </dl>
 <dl> <dt>tho-ma-dʼe-mi</dt> <dd>cat-<abbr>G2.SG-NOM-PST</abbr></dd> </dl>
@@ -981,7 +821,6 @@ When modifiers are used with nouns, they occur after the noun and inflect to agr
 
 <div class="gloss">
 <p class="number"></p>
-<p class="original">𞤖𞤫𞤣𞤭 𞤨𞥇𞤢𞤯𞤫𞤩𞤭 𞤼𞤫𞤬𞤮𞤯𞤢 𞤨𞤢𞤼𞥇𞤫𞤯𞤢𞤹𞥇𞤢 𞤩𞤭𞤼𞤫𞤣𞤫𞤯𞤮.</p>
 <div class="interlinear">
 <dl> <dt>hl-e-di</dt> <dd>eat-<abbr>PFV-G3.SG</abbr></dd> </dl>
 <dl> <dt>pʼa-dʼe-bʼi</dt> <dd><abbr>1SG-NOM-PRS</abbr></dd> </dl>
@@ -998,7 +837,6 @@ Numbers in Qʼathebʼo are modifiers that specify either the number of instances
 
 <div class="gloss">
 <p class="number"></p>
-<p class="original">𞤆𞥇𞤫𞤼𞤢𞤥𞤮 𞤺𞤫𞤯𞤫𞤥𞤭 𞤹𞤢𞤹𞥇𞤮𞤬𞤭 𞤦𞤭𞤹𞤫𞤥𞤮.</p>
 <div class="interlinear">
 <dl> <dt>pʼet-a-mo</dt> <dd>cook-<abbr>PFV-G2.PL</abbr></dd> </dl>
 <dl> <dt>ge-dʼe-mi</dt> <dd><abbr>3SG-NOM-PST</abbr></dd> </dl>
@@ -1010,7 +848,6 @@ Numbers in Qʼathebʼo are modifiers that specify either the number of instances
 
 <div class="gloss">
 <p class="number"></p>
-<p class="original">𞤂𞤮 𞤯𞤫𞤸𞤫𞤹𞤫𞤥𞤮 𞤹𞤮𞤦𞤭𞤹𞤫𞤹𞤮.</p>
 <div class="interlinear">
 <dl> <dt>l-o</dt> <dd>go<abbr>-IMP</abbr></dd> </dl>
 <dl> <dt>dʼehle-qe-mo</dt> <dd>house<abbr>-G4.SG-ALL</abbr></dd> </dl>
@@ -1021,7 +858,6 @@ Numbers in Qʼathebʼo are modifiers that specify either the number of instances
 
 <div class="gloss">
 <p class="number"></p>
-<p class="original">𞤐𞤫𞤹𞥇𞤢 𞤦𞤢𞤬𞤢 𞤨𞥇𞤢𞤯𞤫𞤩𞤭 𞤥𞤢𞤼𞤮.</p>
 <div class="interlinear">
 <dl> <dt>neqʼ-a</dt> <dd>walk<abbr>-PFV</abbr></dd> </dl>
 <dl> <dt>batha</dt> <dd>ten</dd> </dl>
