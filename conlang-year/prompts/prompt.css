@@ -1,0 +1,34 @@
+:root {
+	--background: #272727;
+}
+
+html {
+	background-color: var(--background);
+	color: #e6e6e6;
+}
+
+body {
+	max-width: 70ch;
+	margin: 2rem auto;
+	line-height: 1.75;
+	font-family: 'Arial', sans-serif;
+	padding: 1rem;
+}
+
+.nav {
+	position: fixed;
+	top: 0;
+	background-color: var(--background);
+	width: 100%;
+	display: flex;
+	gap: 1em;
+	padding: 0.5rem;
+}
+
+a {
+	color: skyblue;
+}
+
+a:hover {
+	color: blueviolet;
+}
