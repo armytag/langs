@@ -25,6 +25,10 @@ body {
 	padding: 0.5rem;
 }
 
+p {
+	margin: 2ch;
+}
+
 a {
 	color: skyblue;
 }
