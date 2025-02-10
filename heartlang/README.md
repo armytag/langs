@@ -25,25 +25,27 @@ Sounds from inspiration:
 
 ## Phonology
 
-| CONSONANTS  | Labial | Alveolar | Palatal | Velar | Glottal |
-|---          |---     |---       |---      |---    |---      |
-| Nasal       | m      | n        |         |       |         |
-| Plosive     | p      | t        | tɕ      | k     | ʔ       |
-| Aspirated   | pʰ     | tʰ       | tɕʰ     | kʰ    |         |
-| Fricative   | f      | s        | ɕ       | x     |         |
-| Approximant | ʋ      | l        | j       | w     | ɦ       |
-| Trill       |        | r        |         |       |         |
+| EGYPTIAN    | Labial | Alveolar | Alv. Pal. | Palatal | Velar | Uvular | Glottal |
+|---          |---     |---       |---        |---      |---    | ---    |---      |
+| Nasal       | m      | n        |           |         |       |        |         |
+| Plosive     | pʰ b   | tʰ tʼ    |           | cʰ cʼ   | kʰ kʼ | qʼ     | ʔ       |
+| Fricative   | f      | sʲ sʼ    | ʃ         | ç       |       | χ      | h       |
+| Approximant | w      | l        |           | j       |       |        |         |
+| Trill       |        | r        |           |         |       | ʀ      |         |
+
+| MAYAN       | Labial | Alveolar | Alv. Pal. | Palatal | Velar | Uvular | Glottal |
+|---          |---     |---       |---        |---      |---    | ---    |---      |
+| Nasal       | m      | n        |           |         |       |        |         |
+| Plosive     | p ɓ    | t tʼ     |           |         | k kʼ  |        | ʔ       |
+| Fricative   |        | s        |           | ʃ       | x     |        | h       |
+| Approximant | w      | l        |           | j       |       |        |         |
+| Affricate   |        | ts tsʼ   |           | tʃ tʃʼ  |       |        |         |
 
 | VOWELS | Front | Central | Back |
 |---     |---    |---      |---   |
-| High   | i     | ɨ       | u    |
-| Mid    | e     |         | o    |
-| Low    |       | a       |      |
-
-- ij → iː
-- uw → uː
-- ʌw → ɔː
-- ɨw → ʉː
+| High   | i iː  |         | u uː |
+| Mid    | e eː  |         | o oː |
+| Low    |       | a aː    |      |
 
 ## Phonotactics
 
