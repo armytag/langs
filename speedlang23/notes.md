@@ -21,6 +21,9 @@
     - Some interaction with passives or other valency changing?
 - Suppletion in a particle separate from verb (e.g. tense)
 - Possession: owning vs holding, distinguished by whether you carry it with your body ("portability"?)
+    - my son > son-POSS 1SG
+    - my house > house-POSS 1SG
+    - my book > 1SG.GEN book
 
 ## Prompt
 
