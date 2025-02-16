@@ -1,3 +1,18 @@
+## Phonology
+
+| CONSONANTS  | Labial | Dental | Palatal | Velar | Lab. Velar |
+| ---         | ---    | ---    | ---     | ---   | ---        |
+| Plosive     | p b    | t d    | tʃ      | k     | kʷ         |
+| Fricative   |        | s      | ʃ       | x     | xʷ         |
+| Nasal       | m      | n      |         | ŋ     | ŋʷ         |
+| Approximant | w      | l      | j       |       |            |
+
+| VOWELS | Front | Central | Back |
+| ---    | ---   | ---     | ---  |
+| Close  | i ĩ   |         | u ũ  |
+| Mid    | e     |         | o    |
+| Open   |       | a ã     |      |
+
 ## Prompt
 
 ### Phonology constraints
@@ -24,19 +39,3 @@
 1. Finally, write some description of the sea! (leaving this broad, so either “it's big and wet” or a poem or a scientific definition or whatever! surprise me!) - if your people don't live by the sea tell me about how they might describe it if they saw it (big lake? like the sky but wet? liquid substance with stuff in it?) 
 1. As a bonus; show me a sea or water related conceptual metaphor
 
-## Phonology
-
-| CONSONANTS | Labial | Dental | Alveolar | Velar | Lab. Velar |
-| ---        | ---    | ---    | ---      | ---   | ---        |
-| Plosive    | p      | t̻      | t̺        | k     | kʷ         |
-| Fricative  |        | s      | ʃ        | x     | xʷ         |
-| Nasal      | m      | n      |          | ŋ     | ŋʷ         |
-| Lateral    |        | l      |          |       |            |
-
-| VOWELS | Front | Central | Back |
-| ---    | ---   | ---     | ---  |
-| Close  | i ĩ   |         | u ũ  |
-| Mid    | e ẽ   |         | o õ  |
-| Open   |       | a ã     |      |
-
-- Diphthongs: eu̯ oi̯
