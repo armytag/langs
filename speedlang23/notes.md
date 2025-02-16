@@ -15,6 +15,13 @@
 
 - Diphthongs: ei oi au
 
+## Morphosyntax
+
+- Split-ergative based on tense/aspect
+    - Some interaction with passives or other valency changing?
+- Suppletion in a particle separate from verb (e.g. tense)
+- Possession: owning vs holding, distinguished by whether you carry it with your body ("portability"?)
+
 ## Prompt
 
 ### Phonology constraints
