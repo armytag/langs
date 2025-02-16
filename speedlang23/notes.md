@@ -1,11 +1,11 @@
 ## Phonology
 
-| CONSONANTS  | Labial | Dental | Vel. Alv. | Palatal | Velar |
-| ---         | ---    | ---    | ---       | ---     | ---   |
-| Plosive     | p      | t      | tˠ        | tʃ      | k     |
-| Fricative   |        | s      | sˠ        | ʃ       | x     |
-| Nasal       | m      | n      |           |         | ŋ     |
-| Approximant | w      | l      | ɫ         | j       |       |
+| CONSONANTS  | Labial | Dental | Velarized Alveolar | Palatal | Velar |
+| ---         | ---    | ---    | ---                | ---     | ---   |
+| Plosive     | p      | t      | tˠ                 | tʃ      | k     |
+| Fricative   |        | s      | sˠ                 | ʃ       | x     |
+| Nasal       | m      | n      |                    |         | ŋ     |
+| Approximant | w      | l      | ɫ                  | j       |       |
 
 | VOWELS | Front | Central | Back |
 | ---    | ---   | ---     | ---  |
