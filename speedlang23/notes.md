@@ -1,17 +1,19 @@
 ## Phonology
 
-| CONSONANTS  | Labial | Dental | Palatal | Velar | Lab. Velar |
-| ---         | ---    | ---    | ---     | ---   | ---        |
-| Plosive     | p b    | t d    | tʃ      | k     | kʷ         |
-| Fricative   |        | s      | ʃ       | x     | xʷ         |
-| Nasal       | m      | n      |         | ŋ     | ŋʷ         |
-| Approximant | w      | l      | j       |       |            |
+| CONSONANTS  | Labial | Dental | Vel. Alv. | Palatal | Velar |
+| ---         | ---    | ---    | ---       | ---     | ---   |
+| Plosive     | p      | t      | tˠ        | tʃ      | k     |
+| Fricative   |        | s      | sˠ        | ʃ       | x     |
+| Nasal       | m      | n      |           |         | ŋ     |
+| Approximant | w      | l      | ɫ         | j       |       |
 
 | VOWELS | Front | Central | Back |
 | ---    | ---   | ---     | ---  |
 | Close  | i ĩ   |         | u ũ  |
 | Mid    | e     |         | o    |
 | Open   |       | a ã     |      |
+
+- Diphthongs: ei oi au
 
 ## Prompt
 
