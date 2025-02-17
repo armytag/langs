@@ -1,11 +1,56 @@
 ## Phonology
 
-| CONSONANTS  | Labial | Alveolar | Palatal | Velar | Labialized Velar |
+|             | Labial | Alveolar | Velar  |
+| ---         | ---    | ---      | ---    |
+| Voiceless   | p      | t → k    | k → kʷ |
+| Voiced      | b → m  | d → t    | g → ŋ  |
+| Fricative   | f → xʷ | s        | x      |
+| Nasal       | m → n  | n → l    |        |
+: Proto Consonants
+
+1. b m l → m n l
+1. d t k → t k kʷ
+1. f → h / _C
+1. f → xʷ / else
+1. x → j / V0_V0
+1. g → w
+1. V{n,m} → Ṽ / ! _V
+
+|         | m-       | n-       | f-       | s-       | x-       |
+| ---     | ---      | ---      | ---      | ---      | ---      |
+| -p      | mp → np  | np → lp  | fp → hp  | sp       | xp       |
+| -t      | mt → nk  | nt → lk  | ft → hk  | st → sk  | xt → xk  |
+| -k      | mk → nkʷ | nk → lkʷ | fk → hkʷ | sk → skʷ | xk → xkʷ |
+| -b      | mb → nm  | nb → lm  | fb → hm  | sb → sm  | xb → xm  |
+| -d      | md → nt  | nd → lt  | fd → ht  | sd → st  | xd → xt  |
+| -g      | mg → nw  | ng → lw  | fg → hw  | sg → sw  | xg → xw  |
+| -f      | mf → nxʷ | nf → lxʷ | ff → hxʷ | sf → sxʷ | xf → xxʷ |
+| -s      | ms → ns  | ns → ls  | fs → hs  | ss       | xs       |
+| -x      | mx → nx  | nx → lx  | fx → hx  | sx       | xx       |
+| -m      | mm → nn  | nm → ln  | fm → hn  | sm → sn  | xm → xn  |
+| -n      | mn → nl  | nn → ll  | fn → hl  | sn → sl  | xn → xl  |
+
+- baxa → maja
+- boxi → moxi
+- baxta → maxka
+- pamna → panla → pãla
+- fumminason → xʷũnilasõ
+
+|             | Labial | Alveolar | Velar | Labialized Velar |
+| ---         | ---    | ---      | ---   | ---              |
+| Voiceless   | p      | t        | k     | kʷ               |
+| Fricative   |        | s        | x     | xʷ               |
+| Nasal       | m      | n        |       |                  |
+| Approximant | w      | l        | j     |                  |
+: Middle Consonants
+
+|             | Labial | Alveolar | Palatal | Velar | Labialized Velar |
 | ---         | ---    | ---      | ---     | ---   | ---              |
 | Plosive     | p      | t        | tʲ      | k     | kʷ               |
 | Fricative   |        | s        | sʲ      | x     | xʷ               |
 | Nasal       | m      | n        |         | ŋ     |                  |
 | Approximant |        | l        | j       |       | w                |
+: Modern Consonants
 
 | Strong | Weak |
 | ---    | ---  |
@@ -16,13 +61,14 @@
 | NN     | N    |
 | FF     | F    |
 | GG     | G    |
-:Consonant Gradation
+: Consonant Gradation
 
-| VOWELS | Front | Central | Back |
+|        | Front | Central | Back |
 | ---    | ---   | ---     | ---  |
 | Close  | i ĩ   |         | u ũ  |
 | Mid    | e     |         | o    |
 | Open   |       | a ã     |      |
+: Vowels
 
 - Diphthongs: ei oi au
 
