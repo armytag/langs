@@ -1,11 +1,22 @@
 ## Phonology
 
-| CONSONANTS  | Labial | Dental | Velarized Alveolar | Palatal | Velar |
-| ---         | ---    | ---    | ---                | ---     | ---   |
-| Plosive     | p      | t      | tˠ                 | tʃ      | k     |
-| Fricative   |        | s      | sˠ                 | ʃ       | x     |
-| Nasal       | m      | n      |                    |         | ŋ     |
-| Approximant | w      | l      | ɫ                  | j       |       |
+| CONSONANTS  | Labial | Alveolar | Palatal | Velar | Labialized Velar |
+| ---         | ---    | ---      | ---     | ---   | ---              |
+| Plosive     | p      | t        | tʲ      | k     | kʷ               |
+| Fricative   |        | s        | sʲ      | x     | xʷ               |
+| Nasal       | m      | n        |         | ŋ     |                  |
+| Approximant |        | l        | j       |       | w                |
+
+| Strong | Weak |
+| ---    | ---  |
+| NT     | NN   |
+| NN     | N    |
+| FT     | FF   |
+| GT     | GG   |
+| NN     | N    |
+| FF     | F    |
+| GG     | G    |
+:Consonant Gradation
 
 | VOWELS | Front | Central | Back |
 | ---    | ---   | ---     | ---  |
