@@ -1,6 +1,9 @@
 ## Summary
 
 - Synthetic nominative present vs. analytic ergative past
+- Stem endings change to form past form
+- Direct and Oblique cases for nouns
+    - Pronouns include an enclitic form that can only be used in oblique situations
 
 ## Verbs
 
