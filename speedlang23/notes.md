@@ -6,6 +6,15 @@
 
 ### One Under-used Vowel Feature
 
+Nasalization (or maybe length).
+
+|       | Front | Center | Back  |
+| ---   | :---: | :---:  | :---: |
+| Close | i ĩ   |        | u ũ   |
+| Mid   | e     |        | o     |
+| Open  |       | a ã    |       |
+: Vowels (with Nasalization)
+
 ### Phonemes with Gradation (3+)
 
 ### Closed Set of Roots that Break Phonological Tendencies
@@ -14,7 +23,7 @@
 
 ### Split Alignment
 
-- Present-tense nominative, past-tense ergative
+Present-tense nominative, past-tense ergative.
 
 ### Subclause Marking
 
@@ -26,10 +35,20 @@
 
 ### Possessive Classifiers
 
-1. Have some kind of possessive classifier system (e.g. alienability, edibility) 
-    1. Bonus! have them marked differently, in terms of agreement, location of morphemes, or otherwise
-
 > "Kin terms often figure in the specified class, and usually several to many of the language's kin terms and a few other nouns take the non-default possessive form while all others, including a few kin terms, take the default possessive form. In addition, body parts, meronyms (parts in part-whole relationships), topological nouns, and property nouns often figure in non-default possessive classes."  - WALS Chapter 59
+
+There will be a closed set with special marking, and an open set with default marking.  These sets have some semantic basis, but are ultimately *lexical*; the possession paradigm depends solely on the word being possessed.
+
+Special marking for:
+- Kinship
+- Part-whole relationships
+- Topological nouns (relation to other constituents, e.g. "opposite", "neighbor")
+- Some exceptional words based on phonological analogy (they sound like another set)
+
+Default marking for:
+- A few kinship terms
+- Body parts
+- All other nouns
 
 ### Suppletion of Morphological Category in Closed Set
 
@@ -40,7 +59,7 @@
 ### Phonology constraints
 
 - [ ] Use two points of articulation you don't use very often - (free choice! anything out of your comfort zone - willing to consider any secondary articulation that patterns as a POA as a separate POA if it makes sense)
-- [ ] Alternative! use some vowel feature you don't use often (phonation, backness, protrusion, etc etc)
+- [x] Alternative! use some vowel feature you don't use often (phonation, backness, protrusion, etc etc)
 - [ ] Have at least three phonemes which exhibit some kind of gradation (e.g. this means they merge with other phonemes in certain morphological settings, or create new phones in some morphophonological environment)
 - [ ] Have a closed set of roots which break phonotactic tendencies (e.g. from direct loans from another language or lost substrate etc.) - provide examples of how they differ from regular roots
 
@@ -51,7 +70,7 @@
 - [ ] Have a number of verbal classifiers, and have various lexeme have a different meaning entirely depending on verbal classifier (what exactly “classifier” means here is up to you) - show at least 3 examples
 - [ ] Have a class of roots which can change word class through zero derivation (with at least 3 examples)
 - [ ] Come up with a label: whether describing an unusual combination of functions for a morpheme, or a specific case which doesn't have an assigned name, or a phenomenon that requires ad hoc terminology - what this feature is and where it appears is up to you 
-- [ ] Have some kind of possessive classifier system (e.g. alienability, edibility) (Bonus! have them marked differently, in terms of agreement, location of morphemes, or otherwise)
+- [x] Have some kind of possessive classifier system (e.g. alienability, edibility) (Bonus! have them marked differently, in terms of agreement, location of morphemes, or otherwise)
 - [ ] Have some morphological category marked on a closed set of words by suppletion. (bonus points if the morpheme in question wouldn't otherwise be adjacent to the root)
 
 ### Sentence/phrase level constraints
