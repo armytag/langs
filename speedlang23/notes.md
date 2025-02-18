@@ -13,7 +13,6 @@ Nasalization (or maybe length).
 | Close | i ĩ   |        | u ũ   |
 | Mid   | e     |        | o     |
 | Open  |       | a ã    |       |
-: Vowels (with Nasalization)
 
 ### Phonemes with Gradation (3+)
 
@@ -52,7 +51,7 @@ Default marking for:
 
 ### Suppletion of Morphological Category in Closed Set
 
-1. Have some morphological category marked on a closed set of words by suppletion. (bonus points if the morpheme in question wouldn't otherwise be adjacent to the root)
+## Texts
 
 ## Prompt
 
