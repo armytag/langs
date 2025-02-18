@@ -30,6 +30,8 @@ Present-tense nominative, past-tense ergative.
 
 ### Roots with Zero Derivation
 
+- Physical properties ("His red face." vs "His red.")
+
 ### Custom label/terminology
 
 ### Possessive Classifiers
