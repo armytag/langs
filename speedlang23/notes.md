@@ -1,4 +1,14 @@
+# Splang23 Notes
+
 ## Phonology
+
+### Two Under-used Places of Articulation
+
+### One Under-used Vowel Feature
+
+### Phonemes with Gradation (3+)
+
+### Closed Set of Roots that Break Phonological Tendencies
 
 ## Morphosyntax
 
