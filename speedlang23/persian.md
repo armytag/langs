@@ -19,6 +19,12 @@
         - raft eːst-eːm ("I have/am gone")
     - Past perfect formed with *eːstaːd* (result of action was still observable in the past)
         - raft eːstaːd h-eːm ("I had/was gone")
+- Nominative alignment in present, Ergative alignment in past
+    - toː mardaːn weːn-eː ("You saw the men")
+    - toː mardaːn diːd h-eːnd ("By you the men were seen")
+- Present tense of buːdan is baweːm, which can be used with past participle to convey present passive
+    - daːd baw-eːd ("It is given")
+- Particles convey aspect (aside from perfectives given above)
 
 | Pattern             | Present stem | Past stem |
 | ---                 | ---          | ---       |
@@ -42,4 +48,9 @@
 | suppletive          | weːn         | diːd      |
 | suppletive          | aːy          | aːmad     |
 | suppletive (exist)  | baw (b)      | buːd      |
+
+## Pronouns
+
+- Enclitic form of pronouns used for non-emphasized (oblique?) situations
+    - Attaches to the first word in a clause, which is usually a conjunction or adverb
 
