@@ -1,3 +1,7 @@
+## Summary
+
+- Synthetic nominative present vs. analytic ergative past
+
 ## Verbs
 
 - Two stems: present and past tense
