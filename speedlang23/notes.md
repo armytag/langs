@@ -19,6 +19,8 @@ Nasalization (or maybe length).
 | Mid   | e     |        | o     |
 | Open  |       | a ã    |       |
 
+- Perhaps ATR instead?
+
 ### Phonemes with Gradation (3+)
 
 ### Closed Set of Roots that Break Phonological Tendencies
@@ -35,6 +37,11 @@ Present-tense nominative, past-tense ergative.
 ### Subclause Marking
 
 ### Verbal Classifiers
+
+- Classify the direct object (or subject? or another noun?)
+    - Shape
+- Classify the method of interaction
+    - handling vs propelling vs free flight
 
 ### Roots with Zero Derivation
 
