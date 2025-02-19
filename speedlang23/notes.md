@@ -63,6 +63,15 @@ Default marking for:
 
 ## Texts
 
+### Sentences
+
+### Sea Story
+
+### Conceptual Metaphor
+
+- The ocean brings fortune (good and bad)
+    - Risk and opportunity lie at sea, security and stagnation reside inland
+
 ## Prompt
 
 ### Phonology constraints
