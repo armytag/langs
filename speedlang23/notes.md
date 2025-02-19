@@ -4,6 +4,11 @@
 
 ### Two Under-used Places of Articulation
 
+- Labialization (especially velars)
+- Lateral series (e.g. /ɬ/ as fricative, /tˡ/ as plosive)
+- Palato-alveolar series (e.g. /ʃ/ or /tʃ/)
+- Palatalized alveolar series (e.g. /tʲ/ and /sʲ/)
+
 ### One Under-used Vowel Feature
 
 Nasalization (or maybe length).
@@ -17,6 +22,9 @@ Nasalization (or maybe length).
 ### Phonemes with Gradation (3+)
 
 ### Closed Set of Roots that Break Phonological Tendencies
+
+- Affricates (e.g. /ts/ or /tʃ/)
+- Word-final consonant clusters (e.g. /hinst/ or /gaptk/)
 
 ## Morphosyntax
 
