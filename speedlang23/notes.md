@@ -38,10 +38,46 @@ Present-tense nominative, past-tense ergative.
 
 ### Verbal Classifiers
 
+#### Aiwoo style
+
+Several classes of verbs
+
+- Intransitive combines with *one* noun and a prefix to form a sentence
+- A-verbs take a prefix to indicate an action just like intransitive, but they combine with another noun (?)
+- O-verbs take a suffixes to say who is performing the action with the noun and pronoun
+
+One or two of these classes will take classifiers based on a referent.
+
+#### Southern Athabaskan style
+
 - Classify the direct object (or subject? or another noun?)
     - Shape
 - Classify the method of interaction
     - handling vs propelling vs free flight
+
+Classes of direct object:
+- animate object
+- small roundish object
+- load, pack, burder
+- open container
+- non-compact matter
+- mushy matter
+- slender flexible object
+- slender stiff object
+- flat flexible object
+- plural objects 1
+- plural objects 2
+
+**Interaction with Morphosyntax**
+
+> man jump
+> m'n jump-anim-ed is
+
+> man rope grasp-thin-s
+> m'n rope grasp-anim-ed is
+
+> dog man bite-anim-s
+> dog man bite-anim-ed is
 
 ### Roots with Zero Derivation
 
