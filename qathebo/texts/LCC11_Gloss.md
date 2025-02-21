@@ -1,8 +1,8 @@
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>dʼ-i-ti</dt> <dd>make-<abbr>IPFV-G5.SG</abbr></dd> </dl>
-<dl> <dt>qʼedo-ge-dʼa-qʼo</dt> <dd>god-<abbr>G1.PL-NOM-REM.PST</abbr></dd> </dl>
+<dl> <dt>dʼ-i-kʼi</dt> <dd>make-<abbr>IPFV-G5.SG</abbr></dd> </dl>
+<dl> <dt>qʼedʼo-ta-dʼa-qʼo</dt> <dd>god-<abbr>G5.PL-NOM-REM.PST</abbr></dd> </dl>
 <dl> <dt>qʼathebʼo-gi-∅</dt> <dd>language-<abbr>G5.SG-ACC</abbr></dd> </dl>
 <dl> <dt>bʼito-ta-to</dt> <dd>day-<abbr>G5.PL-LOC</abbr></dd> </dl>
 <dl> <dt>behlige-to</dt> <dd>ancient-<abbr>G5.PL</abbr></dd> </dl>
@@ -19,11 +19,11 @@
 <dl> <dt>kʼiqipʼepʼe-go-qʼa</dt> <dd>weak-<abbr>G5.SG-ESS</abbr></dd> </dl>
 <dl> <dt>kidʼi</dt> <dd>but</dd> </dl>
 <dl> <dt>kʼapopʼ-e-ti</dt> <dd>wish-<abbr>PFV-G5.SG</abbr></dd> </dl>
-<dl> <dt>nagi-ge-dʼa-qʼo</dt> <dd>human-<abbr>G1.PL-NOM-REM.PST</abbr></dd> </dl>
+<dl> <dt>negi-ge-dʼa-qʼo</dt> <dd>human-<abbr>G1.PL-NOM-REM.PST</abbr></dd> </dl>
 <dl> <dt>lothi-gi-∅</dt> <dd>this-<abbr>G5.SG-ACC</abbr></dd> </dl>
 <dl> <dt>da</dt> <dd><abbr>REL</abbr></dd> </dl>
 <dl> <dt>goge-dʼa-na</dt> <dd><abbr>3PL-NOM-REL.PRS</abbr></dd> </dl>
-<dl> <dt>qʼathebʼo-gi-gi</dt> <dd>language-<abbr>G5.SG-INS</abbr></dd> </dl>
+<dl> <dt>qʼathebʼo-gi-gi</dt> <dd>language-<abbr>G5.SG-INST</abbr></dd> </dl>
 <dl> <dt>qʼeth-ili</dt> <dd>speak-<abbr>REL</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"The language was small and delicate, but humans wanted to speak it."</p>
@@ -33,7 +33,7 @@
 <p class="number"></p>
 <div class="interlinear">
 <dl> <dt>moqʼ-e-kʼi</dt> <dd>swallow-<abbr>PFV-G5.SG</abbr></dd> </dl>
-<dl> <dt>qʼedo-ge-dʼa-qʼo</dt> <dd>god-<abbr>G1.PL-NOM-REM.PST</abbr></dd> </dl>
+<dl> <dt>qʼedʼo-ta-dʼa-qʼo</dt> <dd>god-<abbr>G5.PL-NOM-REM.PST</abbr></dd> </dl>
 <dl> <dt>pʼatʼoni-gi-∅</dt> <dd>anger-<abbr>G5.SG-ACC</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"The gods were angry."</p>
@@ -44,8 +44,8 @@
 <div class="interlinear">
 <dl> <dt>paqʼ-e-kʼi</dt> <dd>see-<abbr>PFV-G5.SG</abbr></dd> </dl>
 <dl> <dt>tigoqʼile-ta-dʼa-qʼo</dt> <dd>sage-<abbr>G5.SG-NOM-REM.PST</abbr></dd> </dl>
-<dl> <dt>pʼatʼoni-gi-tʼo-∅</dt> <dd>anger-<abbr>G5.SG-POSS-ACC</abbr></dd> </dl>
-<dl> <dt>qʼedo-gi-tʼi-go</dt> <dd>god-<abbr>G1.PL-GEN-G5.SG</abbr></dd> </dl>
+<dl> <dt>pʼatʼoni-gi-∅</dt> <dd>anger-<abbr>G5.SG-ACC</abbr></dd> </dl>
+<dl> <dt>qʼedʼo-te-tʼi-go</dt> <dd>god-<abbr>G5.PL-GEN-G5.SG</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"A wise man saw the gods' anger."</p>
 </div>
@@ -82,15 +82,29 @@
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt></dt> <dd></dd> </dl>
+<dl> <dt>takʼo</dt> <dd>thus</dd> </dl>
+<dl> <dt>pʼetʼog-e-kʼi</dt> <dd>understand-<abbr>PFV-G5.SG</abbr></dd> </dl>
+<dl> <dt>qʼedʼo-ta-dʼa-qʼo</dt> <dd>god-<abbr>G5.PL-NOM-REM.PST</abbr></dd> </dl>
+<dl> <dt>lothi-gi-∅</dt> <dd>this-<abbr>G5.SG-ACC</abbr></dd> </dl>
+<dl> <dt>da</dt> <dd><abbr>REL</abbr></dd> </dl>
+<dl> <dt>qʼathebʼo-gi-di</dt> <dd>language-<abbr>G5.SG-ABL</abbr></dd> </dl>
+<dl> <dt>lipʼimi-go</dt> <dd>small-<abbr>G5.SG</abbr></dd> </dl>
+<dl> <dt>qʼathebʼo-ge-da-na</dt> <dd>language-<abbr>G5.SG-NOM-REL.FUT</abbr></dd> </dl>
+<dl> <dt>dekʼe-go</dt> <dd>large-<abbr>G5.SG</abbr></dd> </dl>
+<dl> <dt>midopi-ge-qʼa</dt> <dd>good-<abbr>G5.SG-ESS</abbr></dd> </dl>
+<dl> <dt>qʼoqibʼ-ili</dt> <dd>property.<abbr>COP-REL</abbr></dd> </dl>
 </div>
-<p class="freetranslation">"The gods saw that the a language would be better."</p>
+<p class="freetranslation">"The gods saw that the a big language would be better."</p>
 </div>
 
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt></dt> <dd></dd> </dl>
+<dl> <dt>dʼ-e-kʼi</dt> <dd>make-<abbr>PFV-G5.SG</abbr></dd> </dl>
+<dl> <dt>qʼedʼo-ta-dʼa-qʼo</dt> <dd>god-<abbr>G5.PL-NOM-REM.PST</abbr></dd> </dl>
+<dl> <dt>qʼathebʼo-gi-∅</dt> <dd>language-<abbr>G5.SG-ACC</abbr></dd> </dl>
+<dl> <dt>dʼeke-go</dt> <dd>large-<abbr>G5.SG</abbr></dd> </dl>
+<dl> <dt>papomipʼe-go</dt> <dd>beautiful-<abbr>G5.SG</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"The gods made a big and beautiful language."</p>
 </div>
@@ -98,7 +112,16 @@
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt></dt> <dd></dd> </dl>
+<dl> <dt>bʼaqa</dt> <dd>still</dd> </dl>
+<dl> <dt>qʼeth-i-kʼi</dt> <dd>speak-<abbr>IPFV-G5.SG</abbr></dd> </dl>
+<dl> <dt>negi-ge-dʼe-bʼi</dt> <dd>human-<abbr>G1.PL-NOM-PRS</abbr></dd> </dl>
+<dl> <dt>qʼedʼo-ta-dʼe-bʼi</dt> <dd>god-<abbr>G5.PL-NOM-PRS</abbr></dd> </dl>
+<dl> <dt>qʼathebʼo-gi-gi</dt> <dd>language-<abbr>G5.SG-INST</abbr></dd> </dl>
+<dl> <dt>lothi-go</dt> <dd>this-<abbr>G5.SG</abbr></dd> </dl>
+<dl> <dt>bʼito-te-di</dt> <dd>day-<abbr>G5.PL-ABL</abbr></dd> </dl>
+<dl> <dt>behlige-to</dt> <dd>ancient-<abbr>G5.PL</abbr></dd> </dl>
+<dl> <dt>bʼito-ta-mo</dt> <dd>day-<abbr>G5.PL-ALL</abbr></dd> </dl>
+<dl> <dt>lothi-to</dt> <dd>this-<abbr>G5.PL</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"After many years, gods and humans are speaking this language."</p>
 </div>
@@ -106,7 +129,12 @@
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt></dt> <dd></dd> </dl>
+<dl> <dt>qʼath-obʼi</dt> <dd>speak-<abbr>OPT</abbr></dd> </dl>
+<dl> <dt>bʼopʼe-dʼe-bʼi</dt> <dd><abbr>1PL-NOM-PRS</abbr></dd> </dl>
+<dl> <dt>papomi-gi-gi</dt> <dd>beauty-<abbr>G5.SG-INST</abbr></dd> </dl>
+<dl> <dt>da</dt> <dd><abbr>REL</abbr></dd> </dl>
+<dl> <dt>qʼedʼo-ta-dʼa-na</dt> <dd>god-<abbr>G5.PL-NOM-REL.PRS</abbr></dd> </dl>
+<dl> <dt>papomi-qʼeth-ili</dt> <dd>beauty-speak-<abbr>REL</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"We should speak beautifully like the gods!"</p>
 </div>
