@@ -15,8 +15,8 @@
 <div class="interlinear">
 <dl> <dt>qʼoqibʼ-i</dt> <dd>property.<abbr>COP-IPFV</abbr></dd> </dl>
 <dl> <dt>qʼathebʼo-ge-dʼa-qʼo</dt> <dd>language-<abbr>G5.SG-NOM-REM.PST</abbr></dd> </dl>
-<dl> <dt>lipʼimi-go-qʼa</dt> <dd>small-<abbr>G5.SG-ESS</abbr></dd> </dl>
-<dl> <dt>kʼiqipʼepʼe-go-qʼa</dt> <dd>weak-<abbr>G5.SG-ESS</abbr></dd> </dl>
+<dl> <dt>lipʼimi-qʼa</dt> <dd>small-<abbr>ESS</abbr></dd> </dl>
+<dl> <dt>kʼiqipʼepʼo-qʼa</dt> <dd>weak-<abbr>ESS</abbr></dd> </dl>
 <dl> <dt>kidʼi</dt> <dd>but</dd> </dl>
 <dl> <dt>kʼapopʼ-e-ti</dt> <dd>wish-<abbr>PFV-G5.SG</abbr></dd> </dl>
 <dl> <dt>negi-ge-dʼa-qʼo</dt> <dd>human-<abbr>G1.PL-NOM-REM.PST</abbr></dd> </dl>
@@ -32,9 +32,9 @@
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>moqʼ-e-kʼi</dt> <dd>swallow-<abbr>PFV-G5.SG</abbr></dd> </dl>
+<dl> <dt>moqʼabʼ-e</dt> <dd>emotion.<abbr>COP-PFV</abbr></dd> </dl>
 <dl> <dt>qʼedʼo-ta-dʼa-qʼo</dt> <dd>god-<abbr>G5.PL-NOM-REM.PST</abbr></dd> </dl>
-<dl> <dt>pʼatʼoni-gi-∅</dt> <dd>anger-<abbr>G5.SG-ACC</abbr></dd> </dl>
+<dl> <dt>pʼatʼoni-ge-qʼa</dt> <dd>anger-<abbr>G5.SG-ESS</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"The gods were angry."</p>
 </div>
@@ -70,7 +70,7 @@
 <dl> <dt>thap-e-ni</dt> <dd>hit-<abbr>PFV-G2.SG</abbr></dd> </dl>
 <dl> <dt>ge-dʼa-qʼo</dt> <dd><abbr>3SG-NOM-REM.PST</abbr></dd> </dl>
 <dl> <dt>gedape-ma-tʼo-∅</dt> <dd>shell-<abbr>G2.SG-POSS-ACC</abbr></dd> </dl>
-<dl> <dt>dekʼe-mo</dt> <dd>big-<abbr>G2.SG</abbr></dd> </dl>
+<dl> <dt>dekʼe-mo</dt> <dd>large-<abbr>G2.SG</abbr></dd> </dl>
 <dl> <dt>qʼabʼa-me-tʼi-mo</dt> <dd>turtle-<abbr>G2.SG-GEN-G2.SG</abbr></dd> </dl>
 <dl> <dt>kidʼi</dt> <dd>however</dd> </dl>
 <dl> <dt>theni</dt> <dd><abbr>NEG</abbr></dd> </dl>
@@ -91,7 +91,7 @@
 <dl> <dt>lipʼimi-go</dt> <dd>small-<abbr>G5.SG</abbr></dd> </dl>
 <dl> <dt>qʼathebʼo-ge-da-na</dt> <dd>language-<abbr>G5.SG-NOM-REL.FUT</abbr></dd> </dl>
 <dl> <dt>dekʼe-go</dt> <dd>large-<abbr>G5.SG</abbr></dd> </dl>
-<dl> <dt>midopi-ge-qʼa</dt> <dd>good-<abbr>G5.SG-ESS</abbr></dd> </dl>
+<dl> <dt>mido-qʼa</dt> <dd>good-<abbr>G5.SG-ESS</abbr></dd> </dl>
 <dl> <dt>qʼoqibʼ-ili</dt> <dd>property.<abbr>COP-REL</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"The gods saw that the a big language would be better."</p>
@@ -103,7 +103,7 @@
 <dl> <dt>dʼ-e-kʼi</dt> <dd>make-<abbr>PFV-G5.SG</abbr></dd> </dl>
 <dl> <dt>qʼedʼo-ta-dʼa-qʼo</dt> <dd>god-<abbr>G5.PL-NOM-REM.PST</abbr></dd> </dl>
 <dl> <dt>qʼathebʼo-gi-∅</dt> <dd>language-<abbr>G5.SG-ACC</abbr></dd> </dl>
-<dl> <dt>dʼeke-go</dt> <dd>large-<abbr>G5.SG</abbr></dd> </dl>
+<dl> <dt>dekʼe-go</dt> <dd>large-<abbr>G5.SG</abbr></dd> </dl>
 <dl> <dt>papomipʼe-go</dt> <dd>beautiful-<abbr>G5.SG</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"The gods made a big and beautiful language."</p>
