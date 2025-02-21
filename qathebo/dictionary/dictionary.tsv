@@ -58,6 +58,7 @@ Adlam	Phonetic	Part of Speech	Definitions	Tags
 𞤨𞤭𞤼𞥇𞤫𞤬𞤢	pitʼɛθa	verb	decide; vow, commit to something	
 𞤨𞤮𞤼𞤢	pota	noun (G1/G2)	eye	
 𞤨𞥇𞤢	pʼa	pronoun	1SG	
+𞤨𞥇𞤢𞤦𞤢𞤥𞤢	pʼabama	noun (G2)	clam; oyster	
 𞤨𞥇𞤢𞤨𞤫𞤨𞥇𞤢𞤺𞤢	pʼapɛpʼaga	verb	foodstuffs; groceries	
 𞤨𞥇𞤢𞤹𞤫𞤹𞤮	pʼaqɛqo	noun (G4)	hill	
 𞤨𞥇𞤢𞤹𞥇𞤮𞤺𞤢	pʼaqʼoga	noun (G3)	grass	
@@ -114,6 +115,7 @@ Adlam	Phonetic	Part of Speech	Definitions	Tags
 𞤯𞤮𞤩𞤢𞤼𞤢𞤹𞤮	ɗoɓataqo	noun (G4)	outside	
 𞤯𞤮𞤬𞤢𞤺𞤢	ɗoθaga	noun (G3)	rose	
 𞤲𞤢𞤣𞤢𞤹𞤢𞤺𞤢	nadaqaga	noun (G3)	ash; dust	
+𞤲𞤢𞤺𞤫𞤼𞤢	nagɛta	noun (G1)	person; human	
 𞤲𞤢𞤼𞥇𞤢𞤸𞤮	natʼaɬo	modifier	crunchy	
 𞤲𞤢𞤼𞥇𞤢𞤸𞤮𞤸𞤢𞤤𞤢	natʼaɬoɬala	verb	crunch	
 𞤲𞤫𞤣𞤮𞤩𞤭𞤼𞤮𞤺𞤭	nɛdoɓitogi	noun (G5)	yesterday	
@@ -154,12 +156,15 @@ Adlam	Phonetic	Part of Speech	Definitions	Tags
 𞤳𞥇𞤫𞤳𞤢𞤯𞤢	kʼɛkaɗa	verb	work; make things	
 𞤳𞥇𞤫𞤳𞤢𞤺𞤢	kʼɛkaga	noun (G3)	thing; something indeterminate or unspecified	
 𞤳𞥇𞤭𞤣𞤮𞤦𞤭𞤨𞥇𞤭𞤺𞤭	kʼidobipʼigi	noun (G5)	mistrust	
+𞤳𞥇𞤭𞤹𞤭𞤨𞥇𞤫𞤨𞥇𞤮	kʼiqipʼɛpʼo	modifier	weak	
+𞤳𞥇𞤭𞤹𞤭𞤨𞥇𞤮𞤺𞤭	kʼiqipʼogi	noun (G5)	weakness	
 𞤳𞥇𞤭𞤼𞤫𞤹𞤫𞤳𞤮𞤺𞤭	kʼitɛqɛkogi	noun (G5)	failure	
 𞤳𞥇𞤮𞤹𞤢𞤸𞤮𞤺𞤢	kʼoqaɬoga	noun (G3)	clothing	
 𞤸𞤢	ɬa	verb	eat (involves chewing)	
 𞤸𞤢𞤨𞥇𞤮𞤺𞤢	ɬapʼoga	noun (G3)	water	
 𞤸𞤢𞤩𞤫𞤼𞤢	ɬaɓɛta	noun (G1)	hand	
 𞤸𞤢𞤬𞤢𞤥𞤢	ɬaθama	noun (G2)	rain	
+𞤸𞤫𞤳𞤮𞤼𞤢	ɬɛkota	verb	break; destroy	
 𞤸𞤫𞤳𞥇𞤮	ɬɛkʼo	adverb	also; additionally	
 𞤸𞤭𞤬𞤫𞤨𞤢𞤼𞥇𞤮𞤳𞤭	ɬiθɛpatʼoki	modifier	suspicious	
 𞤸𞤭𞤬𞤫𞤨𞤫𞤺𞤭	ɬiθɛpɛgi	noun (G5)	doubt	
@@ -182,6 +187,7 @@ Adlam	Phonetic	Part of Speech	Definitions	Tags
 𞤹𞤭𞤲𞤫𞤥𞤢	qinɛma	noun (G2)	river	
 𞤹𞤮𞤲𞤢	qona	pronoun	2DU	
 𞤹𞥇𞤢𞤥𞤫𞤹𞥇𞤭𞤺𞤭	qʼamɛqʼigi	noun (G5)	story	
+𞤹𞥇𞤢𞤩𞤢𞤥𞤢	qʼaɓama	noun (G2)	turtle	
 𞤹𞥇𞤢𞤬𞤢	qʼaθa	verb	speak	
 𞤹𞥇𞤢𞤬𞤫𞤩𞤮𞤺𞤭	qʼaθɛɓogi	noun (G5)	language	
 𞤹𞥇𞤢𞤳𞤫𞤦𞤢𞤼𞤢	qʼakɛbata	noun (G1)	grandparent	
@@ -201,6 +207,7 @@ Adlam	Phonetic	Part of Speech	Definitions	Tags
 𞤺𞤢𞤩𞤢𞤸𞤢	gaɓaɬa	verb	buy	
 𞤺𞤢𞤬𞤮	gaθo	pronoun	3DU	
 𞤺𞤢𞤹𞥇𞤫𞤸𞤫𞤨𞤭𞤺𞤭	gaqʼɛɬɛpigi	noun (G5)	illumination	
+𞤺𞤫𞤣𞤢𞤨𞤫𞤥𞤢	gɛdapɛma	noun (G2)	animal's shell	
 𞤺𞤫𞤩𞤢	gɛɓa	pronoun	3PAU	
 𞤺𞤫𞤹𞥇𞤭𞤺𞤭	gɛqʼigi	noun (G5)	light	
 𞤺𞤭	gi	pronoun	3SG	
