@@ -77,4 +77,34 @@ The lexical roots used in this text are listed here in citation form.
 
 <h2 style="text-align: center">Grammar Notes</h2>
 
+Here I will attempt to summarize the major grammartical features of Qʼathebʼo that will be needed to decipher the torch.  This will be extremely succint, and for in-depth explanations you should reference the complete grammar that will be sent with this document and can also be found at [https://armitageth.com/langs/qathebo/grammar.html](https://armitageth.com/langs/qathebo/grammar.html).
+
+### Vowel Assimilation
+
+There are three phonemic vowel qualities in Qʼathebʼo: /a/, /i/, and /o/.  These three vowels frequently assimilate into \[ɛ\] \<e\> based on the following vowel.
+
+/a/ becomes \[ɛ\] before a syllable with /i/.
+
+<dl class="comparison col4">
+<dt>dʼoth<strong>a</strong>-ga</dt> <dd>"rose"</dd>
+<dt>dʼoth<strong>e</strong>-ki</dt> <dd>"(several) roses"</dd>
+</dl>
+
+/i/ becomes \[ɛ\] before a syllable with /a/.  When /i/ assimilates to \[ɛ\], it no longer triggers assimilation for a preceding /a/.
+
+<dl class="comparison col4">
+<dt>kob<strong>i</strong>-mi</dt> <dd>"dogs"</dd>
+<dt>kob<strong>e</strong>-ma</dt> <dd>"dog"</dd>
+<dt>k<strong>e</strong>bʼ<strong>i</strong>-ki</dt> <dd>"(several) berries"</dd>
+<dt>k<strong>a</strong>bʼ<strong>e</strong>-ga</dt> <dd>"berry"</dd>
+</dl>
+
+/o/ becomes \[ɛ\] before any syllables with /o/. This occurs for any number of /o/ syllables in a row.
+
+<dl class="comparison col2">
+<dt>dʼehl<strong>o</strong>-la</dt> <dd>"homes"</dd>
+<dt>dʼehl<strong>e</strong>-q<strong>o</strong></dt> <dd>"a home"</dd>
+<dt>dʼehl<strong>e</strong>-q<strong>e</strong>-to</dt> <dd>"at home (<abbr>LOC</abbr>)"</dd>
+</dl>
+
 
