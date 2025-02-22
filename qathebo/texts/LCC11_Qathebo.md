@@ -75,9 +75,9 @@ The lexical roots used in this text are listed here in citation form.
 
 <h1></h1>
 
-<h2 style="text-align: center">Grammar Notes</h2>
+<h2 style="text-align: center">Grammar Summary</h2>
 
-Here I will attempt to summarize the major grammartical features of Qʼathebʼo that will be needed to decipher the torch.  This will be extremely succint, and for in-depth explanations you should reference the complete grammar that will be sent with this document and can also be found at [https://armitageth.com/langs/qathebo/grammar.html](https://armitageth.com/langs/qathebo/grammar.html).  There will be several example sentences at the end of this document to illustrate the various features.
+Here I will attempt to summarize the major grammartical features of Qʼathebʼo that will be needed to decipher the torch.  This will be extremely succint, and for in-depth explanations you should reference the complete grammar that will be sent with this document and can also be found at [https://armitageth.com/langs/qathebo/grammar.html](https://armitageth.com/langs/qathebo/grammar.html).
 
 Typologically, Qʼathebʼo is an agglutinating verb-initial language with an animacy hierarchy, nominal tense, noun incorporation, and prevalent vowel assimilation.
 
