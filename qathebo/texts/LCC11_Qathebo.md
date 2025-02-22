@@ -1,6 +1,6 @@
 <h1></h1>
 
-<h2 style="text-align: center">Qʼathebʼo Torch in Adlam Script</h2>
+<h2 style="text-align: center">Torch in Adlam Script</h2>
 
 <h2></h2>
 
@@ -17,7 +17,7 @@
 𞤗𞥇𞤢𞤬𞤮𞤩𞤭 𞤩𞤮𞤨𞥇𞤫𞤯𞤫𞤩𞤭 𞤨𞤢𞤨𞤮𞤥𞤭𞤺𞤭𞤺𞤭 𞤣𞤢 𞤹𞥇𞤫𞤯𞤮𞤼𞤢𞤯𞤢𞤲𞤢 𞤨𞤢𞤨𞤮𞤥𞤭𞤹𞥇𞤫𞤬𞤭𞤤𞤭!
 </p>
 
-<h2 style="text-align: center">Qʼathebʼo Torch in Roman Script</h2>
+<h2 style="text-align: center">Torch in Roman Script</h2>
 
 <h2></h2>
 
