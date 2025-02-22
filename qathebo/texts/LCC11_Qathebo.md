@@ -77,3 +77,57 @@ The lexical roots used in this text are listed here in citation form.
 
 <h2 style="text-align: center">Grammar Notes</h2>
 
+### Phonology
+
+There are three phonemic vowel qualities in Qʼathebʼo: /a/, /i/, and /o/.  There is a fourth vowel \[ɛ\] which is prevelant in Qʼathebʼo but only appears as the result of a highly-regular [vowel assimilation process](#vowel-assimilation).
+
+|           | Front | Back |
+|---        |:---:  |:---: |
+| Close     | i     |      |
+| Close-Mid |       | o    |
+| Open-Mid  | (ɛ)   |      |
+| Open      |       | a    |
+: Vowels in Qʼathebʼo
+
+There are 18 consonantal phonemes in Qʼathebʼo.
+
+|                    | Labial   | Alveolar | Velar | Uvular |
+|---                 |:---:     |:---:     |:---:  |:---:   |
+| Nasals             | m        | n        |       |        |
+| Voiced Plosives    | b        | d        | g     |        |
+| Voiceless Plosives | p        | t        | k     | q      |
+| Ejectives          | pʼ       | tʼ       | kʼ    | qʼ     |
+| Implosives         | ɓ \<bʼ\> | ɗ \<dʼ\> |       |        |
+| Fricatives         |          | θ \<th\> |       |        |
+| Lateral Fricatives |          | ɬ \<hl\> |       |        |
+| Approximants       |          | l        |       |        |
+: Consonants in Qʼathebʼo
+
+#### Vowel Assimilation
+
+Vowels undergo a pervasive, regular assimilation process based on the following vowel.  The low vowel /a/ becomes \[ɛ\] when the following syllable contains /i/, and /i/ likewise assimilates to \[ɛ\] before a syllable with /a/.  The rounded vowel /o/ instead undergoes a dissimilation process with following /o/ syllables, also becoming \[ɛ\].  These patterns can be seen in the following examples.
+
+<dl class="comparison col4">
+<dt>dʼoth<strong>a</strong>-ga</dt> <dd>"rose"</dd>
+<dt>dʼoth<strong>e</strong>-ki</dt> <dd>"(several) roses"</dd>
+<dt>kob<strong>i</strong>-mi</dt> <dd>"dogs"</dd>
+<dt>kob<strong>e</strong>-ma</dt> <dd>"dog"</dd>
+<dt>pʼaq<strong>o</strong>-la</dt> <dd>"hills"</dd>
+<dt>pʼaq<strong>e</strong>-qo</dt> <dd>"hill"</dd>
+</dl>
+
+The /o/ dissimilation occurs for any number of /o/ syllables in a row.
+
+<dl class="comparison col2">
+<dt>dʼeth<strong>o</strong>-la</dt> <dd>"homes"</dd>
+<dt>dʼeth<strong>e</strong>-q<strong>o</strong></dt> <dd>"a home"</dd>
+<dt>dʼeth<strong>e</strong>-q<strong>e</strong>-to</dt> <dd>"at home (<abbr>LOC</abbr>)"</dd>
+</dl>
+
+It's important to note that when /i/ assimilates to \[ɛ\], it no longer triggers assimilation for a preceding /a/.
+
+<dl class="comparison col4">
+<dt>k<strong>e</strong>bʼ<strong>i</strong>-ki</dt> <dd>"(several) berries"</dd>
+<dt>k<strong>a</strong>bʼ<strong>e</strong>-ga</dt> <dd>"berry"</dd>
+</dl>
+
