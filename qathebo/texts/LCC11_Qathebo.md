@@ -77,7 +77,7 @@ The lexical roots used in this text are listed here in citation form.
 
 <h2 style="text-align: center">Grammar Notes</h2>
 
-### Phonology
+# Phonology
 
 There are three phonemic vowel qualities in Qʼathebʼo: /a/, /i/, and /o/.  There is a fourth vowel \[ɛ\] which is prevelant in Qʼathebʼo but only appears as the result of a highly-regular [vowel assimilation process](#vowel-assimilation).
 
@@ -103,7 +103,7 @@ There are 18 consonantal phonemes in Qʼathebʼo.
 | Approximants       |          | l        |       |        |
 : Consonants in Qʼathebʼo
 
-#### Vowel Assimilation
+## Vowel Assimilation
 
 Vowels undergo a pervasive, regular assimilation process based on the following vowel.  The low vowel /a/ becomes \[ɛ\] when the following syllable contains /i/, and /i/ likewise assimilates to \[ɛ\] before a syllable with /a/.  The rounded vowel /o/ instead undergoes a dissimilation process with following /o/ syllables, also becoming \[ɛ\].  These patterns can be seen in the following examples.
 
@@ -131,7 +131,7 @@ It's important to note that when /i/ assimilates to \[ɛ\], it no longer trigger
 <dt>k<strong>a</strong>bʼ<strong>e</strong>-ga</dt> <dd>"berry"</dd>
 </dl>
 
-### Noun Morphology
+# Noun Morphology
 
 The prototypical noun structure is a lexical root, a number affix based on animacy group, a possession marker if possessed, a case affix, and a tense affix if in the nominative case.  This is represented by the following template, where <λ> represents the lexical root.
 
@@ -139,7 +139,7 @@ The prototypical noun structure is a lexical root, a number affix based on anima
 <p>λ-<abbr>NUM(-POSS)-CASE(-TENSE)</abbr></p>
 </div>
 
-#### Animacy Groups (Class/Gender)
+## Animacy Groups (Class/Gender)
 
 There are five classes of nouns that determine the noun's declension pattern as far as number marking, verb and modifier agreement, and word order.
 
@@ -153,7 +153,7 @@ There are five classes of nouns that determine the noun's declension pattern as 
 
 ***Group 5*** -- Abstract, formless things such as thoughts, ideas, emotions, and time.
 
-#### Person & Number
+## Person & Number
 
 Nouns always mark number.  *Group 1* and *Group 2* differentiate single, dual, paucal, and plural.  In *Group 3* and *Group 4* the dual and paucal merge.  *Group 5* only distinguishes single and plural, and uses opposite marking to *Group 1*.  This is summarized in the table below.
 
@@ -168,9 +168,9 @@ Nouns always mark number.  *Group 1* and *Group 2* differentiate single, dual, p
 
 These number-marking suffixes only appear in nouns.  Regardless of the Animacy Group of the relevant noun, [verb agreement](#direct-object-agreement) and [modifier agreement](#modifying-nouns) only distinguish single and plural.
 
-#### Possession
+## Possession
 
-When nouns are possessed, they take an additional suffix *-tʼo* after number and before the case marker.  This form of possession only applies to nouns of a lower animacy group than the possessor; something cannot be possessed by a noun of equal or lower animacy.  The possessor noun appears in genetive form after the possessed noun, much like an noun modifier.
+When nouns are possessed, they take an additional suffix *-tʼo* after number and before the case marker.  This form of possession only applies to nouns of a lower animacy group than the possessor; something cannot be possessed by a noun of equal or lower animacy.  The possessor noun appears in genitive form after the possessed noun, much like an noun modifier.
 
 <div class="gloss">
 <p class="number"></p>
@@ -200,7 +200,7 @@ When nouns are possessed, they take an additional suffix *-tʼo* after number an
 <p class="freetranslation">"my parents' clothes"</p>
 </div>
 
-#### Case
+## Case
 
 There are nine nominal cases: nominative, accusative, dative, genitive, instrumental, locative, allative, ablative, and essive.  Unlike most nominative-accusative langauges, Qʼathebʼo is a marked-nominative language, which means the nominative case takes overt marking while the accusative does not.
 
@@ -219,7 +219,7 @@ Below is a table summarizing the cases, their morphological affix form, and thei
 | Essive       | -qʼa  | *"as"*      |
 : Nominal Cases
 
-##### Nominative (*-dʼa*)
+### Nominative (*-dʼa*)
 
 The Nominative case indicates which noun is performing the action described by the verb.  The nominative case also requires [tense marking](#tense) after it.
 
@@ -241,7 +241,7 @@ The Nominative case indicates which noun is performing the action described by t
 <p class="freetranslation">"The tree will die."</p>
 </div>
 
-##### Accusative
+### Accusative
 
 The Accusative case indicates which noun is being acted upon by the verb.
 
@@ -265,7 +265,7 @@ The Accusative case indicates which noun is being acted upon by the verb.
 <p class="freetranslation">"Some bees stung the dog."</p>
 </div>
 
-##### Dative (*-ta*)
+### Dative (*-ta*)
 
 The Dative case indicates which noun is receiving something from the verb.
 
@@ -292,9 +292,9 @@ The Dative case indicates which noun is receiving something from the verb.
 <p class="freetranslation">"Tell him your story."</p>
 </div>
 
-##### Genitive (*-tʼi*)
+### Genitive (*-tʼi*)
 
-The Genitive case indicates that the noun is related to another noun in some way.  This could be a form of possession as in %{+1}% below, or simply association like a body part as in %{+2}%.  Unlike other cases, genetive nouns function like [modifiers](#modifiers), appearing after the noun they are related to and taking modifier agreement affixes.
+The Genitive case indicates that the noun is related to another noun in some way.  This could be a form of possession as in %{+1}% below, or simply association like a body part as in %{+2}%.  Unlike other cases, genitive nouns function like [modifiers](#modifiers), appearing after the noun they are related to and taking modifier agreement affixes.
 
 <div class="gloss">
 <p class="number"></p>
@@ -314,7 +314,7 @@ The Genitive case indicates that the noun is related to another noun in some way
 <p class="freetranslation">"my hands"</p>
 </div>
 
-##### Instrumental (*-gi*)
+### Instrumental (*-gi*)
 
 The Instrumental case indicates which noun is used to perform the verb.
 
@@ -341,7 +341,7 @@ When used with a temporal noun, it indicates that the predicate occurs *througho
 <p class="freetranslation">"He was happy throughout the year."</p>
 </div>
 
-##### Locative (*-to*)
+### Locative (*-to*)
 
 The Locative case indicates which noun the verb occurs at or near.
 
@@ -377,7 +377,7 @@ When used with a temporal noun it indicates that the predicate occurs *within* t
 <p class="freetranslation">"Cats live in leisure."</p>
 </div>
 
-##### Allative (*-mo*)
+### Allative (*-mo*)
 
 The Allative case indicates which noun the verb occurs toward.  When used with a temporal or stative noun, it indicates that the predicate occurs *until* the allative time or state is reached.
 
@@ -391,7 +391,7 @@ The Allative case indicates which noun the verb occurs toward.  When used with a
 <p class="freetranslation">"I will walk to school."</p>
 </div>
 
-##### Ablative (*-di*)
+### Ablative (*-di*)
 
 The Ablative case indicates which noun the verb occurs away from.  When used with temporal or stative nouns it indicates that the predicate has occured *since* the ablative time or state.
 
@@ -405,7 +405,7 @@ The Ablative case indicates which noun the verb occurs away from.  When used wit
 <p class="freetranslation">"Light shines from the sun."</p>
 </div>
 
-##### Essive (*-qʼa*)
+### Essive (*-qʼa*)
 
 The Essive inidicates which noun the nominative subject is equivalent to or existing as while the verb occurs.  On its own an essive noun typically reflects something which only situationally describes the nominative subject.  However, when used with [one of the copulae](#copulae) it can convey true or lasting equivalence as in %{+2}% below.
 
@@ -430,7 +430,7 @@ The Essive inidicates which noun the nominative subject is equivalent to or exis
 <p class="freetranslation">"That is a dog."</p>
 </div>
 
-#### Tense
+## Tense
 
 In Qʼathebʼo sentences, clause-level tense is marked on nominative nouns rather than on verbs.  All nouns in the nominative case will mark the same clause-level tense.  Below is a table summarizing both simple and relative tense affixes.
 
@@ -442,7 +442,7 @@ In Qʼathebʼo sentences, clause-level tense is marked on nominative nouns rathe
 | Remote Past | -qʼo   |          |
 : Tense Affixes
 
-##### Simple Tense
+### Simple Tense
 
 Simple clauses make four tense distinctions: future, present, past, and remote past.
 
@@ -488,11 +488,11 @@ Simple clauses make four tense distinctions: future, present, past, and remote p
 <p class="freetranslation">"I saw you during the holiday last year"</p>
 </div>
 
-##### Relative Tense
+### Relative Tense
 
 Within relative clauses the past and remote-past merge into a single tense, leaving three tense distinctions: **future** (*-ta*), **present** (*-na*), and **past** (*-pʼi*).  The point of reference for these relative tenses is not the moment of speech, but rather the time of the event in the matrix predicate.  See the [Relative Clauses](#relative-clauses) section for examples.
 
-### Personal Pronouns
+## Personal Pronouns
 
 Personal pronouns only exist for humans and follow Group 1 morphosyntactic patterns.  They inherently convey person and number, and don't take an animacy-number suffix.
 
@@ -514,7 +514,7 @@ Personal pronouns only exist for humans and follow Group 1 morphosyntactic patte
 <p class="freetranslation">"I see your dog."</p>
 </div>
 
-### Demonstrative Pronouns
+## Demonstrative Pronouns
 
 There are two demonstrative pronouns in Qʼathebʼo.  One is for referents near the speaker, the proximal demonstrative *lothi*, and the other is for referents far from the speaker, the distal *kedi*.  These demonstratives take the same number marking as other nouns, matching the appropriate animacy group of the referent.
 
@@ -539,5 +539,19 @@ Like the English demonstratives "this" and "that", the Qʼathebʼo demonstrative
 <dl> <dt>kedi-mo</dt> <dd>that-<abbr>G2.SG</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"Don't go near that squirrel."</p>
+</div>
+
+# Verb Morphology
+
+The prototypical verb structure without noun incorporation is a lexical root, an aspect/mood affix, optionally a passive affix, and person-number agreement with the direct object (if one exists).  This is represented by the following template, where <λ> represents the lexical root.
+
+<div class="comparison">
+<p>λ-<abbr>ASP:MOD(-PASS)-PNUM:OBJ</abbr></p>
+</div>
+
+When a verb involves noun incorporation, the incorporated noun's lexical root (represented by <ƛ> in the following template) appears as a prefix immediately in front of the verb's lexical root, and the person-number agreement is dropped if appropriate (see [Noun Incorporation](#noun-incorporation) for more details).
+
+<div class="comparison">
+<p>ƛ-λ-<abbr>ASP:MOD(-PASS)(-PNUM:OBJ)</abbr></p>
 </div>
 
