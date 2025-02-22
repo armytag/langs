@@ -301,3 +301,54 @@ There are several verbs in Qʼathebʼo that perform the function of English "be"
 <p class="freetranslation">"I was angry."</p>
 </div>
 
+### Modifier Morphology
+
+Modifiers in Qʼathebʼo can modify either nouns or verbs.  The root of the modifier is used in both situations, though with nouns they take additional inflection.
+
+When modifiers are used with verbs, they occur after the verb and before any noun phrases.
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>kʼ-a</dt> <dd>sit-<abbr>PFV</abbr></dd> </dl>
+<dl> <dt>thohla</dt> <dd>quiet</dd> </dl>
+<dl> <dt>tho-ma-dʼe-mi</dt> <dd>cat-<abbr>G2.SG-NOM-PST</abbr></dd> </dl>
+<dl> <dt>kome-ga-to</dt> <dd>window-<abbr>G3.SG-LOC</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"The cat sat quietly by the window."</p>
+</div>
+
+When modifiers are used with nouns, they occur after the noun and inflect to agree with the number and class of the noun.
+
+| CLASS | Single | Plural |
+|---    |---     |---     |
+| G1    | -to    | -go    |
+| G2    | -mo    | -mo    |
+| G3    | -go    | -lo    |
+| G4    | -qo    | -lo    |
+| G5    | -go    | -to    |
+: Noun Modifier Agreement
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>kʼ-a</dt> <dd>sit-<abbr>PFV</abbr></dd> </dl>
+<dl> <dt>tho-ma-dʼe-mi</dt> <dd>cat-<abbr>G2.SG-NOM-PST</abbr></dd> </dl>
+<dl> <dt>thohla-mo</dt> <dd>quiet-<abbr>G2.SG</abbr></dd> </dl>
+<dl> <dt>kome-ga-to</dt> <dd>window-<abbr>G3.SG-LOC</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"The quiet cat sat by the window."</p>
+</div>
+
+### Adverbs
+
+Adverbs are a special class of words in Qʼathebʼo that change how a verb relates to the rest of the discourse.  They occur before a verb, and differ from [verb modifiers](#modifying-verbs) which add meaning or nuance to a verb.  Adverbs don't undergo morphological derivation and always appear in the same form.
+
+Adverbs can convey various relational information about the verb it modifies, including:
+
+- Negation (*theni*)
+- Purpose (*kʼahla* "because; so that")
+- Result (*takʼo* "thus")
+- Time of occurance relative to another predicate (*lapo* "earlier", *deba* "later")
+- Discourse flow (*dala* "rather", *deqo* "moreover", *kidʼi* "however", *hlekʼo* "also")
+
