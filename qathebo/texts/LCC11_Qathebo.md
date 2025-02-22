@@ -14,7 +14,7 @@
 𞤚𞤢𞤳𞥇𞤮 𞤨𞥇𞤫𞤼𞥇𞤮𞤺𞤫𞤳𞥇𞤭 𞤹𞥇𞤫𞤯𞤮𞤼𞤢𞤯𞤢𞤹𞥇𞤮 𞤤𞤮𞤬𞤭𞤺𞤭 𞤣𞤢 𞤹𞥇𞤢𞤬𞤫𞤩𞤮𞤺𞤭𞤣𞤭 𞤤𞤭𞤨𞥇𞤭𞤥𞤭𞤺𞤮 𞤹𞥇𞤢𞤬𞤫𞤩𞤮𞤺𞤫𞤣𞤢𞤲𞤢 𞤣𞤫𞤳𞥇𞤫𞤺𞤮 𞤥𞤭𞤣𞤮𞤹𞥇𞤢 𞤹𞥇𞤮𞤹𞤭𞤩𞤭𞤤𞤭.
 𞤍𞤫𞤳𞥇𞤭 𞤹𞥇𞤫𞤯𞤮𞤼𞤢𞤯𞤢𞤹𞥇𞤮 𞤹𞥇𞤢𞤬𞤫𞤩𞤮𞤺𞤭 𞤣𞤫𞤳𞥇𞤫𞤺𞤮 𞤨𞤢𞤨𞤮𞤥𞤭𞤨𞥇𞤫𞤺𞤮.
 𞤇𞤢𞤹𞤢 𞤹𞥇𞤫𞤬𞤭𞤳𞥇𞤭 𞤲𞤫𞤺𞤭𞤺𞤫𞤯𞤫𞤩𞤭 𞤹𞥇𞤫𞤯𞤮𞤼𞤢𞤯𞤫𞤩𞤭 𞤹𞥇𞤢𞤬𞤫𞤩𞤮𞤺𞤭𞤺𞤭 𞤤𞤮𞤬𞤭𞤺𞤮 𞤩𞤭𞤼𞤮𞤼𞤫𞤣𞤭 𞤦𞤫𞤸𞤭𞤺𞤫𞤼𞤮 𞤩𞤭𞤼𞤮𞤼𞤢𞤥𞤮 𞤤𞤮𞤬𞤭𞤼𞤮.
-𞤗𞥇𞤢𞤬𞤮𞤩𞤭 𞤩𞤮𞤨𞥇𞤫𞤯𞤫𞤩𞤭 𞤨𞤢𞤨𞤮𞤥𞤭𞤺𞤭𞤺𞤭 𞤣𞤢 𞤹𞥇𞤫𞤯𞤮𞤼𞤢𞤯𞤢𞤲𞤢 𞤨𞤢𞤨𞤮𞤥𞤭𞤹𞥇𞤫𞤬𞤭𞤤𞤭!
+𞤗𞥇𞤢𞤬𞤮𞤩𞤭 𞤩𞤮𞤨𞥇𞤫𞤯𞤫𞤩𞤭 𞤨𞤢𞤨𞤮𞤥𞤭𞤺𞤭𞤺𞤭 𞤣𞤢 𞤹𞥇𞤫𞤯𞤮𞤼𞤢𞤯𞤢𞤲𞤢 𞤨𞤢𞤨𞤮𞤥𞤫𞤹𞥇𞤫𞤬𞤭𞤤𞤭!
 </p>
 
 <h2 style="text-align: center">Torch in Roman Script</h2>
@@ -30,7 +30,7 @@ Thapeni gedʼaqʼo gedapematʼo dekʼemo qʼabʼametʼimo kidʼi theni gedepihle
 Takʼo pʼetʼogekʼi qʼedʼotadʼaqʼo lothigi da qʼathebʼogidi lipʼimigo qʼathebʼogedana dekʼego midoqʼa qʼoqibʼili.
 Dʼekʼi qʼedʼotadʼaqʼo qʼathebʼogi dekʼego papomipʼego.
 Bʼaqa qʼethikʼi negigedʼebʼi qʼedʼotadʼebʼi qʼathebʼogigi lothigo bʼitotedi behligeto bʼitotamo lothito.
-Qʼathobʼi bʼopʼedʼebʼi papomigigi da qʼedʼotadʼana papomiqʼethili!
+Qʼathobʼi bʼopʼedʼebʼi papomigigi da qʼedʼotadʼana papomeqʼethili!
 
 <h1></h1>
 
