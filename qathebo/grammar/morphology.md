@@ -43,7 +43,7 @@ These number-marking suffixes only appear in nouns.  Regardless of the Animacy G
 
 ### Possession
 
-When nouns are possessed, they take an additional suffix *-tʼo* after number and before the case marker.  This form of possession only applies to nouns of a lower animacy group than the possessor; something cannot be possessed by a noun of equal or lower animacy.  The possessor noun appears in genetive form after the possessed noun, much like an noun modifier.
+When nouns are possessed, they take an additional suffix *-tʼo* after number and before the case marker.  This form of possession only applies to nouns of a lower animacy group than the possessor; something cannot be possessed by a noun of equal or lower animacy.  The possessor noun appears in genitive form after the possessed noun, much like an noun modifier.
 
 <div class="gloss">
 <p class="number"></p>
