@@ -267,6 +267,10 @@ If multiple direct objects occur then the agreement will be the plural form of t
 <p class="freetranslation">"I hit the bird and its nest with the stone."</p>
 </div>
 
+#### Noun Incorporation
+
+Sometimes the direct object of a transitive verb will be incorporated into the verb as a prefix.  There are multiple ways for this to happen, but the most common type of incorporation involves the direct object becoming backgrounded or generalized.  When this happens, the transitive verb becomes intransitive and loses its direct-object agreement marking.
+
 ### Copulae
 
 There are several verbs in Qʼathebʼo that perform the function of English "be" in linking a subject to another noun phrase reflecting a property, states, location, equivalence, exists, or some other aspect of the subject.  These various types of noun phrases are differentiated in Qʼathebʼo by different verbs, though they all take the form of a body part incorporated into the verb *bʼa* roughly meaning "idly move".  When using these copula verbs, the compliment noun phrase typically appears in the Essive or Locative case.
