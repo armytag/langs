@@ -164,7 +164,7 @@ Below is a table summarizing the cases, their morphological affix form, and thei
 In Qʼathebʼo sentences, clause-level tense is marked on nominative nouns rather than on verbs.  All nouns in the nominative case will mark the same clause-level tense.  Below is a table summarizing both simple and relative tense affixes.
 
 |             | Simple | Relative |
-|---          |---     |---       |
+|---          | :---:  | :---:    |
 | Future      | -do    | -na      |
 | Present     | -bʼi   | -ta      |
 | Past        | -mi    | -pʼi     |
@@ -208,4 +208,32 @@ There are two demonstrative pronouns in Qʼathebʼo: the proximal demonstrative 
 </div>
 <p class="freetranslation">"Don't go near that squirrel."</p>
 </div>
+
+### Verb Morphology
+
+The prototypical verb structure without noun incorporation is represented by the following template, where <λ> represents the lexical root.
+
+<div class="comparison">
+<p>λ-<abbr>ASP:MOD-PNUM:OBJ</abbr></p>
+</div>
+
+When a verb involves noun incorporation, the incorporated noun's lexical root (represented by <ƛ> in the following template) appears as a prefix immediately in front of the verb's lexical root, and the person-number agreement is dropped if appropriate.
+
+<div class="comparison">
+<p>ƛ-λ-<abbr>ASP:MOD(-PNUM:OBJ)</abbr></p>
+</div>
+
+#### Aspect/Mood
+
+Verbs in Qʼathebʼo do not inflect for tense (see [Nominal Tense](#tense)), but do have different forms based on the aspect and mood.
+
+| Aspect/Mood   | Affix   | General Meaning / Purpose          |
+| ---           | :---:   | :---                               |
+| Perfective    | *-a*    | focus start or end of action       |
+| Imperfective  | *-i*    | focus ongoing or background action |
+| Imperative    | *-o*    | command to do something            |
+| Prohibitive   | *-opa*  | command to not do something        |
+| Optative      | *-obʼi* | express hope for action to occur   |
+| Subordinate   | *-ili*  | marks verbs in relative clauses    |
+: Aspect/Mood Marking
 

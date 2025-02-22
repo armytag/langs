@@ -534,16 +534,16 @@ There is a general interrogative pronoun *bi* used in most wh-questions.  It is 
 
 ## Verbs
 
-The prototypical verb structure without noun incorporation is a lexical root, an aspect/mood affix, optionally a passive affix, and person-number agreement with the direct object (if one exists).  This is represented by the following template, where <λ> represents the lexical root.
+The prototypical verb structure without noun incorporation is a lexical root, an aspect/mood affix, and person-number agreement with the direct object (if one exists).  This is represented by the following template, where <λ> represents the lexical root.
 
 <div class="comparison">
-<p>λ-<abbr>ASP:MOD(-PASS)-PNUM:OBJ</abbr></p>
+<p>λ-<abbr>ASP:MOD-PNUM:OBJ</abbr></p>
 </div>
 
 When a verb involves noun incorporation, the incorporated noun's lexical root (represented by <ƛ> in the following template) appears as a prefix immediately in front of the verb's lexical root, and the person-number agreement is dropped if appropriate (see [Noun Incorporation](#noun-incorporation) for more details).
 
 <div class="comparison">
-<p>ƛ-λ-<abbr>ASP:MOD(-PASS)(-PNUM:OBJ)</abbr></p>
+<p>ƛ-λ-<abbr>ASP:MOD(-PNUM:OBJ)</abbr></p>
 </div>
 
 The citation form for verbs is the lexical root with perfective aspect, and no other affixes.
