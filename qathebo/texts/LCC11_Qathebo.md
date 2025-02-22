@@ -107,4 +107,105 @@ There are three phonemic vowel qualities in Qʼathebʼo: /a/, /i/, and /o/.  The
 <dt>dʼehl<strong>e</strong>-q<strong>e</strong>-to</dt> <dd>"at home (<abbr>LOC</abbr>)"</dd>
 </dl>
 
+### Noun Morphology
+
+The prototypical noun structure is represented by the following template, where <λ> represents the lexical root.
+
+<div class="comparison">
+<p>λ-<abbr>NUM(-POSS)-CASE(-TENSE)</abbr></p>
+</div>
+
+#### Animacy Groups (Class/Gender)
+
+There are five classes of nouns that determine the noun's number marking, verb and modifier agreement, and word order.  They are, in descending order of animacy:
+
+- ***Group 1*** -- Humans, including human body parts.
+- ***Group 2*** -- Animate, self-moving things such as animals, waterfalls, fire, and animal body parts.
+- ***Group 3*** -- Manipulatable objects such as cooked food, tools, small stones, and crops.
+- ***Group 4*** -- Larger environmental objects such as trees, buildings, and clouds.
+- ***Group 5*** -- Formless or abstract things such as thoughts, ideas, emotions, and time.
+
+#### Person & Number
+
+Nouns always mark number with a suffix based on their animacy group.
+
+|         | Single | Dual  | Paucal | Plural |
+| ---:    | :---:  | :---: | :---:  | :---:  |
+| Group 1 | -ta    | -thi  | -tha   | -gi    |
+| Group 2 | -ma    | -tha  | -thi   | -mi    |
+| Group 3 | -ga    | -ki   | -ki    | -la    |
+| Group 4 | -qo    | -hlo  | -hlo   | -la    |
+| Group 5 | -gi    | -ta   | -ta    | -ta    |
+: Nominal Person-Number Marking
+
+#### Possession
+
+When nouns are possessed by another noun of higher animacy, they take an additional suffix *-tʼo* after number and before the case marker.  This form of possession only applies to possessed nouns of a lower animacy group than the possessor, not equal or higher animacy than the possessor.  The possessor noun always appears in genetive form after the possessed noun, much like a noun modifier.
+
+#### Case
+
+Below is a table summarizing the cases, their morphological affix form, and their general meaning.  Unlike most nominative-accusative langauges, the nominative case takes overt marking while the accusative does not.
+
+| Case         | Affix | General Meaning |
+| :---:        | :---: | :---:           |
+| Nominative   | -dʼa  | *agent*         |
+| Accusative   | -     | *patient*       |
+| Dative       | -ta   | *recipient*     |
+| Genitive     | -tʼi  | *"of"*          |
+| Instrumental | -gi   | *"with"*        |
+| Locative     | -to   | *"at"*          |
+| Allative     | -mo   | *"to"*          |
+| Ablative     | -di   | *"from"*        |
+| Essive       | -qʼa  | *"as"*          |
+: Nominal Cases
+
+#### Tense
+
+In Qʼathebʼo sentences, clause-level tense is marked on nominative nouns rather than on verbs.  All nouns in the nominative case will mark the same clause-level tense.  Below is a table summarizing both simple and relative tense affixes.
+
+|             | Simple | Relative |
+|---          |---     |---       |
+| Future      | -do    | -na      |
+| Present     | -bʼi   | -ta      |
+| Past        | -mi    | -pʼi     |
+| Remote Past | -qʼo   |          |
+: Tense Affixes
+
+Simple tenses are used in simple clauses, while relative tenses are used in [relative/subordinate clauses](#relative-clauses).
+
+### Personal Pronouns
+
+Personal pronouns only exist for humans and follow Group 1 morphosyntactic patterns.  They convey both person and number, and don't take additional number marking.
+
+|      | Single | Dual   | Paucal | Plural |
+| ---: | :---:  | :---:  | :---:  | :---:  |
+| 1st  | pʼa    | bʼabo  | mibʼa  | bʼopʼi |
+| 2nd  | qi     | qona   | qʼobʼa | thoqi  |
+| 3rd  | gi     | gatho  | gebʼa  | gogi   |
+: Personal Pronouns
+
+### Demonstrative Pronouns
+
+There are two demonstrative pronouns in Qʼathebʼo: the proximal demonstrative *lothi* ("this"), and the distal demonstrative *kedi* ("that").  These demonstratives take the same number marking as other nouns, matching the appropriate animacy group of the referent.  They can also be used to specify another noun rather than replacing it, in which case they appear after the referent and take [modifier agreement](#modifying-nouns) rather than number/case marking.
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>notebʼ-i</dt> <dd>equivalence<abbr>.COP-IPFV</abbr></dd> </dl>
+<dl> <dt>lothe-ta-dʼe-bʼi</dt> <dd>this<abbr>-G1.SG-NOM-PRS</abbr></dd> </dl>
+<dl> <dt>qane-ta-qʼa</dt> <dd>parent<abbr>-G1.SG-ESS</abbr></dd> </dl>
+<dl> <dt>pʼe-tʼi-to</dt> <dd><abbr>1SG-GEN-G1.SG</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"This is my mother."</p>
+</div>
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>l-opa</dt> <dd><abbr>go-PROH</abbr></dd> </dl>
+<dl> <dt>ba-ma-mo</dt> <dd>squirrel-<abbr>G2.SG-ALL</abbr></dd> </dl>
+<dl> <dt>kedi-mo</dt> <dd>that-<abbr>G2.SG</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"Don't go near that squirrel."</p>
+</div>
 
