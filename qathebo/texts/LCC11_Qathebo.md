@@ -221,7 +221,7 @@ Below is a table summarizing the cases, their morphological affix form, and thei
 
 ##### Nominative (*-dʼa*)
 
-The Nominative case indicates which noun is performing the action described by the verb.  This is roughly equivalent to the subject or agent in an English sentence.  The nominative case also requires [tense marking](#tense) after it.
+The Nominative case indicates which noun is performing the action described by the verb.  The nominative case also requires [tense marking](#tense) after it.
 
 <div class="gloss">
 <p class="number"></p>
@@ -243,7 +243,7 @@ The Nominative case indicates which noun is performing the action described by t
 
 ##### Accusative
 
-The Accusative case indicates which noun is being acted upon by the verb.  This is roughly equivalent to the object or patient in an English sentence.
+The Accusative case indicates which noun is being acted upon by the verb.
 
 <div class="gloss">
 <p class="number"></p>
@@ -267,7 +267,7 @@ The Accusative case indicates which noun is being acted upon by the verb.  This 
 
 ##### Dative (*-ta*)
 
-The Dative case indicates which noun is receiving something from the verb.  The thing being received could be something physical like a gift as in %{+1}% below, or something abstract like speech as in %{+2}% below, and need not be explicitly stated.  In both cases dative noun is the "beneficiary" of the verb.
+The Dative case indicates which noun is receiving something from the verb.
 
 <div class="gloss">
 <p class="number"></p>
@@ -316,7 +316,7 @@ The Genitive case indicates that the noun is related to another noun in some way
 
 ##### Instrumental (*-gi*)
 
-The Instrumental case indicates which noun is used to perform the verb.  This could be a tool, a method, or even a collaborator.
+The Instrumental case indicates which noun is used to perform the verb.
 
 <div class="gloss">
 <p class="number"></p>
@@ -341,21 +341,9 @@ When used with a temporal noun, it indicates that the predicate occurs *througho
 <p class="freetranslation">"He was happy throughout the year."</p>
 </div>
 
-When a stative noun like a feeling or emotion is put in the instrumental case, it highlights the state as a *cause or contributor* to the verb occuring, as seen in %{+1}% below.
-
-<div class="gloss">
-<p class="number"></p>
-<div class="interlinear">
-<dl> <dt>thap-e-pi</dt> <dd>hit<abbr>-PFV-1SG</abbr></dd> </dl>
-<dl> <dt>gi-dʼe-bʼi</dt> <dd><abbr>3SG-NOM-PRS</abbr></dd> </dl>
-<dl> <dt>pʼatʼoni-gi-gi</dt> <dd>anger-<abbr>G5.SG-INST</abbr></dd> </dl>
-</div>
-<p class="freetranslation">"He hit me out of anger."</p>
-</div>
-
 ##### Locative (*-to*)
 
-The Locative case indicates which noun the verb occurs at or near.  It is broadly used for any noun around which the predicate happens without conveying a sense of motion toward or away from the noun.
+The Locative case indicates which noun the verb occurs at or near.
 
 <div class="gloss">
 <p class="number"></p>
@@ -391,7 +379,7 @@ When used with a temporal noun it indicates that the predicate occurs *within* t
 
 ##### Allative (*-mo*)
 
-The Allative case indicates which noun the verb occurs toward.  Unlike the Locative case, this case emphasizes motion relative to the inflected noun, and frames the noun as the destination of that motion.
+The Allative case indicates which noun the verb occurs toward.  When used with a temporal or stative noun, it indicates that the predicate occurs *until* the allative time or state is reached.
 
 <div class="gloss">
 <p class="number"></p>
@@ -403,11 +391,9 @@ The Allative case indicates which noun the verb occurs toward.  Unlike the Locat
 <p class="freetranslation">"I will walk to school."</p>
 </div>
 
-When used with a temporal or stative noun, it indicates that the predicate occurs *until* the allative time or state is reached.
-
 ##### Ablative (*-di*)
 
-The Ablative case indicates which noun the verb occurs away from.  Unlike the Locative case, this case emphasizes motion relative to the inflected noun, and frames the noun as the origin of that motion.
+The Ablative case indicates which noun the verb occurs away from.  When used with temporal or stative nouns it indicates that the predicate has occured *since* the ablative time or state.
 
 <div class="gloss">
 <p class="number"></p>
@@ -419,11 +405,9 @@ The Ablative case indicates which noun the verb occurs away from.  Unlike the Lo
 <p class="freetranslation">"Light shines from the sun."</p>
 </div>
 
-When used with temporal or stative nouns it indicates that the predicate has occured *since* the ablative time or state.
-
 ##### Essive (*-qʼa*)
 
-The Essive inidicates which noun the nominative subject is equivalent to or existing as while the verb occurs.  On its own an essive noun typically reflects something which only situationally describes the nominative subject but might not be something fundamental to them.
+The Essive inidicates which noun the nominative subject is equivalent to or existing as while the verb occurs.  On its own an essive noun typically reflects something which only situationally describes the nominative subject.
 
 <div class="gloss">
 <p class="number"></p>
@@ -447,6 +431,4 @@ However, when used with [one of the copulae](#copulae) it can convey true or las
 </div>
 <p class="freetranslation">"That is a dog."</p>
 </div>
-
-Ultimately the temporary or permanent nature of the essive-nominative equivalence is dependant on the context, and periphrastic constructions can be used to clarify which sense is intended.
 
