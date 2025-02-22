@@ -407,7 +407,7 @@ The Ablative case indicates which noun the verb occurs away from.  When used wit
 
 ##### Essive (*-qʼa*)
 
-The Essive inidicates which noun the nominative subject is equivalent to or existing as while the verb occurs.  On its own an essive noun typically reflects something which only situationally describes the nominative subject.
+The Essive inidicates which noun the nominative subject is equivalent to or existing as while the verb occurs.  On its own an essive noun typically reflects something which only situationally describes the nominative subject.  However, when used with [one of the copulae](#copulae) it can convey true or lasting equivalence as in %{+2}% below.
 
 <div class="gloss">
 <p class="number"></p>
@@ -420,8 +420,6 @@ The Essive inidicates which noun the nominative subject is equivalent to or exis
 <p class="freetranslation">"They wear vines as clothes."</p>
 </div>
 
-However, when used with [one of the copulae](#copulae) it can convey true or lasting equivalence as in %{+1}% below.
-
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
@@ -430,5 +428,116 @@ However, when used with [one of the copulae](#copulae) it can convey true or las
 <dl> <dt>kobe-ma-qʼa</dt> <dd>dog-<abbr>G2.SG-ESS</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"That is a dog."</p>
+</div>
+
+#### Tense
+
+In Qʼathebʼo sentences, clause-level tense is marked on nominative nouns rather than on verbs.  All nouns in the nominative case will mark the same clause-level tense.  Below is a table summarizing both simple and relative tense affixes.
+
+|             | Simple | Relative |
+|---          |---     |---       |
+| Future      | -do    | -na      |
+| Present     | -bʼi   | -ta      |
+| Past        | -mi    | -pʼi     |
+| Remote Past | -qʼo   |          |
+: Tense Affixes
+
+##### Simple Tense
+
+Simple clauses make four tense distinctions: future, present, past, and remote past.
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>ligin-i</dt> <dd>study-<abbr>IPFV</abbr></dd> </dl>
+<dl> <dt>gi-dʼa-do</dt> <dd><abbr>3SG-NOM-FUT</abbr></dd> </dl>
+<dl> <dt>tetha-te-gi</dt> <dd>year-<abbr>G5.PL-INS</abbr></dd> </dl>
+<dl> <dt>biqe-to</dt> <dd>three-<abbr>G5.PL</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"She will be studying for three years."</p>
+</div>
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>lil-i</dt> <dd>fall-<abbr>IPFV</abbr></dd> </dl>
+<dl> <dt>hlatha-me-dʼe-bʼi</dt> <dd>rain-<abbr>G2.PL-NOM-PRS</abbr></dd> </dl>
+<dl> <dt>dʼobʼata-qe-to</dt> <dd>outside-<abbr>G4.SG-LOC</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"It's raining outside."</p>
+</div>
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>pʼapepʼa-gabʼahl-a</dt> <dd>groceries-buy-<abbr>PFV</abbr></dd> </dl>
+<dl> <dt>bʼabo-dʼe-mi</dt> <dd><abbr>1DU-NOM-PST</abbr></dd> </dl>
+<dl> <dt>nedʼobʼito-gi-to</dt> <dd>yesterday-<abbr>G5.SG-LOC</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"We bought groceries yesterday."</p>
+</div>
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>paqʼ-e-qʼi</dt> <dd>see-<abbr>PFV-2SG</abbr></dd> </dl>
+<dl> <dt>pʼa-dʼa-qʼo</dt> <dd><abbr>1SG-NOM-REM.PST</abbr></dd> </dl>
+<dl> <dt>nedʼotethe-gi-to</dt> <dd>prior.year-<abbr>G5.SG-LOC</abbr></dd> </dl>
+<dl> <dt>bekʼebʼito-gi-to</dt> <dd>holiday-<abbr>G5.SG-LOC</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"I saw you during the holiday last year"</p>
+</div>
+
+##### Relative Tense
+
+Within relative clauses the past and remote-past merge into a single tense, leaving three tense distinctions: **future** (*-ta*), **present** (*-na*), and **past** (*-pʼi*).  The point of reference for these relative tenses is not the moment of speech, but rather the time of the event in the matrix predicate.  See the [Relative Clauses](#relative-clauses) section for examples.
+
+### Personal Pronouns
+
+Personal pronouns only exist for humans and follow Group 1 morphosyntactic patterns.  They inherently convey person and number, and don't take an animacy-number suffix.
+
+|      | Single | Dual   | Paucal | Plural |
+| ---: | :---:  | :---:  | :---:  | :---:  |
+| 1st  | pʼa    | bʼabo  | mibʼa  | bʼopʼi |
+| 2nd  | qi     | qona   | qʼobʼa | thoqi  |
+| 3rd  | gi     | gatho  | gebʼa  | gogi   |
+: Personal Pronouns
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>peqʼ-i-ni</dt> <dd>see-<abbr>IPFV-G2.SG</abbr></dd> </dl>
+<dl> <dt>pa-dʼe-bʼi</dt> <dd><abbr>1SG-NOM-PRS</abbr></dd> </dl>
+<dl> <dt>kobe-ma-tʼi-∅</dt> <dd>dog-<abbr>G2.SG-POSS-ACC</abbr></dd> </dl>
+<dl> <dt>qe-ta-mo</dt> <dd><abbr>2SG-GEN-G2.SG</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"I see your dog."</p>
+</div>
+
+### Demonstrative Pronouns
+
+There are two demonstrative pronouns in Qʼathebʼo.  One is for referents near the speaker, the proximal demonstrative *lothi*, and the other is for referents far from the speaker, the distal *kedi*.  These demonstratives take the same number marking as other nouns, matching the appropriate animacy group of the referent.
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>notebʼ-i</dt> <dd>equivalence<abbr>.COP-IPFV</abbr></dd> </dl>
+<dl> <dt>lothe-ta-dʼe-bʼi</dt> <dd>this<abbr>-G1.SG-NOM-PRS</abbr></dd> </dl>
+<dl> <dt>qane-ta-qʼa</dt> <dd>parent<abbr>-G1.SG-ESS</abbr></dd> </dl>
+<dl> <dt>pʼe-tʼi-to</dt> <dd><abbr>1SG-GEN-G1.SG</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"This is my mother."</p>
+</div>
+
+Like the English demonstratives "this" and "that", the Qʼathebʼo demonstratives can also be used to specify another noun rather than replacing it.  In this case they act like modifiers, appearing after the referent and taking [modifier agreement](#modifying-nouns) rather than number/case marking.
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>l-opa</dt> <dd><abbr>go-PROH</abbr></dd> </dl>
+<dl> <dt>ba-ma-mo</dt> <dd>squirrel-<abbr>G2.SG-ALL</abbr></dd> </dl>
+<dl> <dt>kedi-mo</dt> <dd>that-<abbr>G2.SG</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"Don't go near that squirrel."</p>
 </div>
 
