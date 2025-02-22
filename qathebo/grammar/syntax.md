@@ -10,6 +10,7 @@ Independant clauses follow a somewhat strict word order.  The predicate verb occ
 <dl> <dt>tekʼoq-a-mo</dt> <dd>carry<abbr>-PFV-G2.PL</abbr></dd> </dl>
 <dl> <dt>mebʼa-dʼa-na</dt> <dd><abbr>1PAU-NOM-FUT</abbr></dd> </dl>
 <dl> <dt>qaqʼo-la-∅</dt> <dd>fish-<abbr>G2.PL-ACC</abbr></dd> </dl>
+<dl> <dt>deke-lo</dt> <dd>large-<abbr>G2.PL</abbr></dd> </dl>
 <dl> <dt>goqi-lo</dt> <dd>five-<abbr>G2.PL</abbr></dd> </dl>
 <dl> <dt>qine-me-di</dt> <dd>river-<abbr>G2.SG-ABL</abbr></dd> </dl>
 <dl> <dt>dʼehle-qe-tʼe-mo</dt> <dd>house-<abbr>G4.SG-POSS-ALL</abbr></dd> </dl>
