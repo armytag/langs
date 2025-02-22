@@ -77,7 +77,9 @@ The lexical roots used in this text are listed here in citation form.
 
 <h2 style="text-align: center">Grammar Notes</h2>
 
-Here I will attempt to summarize the major grammartical features of Qʼathebʼo that will be needed to decipher the torch.  This will be extremely succint, and for in-depth explanations you should reference the complete grammar that will be sent with this document and can also be found at [https://armitageth.com/langs/qathebo/grammar.html](https://armitageth.com/langs/qathebo/grammar.html).
+Here I will attempt to summarize the major grammartical features of Qʼathebʼo that will be needed to decipher the torch.  This will be extremely succint, and for in-depth explanations you should reference the complete grammar that will be sent with this document and can also be found at [https://armitageth.com/langs/qathebo/grammar.html](https://armitageth.com/langs/qathebo/grammar.html).  There will be several example sentences at the end of this document to illustrate the various features.
+
+Typologically, Qʼathebʼo is an agglutinating verb-initial language with an animacy hierarchy, nominal tense, noun incorporation, and prevalent vowel assimilation.
 
 ### Vowel Assimilation
 
@@ -349,8 +351,11 @@ Adverbs can convey various relational information about the verb it modifies, in
 - Negation (*theni*)
 - Purpose (*kʼahla* "because; so that")
 - Result (*takʼo* "thus")
-- Time of occurance relative to another predicate (*lapo* "earlier", *deba* "later")
 - Discourse flow (*dala* "rather", *deqo* "moreover", *kidʼi* "however", *hlekʼo* "also")
+
+### Particles
+
+There is one noteworthy particle, the relativizer *da*.  It occurs after a noun and begins a relative clause that describes the noun in some way.  See more in [Relative Clauses](#relative-clauses).
 
 ### Syntax
 
@@ -373,7 +378,9 @@ In independant clauses, the predicate verb occurs at the beginning of the senten
 
 #### Relative Clauses
 
-Relative clauses are predicates that are being used to modify part of another clause (known as the matrix clause).  These predicates contain everything a regular clause would contain, but typically take different tense or aspect marking and are ordered verb-finally rather than verb-initially.  When affecting the other clause as a whole, they appear before the matrix verb as seen in sentence %{+1}% below.  When affecting a noun, they appear after the matrix noun and begin with the relativizer *da* as seen in sentence %{+2}% below.
+Relative clauses are predicates that are modifying part of another clause (known as the matrix clause).  These predicates are ordered verb-finally rather than verb-initially, and the take Relative tense marking and Subordinate aspect marking.
+
+When affecting the other clause as a whole, they appear before the matrix verb as in %{+1}% below.
 
 <div class="gloss">
 <p class="number"></p>
@@ -386,6 +393,8 @@ Relative clauses are predicates that are being used to modify part of another cl
 </div>
 <p class="freetranslation">"Before I would sleep, I wash my face."</p>
 </div>
+
+When affecting a noun, they appear after the matrix noun and begin with the relativizer *da* as in %{+1}% below.
 
 <div class="gloss">
 <p class="number"></p>
