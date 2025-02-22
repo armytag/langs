@@ -237,3 +237,63 @@ Verbs in Qʼathebʼo do not inflect for tense (see [Nominal Tense](#tense)), but
 | Subordinate   | *-ili*  | marks verbs in relative clauses    |
 : Aspect/Mood Marking
 
+#### Direct Object Agreement
+
+Transitive verbs are marked for the animacy group, person, and number of the direct object.  Only single and plural number is distinguished.  The various agreement markers are listed in the table below.
+
+|     | Single | Plural |
+|---  |---     |---     |
+| 1st | -pi    | -po    |
+| 2nd | -qʼi   | -qa    |
+| 3rd | -gi    | -ga    |
+| G1  | -ti    | -ta    |
+| G2  | -ni    | -mo    |
+| G3  | -di    | -lo    |
+| G4  | -tha   | -lo    |
+| G5  | -kʼi   | -ko    |
+: Verbal Direct-Object Agreement
+
+If multiple direct objects occur then the agreement will be the plural form of the highest animacy group, as seen in sentence %{+1}% below.
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>thap-a-mo</dt> <dd>hit<abbr>-PFV-G2.PL</abbr></dd> </dl>
+<dl> <dt>pʼa-dʼe-mi</dt> <dd><abbr>1SG-NOM-PST</abbr></dd> </dl>
+<dl> <dt>kilo-ma-∅</dt> <dd>bird-<abbr>G2.SG-ACC</abbr></dd> </dl>
+<dl> <dt>dʼameqʼe-qe-tʼo-∅</dt> <dd>nest<abbr>-G4.SG-POSS-ACC</abbr></dd> </dl>
+<dl> <dt>kade-me-tʼi-qo</dt> <dd>that-<abbr>G2.SG-GEN-G4.SG</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"I hit the bird and its nest with the stone."</p>
+</div>
+
+### Copulae
+
+There are several verbs in Qʼathebʼo that perform the function of English "be" in linking a subject to another noun phrase reflecting a property, states, location, equivalence, exists, or some other aspect of the subject.  These various types of noun phrases are differentiated in Qʼathebʼo by different verbs, though they all take the form of a body part incorporated into the verb *bʼa* roughly meaning "idly move".  When using these copula verbs, the compliment noun phrase typically appears in the Essive or Locative case.
+
+- **Properties** - *qʼoqebʼa* (head-be)
+- **Emotions** - *moqʼabʼa* (throat-be)
+- **Locations** - *tʼethabʼa* (foot-be)
+- **Equivalence** - *notabʼa* (heart-be)
+- **Existance** - *qepʼabʼa* (body-be)
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>qʼoqebʼ-a</dt> <dd>property.COP<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>qona-dʼe-bʼi</dt> <dd><abbr>2DU-NOM-PRS</abbr></dd> </dl>
+<dl> <dt>kikipʼo-qʼa</dt> <dd>tall<abbr>-ESS</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"You two are tall."</p>
+</div>
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>moqʼabʼ-a</dt> <dd>emotion.COP<abbr>-PFV</abbr></dd> </dl>
+<dl> <dt>pʼa-dʼe-mi</dt> <dd><abbr>1SG-NOM-PST</abbr></dd> </dl>
+<dl> <dt>pʼatʼoni-ge-qʼa</dt> <dd>anger<abbr>-G5.SG-ESS</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"I was angry."</p>
+</div>
+

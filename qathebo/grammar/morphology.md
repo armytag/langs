@@ -638,7 +638,6 @@ The various agreement markers are listed in the table below.
 | G5  | -kʼi   | -ko    |
 : Verbal Direct-Object Agreement
 
-
 ### Noun Incorporation
 
 #### Lexical Compounding
