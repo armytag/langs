@@ -4,17 +4,13 @@
 
 ### Two Under-used Places of Articulation
 
-- Labialization (especially velars)
-- Palato-alveolar series (e.g. /ʃ/ or /tʃ/)
-- Palatalized alveolar series (e.g. /tʲ/ and /sʲ/)
-
-|             | Labial | Alveolar | Palatal | Velar | Lab. Vel. |
-| :---        | :---:  | :---:    | :---:   | :---: | :---:     |
-| Plosive     | p      | t        | c       | k     | kʷ        |
-| Affricate   |        | ts       | tɕ      |       |           |
-| Fricative   | v      | s        | ɕ       | x     | xʷ        |
-| Nasal       | m      | n        |         | ŋ     | ŋʷ        |
-| Approximant |        | l        | j       |       | w         |
+|                | Labial | Plain Alv. | Sibilant Alv. | Palatal | Velar | Glottal |
+| :---           | :---:  | :---:      | :---:         | :---:   | :---: | :---:   |
+| Aspirated Stop | pʰ     | tʰ         | tsʰ           | tʃʰ     | kʷʰ   |         |
+| Ejective Stop  | pʼ     | tʼ         | tsʼ           | tʃʼ     | kʷʼ   | ʔ       |
+| Fricative      |        |            | s             | ʃ       | xʷ    | h       |
+| Plain Sonorant | m      | n          |               | j       | w     |         |
+| Glot. Sonorant | ˀm     | ˀn         |               | ˀj      | ˀw    |         |
 
 ### One Under-used Vowel Feature
 
