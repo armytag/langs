@@ -102,7 +102,7 @@ Default marking for:
 
 ### Phonology constraints
 
-- [ ] Use two points of articulation you don't use very often - (free choice! anything out of your comfort zone - willing to consider any secondary articulation that patterns as a POA as a separate POA if it makes sense)
+- [x] Use two points of articulation you don't use very often - (free choice! anything out of your comfort zone - willing to consider any secondary articulation that patterns as a POA as a separate POA if it makes sense)
 - [x] Alternative! use some vowel feature you don't use often (phonation, backness, protrusion, etc etc)
 - [ ] Have at least three phonemes which exhibit some kind of gradation (e.g. this means they merge with other phonemes in certain morphological settings, or create new phones in some morphophonological environment)
 - [ ] Have a closed set of roots which break phonotactic tendencies (e.g. from direct loans from another language or lost substrate etc.) - provide examples of how they differ from regular roots
