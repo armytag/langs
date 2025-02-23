@@ -5,9 +5,16 @@
 ### Two Under-used Places of Articulation
 
 - Labialization (especially velars)
-- Lateral series (e.g. /ɬ/ as fricative, /tˡ/ as plosive)
 - Palato-alveolar series (e.g. /ʃ/ or /tʃ/)
 - Palatalized alveolar series (e.g. /tʲ/ and /sʲ/)
+
+|             | Labial | Alveolar | Palatal | Velar | Lab. Vel. |
+| :---        | :---:  | :---:    | :---:   | :---: | :---:     |
+| Plosive     | p      | t        | c       | k     | kʷ        |
+| Affricate   |        | ts       | tɕ      |       |           |
+| Fricative   | v      | s        | ɕ       | x     | xʷ        |
+| Nasal       | m      | n        |         | ŋ     | ŋʷ        |
+| Approximant |        | l        | j       |       | w         |
 
 ### One Under-used Vowel Feature
 
@@ -18,8 +25,7 @@ Nasalization (or maybe length).
 | Close | i ĩ   |        | u ũ   |
 | Mid   | e     |        | o     |
 | Open  |       | a ã    |       |
-
-- Perhaps ATR instead?
+: Vowels
 
 ### Phonemes with Gradation (3+)
 
@@ -38,6 +44,18 @@ Present-tense nominative, past-tense ergative.
 
 ### Verbal Classifiers
 
+#### Pomoan style 
+
+Instrument prefixes like 'with the hand', 'by sucking', or 'by gravity'.
+
+#### Light verb style
+
+Every verb takes one of ten auxiliaries, with the choice being lexical. 
+
+- 'go run'
+- 'go say'
+- 'get hear'
+
 #### Aiwoo style
 
 Several classes of verbs
@@ -47,37 +65,6 @@ Several classes of verbs
 - O-verbs take a suffixes to say who is performing the action with the noun and pronoun
 
 One or two of these classes will take classifiers based on a referent.
-
-#### Southern Athabaskan style
-
-- Classify the direct object (or subject? or another noun?)
-    - Shape
-- Classify the method of interaction
-    - handling vs propelling vs free flight
-
-Classes of direct object:
-- animate object
-- small roundish object
-- load, pack, burder
-- open container
-- non-compact matter
-- mushy matter
-- slender flexible object
-- slender stiff object
-- flat flexible object
-- plural objects 1
-- plural objects 2
-
-**Interaction with Morphosyntax**
-
-> man jump
-> m'n jump-anim-ed is
-
-> man rope grasp-thin-s
-> m'n rope grasp-anim-ed is
-
-> dog man bite-anim-s
-> dog man bite-anim-ed is
 
 ### Roots with Zero Derivation
 
