@@ -1,3 +1,14 @@
+In the past, the gods were making language.
+The language was small and delicate, but humans wanted to speak it.
+The gods were angry.
+A wise man saw the gods' anger.
+He struck a small clam's shell and it broke.
+He struck a big turtle's shell and it didn't break.
+The gods saw that the a big language would be better.
+The gods made a big and beautiful language.
+After many years, gods and humans are speaking this language.
+We should speak beautifully like the gods!
+
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
