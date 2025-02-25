@@ -25,6 +25,17 @@ Nasalization (or maybe length).
 
 ### Phonemes with Gradation (3+)
 
+For initial consonants:
+
+- Change to nasal after prefix (**k**ot→ me**ŋ**ot)
+- Spirants to stops (f → p, h → k)
+- Prenasalization (k → ŋk)
+- Spirantization (k → x)
+
+Final consonants:
+- Voicing (ga**t** → ga**d**)
+- Glottalization (ba**m** → ba**m˷**)
+
 ### Closed Set of Roots that Break Phonological Tendencies
 
 - Affricates (e.g. /ts/ or /tʃ/)
