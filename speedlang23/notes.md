@@ -1,5 +1,16 @@
 # Splang23 Notes
 
+## Morphosyntactic Marking
+
+- ***Tense*** - auxiliary verb periphrasis (clause final)
+- ***Aspect/Mood*** - verbal prefix
+- ***Person Agreement*** - verbal suffix
+- ***Core Arguments*** - DEF:NUM suffix (clitic for pronouns)
+- ***Peripheral Arguments*** - adpositions
+- ***Subordinate Clause*** - adverb + ergative alignment
+- ***Possession*** - relative particle
+- ***Adjectives*** - precede, or follow after relative particle
+
 ## Phonology
 
 ### Two Under-used Places of Articulation
@@ -49,6 +60,8 @@ Final consonants:
 Present-tense nominative, past-tense ergative.
 
 ### Subclause Marking
+
+Ergative alignment rather than nominative.
 
 ### Verbal Classifiers
 
