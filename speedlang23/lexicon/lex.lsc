@@ -1,0 +1,62 @@
+# For combining two files together
+# pr -tmJS proto.wli proto-rand.wli > proto-compound.wli
+
+Feature front, back
+Feature height(low, mid, high)
+Feature type(*cons, vowel)
+Feature voicing(unvoiced, voiced)
+Feature place(labial, alveolar, sibilant, palatal, velar, glottal)
+Feature manner(stop, affricate, fricative, nasal, approximant, trill, ejective, implosive)
+Feature +nasalized
+Feature +labialized
+Feature +lateral
+Feature (syllable) +stress
+Diacritic ' (before) [+stress]
+Diacritic ʷ [+labialized]
+Symbol a [low  -front -back vowel]
+Symbol e [mid  +front -back vowel]
+Symbol i [high +front -back vowel]
+Symbol o [mid  -front +back vowel]
+Symbol u [high -front +back vowel]
+Symbol ã [low  -front -back vowel +nasalized]
+Symbol ẽ [mid  +front -back vowel +nasalized]
+Symbol ĩ [high +front -back vowel +nasalized]
+Symbol õ [mid  -front +back vowel +nasalized]
+Symbol ũ [high -front +back vowel +nasalized]
+Symbol p [unvoiced labial stop]
+Symbol t [unvoiced alveolar stop]
+Symbol ts [unvoiced sibilant stop]
+Symbol tʃ [unvoiced palatal stop]
+Symbol k [unvoiced velar stop]
+Symbol ʔ [unvoiced glottal stop]
+Symbol m [labial nasal]
+Symbol n [alveolar nasal]
+Symbol l [alveolar approximant +lateral]
+Symbol s [unvoiced sibilant fricative]
+Symbol ʃ [unvoiced palatal fricative]
+Symbol x [unvoiced velar fricative]
+Symbol h [unvoiced glottal fricative]
+
+Syllables:
+[cons] [vowel]
+[cons] [vowel] [cons]
+
+nasalization:
+[vowel] [nasal] => [+nasalized] * / _ {[cons], $}
+
+nasalized-simplification:
+ẽ => ĩ
+õ => ũ
+
+delabialization:
+[velar +labialized] => [-labialized] / _ [+back high vowel]
+
+fricative-harmony:
+ʃ => s / _ s
+s => ʃ / _ ʃ
+
+Syllables:
+clear
+
+romanizer:
+unchanged
