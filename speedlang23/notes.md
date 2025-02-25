@@ -9,8 +9,9 @@
 | Aspirated Stop | pʰ     | tʰ         | tsʰ           | tʃʰ     | kʷʰ   |         |
 | Ejective Stop  | pʼ     | tʼ         | tsʼ           | tʃʼ     | kʷʼ   | ʔ       |
 | Fricative      |        |            | s             | ʃ       | xʷ    | h       |
-| Plain Sonorant | m      | n          |               | j       | w     |         |
-| Glot. Sonorant | ˀm     | ˀn         |               | ˀj      | ˀw    |         |
+| Plain Sonorant | m      | n          | l             | j       | w     |         |
+| Glot. Sonorant | ˀm     | ˀn         | ˀl            | ˀj      | ˀw    |         |
+: Consonants
 
 ### One Under-used Vowel Feature
 
