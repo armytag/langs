@@ -32,6 +32,8 @@ Symbol ʔ [unvoiced glottal stop]
 Symbol m [labial nasal]
 Symbol n [alveolar nasal]
 Symbol l [alveolar approximant +lateral]
+Symbol j [palatal approximant]
+Symbol w [velar approximant]
 Symbol s [unvoiced sibilant fricative]
 Symbol ʃ [unvoiced palatal fricative]
 Symbol x [unvoiced velar fricative]
@@ -41,19 +43,25 @@ Syllables:
 [cons] [vowel]
 [cons] [vowel] [cons]
 
+gradation:
+[fricative] => [stop] / _ [vowel] [cons] {[cons], $}
+
 nasalization:
 [vowel] [nasal] => [+nasalized] * / _ {[cons], $}
 
+h-elision:
+h => * / _ {[cons], $}
+
 nasalized-simplification:
-ẽ => ĩ
-õ => ũ
+ẽ => i
+õ => u
 
 delabialization:
 [velar +labialized] => [-labialized] / _ [+back high vowel]
 
 fricative-harmony:
-ʃ => s / _ s
-s => ʃ / _ ʃ
+ʃ => s / _ {s, ts}
+s => ʃ / _ {ʃ, tʃ}
 
 Syllables:
 clear
