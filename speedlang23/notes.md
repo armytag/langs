@@ -135,7 +135,7 @@ Default marking for:
 ### Morphosyntactic constraints
 
 - [x] Display some kind of split morphosyntactic alignment (e.g. active-stative, DOM, etc.) 
-- [ ] Have radically different marking for subclauses (up to you whether it's inversion of marking, if this is the split ergativity, or some word order inversions, or something of the like) 
+- [x] Have radically different marking for subclauses (up to you whether it's inversion of marking, if this is the split ergativity, or some word order inversions, or something of the like) 
 - [ ] Have a number of verbal classifiers, and have various lexeme have a different meaning entirely depending on verbal classifier (what exactly “classifier” means here is up to you) - show at least 3 examples
 - [ ] Have a class of roots which can change word class through zero derivation (with at least 3 examples)
 - [ ] Come up with a label: whether describing an unusual combination of functions for a morpheme, or a specific case which doesn't have an assigned name, or a phenomenon that requires ad hoc terminology - what this feature is and where it appears is up to you 
