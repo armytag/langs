@@ -21,15 +21,15 @@ VOWELS = [
 ]
 
 SYLL_STRUCTS = []
-SYLL_STRUCTS += ['V'] * 0
-SYLL_STRUCTS += ['CV'] * 7
+SYLL_STRUCTS += ['VC'] * 0
+SYLL_STRUCTS += ['CV'] * 6
 SYLL_STRUCTS += ['CVC'] * 3
 SYLL_STRUCTS += ['CCV'] * 0
 SYLL_STRUCTS += ['CCVC'] * 0
 SYLL_COUNTS = []
-SYLL_COUNTS += [1] * 2
-SYLL_COUNTS += [2] * 6
-SYLL_COUNTS += [3] * 6
+SYLL_COUNTS += [1] * 1
+SYLL_COUNTS += [2] * 2
+SYLL_COUNTS += [3] * 0
 SYLL_COUNTS += [4] * 0
 
 
