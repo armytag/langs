@@ -15,6 +15,8 @@
 | Open  |       | a ã    |       |
 : Vowels
 
+Nasal codas only occur in a handful of words, all direct loans related to sailing, suggesting that coda nasals developed developed into nasalized vowels before these loans entered the language.
+
 ## Morphology
 
 ### Nouns
@@ -34,17 +36,21 @@ Clitic forms attach to the first word in the clause.  Since subclauses always st
 
 ### Verbs
 
-Present tense verbs a fairly synthetic and mark aspect, mood, and noun agreement via affixes.  However, each verb has a single past tense form and is accompanied by a specific auxiliary verb which takes all of the typical marking.
+Present tense verbs a fairly synthetic and mark aspect, mood, and noun agreement via affixes.  However there is only a single past tense form for verbs, which is accompanied by a specific auxiliary verb that takes all of the typical verbal marking for the clause.
 
 #### Present Tense
 
-Verbs take prefixes to indicate aspect.
+Verbs take prefixes to indicate aspect/mood.
 
 When a subject is dropped and conveyed only from verbal agreement, the verb is called an ***integrated verb***.
 
 When no other words precede a transitive integrated verb within a clause, the oblique clitic will attach to the verb and create a ***composite verb*** which marks both agent and patient.  These composite verbs can form entire clauses on their own.
 
 #### Past Tense
+
+### Adjectives
+
+Adjectives behave like nouns, and most can derive into nouns with zero derivation.
 
 ## Syntax
 
