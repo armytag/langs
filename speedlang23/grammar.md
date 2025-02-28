@@ -3,11 +3,9 @@
 
 |                | Labial | Plain Alv. | Sibilant Alv. | Palatal | Velar | Glottal |
 | :---           | :---:  | :---:      | :---:         | :---:   | :---: | :---:   |
-| Aspirated Stop | pʰ     | tʰ         | tsʰ           | tʃʰ     | kʷʰ   |         |
-| Ejective Stop  | pʼ     | tʼ         | tsʼ           | tʃʼ     | kʷʼ   | ʔ       |
+| Ejective Stop  | p      | t          | ts            | tʃ      | kʷ    | ʔ       |
 | Fricative      |        |            | s             | ʃ       | xʷ    | h       |
-| Plain Sonorant | m      | n          |               | j       | w     |         |
-| Glot. Sonorant | ˀm     | ˀn         |               | ˀj      | ˀw    |         |
+| Plain Sonorant | m      | n          | l             | j       | w     |         |
 : Consonants
 
 |       | Front | Center | Back  |
@@ -17,11 +15,12 @@
 | Open  |       | a ã    |       |
 : Vowels
 
-## Morphology
+## Nouns
 
 Nouns have direct and oblique cases
 
-- Man sleep
-- Man-ob slept
-- Man eats sandwich-ob
-- Man-ob ate sandwich
+## Pronouns
+
+## Verbs
+
+When a pronominal subject is dropped and no other words precede the verb, the oblique clitic will attach to the verb create a *composite verb* which marks both agent and patient of the transitive verb.  These composite verbs can form entire clauses on their own.
