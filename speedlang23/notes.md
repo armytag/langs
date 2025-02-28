@@ -47,7 +47,7 @@ Coda /m/ in loan words (mainly related to sailing).
 
 ### Split Alignment
 
-Present-tense nominative, past-tense ergative.
+Present-tense synthetic, past-tense periphrastic.
 
 ### Subclause Marking
 
