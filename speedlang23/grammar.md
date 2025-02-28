@@ -23,9 +23,10 @@ Nouns have direct and oblique cases
 
 | Person |   | S Direct | S Oblique | S Clitic |   | P Direct | P Oblique | P Clitic |
 | :---   |---| :---     | :---      | :---     |---| :---     | :---      | :---     |
-| First  |   | tsum     | xʷetse    | =(a)s    |   | pone     | tomo      | =(a)ʃa   |
-| Second |   | xʷos     | la        | =(e)l    |   | ʃoxʷmo   | lumxʷo    | =ʔes     |
-| Third  |   | nuʃ      | hun       | =nũ      |   | mopu     | mum       | =mi      |
+| First  |   | tsũ      | xʷetse    | =(a)s    |   | pone     | tomo      | =(a)ʃa   |
+| Second |   | kʷos     | la        | =(e)l    |   | tʃoxʷmo  | lũxʷo     | =ʔes     |
+| Third  |   | nuʃ      | ʔũ        | =nũ      |   | mopu     | mũ        | =mi      |
+: Pronouns
 
 ## Verbs
 
