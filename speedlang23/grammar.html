@@ -1,0 +1,630 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <meta name="author" content="armytag" />
+  <meta name="dcterms.date" content="2025-03-01" />
+  <title>Speedlang 23</title>
+  <style>
+    html {
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      overflow-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 12px;
+      }
+      h1 {
+        font-size: 1.8em;
+      }
+    }
+    @media print {
+      html {
+        background-color: white;
+      }
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    svg {
+      height: auto;
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
+      font-size: 85%;
+      margin: 0;
+      hyphens: manual;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+      overflow-wrap: normal;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      background-color: #1a1a1a;
+      border: none;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC ul {
+      padding-left: 1.3em;
+    }
+    #TOC > ul {
+      padding-left: 0;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+</head>
+<body>
+<header id="title-block-header">
+<h1 class="title">Speedlang 23</h1>
+<p class="author">armytag</p>
+<p class="date">March 1, 2025</p>
+</header>
+<style>
+html {
+    color: #1a1a1a;
+    background-color: #fdfdfd;
+}
+
+body {
+    margin: 0 auto;
+    max-width: 60ch;
+    padding: 50px 0;
+    hyphens: auto;
+    overflow-wrap: break-word;
+    text-rendering: optimizeLegibility;
+    font-kerning: normal;
+    text-align: justify;
+    line-height: 1.5em;
+}
+
+@media (max-width: 600px) {
+    body {
+        font-size: 0.9em;
+        padding: 12px;
+    }
+}
+
+@media print {
+    html {
+        color: black;
+        background-color: white;
+    }
+
+    /*
+    h1:not(.title) {
+        page-break-before: always;
+    }
+    */
+
+    #TOC {
+        page-break-before: always;
+    }
+
+    table {
+        page-break-inside: avoid;
+        page-break-before: auto;
+    }
+}
+
+header {
+    text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin-top: 1.25rem;
+    margin-bottom: 0.5rem;
+    line-height: initial;
+}
+
+/*
+h1 {
+    text-align: center;
+    margin-top: 2em;
+}
+*/
+
+h1:not(.title) {
+    font-size: 1.5rem;
+    text-decoration: underline;
+}
+
+p {
+    margin: 1em 0.33ch;
+}
+
+a {
+    color: #1a1a1a;
+}
+
+ol, ul {
+    padding-left: 1.7em;
+    margin-top: 1em;
+}
+
+li > ol, li > ul {
+    margin-top: 0;
+}
+
+.date {
+    margin: 1em;
+    font-style: italic;
+}
+
+.author {
+    margin: 0.5ch;
+}
+
+.author::before {
+    content: "by";
+    padding: 0 0.5ch;
+}
+
+#TOC ul {
+    padding-left: 1.3em;
+}
+
+#TOC > ul {
+    padding-left: 0;
+}
+
+#TOC li {
+    list-style: none;
+}
+
+#TOC > ul > li {
+    margin: 1em 0;
+}
+
+#TOC a:not(:hover) {
+    text-decoration: none;
+}
+
+.gloss {
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    margin: 1em auto;
+    padding: 0 6ch;
+    align-content: center;
+    justify-content: center;
+    gap: 0.33em;
+}
+
+.gloss > * {
+    margin: 0;
+}
+
+.gloss > .number {
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin: 0.5ch;
+    width: 5ch;
+    text-align: right;
+}
+
+.number + p {
+    margin-top: 0.5ch;
+}
+
+.original {
+    direction: rtl;
+    /* font-weight: bold; */
+    /* font-style: italic; */
+    margin-top: 0.5ch;
+}
+
+.interlinear {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.125em 0.25em;
+}
+
+.interlinear dl {
+    margin: 0.5ch;
+}
+
+.interlinear .phonetic,
+.interlinear dt {
+    font-style: italic;
+}
+
+.interlinear dd {
+    margin-left: 0;
+}
+
+.comparison abbr,
+.interlinear abbr {
+    text-transform: lowercase;
+    font-variant-caps: small-caps;
+    font-variant-numeric: oldstyle-nums;
+}
+
+.freetranslation {
+    text-align: left;
+}
+
+.qathebo {
+    text-align: justify;
+    word-spacing: 1ch;
+}
+
+.source {
+    text-align: right;
+}
+
+table {
+    margin: 1em auto;
+    border-collapse: collapse;
+    width: max-content;
+    overflow-x: auto;
+    display: block;
+    font-variant-numeric: lining-nums tabular-nums;
+}
+
+table caption {
+    margin-bottom: 0.5em;
+    font-weight: bold;
+    font-style: italic;
+}
+
+tbody {
+    margin-top: 0.5em;
+    border-top: 1pt solid #1a1a1a;
+    border-bottom: 1pt solid #1a1a1a;
+}
+
+th {
+    border-top: 1pt solid #1a1a1a;
+    padding: 0.25em 0.5em 0.25em 0.5em;
+}
+
+td {
+    padding: 0.125em 0.5em 0.25em 0.5em;
+}
+
+.comparison {
+    display: grid;
+    grid-template-columns: repeat(1, max-content);
+    justify-content: center;
+    gap: 2ch;
+}
+
+.comparison.col2 {
+    grid-template-columns: repeat(2, max-content);
+}
+
+.comparison.col3 {
+    grid-template-columns: repeat(3, max-content);
+}
+
+.comparison.col4 {
+    grid-template-columns: repeat(4, max-content);
+}
+
+.comparison dt {
+    font-style: italic;
+    margin-left: 1ch;
+}
+
+.comparison dd {
+    margin: 0;
+    margin-right: 1ch;
+}
+
+.side-by-side {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+</style>
+<h1 id="phonology">Phonology</h1>
+<table>
+<caption>Consonants</caption>
+<colgroup>
+<col style="width: 11%" />
+<col style="width: 14%" />
+<col style="width: 14%" />
+<col style="width: 14%" />
+<col style="width: 14%" />
+<col style="width: 14%" />
+<col style="width: 14%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;"></th>
+<th style="text-align: center;">Labial</th>
+<th style="text-align: center;">Plain Alv.</th>
+<th style="text-align: center;">Sibilant Alv.</th>
+<th style="text-align: center;">Palatal</th>
+<th style="text-align: center;">Velar</th>
+<th style="text-align: center;">Glottal</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Ejective Stop</td>
+<td style="text-align: center;">p</td>
+<td style="text-align: center;">t</td>
+<td style="text-align: center;">ts</td>
+<td style="text-align: center;">tʃ</td>
+<td style="text-align: center;">kʷ</td>
+<td style="text-align: center;">ʔ</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Fricative</td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;">s</td>
+<td style="text-align: center;">ʃ</td>
+<td style="text-align: center;">xʷ</td>
+<td style="text-align: center;">h</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Plain Sonorant</td>
+<td style="text-align: center;">m</td>
+<td style="text-align: center;">n</td>
+<td style="text-align: center;">l</td>
+<td style="text-align: center;">j</td>
+<td style="text-align: center;">w</td>
+<td style="text-align: center;"></td>
+</tr>
+</tbody>
+</table>
+<table>
+<caption>Vowels</caption>
+<thead>
+<tr class="header">
+<th></th>
+<th style="text-align: center;">Front</th>
+<th style="text-align: center;">Center</th>
+<th style="text-align: center;">Back</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Close</td>
+<td style="text-align: center;">i ĩ</td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;">u ũ</td>
+</tr>
+<tr class="even">
+<td>Mid</td>
+<td style="text-align: center;">e</td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;">o</td>
+</tr>
+<tr class="odd">
+<td>Open</td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;">a ã</td>
+<td style="text-align: center;"></td>
+</tr>
+</tbody>
+</table>
+<p>Nasal codas only occur in a handful of words, all direct loans
+related to sailing, suggesting that coda nasals developed developed into
+nasalized vowels before these loans entered the language.</p>
+<h1 id="morphology">Morphology</h1>
+<h2 id="nouns">Nouns</h2>
+<p>Nouns have direct and oblique cases. In regular (nominative) clauses,
+the direct case is used for intransitive subject and transitive agent,
+and the oblique case is used for transitive object. In (ergative)
+subclauses, the direct case is used for the transitive object, and the
+oblique case is used for intransitive subject and transitive object. In
+both kinds of clauses, the direct case is used for predicative nouns
+(the “object” of copular sentences), and the oblique case is used in
+possessive/genitive phrases and adpositional phrases.</p>
+<h2 id="pronouns">Pronouns</h2>
+<table>
+<caption>Pronouns</caption>
+<colgroup>
+<col style="width: 11%" />
+<col style="width: 8%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+<col style="width: 8%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Person</th>
+<th></th>
+<th style="text-align: left;">S Direct</th>
+<th style="text-align: left;">S Oblique</th>
+<th style="text-align: left;">S Clitic</th>
+<th></th>
+<th style="text-align: left;">P Direct</th>
+<th style="text-align: left;">P Oblique</th>
+<th style="text-align: left;">P Clitic</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">First</td>
+<td></td>
+<td style="text-align: left;">tsũ</td>
+<td style="text-align: left;">xʷetse</td>
+<td style="text-align: left;">=(a)s</td>
+<td></td>
+<td style="text-align: left;">pone</td>
+<td style="text-align: left;">tomo</td>
+<td style="text-align: left;">=ʃa</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Second</td>
+<td></td>
+<td style="text-align: left;">kʷos</td>
+<td style="text-align: left;">la</td>
+<td style="text-align: left;">=(e)l</td>
+<td></td>
+<td style="text-align: left;">tʃoxʷmo</td>
+<td style="text-align: left;">lũxʷo</td>
+<td style="text-align: left;">=ʔes</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Third</td>
+<td></td>
+<td style="text-align: left;">nuʃ</td>
+<td style="text-align: left;">ʔũ</td>
+<td style="text-align: left;">=nũ</td>
+<td></td>
+<td style="text-align: left;">mopu</td>
+<td style="text-align: left;">mũ</td>
+<td style="text-align: left;">=mi</td>
+</tr>
+</tbody>
+</table>
+<p>Clitic forms attach to the first word in the clause. Since subclauses
+always start with an adverb, the clitic will attach to that adverb.</p>
+<h2 id="verbs">Verbs</h2>
+<p>Present tense verbs a fairly synthetic and mark aspect, mood, and
+noun agreement via affixes. However there is only a single past tense
+form for verbs, which is accompanied by a specific auxiliary verb that
+takes all of the typical verbal marking for the clause.</p>
+<h3 id="present-tense">Present Tense</h3>
+<p>Verbs take prefixes to indicate aspect/mood.</p>
+<p>When a subject is dropped and conveyed only from verbal agreement,
+the verb is called an <strong><em>integrated verb</em></strong>.</p>
+<p>When no other words precede a transitive integrated verb within a
+clause, the oblique clitic will attach to the verb and create a
+<strong><em>composite verb</em></strong> which marks both agent and
+patient. These composite verbs can form entire clauses on their own.</p>
+<h3 id="past-tense">Past Tense</h3>
+<h2 id="adjectives">Adjectives</h2>
+<p>Adjectives behave like nouns, and most can derive into nouns with
+zero derivation.</p>
+<h1 id="syntax">Syntax</h1>
+<h2 id="adjectives-1">Adjectives</h2>
+<p>Adjectives may precede the noun they modify with no additional
+agreement. However, it is far more common for adjectives to occur after
+the relative particle <em>si</em> that follows the noun being
+modified.</p>
+<h2 id="possession">Possession</h2>
+<p>The typical way to express possession is to place the possessor in
+oblique form after the relative particle <em>si</em> which follows the
+possessed noun. For a small set of possessed nouns, namely kinship terms
+and certain relational nouns, possession is instead marked by
+reduplicating the first syllable of the possessor and placing it before
+the possessed noun.</p>
+</body>
+</html>
