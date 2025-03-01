@@ -25,11 +25,14 @@ Nouns have direct and oblique cases.  In regular (nominative) clauses, the direc
 
 ## Pronouns
 
-| Person |   | S Direct | S Oblique | S Clitic |   | P Direct | P Oblique | P Clitic |
-| :---   |---| :---     | :---      | :---     |---| :---     | :---      | :---     |
-| First  |   | tsũ      | xʷetse    | =(a)s    |   | pone     | tomo      | =ʃa      |
-| Second |   | kʷos     | la        | =(e)l    |   | tʃoxʷmo  | lũxʷo     | =ʔes     |
-| Third  |   | nuʃ      | ʔũ        | =nũ      |   | mopu     | mũ        | =mi      |
+| Person | Direct  | Oblique | Clitic |
+| :---:  | :---    | :---    | :---   |
+| 1S     | tsũ     |  xʷetse | =(a)s  |
+| 1P     | pone    |  tomo   | =ʃa    |
+| 2S     | kʷos    |  la     | =(e)l  |
+| 2P     | tʃoxʷmo |  lũxʷo  | =ʔes   |
+| 3S     | nuʃ     |  ʔũ     | =nũ    |
+| 3P     | mopu    |  mũ     | =mi    |
 : Pronouns
 
 Clitic forms attach to the first word in the clause.  Since subclauses always start with an adverb, the clitic will attach to that adverb.
