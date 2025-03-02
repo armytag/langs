@@ -23,12 +23,12 @@ Nasal codas only occur in a handful of words, all direct loans related to sailin
 
 Nouns have direct and oblique cases.  In regular (nominative) clauses, the direct case is used for intransitive subject and transitive agent, and the oblique case is used for transitive object.  In (ergative) subclauses, the direct case is used for the transitive object, and the oblique case is used for intransitive subject and transitive object.  In both kinds of clauses, the direct case is used for predicative nouns (the "object" of copular sentences), and the oblique case is used in possessive/genitive phrases and adpositional phrases.
 
-| Definiteness      | Direct | Oblique  |
-| :---              | :---   | :---     |
-| Generic           | -      | -xʷe     |
-| Indefinite        | -pu    | -pi      |
-| Definite Singular | -la    | -(o)ʃ    |
-| Definite Plural   | -tʃal  | -(m)ũtʃe |
+| Definiteness      | Direct | Oblique |
+| :---              | :---   | :---    |
+| Generic           | -      | -xʷe    |
+| Indefinite        | -pu    | -pi     |
+| Definite Singular | -la    | -(o)ʃ   |
+| Definite Plural   | -tʃal  | -tʃũ    |
 : Nominal Case-Definiteness Marking
 
 ## Pronouns
@@ -153,7 +153,7 @@ The typical way to express possession is to place the possessor in oblique form 
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>tsuʔi</dt> <dd>this</dd> </dl>
+<dl> <dt>tsuʔi-la</dt> <dd>this-<abbr>DEF.SG.DIR</abbr></dd> </dl>
 <dl> <dt>se</dt> <dd><abbr>COP</abbr></dd> </dl>
 <dl> <dt>mipi-la</dt> <dd>girl-<abbr>DEF.SG.DIR</abbr></dd> </dl>
 <dl> <dt>kʷi</dt> <dd><abbr>REL</abbr></dd> </dl>
@@ -168,7 +168,12 @@ The typical way to express possession is to place the possessor in oblique form 
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>aa</dt> <dd>urinate.<abbr>PST</abbr></dd> </dl>
+<dl> <dt>xutujĩ</dt> <dd>immediately</dd> </dl>
+<dl> <dt>tihu</dt> <dd>bring.<abbr>PST</abbr></dd> </dl>
+<dl> <dt>mili-tʃũ</dt> <dd>that-<abbr>DEF.SG.OBL</abbr></dd> </dl>
+<dl> <dt>tseti</dt> <dd>from</dd> </dl>
+<dl> <dt>nolopol-tʃũ</dt> <dd>river-<abbr>DEF.SG.OBL</abbr></dd> </dl>
+<dl> <dt>kʷe-ma-ʔuʃ</dt> <dd><abbr>JUS-AUX-3SG</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"He should have brought it up from the river right away."</p>
 <p class="source">1451st 5MOYD</p>
@@ -177,7 +182,17 @@ The typical way to express possession is to place the possessor in oblique form 
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>aa</dt> <dd>urinate.<abbr>PST</abbr></dd> </dl>
+<dl> <dt>motu</dt> <dd>and</dd> </dl>
+<dl> <dt>tihu</dt> <dd>during</dd> </dl>
+<dl> <dt>huʔo-tʃũ</dt> <dd>time-<abbr>DEF.PL.OBL</abbr></dd> </dl>
+<dl> <dt>hamja-∅</dt> <dd>child-<abbr>GEN.DIR</abbr></dd> </dl>
+<dl> <dt>si</dt> <dd><abbr>REL</abbr></dd> </dl>
+<dl> <dt>waju</dt> <dd>all</dd> </dl>
+<dl> <dt>witsil</dt> <dd>walk.<abbr>PST</abbr></dd> </dl>
+<dl> <dt>wukʷinus</dt> <dd>permittedly</dd> </dl>
+<dl> <dt>huto</dt> <dd><abbr>AUX</abbr></dd> </dl>
+<dl> <dt>ʃija</dt> <dd>but</dd> </dl>
+<dl> <dt>nũ-huto-mu</dt> <dd><abbr>NEG-AUX-1SG</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"And in those days all children were allowed to walk barefoot, except for me."</p>
 <p class="source">1689th 5MOYD</p>
