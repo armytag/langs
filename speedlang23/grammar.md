@@ -100,7 +100,7 @@ The typical way to express possession is to place the possessor in oblique form 
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>kʷel-la</dt> <dd>knife-<abbr>DEF.SG</abbr></dd> </dl>
+<dl> <dt>kʷel-la</dt> <dd>knife-<abbr>DEF.SG.DIR</abbr></dd> </dl>
 <dl> <dt>si</dt> <dd><abbr>REL</abbr></dd> </dl>
 <dl> <dt>la</dt> <dd><abbr>2SG.OBL</abbr></dd> </dl>
 </div>
@@ -111,7 +111,7 @@ The typical way to express possession is to place the possessor in oblique form 
 <p class="number"></p>
 <div class="interlinear">
 <dl> <dt>to~tomo</dt> <dd><abbr>GEN~1PL.OBL</abbr></dd> </dl>
-<dl> <dt>hokʷi-la</dt> <dd>father-<abbr>DEF.SG</abbr></dd> </dl>
+<dl> <dt>hokʷi-la</dt> <dd>father-<abbr>DEF.SG.DIR</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"our father"</p>
 </div>
@@ -126,7 +126,7 @@ The typical way to express possession is to place the possessor in oblique form 
 <dl> <dt>he</dt> <dd>who</dd> </dl>
 <dl> <dt>soʔutsal</dt> <dd>urinate.<abbr>PST</abbr></dd> </dl>
 <dl> <dt>hi</dt> <dd>in</dd> </dl>
-<dl> <dt>tila-ʃ</dt> <dd>water-<abbr>OBL.DEF.SG</abbr></dd> </dl>
+<dl> <dt>tila-ʃ</dt> <dd>water-<abbr>DEF.SG.OBL</abbr></dd> </dl>
 <dl> <dt>pokʷas?</dt> <dd><abbr>AUX</abbr></dd> </dl>
 <dl> <dt>tsũ</dt> <dd><abbr>1SG.DIR</abbr></dd> </dl>
 <dl> <dt>pokʷas!</dt> <dd><abbr>AUX</abbr></dd> </dl>
@@ -170,9 +170,9 @@ The typical way to express possession is to place the possessor in oblique form 
 <div class="interlinear">
 <dl> <dt>xutujĩ</dt> <dd>immediately</dd> </dl>
 <dl> <dt>tihu</dt> <dd>bring.<abbr>PST</abbr></dd> </dl>
-<dl> <dt>mili-tʃũ</dt> <dd>that-<abbr>DEF.SG.OBL</abbr></dd> </dl>
+<dl> <dt>mili-ʃ</dt> <dd>that-<abbr>DEF.SG.OBL</abbr></dd> </dl>
 <dl> <dt>tseti</dt> <dd>from</dd> </dl>
-<dl> <dt>nolopol-tʃũ</dt> <dd>river-<abbr>DEF.SG.OBL</abbr></dd> </dl>
+<dl> <dt>nolopol-oʃ</dt> <dd>river-<abbr>DEF.SG.OBL</abbr></dd> </dl>
 <dl> <dt>kʷe-ma-ʔuʃ</dt> <dd><abbr>JUS-AUX-3SG</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"He should have brought it up from the river right away."</p>
