@@ -47,7 +47,7 @@ Coda /m/ in loan words (mainly related to sailing).
 
 ### Split Alignment
 
-Present-tense nominative, past-tense ergative.
+Present-tense synthetic, past-tense periphrastic.
 
 ### Subclause Marking
 
@@ -120,7 +120,7 @@ Default marking (genitive particle) for:
 
 ### Sentence/phrase level constraints
 
-- [ ] As per usual, 5 sentences from 5moyd or Conlangers Syntax Test Cases (or make your own as you wish of a similar complexity)
+- [x] As per usual, 5 sentences from 5moyd or Conlangers Syntax Test Cases (or make your own as you wish of a similar complexity)
 - [ ] Finally, write some description of the sea! (leaving this broad, so either “it's big and wet” or a poem or a scientific definition or whatever! surprise me!) - if your people don't live by the sea tell me about how they might describe it if they saw it (big lake? like the sky but wet? liquid substance with stuff in it?) 
 - [ ] As a bonus; show me a sea or water related conceptual metaphor
 
