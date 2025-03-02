@@ -116,3 +116,31 @@ The typical way to express possession is to place the possessor in oblique form 
 <p class="freetranslation">"our father"</p>
 </div>
 
+# Texts
+
+## Example Sentences
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>aa</dt> <dd>who</dd> </dl>
+<dl> <dt>aa</dt> <dd>urinate.<abbr>PST</abbr></dd> </dl>
+<dl> <dt>aa</dt> <dd>in</dd> </dl>
+<dl> <dt>aa-(o)ʃ</dt> <dd>water-<abbr>OBL.DEF.SG</abbr></dd> </dl>
+<dl> <dt>aa-pokʷas?</dt> <dd><abbr>PFV</abbr>-sit.<abbr>AUX</abbr></dd> </dl>
+<dl> <dt>tsũ</dt> <dd><abbr>1SG.DIR</abbr></dd> </dl>
+<dl> <dt>aa-pokʷas!</dt> <dd><abbr>PFV</abbr>-sit.<abbr>AUX</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"Who urinated (in) the water? I did!"</p>
+<p class="source">1225th 5MOYD</p>
+</div>
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>aa</dt> <dd>urinate.<abbr>PST</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"They two wouldn’t give each other meat, maybe they hate each other."</p>
+<p class="source">1386th 5MOYD</p>
+</div>
+
