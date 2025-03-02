@@ -35,12 +35,12 @@ Nouns have direct and oblique cases.  In regular (nominative) clauses, the direc
 
 | Person | Direct  | Oblique | Suffix | Clitic |
 | :---:  | :---    | :---    | :---   | :---   |
-| 1SG    | tsũ     |  xʷetse | -mu    | =(a)s  |
-| 1PL    | pone    |  tomo   | -tso   | =ʃa    |
-| 2SG    | kʷos    |  la     | -li    | =(e)l  |
-| 2PL    | tʃoxʷmo |  lũxʷo  | -tʃã   | =ʔes   |
-| 3SG    | nuʃ     |  ʔũ     | -ʔuʃ   | =nũ    |
-| 3PL    | mopu    |  mũ     | -wu    | =mi    |
+| 1SG    | tsũ     | xʷetse  | -mu    | =(a)s  |
+| 1PL    | pone    | tomo    | -tso   | =ʃa    |
+| 2SG    | kʷos    | la      | -li    | =(e)l  |
+| 2PL    | tʃoxʷmo | lũxʷo   | -tʃã   | =ʔes   |
+| 3SG    | nuʃ     | ʔũ      | -ʔuʃ   | =nũ    |
+| 3PL    | mopu    | mũ      | -wu    | =mi    |
 : Personal Pronouns
 
 The direct and oblique forms are used like regular nouns described above.
@@ -64,7 +64,7 @@ The clitic form functions much like the oblique form but can only be used for a 
 Present tense verbs a fairly synthetic and mark aspect, mood, and noun agreement via affixes.  However there is only a single past tense form for verbs, which is accompanied by a specific auxiliary verb that takes all of the typical verbal marking for the clause.
 
 | Original Meaning | Present Root |  Past Tense |
-| :---             | :---:        |  :---:      |
+| :---:            | :---:        |  :---:      |
 | "take"           | sekʷi        |  tikʷul     |
 | "put"            | ma           |  ʔal        |
 | "make"           | wĩ           |  tuhol      |
