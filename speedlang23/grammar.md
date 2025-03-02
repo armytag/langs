@@ -49,7 +49,7 @@ The direct and oblique forms are used like regular nouns described above.
 <p class="number"></p>
 <div class="interlinear">
 <dl> <dt>mopu</dt> <dd><abbr>3PL.DIR</abbr></dd> </dl>
-<dl> <dt>ʔi-litu</dt> <dd><abbr>IND</abbr>-see</dd> </dl>
+<dl> <dt>litu</dt> <dd>see</dd> </dl>
 <dl> <dt>xʷetse</dt> <dd><abbr>1PL.OBL</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"They see us."</p>
@@ -77,11 +77,28 @@ Present tense verbs a fairly synthetic and mark aspect, mood, and noun agreement
 
 Verbs take prefixes to indicate aspect/mood.
 
-When a subject is dropped and conveyed only from verbal agreement, the verb is called an ***integrated verb***.
+When a subject is dropped and conveyed only from verbal agreement, the verb is called an ***integrated-verb***.
 
-When no other words precede a transitive *integrated verb* within a clause, the oblique clitic will attach to that verb and create a ***composite verb*** which marks both agent and patient.  These *composite verbs* can form entire clauses on their own.
+When no other words precede a transitive integrated-verb within a clause, the oblique clitic will attach to that verb and create a ***composite-verb*** which marks both agent and patient.  These composite-verbs can form entire clauses on their own, as shown in %{+1}% which is equivalent to sentence %{-1}% above.
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>litu-wu=ʃa</dt> <dd>see-<abbr>3PL=1PL</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"They see us."</p>
+</div>
 
 ### Past Tense
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>litol=ʃa</dt> <dd>see<abbr>.PST=1PL</abbr></dd> </dl>
+<dl> <dt>sekʷi-wu</dt> <dd><abbr>AUX-3PL</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"They saw us."</p>
+</div>
 
 ## Adjectives
 
