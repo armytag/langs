@@ -23,19 +23,26 @@ Nasal codas only occur in a handful of words, all direct loans related to sailin
 
 Nouns have direct and oblique cases.  In regular (nominative) clauses, the direct case is used for intransitive subject and transitive agent, and the oblique case is used for transitive object.  In (ergative) subclauses, the direct case is used for the transitive object, and the oblique case is used for intransitive subject and transitive object.  In both kinds of clauses, the direct case is used for predicative nouns (the "object" of copular sentences), and the oblique case is used in possessive/genitive phrases and adpositional phrases.
 
+| Definiteness      | Direct | Oblique  |
+| :---              | :---   | :---     |
+| Generic           | -      | -xʷe     |
+| Indefinite        | -pu    | -pi      |
+| Definite Singular | -la    | -(o)ʃ    |
+| Definite Plural   | -tʃal  | -(m)ũtʃe |
+
 ## Pronouns
 
 | Person | Direct  | Oblique | Clitic |
 | :---:  | :---    | :---    | :---   |
-| 1S     | tsũ     |  xʷetse | =(a)s  |
-| 1P     | pone    |  tomo   | =ʃa    |
-| 2S     | kʷos    |  la     | =(e)l  |
-| 2P     | tʃoxʷmo |  lũxʷo  | =ʔes   |
-| 3S     | nuʃ     |  ʔũ     | =nũ    |
-| 3P     | mopu    |  mũ     | =mi    |
-: Pronouns
+| 1SG    | tsũ     |  xʷetse | =(a)s  |
+| 1PL    | pone    |  tomo   | =ʃa    |
+| 2SG    | kʷos    |  la     | =(e)l  |
+| 2PL    | tʃoxʷmo |  lũxʷo  | =ʔes   |
+| 3SG    | nuʃ     |  ʔũ     | =nũ    |
+| 3PL    | mopu    |  mũ     | =mi    |
+: Personal Pronouns
 
-Clitic forms attach to the first word in the clause.  Since subclauses always start with an adverb, the clitic will attach to that adverb.
+Unlike the free oblique form, the clitic forms can only be used for a core argument of the main verb, namely the accusative of a regular clause or the ergative of a subclause.  The clitic forms attach to the first word in the clause.  Since subclauses always start with an adverb, the clitic will attach to that adverb.
 
 ## Verbs
 
@@ -47,7 +54,7 @@ Verbs take prefixes to indicate aspect/mood.
 
 When a subject is dropped and conveyed only from verbal agreement, the verb is called an ***integrated verb***.
 
-When no other words precede a transitive integrated verb within a clause, the oblique clitic will attach to the verb and create a ***composite verb*** which marks both agent and patient.  These composite verbs can form entire clauses on their own.
+When no other words precede a transitive *integrated verb* within a clause, the oblique clitic will attach to that verb and create a ***composite verb*** which marks both agent and patient.  These *composite verbs* can form entire clauses on their own.
 
 ### Past Tense
 
@@ -63,4 +70,24 @@ Adjectives may precede the noun they modify with no additional agreement.  Howev
 
 ## Possession
 
-The typical way to express possession is to place the possessor in oblique form after the relative particle *si* which follows the possessed noun.  For a small set of possessed nouns, namely kinship terms and certain relational nouns, possession is instead marked by reduplicating the first syllable of the possessor and placing it before the possessed noun.
+The typical way to express possession is to place the possessor in oblique form after the relative particle *si* which follows the possessed noun.  For a small set of possessed nouns, namely kinship terms and certain relational nouns, possession is instead marked by reduplicating the first syllable (without coda) of the possessor and placing it before the possessed noun.
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>kʷel-la</dt> <dd>knife-<abbr>DEF.SG</abbr></dd> </dl>
+<dl> <dt>si</dt> <dd><abbr>REL</abbr></dd> </dl>
+<dl> <dt>la</dt> <dd><abbr>2SG.OBL</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"your knife"</p>
+</div>
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>to-tomo</dt> <dd>~-<abbr>1PL.OBL</abbr></dd> </dl>
+<dl> <dt>hokʷi-la</dt> <dd>father-<abbr>DEF.SG</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"our father"</p>
+</div>
+

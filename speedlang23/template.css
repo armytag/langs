@@ -62,8 +62,12 @@ h1 {
 */
 
 h1:not(.title) {
-	font-size: 1.5rem;
+	font-size: 1.75rem;
 	text-decoration: underline;
+}
+
+h2 {
+	font-size: 1.5rem;
 }
 
 p {
