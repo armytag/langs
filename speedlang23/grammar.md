@@ -32,17 +32,31 @@ Nouns have direct and oblique cases.  In regular (nominative) clauses, the direc
 
 ## Pronouns
 
-| Person | Direct  | Oblique | Clitic |
-| :---:  | :---    | :---    | :---   |
-| 1SG    | tsũ     |  xʷetse | =(a)s  |
-| 1PL    | pone    |  tomo   | =ʃa    |
-| 2SG    | kʷos    |  la     | =(e)l  |
-| 2PL    | tʃoxʷmo |  lũxʷo  | =ʔes   |
-| 3SG    | nuʃ     |  ʔũ     | =nũ    |
-| 3PL    | mopu    |  mũ     | =mi    |
+| Person | Direct  | Oblique | Suffix | Clitic |
+| :---:  | :---    | :---    | :---   | :---   |
+| 1SG    | tsũ     |  xʷetse | -      | =(a)s  |
+| 1PL    | pone    |  tomo   | -      | =ʃa    |
+| 2SG    | kʷos    |  la     | -      | =(e)l  |
+| 2PL    | tʃoxʷmo |  lũxʷo  | -      | =ʔes   |
+| 3SG    | nuʃ     |  ʔũ     | -      | =nũ    |
+| 3PL    | mopu    |  mũ     | -      | =mi    |
 : Personal Pronouns
 
-Unlike the free oblique form, the clitic forms can only be used for a core argument of the main verb, namely the accusative of a regular clause or the ergative of a subclause.  The clitic forms attach to the first word in the clause.  Since subclauses always start with an adverb, the clitic will attach to that adverb.
+The direct and oblique forms are used like regular nouns described above.
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>mopu</dt> <dd><abbr>3PL.DIR</abbr></dd> </dl>
+<dl> <dt>ʔi-litu</dt> <dd>IND<abbr></abbr>-see</dd> </dl>
+<dl> <dt>xʷetse</dt> <dd><abbr>1PL.OBL</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"They see us."</p>
+</div>
+
+The suffix form functions like the direct case, and attaches to the verb to indicate a pronominal subject (or direct object in a transitive subclause).  In such cases there is no separate direct pronoun in the sentence.
+
+The clitic form functions much like the oblique form but can only be used for a core argument of the main verb, namely the accusative of a regular clause or the ergative of a subclause.  The clitic form attaches to the first word in the clause.  Since subclauses always start with an adverb, the clitic will attach to that adverb.
 
 ## Verbs
 
@@ -85,7 +99,7 @@ The typical way to express possession is to place the possessor in oblique form 
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>to-tomo</dt> <dd>~-<abbr>1PL.OBL</abbr></dd> </dl>
+<dl> <dt>to-tomo</dt> <dd>GEN~<abbr>1PL.OBL</abbr></dd> </dl>
 <dl> <dt>hokʷi-la</dt> <dd>father-<abbr>DEF.SG</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"our father"</p>
