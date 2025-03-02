@@ -142,7 +142,7 @@ The typical way to express possession is to place the possessor in oblique form 
 <dl> <dt>si</dt> <dd><abbr>REL</abbr></dd> </dl>
 <dl> <dt>tsekũ</dt> <dd>two</dd> </dl>
 <dl> <dt>nũ-so~sotsa</dt> <dd><abbr>NEG-RECP</abbr>~give</dd> </dl>
-<dl> <dt>tila-xʷe,</dt> <dd>meat-<abbr>GEN.OBL</abbr></dd> </dl>
+<dl> <dt>tila-pi,</dt> <dd>meat-<abbr>NDEF.OBL</abbr></dd> </dl>
 <dl> <dt>tʃutʃe</dt> <dd>maybe</dd> </dl>
 <dl> <dt>wi~wikumi-wu.</dt> <dd><abbr>RECP</abbr>~hate-<abbr>3PL.OBL</abbr></dd> </dl>
 </div>
@@ -185,7 +185,7 @@ The typical way to express possession is to place the possessor in oblique form 
 <dl> <dt>motu</dt> <dd>and</dd> </dl>
 <dl> <dt>tihu</dt> <dd>during</dd> </dl>
 <dl> <dt>huʔo-tʃũ</dt> <dd>time-<abbr>DEF.PL.OBL</abbr></dd> </dl>
-<dl> <dt>hamja-∅</dt> <dd>child-<abbr>GEN.DIR</abbr></dd> </dl>
+<dl> <dt>hamja-∅</dt> <dd>child-<abbr>GNR.DIR</abbr></dd> </dl>
 <dl> <dt>si</dt> <dd><abbr>REL</abbr></dd> </dl>
 <dl> <dt>waju</dt> <dd>all</dd> </dl>
 <dl> <dt>witsil</dt> <dd>walk.<abbr>PST</abbr></dd> </dl>
@@ -197,4 +197,6 @@ The typical way to express possession is to place the possessor in oblique form 
 <p class="freetranslation">"And in those days all children were allowed to walk barefoot, except for me."</p>
 <p class="source">1689th 5MOYD</p>
 </div>
+
+## Story of the Sea
 
