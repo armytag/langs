@@ -1,11 +1,11 @@
 
 # Phonology
 
-|                | Labial | Plain Alv. | Sibilant Alv. | Palatal | Velar | Glottal |
-| :---           | :---:  | :---:      | :---:         | :---:   | :---: | :---:   |
-| Ejective Stop  | p      | t          | ts            | tʃ      | kʷ    | ʔ       |
-| Fricative      |        |            | s             | ʃ       | xʷ    | h       |
-| Plain Sonorant | m      | n          | l             | j       | w     |         |
+|                | Labial | Plain Alv. | Sibilant Alv. | Palatal  | Velar     | Glottal |
+| :---           | :---:  | :---:      | :---:         | :---:    | :---:     | :---:   |
+| Ejective Stop  | p      | t          | ts \<c\>      | tʃ \<č\> | kʷ \<kw\> | ʔ \<ʼ\> |
+| Fricative      |        |            | s             | ʃ \<š\>  | xʷ \<xw\> | h       |
+| Plain Sonorant | m      | n          | l             | j        | w         |         |
 : Consonants
 
 |       | Front | Center | Back  |
@@ -227,13 +227,13 @@ The typical way to express possession is to place the possessor in oblique form 
 
 ## Story of the Sea
 
-The following story reflects how Putsaxwa speakers view the ocean as a source of both risk and opportunity.
+The following story reflects how Pucaxwa speakers view the ocean as a source of both risk and opportunity.
 
 <div class="side-by-side">
 <div>
 <h4>Putsaxwa</h4>
 <p>
-The sea is a our fickle neighbor. Sometimes it brings calm white clouds and plentiful fish. Sometimes it brings great winds and jagged waves. The Lompa sailors have mastered the balance of the sea, and now they travel along the coast sharing with every tribe. If we can master the sea like them, we could also prosper.
+Wimila se totomo nehine kwojuceš.
 </p>
 </div>
 <div>
@@ -246,5 +246,18 @@ The Lompa sailors have mastered the balance of the sea, and now they travel alon
 If we can master the sea like them, we could also prosper.
 </p>
 </div>
+</div>
+
+#### Gloss
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>wimi-la</dt> <dd>sea-<abbr>DEF.SG.DIR</abbr></dd> </dl>
+<dl> <dt>se</dt> <dd><abbr>COP</abbr></dd> </dl>
+<dl> <dt>to~tomo</dt> <dd><abbr>GEN~1PL.OBL</abbr></dd> </dl>
+<dl> <dt>nehine</dt> <dd>moody</dd> </dl>
+<dl> <dt>kʷojutse-ʃ</dt> <dd>neighbor-<abbr>DEF.SG.OBL</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"The sea is a our fickle neighbor."</p>
 </div>
 
