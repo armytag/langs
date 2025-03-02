@@ -49,7 +49,7 @@ The direct and oblique forms are used like regular nouns described above.
 <p class="number"></p>
 <div class="interlinear">
 <dl> <dt>mopu</dt> <dd><abbr>3PL.DIR</abbr></dd> </dl>
-<dl> <dt>ʔi-litu</dt> <dd>IND<abbr></abbr>-see</dd> </dl>
+<dl> <dt>ʔi-litu</dt> <dd><abbr>IND</abbr>-see</dd> </dl>
 <dl> <dt>xʷetse</dt> <dd><abbr>1PL.OBL</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"They see us."</p>
@@ -110,7 +110,7 @@ The typical way to express possession is to place the possessor in oblique form 
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>to-tomo</dt> <dd>GEN~<abbr>1PL.OBL</abbr></dd> </dl>
+<dl> <dt>to~tomo</dt> <dd><abbr>GEN~1PL.OBL</abbr></dd> </dl>
 <dl> <dt>hokʷi-la</dt> <dd>father-<abbr>DEF.SG</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"our father"</p>
