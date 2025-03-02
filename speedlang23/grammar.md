@@ -123,13 +123,13 @@ The typical way to express possession is to place the possessor in oblique form 
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>aa</dt> <dd>who</dd> </dl>
-<dl> <dt>aa</dt> <dd>urinate.<abbr>PST</abbr></dd> </dl>
-<dl> <dt>aa</dt> <dd>in</dd> </dl>
-<dl> <dt>aa-(o)ʃ</dt> <dd>water-<abbr>OBL.DEF.SG</abbr></dd> </dl>
-<dl> <dt>aa-pokʷas?</dt> <dd><abbr>PFV</abbr>-sit.<abbr>AUX</abbr></dd> </dl>
+<dl> <dt>he</dt> <dd>who</dd> </dl>
+<dl> <dt>soʔutsal</dt> <dd>urinate.<abbr>PST</abbr></dd> </dl>
+<dl> <dt>hi</dt> <dd>in</dd> </dl>
+<dl> <dt>tila-ʃ</dt> <dd>water-<abbr>OBL.DEF.SG</abbr></dd> </dl>
+<dl> <dt>pokʷas?</dt> <dd><abbr>AUX</abbr></dd> </dl>
 <dl> <dt>tsũ</dt> <dd><abbr>1SG.DIR</abbr></dd> </dl>
-<dl> <dt>aa-pokʷas!</dt> <dd><abbr>PFV</abbr>-sit.<abbr>AUX</abbr></dd> </dl>
+<dl> <dt>pokʷas!</dt> <dd><abbr>AUX</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"Who urinated (in) the water? I did!"</p>
 <p class="source">1225th 5MOYD</p>
@@ -138,9 +138,48 @@ The typical way to express possession is to place the possessor in oblique form 
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>aa</dt> <dd>urinate.<abbr>PST</abbr></dd> </dl>
+<dl> <dt>mopu</dt> <dd><abbr>3PL.DIR</abbr></dd> </dl>
+<dl> <dt>si</dt> <dd><abbr>REL</abbr></dd> </dl>
+<dl> <dt>tsekũ</dt> <dd>two</dd> </dl>
+<dl> <dt>nũ-so~sotsa</dt> <dd><abbr>NEG-RECP</abbr>~give</dd> </dl>
+<dl> <dt>tila-xʷe,</dt> <dd>meat-<abbr>GEN.OBL</abbr></dd> </dl>
+<dl> <dt>tʃutʃe</dt> <dd>maybe</dd> </dl>
+<dl> <dt>wi~wikumi-wu.</dt> <dd><abbr>RECP</abbr>~hate-<abbr>3PL.OBL</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"They two wouldn’t give each other meat, maybe they hate each other."</p>
 <p class="source">1386th 5MOYD</p>
+</div>
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>tsuʔi</dt> <dd>this</dd> </dl>
+<dl> <dt>se</dt> <dd><abbr>COP</abbr></dd> </dl>
+<dl> <dt>mipi-la</dt> <dd>girl-<abbr>DEF.SG.DIR</abbr></dd> </dl>
+<dl> <dt>kʷi</dt> <dd><abbr>REL</abbr></dd> </dl>
+<dl> <dt>jaxʷi-ʔuʃ</dt> <dd>begin-<abbr>3SG</abbr></dd> </dl>
+<dl> <dt>manihu-ʔuʃ</dt> <dd>draw-<abbr>3SG</abbr></dd> </dl>
+<dl> <dt>nitsol-pi</dt> <dd>lion-<abbr>NDEF.OBL</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"Here is the girl who started drawing a lion."</p>
+<p class="source">1406th 5MOYD</p>
+</div>
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>aa</dt> <dd>urinate.<abbr>PST</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"He should have brought it up from the river right away."</p>
+<p class="source">1451st 5MOYD</p>
+</div>
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>aa</dt> <dd>urinate.<abbr>PST</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"And in those days all children were allowed to walk barefoot, except for me."</p>
+<p class="source">1689th 5MOYD</p>
 </div>
 
