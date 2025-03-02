@@ -65,7 +65,7 @@ Present tense verbs a fairly synthetic and mark aspect, mood, and noun agreement
 
 | Original Meaning | Present Root |  Past Tense |
 | :---:            | :---:        |  :---:      |
-| "take"           | sekʷi        |  tikʷul     |
+| "take"           | sekʷi        |  tikul      |
 | "put"            | ma           |  ʔal        |
 | "make"           | wĩ           |  tuhol      |
 | "go"             | huto         |  lekʷel     |
@@ -98,6 +98,16 @@ When no other words precede a transitive integrated-verb within a clause, the ob
 <dl> <dt>sekʷi-wu</dt> <dd><abbr>AUX-3PL</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"They saw us."</p>
+</div>
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>litol=ʃa</dt> <dd>see<abbr>.PST=1PL</abbr></dd> </dl>
+<dl> <dt>tikul</dt> <dd><abbr>AUX.PST</abbr></dd> </dl>
+<dl> <dt>sekʷi-wu</dt> <dd><abbr>AUX-3PL</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"They had seen us."</p>
 </div>
 
 ## Adjectives
@@ -202,7 +212,7 @@ The typical way to express possession is to place the possessor in oblique form 
 <dl> <dt>motu</dt> <dd>and</dd> </dl>
 <dl> <dt>tihu</dt> <dd>during</dd> </dl>
 <dl> <dt>huʔo-tʃũ</dt> <dd>time-<abbr>DEF.PL.OBL</abbr></dd> </dl>
-<dl> <dt>hamja-∅</dt> <dd>child-<abbr>GNR.DIR</abbr></dd> </dl>
+<dl> <dt>hãja-∅</dt> <dd>child-<abbr>GNR.DIR</abbr></dd> </dl>
 <dl> <dt>si</dt> <dd><abbr>REL</abbr></dd> </dl>
 <dl> <dt>waju</dt> <dd>all</dd> </dl>
 <dl> <dt>witsil</dt> <dd>walk.<abbr>PST</abbr></dd> </dl>
@@ -216,4 +226,5 @@ The typical way to express possession is to place the possessor in oblique form 
 </div>
 
 ## Story of the Sea
+
 
