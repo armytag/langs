@@ -186,7 +186,7 @@ The typical way to express possession is to place the possessor in oblique form 
 <dl> <dt>kʷi</dt> <dd><abbr>REL</abbr></dd> </dl>
 <dl> <dt>jaxʷi-ʔuʃ</dt> <dd>begin-<abbr>3SG</abbr></dd> </dl>
 <dl> <dt>manihu-ʔuʃ</dt> <dd>draw-<abbr>3SG</abbr></dd> </dl>
-<dl> <dt>nitsol-pi</dt> <dd>lion-<abbr>NDEF.OBL</abbr></dd> </dl>
+<dl> <dt>nitsol-pi.</dt> <dd>lion-<abbr>NDEF.OBL</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"Here is the girl who started drawing a lion."</p>
 <p class="source">1406th 5MOYD</p>
@@ -200,7 +200,7 @@ The typical way to express possession is to place the possessor in oblique form 
 <dl> <dt>mili-ʃ</dt> <dd>that-<abbr>DEF.SG.OBL</abbr></dd> </dl>
 <dl> <dt>tseti</dt> <dd>from</dd> </dl>
 <dl> <dt>nolopol-oʃ</dt> <dd>river-<abbr>DEF.SG.OBL</abbr></dd> </dl>
-<dl> <dt>kʷe-ma-ʔuʃ</dt> <dd><abbr>JUS-AUX-3SG</abbr></dd> </dl>
+<dl> <dt>kʷe-ma-ʔuʃ.</dt> <dd><abbr>JUS-AUX-3SG</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"He should have brought it up from the river right away."</p>
 <p class="source">1451st 5MOYD</p>
@@ -213,13 +213,13 @@ The typical way to express possession is to place the possessor in oblique form 
 <dl> <dt>tihu</dt> <dd>during</dd> </dl>
 <dl> <dt>huʔo-tʃũ</dt> <dd>time-<abbr>DEF.PL.OBL</abbr></dd> </dl>
 <dl> <dt>hãja-∅</dt> <dd>child-<abbr>GNR.DIR</abbr></dd> </dl>
-<dl> <dt>si</dt> <dd><abbr>REL</abbr></dd> </dl>
-<dl> <dt>waju</dt> <dd>all</dd> </dl>
 <dl> <dt>witsil</dt> <dd>walk.<abbr>PST</abbr></dd> </dl>
 <dl> <dt>wukʷinus</dt> <dd>permittedly</dd> </dl>
-<dl> <dt>huto</dt> <dd><abbr>AUX</abbr></dd> </dl>
+<dl> <dt>mitʃo</dt> <dd>without</dd> </dl>
+<dl> <dt>kuluʃ-tʃũ</dt> <dd>shoe-<abbr>DEF.PL.OBL</abbr></dd> </dl>
+<dl> <dt>huto,</dt> <dd><abbr>AUX</abbr></dd> </dl>
 <dl> <dt>ʃija</dt> <dd>but</dd> </dl>
-<dl> <dt>nũ-huto-mu</dt> <dd><abbr>NEG-AUX-1SG</abbr></dd> </dl>
+<dl> <dt>nũ-huto-mu.</dt> <dd><abbr>NEG-AUX-1SG</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"And in those days all children were allowed to walk barefoot, except for me."</p>
 <p class="source">1689th 5MOYD</p>
@@ -227,4 +227,24 @@ The typical way to express possession is to place the possessor in oblique form 
 
 ## Story of the Sea
 
+The following story reflects how Putsaxwa speakers view the ocean as a source of both risk and opportunity.
+
+<div class="side-by-side">
+<div>
+<h4>Putsaxwa</h4>
+<p>
+The sea is a our fickle neighbor. Sometimes it brings calm white clouds and plentiful fish. Sometimes it brings great winds and jagged waves. The Lompa sailors have mastered the balance of the sea, and now they travel along the coast sharing with every tribe. If we can master the sea like them, we could also prosper.
+</p>
+</div>
+<div>
+<h4>English</h4>
+<p>
+The sea is a our fickle neighbor.
+Sometimes it brings calm white clouds and plentiful fish.
+Sometimes it brings great winds and jagged waves.
+The Lompa sailors have mastered the balance of the sea, and now they travel along the coast sharing with every tribe.
+If we can master the sea like them, we could also prosper.
+</p>
+</div>
+</div>
 
