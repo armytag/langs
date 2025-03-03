@@ -231,15 +231,19 @@ The following story reflects how Pucaxwa speakers view the ocean as a source of 
 
 #### Pucaxwa
 
-Wimila se totomo nehine kwojuceš.
+*Wimila se totomo nehine kwojuceš.*
+*Huʼopi milila niso comičũ si lãhu leš wol suhičũ si jiʼi.*
+*Huʼopi milila niso cuhečũ si cijix wol cãwũčũ si watimas.*
+*Šomjeʼečal si lompa helnal ʼepasaš si wimiš šipi, motu kwemu čisciwu šice nucucičũ wohuwu ne likupočũ si xwakwe.*
+*Piša helna wimila kwal mũ nuponaco tihũsi.*
 
 #### English
 
-The sea is a our fickle neighbor.
+"The sea is a our fickle neighbor.
 Sometimes it brings calm white clouds and plentiful fish.
 Sometimes it brings great winds and jagged waves.
 The Lompa sailors have mastered the balance of the sea, and now they travel along the coast sharing with every tribe.
-If we can master the sea like them, we could also prosper.
+If we can master the sea like them, we could also prosper."
 
 #### Gloss
 
