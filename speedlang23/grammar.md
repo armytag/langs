@@ -5,11 +5,11 @@
 
 Pucaxwa has several places of articulation, including sibilant, palatal, and labialized velar series (which are not found in any of my prior languages).[^1]
 
-|                | Labial | Plain Alv. | Sibilant Alv. | Palatal  | Velar     | Glottal |
-| :---           | :---:  | :---:      | :---:         | :---:    | :---:     | :---:   |
-| Stop           | p      | t          | ts \<c\>      | tʃ \<č\> | kʷ \<kw\> | ʔ \<ʼ\> |
-| Fricative      |        |            | s             | ʃ \<š\>  | xʷ \<xw\> | h       |
-| Plain Sonorant | m      | n          | l             | j        | w         |         |
+|           | Labial | Plain Alv. | Sibilant Alv. | Palatal  | Velar     | Glottal |
+| :---      | :---:  | :---:      | :---:         | :---:    | :---:     | :---:   |
+| Stop      | p      | t          | ts \<c\>      | tʃ \<č\> | kʷ \<kw\> | ʔ \<ʼ\> |
+| Fricative |        |            | s             | ʃ \<š\>  | xʷ \<xw\> | h       |
+| Sonorant  | m      | n          | l             | j        | w         |         |
 : Consonants
 
 ## Vowels
@@ -25,7 +25,7 @@ The vowels include a common five-vowel oral system, as well as three phonemic na
 
 ## Syllable Structure
 
-Syllables take the form CV(R), where C is any consonant, V is any vowel, and R is a sonorant (including fricatives).  The velar stop and fricative lose their labialization before /u/ and /ũ/.
+Syllables take the form CV(K), where C is any consonant, V is any vowel, and K is a continuant (i.e. sonorant or fricative).  The velar stop and fricative lose their labialization before /u/ and /ũ/.
 
 In closed syllables or those with nasal vowels, onset fricatives will become stops.[^3]
 
@@ -81,7 +81,7 @@ Present tense verbs a fairly synthetic and mark aspect, mood, and noun agreement
 | :---:            | :---:              | :---:        |  :---:      |
 | "take"           | *to do*            | sekwi        |  tikul      |
 | "put"            | *to do*            | ma           |  ʼal        |
-| "make"           | *to do*            | wĩ           |  tuhol      |
+| "make"           | *to do*            | wĩ           |  tuʼol      |
 | "go"             | *to do*            | huto         |  lekwel     |
 | "sit"            | *to do*            | pokwas       |  nawul      |
 | "live"           | *to do*            | šipi         |  wocul      |
