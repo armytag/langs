@@ -91,9 +91,9 @@ Present tense verbs a fairly synthetic and mark aspect, mood, and noun agreement
 
 Verbs take prefixes to indicate aspect/mood.
 
-When a subject is dropped and conveyed only from verbal agreement, the verb is called an ***integrated-verb***.
+When a subject is dropped and conveyed only from verbal agreement, the verb is called an ***integrated-verb***.[^9]
 
-When no other words precede a transitive integrated-verb within a clause, the oblique clitic will attach to that verb and create a ***composite-verb*** which marks both agent and patient.  These composite-verbs can form entire clauses on their own, as shown in %{+1}% which is equivalent to sentence %{-1}% above.
+When no other words precede a transitive integrated-verb within a clause, the oblique clitic will attach to that verb and create a ***composite-verb*** which marks both agent and patient.[^9]  These composite-verbs can form entire clauses on their own, as shown in %{+1}% which is equivalent to sentence %{-1}% above.
 
 <div class="gloss">
 <p class="number"></p>
