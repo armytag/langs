@@ -35,7 +35,7 @@ Nasal codas only occur in a handful of words, all direct loans related to sailin
 
 ## Nouns
 
-Nouns have direct and oblique cases.  In regular (nominative) clauses, the direct case is used for intransitive subject and transitive agent, and the oblique case is used for transitive object.  In (ergative) subclauses, the direct case is used for the transitive object, and the oblique case is used for intransitive subject and transitive object.  In both kinds of clauses, the direct case is used for predicative nouns (the "object" of copular sentences), and the oblique case is used in possessive/genitive phrases and adpositional phrases.
+Nouns have direct and oblique cases.  In regular (nominative) clauses, the direct case is used for intransitive subject and transitive agent, and the oblique case is used for transitive object.  In (ergative) subclauses, the direct case is used for the transitive subject, and the oblique case is used for intransitive subject and transitive object.[^5]  In both kinds of clauses, the direct case is used for the "object" of copular sentences, and the oblique case is used in possessive/genitive phrases and adpositional phrases.
 
 | Definiteness      | Direct | Oblique |
 | :---              | :---   | :---    |
@@ -75,7 +75,7 @@ The clitic form functions much like the oblique form but can only be used for a 
 
 ## Verbs
 
-Present tense verbs a fairly synthetic and mark aspect, mood, and noun agreement via affixes.  However there is only a single past tense form for verbs, which is accompanied by a specific auxiliary verb that takes all of the typical verbal marking for the clause.
+Present tense verbs a fairly synthetic and mark aspect, mood, and noun agreement via affixes.  However there is only a single past tense form for verbs, which is accompanied by a specific auxiliary verb that takes all of the typical verbal marking for the clause.  Which auxiliary verb is used with which main verbs has some semantic tendencies but is ultimately lexically dependant (i.e. you just need learn which one to use).[^7]
 
 | Original Meaning | Present Root |  Past Tense |
 | :---:            | :---:        |  :---:      |
@@ -84,7 +84,7 @@ Present tense verbs a fairly synthetic and mark aspect, mood, and noun agreement
 | "make"           | wĩ           |  tuhol      |
 | "go"             | huto         |  lekwel     |
 | "sit"            | pokwas       |  nawul      |
-| "live"           | šipi         |  wocul     |
+| "live"           | šipi         |  wocul      |
 : Auxiliary Verbs
 
 ### Present Tense
@@ -104,6 +104,10 @@ When no other words precede a transitive integrated-verb within a clause, the ob
 </div>
 
 ### Past Tense
+
+When a verb occurs in past tense, a present-tense auxiliary verb is added at the end of the clause which takes all of the marking for the clause.  One can even create a *pluperfect* (past in the past) meaning by putting this auxiliary in past form and adding another present-tense auxiliary at the end, as in sentence %{+2}%.
+
+Past tense verb forms all end in a coda /l/, and may involve other minor sound changes as well.  Most verbs still maintain a transparent correlation between the present and past forms, but the auxiliary verbs are entirely suppletive between past and present tense (as seen in the table above).[^11]
 
 <div class="gloss">
 <p class="number"></p>
@@ -126,7 +130,7 @@ When no other words precede a transitive integrated-verb within a clause, the ob
 
 ## Adjectives
 
-Adjectives behave like nouns, and most can derive into nouns with zero derivation.
+Adjectives behave like nouns, and most can derive into nouns with zero derivation.[^8]
 
 # Syntax
 
@@ -136,7 +140,7 @@ Adjectives may precede the noun they modify with no additional agreement.  Howev
 
 ## Possession
 
-The typical way to express possession is to place the possessor in oblique form after the relative particle *si* which follows the possessed noun.  For a small set of possessed nouns, namely kinship terms and certain relational nouns, possession is instead marked by reduplicating the first syllable (without coda) of the possessor and placing it before the possessed noun.
+The typical way to express possession is to place the possessor in oblique form after the relative particle *si* which follows the possessed noun.  For a small set of possessed nouns, namely kinship terms and certain relational nouns, possession is instead marked by reduplicating the first syllable (without coda) of the possessor and placing it before the possessed noun.[^10]
 
 <div class="gloss">
 <p class="number"></p>
@@ -157,7 +161,7 @@ The typical way to express possession is to place the possessor in oblique form 
 <p class="freetranslation">"our father"</p>
 </div>
 
-## Subclauses
+## Subclauses [^6]
 
 There are two major kinds of subclauses in Pucaxwa, *relative clauses* which modify a noun and *subjunctive clauses* that modify an independant clause.  Both have ergative alignment rather than nominative, meaning the subject of an intransitive subclause is marked in the oblique case rather than the direct case.  They differ in which particles/adverbs begin the clause, and where they occur in the sentence; relative clauses follow the noun they modify as in %{+1}%, whereas subjunctive clauses uses precede or follow the entire independant clause as in %{+2}%.
 
@@ -188,7 +192,7 @@ There are two major kinds of subclauses in Pucaxwa, *relative clauses* which mod
 
 # Texts
 
-## Example Sentences
+## Example Sentences [^12]
 
 <div class="gloss">
 <p class="number"></p>
@@ -268,9 +272,9 @@ There are two major kinds of subclauses in Pucaxwa, *relative clauses* which mod
 <p class="source">1689th 5MOYD</p>
 </div>
 
-## Story of the Sea
+## Story of the Sea [^13]
 
-The following story reflects how Pucaxwa speakers view the ocean as a source of both risk and opportunity.
+The following story reflects how Pucaxwa speakers view the ocean as a source of both risk and opportunity.[^14]
 
 #### Pucaxwa
 
