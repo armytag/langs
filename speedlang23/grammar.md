@@ -196,7 +196,7 @@ The typical way to express possession is to place the possessor in oblique form 
 <p class="number"></p>
 <div class="interlinear">
 <dl> <dt>xutujĩ</dt> <dd>immediately</dd> </dl>
-<dl> <dt>tihu</dt> <dd>bring.<abbr>PST</abbr></dd> </dl>
+<dl> <dt>nitsol</dt> <dd>bring.<abbr>PST</abbr></dd> </dl>
 <dl> <dt>mili-ʃ</dt> <dd>that-<abbr>DEF.SG.OBL</abbr></dd> </dl>
 <dl> <dt>tseti</dt> <dd>from</dd> </dl>
 <dl> <dt>nolopol-oʃ</dt> <dd>river-<abbr>DEF.SG.OBL</abbr></dd> </dl>
@@ -229,26 +229,20 @@ The typical way to express possession is to place the possessor in oblique form 
 
 The following story reflects how Pucaxwa speakers view the ocean as a source of both risk and opportunity.
 
-<div class="side-by-side">
-<div>
-<h4>Putsaxwa</h4>
-<p>
+#### Putsaxwa
+
 Wimila se totomo nehine kwojuceš.
-</p>
-</div>
-<div>
-<h4>English</h4>
-<p>
+
+#### English
+
 The sea is a our fickle neighbor.
 Sometimes it brings calm white clouds and plentiful fish.
 Sometimes it brings great winds and jagged waves.
 The Lompa sailors have mastered the balance of the sea, and now they travel along the coast sharing with every tribe.
 If we can master the sea like them, we could also prosper.
-</p>
-</div>
-</div>
 
 #### Gloss
+
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
@@ -259,5 +253,79 @@ If we can master the sea like them, we could also prosper.
 <dl> <dt>kʷojutse-ʃ</dt> <dd>neighbor-<abbr>DEF.SG.OBL</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"The sea is a our fickle neighbor."</p>
+</div>
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>huʔo-pi</dt> <dd>time-<abbr>NDEF.OBL</abbr></dd> </dl>
+<dl> <dt>mili-la</dt> <dd>that-<abbr>DEF.SG.DIR</abbr></dd> </dl>
+<dl> <dt>niso</dt> <dd>bring</dd> </dl>
+<dl> <dt>tsomi-tʃũ</dt> <dd>cloud-<abbr>DEF.PL.OBL</abbr></dd> </dl>
+<dl> <dt>si</dt> <dd><abbr>REL</abbr></dd> </dl>
+<dl> <dt>lãhu</dt> <dd>calm</dd> </dl>
+<dl> <dt>leʃ</dt> <dd>white</dd> </dl>
+<dl> <dt>wol</dt> <dd>and</dd> </dl>
+<dl> <dt>suhi-tʃũ</dt> <dd>fish-<abbr>DEF.PL.OBL</abbr></dd> </dl>
+<dl> <dt>si</dt> <dd><abbr>REL</abbr></dd> </dl>
+<dl> <dt>jiʔi</dt> <dd>very_many</dd> </dl>
+</div>
+<p class="freetranslation">"Sometimes it brings calm white clouds and plentiful fish."</p>
+</div>
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>huʔo-pi</dt> <dd>time-<abbr>NDEF.OBL</abbr></dd> </dl>
+<dl> <dt>mili-la</dt> <dd>that-<abbr>DEF.SG.DIR</abbr></dd> </dl>
+<dl> <dt>niso</dt> <dd>bring</dd> </dl>
+<dl> <dt>tsuhe-tʃũ</dt> <dd>wind-<abbr>DEF.PL.OBL</abbr></dd> </dl>
+<dl> <dt>si</dt> <dd><abbr>REL</abbr></dd> </dl>
+<dl> <dt>tsijix</dt> <dd>large</dd> </dl>
+<dl> <dt>wol</dt> <dd>and</dd> </dl>
+<dl> <dt>tsãwũ-tʃũ</dt> <dd>wave-<abbr>DEF.PL.OBL</abbr></dd> </dl>
+<dl> <dt>si</dt> <dd><abbr>REL</abbr></dd> </dl>
+<dl> <dt>watimas</dt> <dd>sharp</dd> </dl>
+</div>
+<p class="freetranslation">"Sometimes it brings great winds and jagged waves."</p>
+</div>
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>ʃomjeʔe-tʃal</dt> <dd>sailor-<abbr>DEF.PL.DIR</abbr></dd> </dl>
+<dl> <dt>si</dt> <dd><abbr>REL</abbr></dd> </dl>
+<dl> <dt>lompa</dt> <dd>Lompa</dd> </dl>
+<dl> <dt>helnal</dt> <dd>master.<abbr>PST</abbr></dd> </dl>
+<dl> <dt>ʔepasa-ʃ</dt> <dd>balance-<abbr>DEF.SG.OBL</abbr></dd> </dl>
+<dl> <dt>si</dt> <dd><abbr>REL</abbr></dd> </dl>
+<dl> <dt>wimi-ʃ</dt> <dd>sea-<abbr>DEF.SG.OBL</abbr></dd> </dl>
+<dl> <dt>ʃipi,</dt> <dd><abbr>AUX</abbr></dd> </dl>
+<dl> <dt>motu</dt> <dd>and</dd> </dl>
+<dl> <dt>kʷemu</dt> <dd>now</dd> </dl>
+<dl> <dt>tʃistsi-wu</dt> <dd>travel-<abbr>3PL</abbr></dd> </dl>
+<dl> <dt>ʃitse</dt> <dd>among</dd> </dl>
+<dl> <dt>nutsutsi-tʃũ</dt> <dd>coast-<abbr>DEF.PL.OBL</abbr></dd> </dl>
+<dl> <dt>wohu-wu</dt> <dd>share-<abbr>3PL</abbr></dd> </dl>
+<dl> <dt>ne</dt> <dd>with</dd> </dl>
+<dl> <dt>likupo-tʃũ</dt> <dd>tribe-<abbr>DEF.PL.OBL</abbr></dd> </dl>
+<dl> <dt>si</dt> <dd><abbr>REL</abbr></dd> </dl>
+<dl> <dt>xʷakʷe</dt> <dd>all</dd> </dl>
+</div>
+<p class="freetranslation">"The Lompa sailors have mastered the balance of the sea, and now they travel along the coast sharing with every tribe."</p>
+</div>
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>pi=ʃa</dt> <dd>if=<abbr>1PL</abbr></dd> </dl>
+<dl> <dt>helna</dt> <dd>master</dd> </dl>
+<dl> <dt>wimi-la</dt> <dd>sea-<abbr>DEF.SG.DIR</abbr></dd> </dl>
+<dl> <dt>kʷal</dt> <dd>like</dd> </dl>
+<dl> <dt>mũ</dt> <dd><abbr>3PL.OBL</abbr></dd> </dl>
+<dl> <dt>nupona-tso</dt> <dd>prosper-<abbr>1PL</abbr></dd> </dl>
+<dl> <dt>tihũsi</dt> <dd>likewise</dd> </dl>
+</div>
+<p class="freetranslation">"If we can master the sea like them, we could also prosper."</p>
 </div>
 
