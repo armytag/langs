@@ -77,14 +77,14 @@ The clitic form functions much like the oblique form but can only be used for a 
 
 Present tense verbs a fairly synthetic and mark aspect, mood, and noun agreement via affixes.  However there is only a single past tense form for verbs, which is accompanied by a specific auxiliary verb that takes all of the typical verbal marking for the clause.  Which auxiliary verb is used with which main verbs has some semantic tendencies but is ultimately lexically dependant (i.e. you just need learn which one to use).[^7]
 
-| Original Meaning | Present Root |  Past Tense | Category/Use |
-| :---:            | :---:        |  :---:      | :---:        |
-| "take"           | sekwi        |  tikul      | *to do*      |
-| "put"            | ma           |  ʼal        | *to do*      |
-| "make"           | wĩ           |  tuhol      | *to do*      |
-| "go"             | huto         |  lekwel     | *to do*      |
-| "sit"            | pokwas       |  nawul      | *to do*      |
-| "live"           | šipi         |  wocul      | *to do*      |
+| Original Meaning | Classifier Meaning | Present Root |  Past Tense |
+| :---:            | :---:              | :---:        |  :---:      |
+| "take"           | *to do*            | sekwi        |  tikul      |
+| "put"            | *to do*            | ma           |  ʼal        |
+| "make"           | *to do*            | wĩ           |  tuhol      |
+| "go"             | *to do*            | huto         |  lekwel     |
+| "sit"            | *to do*            | pokwas       |  nawul      |
+| "live"           | *to do*            | šipi         |  wocul      |
 : Auxiliary Verbs
 
 ### Present Tense
