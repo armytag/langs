@@ -252,8 +252,8 @@ There are two major kinds of subclauses in Pucaxwa, *relative clauses* which mod
 <dl> <dt>xwece</dt> <dd><abbr>1PL.OBL</abbr></dd> </dl>
 <dl> <dt>kwi=ša</dt> <dd><abbr>REL=1PL</abbr></dd> </dl>
 <dl> <dt>jexwecil</dt> <dd>sleep<abbr>.PST</abbr></dd> </dl>
-<dl> <dt>pokwas</dt> <dd><abbr>AUX</abbr></dd> </dl>
-<dl> <dt>sekwi-wu</dt> <dd><abbr>AUX-3PL</abbr></dd> </dl>
+<dl> <dt>šipi</dt> <dd>live.<abbr>AUX</abbr></dd> </dl>
+<dl> <dt>ma-wu</dt> <dd>put.<abbr>AUX-3PL</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"They saw we who slept."</p>
 </div>
@@ -263,9 +263,9 @@ There are two major kinds of subclauses in Pucaxwa, *relative clauses* which mod
 <div class="interlinear">
 <dl> <dt>ʔila=ša</dt> <dd>while<abbr>=1PL</abbr></dd> </dl>
 <dl> <dt>jexwecil</dt> <dd>sleep<abbr>.PST</abbr></dd> </dl>
-<dl> <dt>pokwas</dt> <dd><abbr>AUX</abbr></dd> </dl>
+<dl> <dt>šipi</dt> <dd>live.<abbr>AUX</abbr></dd> </dl>
 <dl> <dt>litol=ša</dt> <dd>see<abbr>.PST=1PL</abbr></dd> </dl>
-<dl> <dt>sekwi-wu</dt> <dd><abbr>AUX-3PL</abbr></dd> </dl>
+<dl> <dt>ma-wu</dt> <dd>put.<abbr>AUX-3PL</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"They saw us while we slept."</p>
 </div>
@@ -281,9 +281,9 @@ There are two major kinds of subclauses in Pucaxwa, *relative clauses* which mod
 <dl> <dt>soʼucal</dt> <dd>urinate.<abbr>PST</abbr></dd> </dl>
 <dl> <dt>hi</dt> <dd>in</dd> </dl>
 <dl> <dt>tila-š</dt> <dd>water-<abbr>DEF.SG.OBL</abbr></dd> </dl>
-<dl> <dt>pokwas?</dt> <dd><abbr>AUX</abbr></dd> </dl>
+<dl> <dt>ma?</dt> <dd>put.<abbr>AUX</abbr></dd> </dl>
 <dl> <dt>cũ</dt> <dd><abbr>1SG.DIR</abbr></dd> </dl>
-<dl> <dt>pokwas!</dt> <dd><abbr>AUX</abbr></dd> </dl>
+<dl> <dt>ma!</dt> <dd>put.<abbr>AUX</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"Who urinated (in) the water? I did!"</p>
 <p class="source">1225th 5MOYD</p>
@@ -344,9 +344,9 @@ There are two major kinds of subclauses in Pucaxwa, *relative clauses* which mod
 <dl> <dt>wukwinus</dt> <dd>permittedly</dd> </dl>
 <dl> <dt>mičo</dt> <dd>without</dd> </dl>
 <dl> <dt>kuluš-čũ</dt> <dd>shoe-<abbr>DEF.PL.OBL</abbr></dd> </dl>
-<dl> <dt>huto,</dt> <dd><abbr>AUX</abbr></dd> </dl>
+<dl> <dt>huto,</dt> <dd>go.<abbr>AUX</abbr></dd> </dl>
 <dl> <dt>šija</dt> <dd>but</dd> </dl>
-<dl> <dt>nũ-huto-mu.</dt> <dd><abbr>NEG-AUX-1SG</abbr></dd> </dl>
+<dl> <dt>nũ-huto-mu.</dt> <dd><abbr>NEG</abbr>-go.<abbr>AUX-1SG</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"And in those days all children were allowed to walk barefoot, except for me."</p>
 <p class="source">1689th 5MOYD</p>
@@ -431,7 +431,7 @@ If we can master the sea like them, we could also prosper."
 <dl> <dt>ʼepasa-š</dt> <dd>balance-<abbr>DEF.SG.OBL</abbr></dd> </dl>
 <dl> <dt>si</dt> <dd><abbr>REL</abbr></dd> </dl>
 <dl> <dt>wimi-š</dt> <dd>sea-<abbr>DEF.SG.OBL</abbr></dd> </dl>
-<dl> <dt>šipi,</dt> <dd><abbr>AUX</abbr></dd> </dl>
+<dl> <dt>šipi,</dt> <dd>live.<abbr>AUX</abbr></dd> </dl>
 <dl> <dt>motu</dt> <dd>and</dd> </dl>
 <dl> <dt>kwemu</dt> <dd>now</dd> </dl>
 <dl> <dt>čisci-wu</dt> <dd>travel-<abbr>3PL</abbr></dd> </dl>
