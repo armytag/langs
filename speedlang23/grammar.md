@@ -1,12 +1,20 @@
 
 # Phonology
 
+## Consonants
+
+Pucaxwa has several places of articulation, including sibilant, palatal, and labialized velar series (which are not found in any of my prior languages).[^1]
+
 |                | Labial | Plain Alv. | Sibilant Alv. | Palatal  | Velar     | Glottal |
 | :---           | :---:  | :---:      | :---:         | :---:    | :---:     | :---:   |
-| Ejective Stop  | p      | t          | ts \<c\>      | tʃ \<č\> | kʷ \<kw\> | ʔ \<ʼ\> |
+| Stop           | p      | t          | ts \<c\>      | tʃ \<č\> | kʷ \<kw\> | ʔ \<ʼ\> |
 | Fricative      |        |            | s             | ʃ \<š\>  | xʷ \<xw\> | h       |
 | Plain Sonorant | m      | n          | l             | j        | w         |         |
 : Consonants
+
+## Vowels
+
+The vowels include a common five-vowel oral system, as well as three phonemic nasal vowels (also not found in my prior languages).[^2]
 
 |       | Front | Center | Back  |
 | ---   | :---: | :---:  | :---: |
@@ -15,7 +23,13 @@
 | Open  |       | a ã    |       |
 : Vowels
 
-Nasal codas only occur in a handful of words, all direct loans related to sailing, suggesting that coda nasals developed developed into nasalized vowels before these loans entered the language.
+## Syllable Structure
+
+Syllables take the form CV(R), where C is any consonant, V is any vowel, and R is a sonorant (including fricatives).  The velar stop and fricative lose their labialization before /u/ and /ũ/.
+
+In closed syllables or those with nasal vowels, onset fricatives will become stops.[^3]
+
+Nasal codas only occur in a handful of words, all direct loans related to sailing, suggesting that coda nasals developed developed into nasalized vowels before these loans entered the language.[^4]
 
 # Morphology
 
@@ -28,17 +42,17 @@ Nouns have direct and oblique cases.  In regular (nominative) clauses, the direc
 | Generic           | -      | -xwe    |
 | Indefinite        | -pu    | -pi     |
 | Definite Singular | -la    | -(o)š   |
-| Definite Plural   | -čal  | -čũ    |
+| Definite Plural   | -čal   | -čũ     |
 : Nominal Case-Definiteness Marking
 
 ## Pronouns
 
 | Person | Direct  | Oblique | Suffix | Clitic |
 | :---:  | :---    | :---    | :---   | :---   |
-| 1SG    | cũ     | xwece  | -mu    | =(a)s  |
-| 1PL    | pone    | tomo    | -co   | =ša    |
+| 1SG    | cũ      | xwece   | -mu    | =(a)s  |
+| 1PL    | pone    | tomo    | -co    | =ša    |
 | 2SG    | kwos    | la      | -li    | =(e)l  |
-| 2PL    | čoxwmo | lũxwo   | -čã   | =ʼes   |
+| 2PL    | čoxwmo  | lũxwo   | -čã    | =ʼes   |
 | 3SG    | nuš     | ʼũ      | -ʼuš   | =nũ    |
 | 3PL    | mopu    | mũ      | -wu    | =mi    |
 : Personal Pronouns
@@ -141,6 +155,35 @@ The typical way to express possession is to place the possessor in oblique form 
 <dl> <dt>hokwi-la</dt> <dd>father-<abbr>DEF.SG.DIR</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"our father"</p>
+</div>
+
+## Subclauses
+
+There are two major kinds of subclauses in Pucaxwa, *relative clauses* which modify a noun and *subjunctive clauses* that modify an independant clause.  Both have ergative alignment rather than nominative, meaning the subject of an intransitive subclause is marked in the oblique case rather than the direct case.  They differ in which particles/adverbs begin the clause, and where they occur in the sentence; relative clauses follow the noun they modify as in %{+1}%, whereas subjunctive clauses uses precede or follow the entire independant clause as in %{+2}%.
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>litol</dt> <dd>see<abbr>.PST</abbr></dd> </dl>
+<dl> <dt>xwece</dt> <dd><abbr>1PL.OBL</abbr></dd> </dl>
+<dl> <dt>kwi=ša</dt> <dd><abbr>REL=1PL</abbr></dd> </dl>
+<dl> <dt>jexwecil</dt> <dd>sleep<abbr>.PST</abbr></dd> </dl>
+<dl> <dt>pokwas</dt> <dd><abbr>AUX</abbr></dd> </dl>
+<dl> <dt>sekwi-wu</dt> <dd><abbr>AUX-3PL</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"They saw we who slept."</p>
+</div>
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>ʔila=ša</dt> <dd>while<abbr>=1PL</abbr></dd> </dl>
+<dl> <dt>jexwecil</dt> <dd>sleep<abbr>.PST</abbr></dd> </dl>
+<dl> <dt>pokwas</dt> <dd><abbr>AUX</abbr></dd> </dl>
+<dl> <dt>litol=ša</dt> <dd>see<abbr>.PST=1PL</abbr></dd> </dl>
+<dl> <dt>sekwi-wu</dt> <dd><abbr>AUX-3PL</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"They saw us while we slept."</p>
 </div>
 
 # Texts
@@ -333,3 +376,19 @@ If we can master the sea like them, we could also prosper."
 <p class="freetranslation">"If we can master the sea like them, we could also prosper."</p>
 </div>
 
+# Prompts
+
+[^1]: Use two points of articulation you don't use very often - (free choice! anything out of your comfort zone - willing to consider any secondary articulation that patterns as a POA as a separate POA if it makes sense)
+[^2]: Alternative! use some vowel feature you don't use often (phonation, backness, protrusion, etc etc)
+[^3]: Have at least three phonemes which exhibit some kind of gradation (e.g. this means they merge with other phonemes in certain morphological settings, or create new phones in some morphophonological environment)
+[^4]: Have a closed set of roots which break phonotactic tendencies (e.g. from direct loans from another language or lost substrate etc.) - provide examples of how they differ from regular roots
+[^5]: Display some kind of split morphosyntactic alignment (e.g. active-stative, DOM, etc.) 
+[^6]: Have radically different marking for subclauses (up to you whether it's inversion of marking, if this is the split ergativity, or some word order inversions, or something of the like) 
+[^7]: Have a number of verbal classifiers, and have various lexeme have a different meaning entirely depending on verbal classifier (what exactly “classifier” means here is up to you) - show at least 3 examples
+[^8]: Have a class of roots which can change word class through zero derivation (with at least 3 examples)
+[^9]: Come up with a label: whether describing an unusual combination of functions for a morpheme, or a specific case which doesn't have an assigned name, or a phenomenon that requires ad hoc terminology - what this feature is and where it appears is up to you 
+[^10]: Have some kind of possessive classifier system (e.g. alienability, edibility) (Bonus! have them marked differently, in terms of agreement, location of morphemes, or otherwise)
+[^11]: Have some morphological category marked on a closed set of words by suppletion. (bonus points if the morpheme in question wouldn't otherwise be adjacent to the root)
+[^12]: As per usual, 5 sentences from 5moyd or Conlangers Syntax Test Cases (or make your own as you wish of a similar complexity)
+[^13]: Finally, write some description of the sea! (leaving this broad, so either “it's big and wet” or a poem or a scientific definition or whatever! surprise me!) - if your people don't live by the sea tell me about how they might describe it if they saw it (big lake? like the sky but wet? liquid substance with stuff in it?) 
+[^14]: As a bonus; show me a sea or water related conceptual metaphor

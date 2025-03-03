@@ -116,11 +116,11 @@ Default marking (genitive particle) for:
 - [x] Have a class of roots which can change word class through zero derivation (with at least 3 examples)
 - [x] Come up with a label: whether describing an unusual combination of functions for a morpheme, or a specific case which doesn't have an assigned name, or a phenomenon that requires ad hoc terminology - what this feature is and where it appears is up to you 
 - [x] Have some kind of possessive classifier system (e.g. alienability, edibility) (Bonus! have them marked differently, in terms of agreement, location of morphemes, or otherwise)
-- [ ] Have some morphological category marked on a closed set of words by suppletion. (bonus points if the morpheme in question wouldn't otherwise be adjacent to the root)
+- [x] Have some morphological category marked on a closed set of words by suppletion. (bonus points if the morpheme in question wouldn't otherwise be adjacent to the root)
 
 ### Sentence/phrase level constraints
 
 - [x] As per usual, 5 sentences from 5moyd or Conlangers Syntax Test Cases (or make your own as you wish of a similar complexity)
-- [ ] Finally, write some description of the sea! (leaving this broad, so either “it's big and wet” or a poem or a scientific definition or whatever! surprise me!) - if your people don't live by the sea tell me about how they might describe it if they saw it (big lake? like the sky but wet? liquid substance with stuff in it?) 
-- [ ] As a bonus; show me a sea or water related conceptual metaphor
+- [x] Finally, write some description of the sea! (leaving this broad, so either “it's big and wet” or a poem or a scientific definition or whatever! surprise me!) - if your people don't live by the sea tell me about how they might describe it if they saw it (big lake? like the sky but wet? liquid substance with stuff in it?) 
+- [x] As a bonus; show me a sea or water related conceptual metaphor
 
