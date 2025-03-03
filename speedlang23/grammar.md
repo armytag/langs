@@ -29,7 +29,7 @@ Syllables take the form CV(K), where C is any consonant, V is any vowel, and K i
 
 In closed syllables or those with nasal vowels, onset fricatives will become stops.[^3]
 
-Nasal codas only occur in a handful of words, all direct loans related to sailing, suggesting that coda nasals developed developed into nasalized vowels before these loans entered the language.[^4]
+Nasal codas only occur in a handful of words, all direct loans from the (fictional) Lompa language and related to sailing, suggesting that coda nasals developed developed into nasalized vowels before these loans entered the language.[^4]
 
 # Morphology
 
@@ -46,6 +46,8 @@ Nouns have direct and oblique cases.  In regular (nominative) clauses, the direc
 : Nominal Case-Definiteness Marking
 
 ## Pronouns
+
+Dedicated pronoun forms only exist for human referents.  Non-human referents use ** ("this") or ** ("that") with appropriate case-definiteness marking as an anaphoric "pronoun".
 
 | Person | Direct  | Oblique | Suffix | Clitic |
 | :---:  | :---    | :---    | :---   | :---   |
@@ -77,15 +79,93 @@ The clitic form functions much like the oblique form but can only be used for a 
 
 Present tense verbs a fairly synthetic and mark aspect, mood, and noun agreement via affixes.  However there is only a single past tense form for verbs, which is accompanied by a specific auxiliary verb that takes all of the typical verbal marking for the clause.  Which auxiliary verb is used with which main verbs has some semantic tendencies but is ultimately lexically dependant (i.e. you just need learn which one to use).[^7]
 
-| Original Meaning | Classifier Meaning | Present Root |  Past Tense |
-| :---:            | :---:              | :---:        |  :---:      |
-| "take"           | *to do*            | sekwi        |  tikul      |
-| "put"            | *to do*            | ma           |  ʼal        |
-| "make"           | *to do*            | wĩ           |  tuʼol      |
-| "go"             | *to do*            | huto         |  lekwel     |
-| "sit"            | *to do*            | pokwas       |  nawul      |
-| "live"           | *to do*            | šipi         |  wocul      |
+| Original Meaning | Classifier Meaning    | Present Root | Past Tense |
+| :---:            | :---:                 | :---:        | :---:      |
+| "go"             | *specific action*     | huto         | lekwel     |
+| "take"           | *movement towards*    | sekwi        | tikul      |
+| "put"            | *movement away*       | ma           | ʼal        |
+| "sit"            | *slow/gradual*        | pokwas       | nawul      |
+| "make"           | *creative/productive* | wĩ           | tuʼol      |
+| "live"           | *experiencing*        | šipi         | wocul      |
 : Auxiliary Verbs
+
+Some verbs can take on very different meanings when paired with different auxiliary verbs.  Here are examples of each auxiliary verb being used to specify the general verb *čupe* "eating":
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>cũ</dt> <dd><abbr>1SG.DIR</abbr></dd> </dl>
+<dl> <dt>čupe</dt> <dd>eat</dd> </dl>
+<dl> <dt>tila-pi</dt> <dd>meat-<abbr>NDEF.OBL</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"I eat meat."</p>
+</div>
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>cũ</dt> <dd><abbr>1SG.DIR</abbr></dd> </dl>
+<dl> <dt>čupe</dt> <dd>eat</dd> </dl>
+<dl> <dt>tila-pi</dt> <dd>meat-<abbr>NDEF.OBL</abbr></dd> </dl>
+<dl> <dt>huto</dt> <dd>go.<abbr>AUX</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"I'm eating some meat."</p>
+</div>
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>cũ</dt> <dd><abbr>1SG.DIR</abbr></dd> </dl>
+<dl> <dt>čupe</dt> <dd>eat</dd> </dl>
+<dl> <dt>tila-pi</dt> <dd>meat-<abbr>NDEF.OBL</abbr></dd> </dl>
+<dl> <dt>sekwi</dt> <dd>take.<abbr>AUX</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"I'm getting some meat (to eat)."</p>
+</div>
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>cũ</dt> <dd><abbr>1SG.DIR</abbr></dd> </dl>
+<dl> <dt>čupe</dt> <dd>eat</dd> </dl>
+<dl> <dt>tila-pi</dt> <dd>meat-<abbr>NDEF.OBL</abbr></dd> </dl>
+<dl> <dt>ma</dt> <dd>put.<abbr>AUX</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"I'm serving some meat."</p>
+</div>
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>cũ</dt> <dd><abbr>1SG.DIR</abbr></dd> </dl>
+<dl> <dt>čupe</dt> <dd>eat</dd> </dl>
+<dl> <dt>tila-pi</dt> <dd>meat-<abbr>NDEF.OBL</abbr></dd> </dl>
+<dl> <dt>pokwas</dt> <dd>sit.<abbr>AUX</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"I'm snacking on some meat."</p>
+</div>
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>cũ</dt> <dd><abbr>1SG.DIR</abbr></dd> </dl>
+<dl> <dt>čupe</dt> <dd>eat</dd> </dl>
+<dl> <dt>tila-pi</dt> <dd>meat-<abbr>NDEF.OBL</abbr></dd> </dl>
+<dl> <dt>wĩ</dt> <dd>make.<abbr>AUX</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"I'm cooking some meat."</p>
+</div>
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>cũ</dt> <dd><abbr>1SG.DIR</abbr></dd> </dl>
+<dl> <dt>čupe</dt> <dd>eat</dd> </dl>
+<dl> <dt>tila-pi</dt> <dd>meat-<abbr>NDEF.OBL</abbr></dd> </dl>
+<dl> <dt>šipi</dt> <dd>live.<abbr>AUX</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"I'm enjoying some meat."</p>
+</div>
 
 ### Present Tense
 
@@ -113,7 +193,7 @@ Past tense verb forms all end in a coda /l/, and may involve other minor sound c
 <p class="number"></p>
 <div class="interlinear">
 <dl> <dt>litol=ša</dt> <dd>see<abbr>.PST=1PL</abbr></dd> </dl>
-<dl> <dt>sekwi-wu</dt> <dd><abbr>AUX-3PL</abbr></dd> </dl>
+<dl> <dt>ma-wu</dt> <dd>put.<abbr>AUX-3PL</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"They saw us."</p>
 </div>
@@ -122,8 +202,8 @@ Past tense verb forms all end in a coda /l/, and may involve other minor sound c
 <p class="number"></p>
 <div class="interlinear">
 <dl> <dt>litol=ša</dt> <dd>see<abbr>.PST=1PL</abbr></dd> </dl>
-<dl> <dt>tikul</dt> <dd><abbr>AUX.PST</abbr></dd> </dl>
-<dl> <dt>sekwi-wu</dt> <dd><abbr>AUX-3PL</abbr></dd> </dl>
+<dl> <dt>ʼal</dt> <dd>put.<abbr>AUX.PST</abbr></dd> </dl>
+<dl> <dt>ma-wu</dt> <dd>put.<abbr>AUX-3PL</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"They had seen us."</p>
 </div>
