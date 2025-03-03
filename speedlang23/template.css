@@ -257,4 +257,9 @@ td {
 .side-by-side {
 	display: grid;
 	grid-template-columns: repeat(2, 1fr);
+	gap: 1rem;
+}
+
+.side-by-side h4 {
+	text-align: center;
 }
