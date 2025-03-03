@@ -25,7 +25,7 @@ The vowels include a common five-vowel oral system, as well as three phonemic na
 
 ## Syllable Structure
 
-Syllables take the form CV(K), where C is any consonant, V is any vowel, and K is a continuant (i.e. sonorant or fricative).  The velar stop and fricative lose their labialization before /u/ and /ũ/.
+Syllables take the form CV(K), where C is any consonant, V is any vowel, and K is a sonorant or fricative.  The velar stop and fricative lose their labialization before /u/ and /ũ/.
 
 In closed syllables or those with nasal vowels, onset fricatives will become stops.[^3]
 
