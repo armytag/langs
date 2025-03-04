@@ -29,7 +29,7 @@ Syllables take the form CV(K), where C is any consonant, V is any vowel, and K i
 
 The velar stop and velar fricative lose their labialization before /u/ and /ũ/.
 
-In closed syllables or those with nasal vowels, onset fricatives will become stops.[^3]
+In closed syllables or syllables with nasal vowels, onset fricatives become stops.[^3]
 
 Nasal codas only occur in a handful of words, all direct loans from the (fictional) Lompa language and related to sailing, suggesting that coda nasals developed developed into nasalized vowels before these loans entered the language.[^4]
 
@@ -37,7 +37,7 @@ Nasal codas only occur in a handful of words, all direct loans from the (fiction
 
 ## Nouns
 
-Nouns have direct and oblique cases.  In regular (nominative) clauses, the direct case is used for intransitive subject and transitive agent, and the oblique case is used for transitive object.  In (ergative) subclauses, the direct case is used for the transitive subject, and the oblique case is used for intransitive subject and transitive object.[^5]  In both kinds of clauses, the direct case is used for the "object" of copular sentences, and the oblique case is used in possessive/genitive phrases and adpositional phrases.
+Nouns have direct and oblique cases.  In regular (nominative) clauses, the direct case is used for intransitive subject and transitive agent, and the oblique case is used for transitive object.  In (ergative) subclauses, the direct case is used for the transitive agent, and the oblique case is used for intransitive subject and transitive object.[^5]  In both kinds of clauses, the direct case is used for the "object" of copular sentences, and the oblique case is used in possessive/genitive phrases, adpositional phrases, and most other situations.
 
 | Definiteness      | Direct | Oblique |
 | :---              | :---   | :---    |
@@ -49,7 +49,7 @@ Nouns have direct and oblique cases.  In regular (nominative) clauses, the direc
 
 ## Pronouns
 
-Dedicated pronoun forms only exist for human referents.  Non-human referents use ** ("this") or ** ("that") with appropriate case-definiteness marking as an anaphoric "pronoun".
+Dedicated pronoun forms only exist for human referents.  Non-human referents use *mili* ("this") or *cuʼi* ("that") with appropriate case-definiteness marking as an anaphoric "pronoun".
 
 | Person | Direct  | Oblique | Suffix | Clitic |
 | :---:  | :---    | :---    | :---   | :---   |
@@ -218,13 +218,38 @@ Adjectives behave like nouns, and most can derive into nouns with zero derivatio
 <p class="number"></p>
 <div class="interlinear">
 <dl> <dt>niso-li</dt> <dd>bring-<abbr>2SG</abbr></dd> </dl>
-<dl> <dt>leš-oš</dt> <dd>white-<abbr>DEF.SG.OBL</abbr></dd> </dl>
+<dl> <dt><b>leš</b>-oš</dt> <dd>white-<abbr>DEF.SG.OBL</abbr></dd> </dl>
 <dl> <dt>tos</dt> <dd>to</dd> </dl>
 <dl> <dt>xweji-š</dt> <dd>house-<abbr>DEF.SG.OBL</abbr></dd> </dl>
 <dl> <dt>si</dt> <dd><abbr>REL</abbr></dd> </dl>
-<dl> <dt>leš</dt> <dd>white</dd> </dl>
+<dl> <dt><b>leš</b></dt> <dd>white</dd> </dl>
 </div>
 <p class="freetranslation">"Bring the white (one) to the white house."</p>
+</div>
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>xwe~xwece</dt> <dd><abbr>GEN~1SG.OBL</abbr></dd> </dl>
+<dl> <dt><b>nehine</b><dt> <dd>moody</dd> </dl>
+<dl> <dt>hokwi-la</dt> <dd>father-<abbr>DEF.SG.DIR</abbr></dd> </dl>
+<dl> <dt>šučeno</dt> <dd>recognize</dd> </dl>
+<dl> <dt><b>nehine</b>-š</dt> <dd>moody-<abbr>DEF.SG.OBL</abbr></dd> </dl>
+<dl> <dt>si=s</dt> <dd><abbr>REL=1SG</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"My fickle father recognizes my fickleness."</p>
+</div>
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>lãhu-la=nũ</dt> <dd>calm-<abbr>DEF.SG.DIR=3SG</abbr></dd> </dl>
+<dl> <dt>si</dt> <dd><abbr>REL</abbr></dd> </dl>
+<dl> <dt>cijix</dt> <dd>large</dd> </dl>
+<dl> <dt>hanapal</dt> <dd>possess<abbr>.PST</abbr></dd> </dl>
+<dl> <dt>sekwi</dt> <dd>take.<abbr>AUX</abbr></dd> </dl>
+</div>
+<p class="freetranslation">"A great calm came over him."</p>
 </div>
 
 # Syntax
@@ -342,7 +367,8 @@ There are two major kinds of subclauses in Pucaxwa, *relative clauses* which mod
 <dl> <dt>mili-š</dt> <dd>that-<abbr>DEF.SG.OBL</abbr></dd> </dl>
 <dl> <dt>ceti</dt> <dd>from</dd> </dl>
 <dl> <dt>nolopol-oš</dt> <dd>river-<abbr>DEF.SG.OBL</abbr></dd> </dl>
-<dl> <dt>kwe-ma-ʼuš.</dt> <dd><abbr>JUS-AUX-3SG</abbr></dd> </dl>
+<dl> <dt>kwe</dt> <dd>should</dd> </dl>
+<dl> <dt>ma-ʼuš.</dt> <dd><abbr>AUX-3SG</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"He should have brought it up from the river right away."</p>
 <p class="source">1451st 5MOYD</p>
