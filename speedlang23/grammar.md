@@ -29,9 +29,18 @@ Syllables take the form CV(K), where C is any consonant, V is any vowel, and K i
 
 The velar stop and velar fricative lose their labialization before /u/ and /ũ/.
 
-In closed syllables or syllables with nasal vowels, onset fricatives become stops.[^3]
-
 Nasal codas only occur in a handful of words, all direct loans from the (fictional) Lompa language and related to sailing, suggesting that coda nasals developed developed into nasalized vowels before these loans entered the language.[^4]
+
+In closed syllables or syllables with nasal vowels, onset fricatives become stops.[^3]  This is especially relevant for past tense verbs, which often add /-l/ to the end of the verb stem, or with first-person and second-person singular clitics.
+
+<div class="comparison col4">
+<dt>jexwe<b>š</b>i</dt> <dd>"sleep"</dd>
+<dt>jexwe<b>č</b>il</dt> <dd>"sleep"</dd>
+<dt><b>s</b>i</dt> <dd>"of (relative particle)"</dd>
+<dt><b>c</b>is</dt> <dd>"of me"</dd>
+<dt>cu<b>h</b>e</dt> <dd>"wind"</dd>
+<dt>cu<b>ʼ</b>eš</dt> <dd>"a wind (oblique)"</dd>
+</div>
 
 # Morphology
 
@@ -235,7 +244,7 @@ Adjectives behave like nouns, and most can derive into nouns with zero derivatio
 <dl> <dt>hokwi-la</dt> <dd>father-<abbr>DEF.SG.DIR</abbr></dd> </dl>
 <dl> <dt>šučeno</dt> <dd>recognize</dd> </dl>
 <dl> <dt><b>nehine</b>-š</dt> <dd>moody-<abbr>DEF.SG.OBL</abbr></dd> </dl>
-<dl> <dt>si=s</dt> <dd><abbr>REL=1SG</abbr></dd> </dl>
+<dl> <dt>ci=s</dt> <dd><abbr>REL=1SG</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"My fickle father recognizes my fickleness."</p>
 </div>
@@ -291,7 +300,7 @@ There are two major kinds of subclauses in Pucaxwa, *relative clauses* which mod
 <dl> <dt>litol</dt> <dd>see<abbr>.PST</abbr></dd> </dl>
 <dl> <dt>xwece</dt> <dd><abbr>1PL.OBL</abbr></dd> </dl>
 <dl> <dt>kwi=ša</dt> <dd><abbr>REL=1PL</abbr></dd> </dl>
-<dl> <dt>jexwecil</dt> <dd>sleep<abbr>.PST</abbr></dd> </dl>
+<dl> <dt>jexwečil</dt> <dd>sleep<abbr>.PST</abbr></dd> </dl>
 <dl> <dt>šipi</dt> <dd>live.<abbr>AUX</abbr></dd> </dl>
 <dl> <dt>ma-wu</dt> <dd>put.<abbr>AUX-3PL</abbr></dd> </dl>
 </div>
@@ -302,7 +311,7 @@ There are two major kinds of subclauses in Pucaxwa, *relative clauses* which mod
 <p class="number"></p>
 <div class="interlinear">
 <dl> <dt>ʔila=ša</dt> <dd>while<abbr>=1PL</abbr></dd> </dl>
-<dl> <dt>jexwecil</dt> <dd>sleep<abbr>.PST</abbr></dd> </dl>
+<dl> <dt>jexwečil</dt> <dd>sleep<abbr>.PST</abbr></dd> </dl>
 <dl> <dt>šipi</dt> <dd>live.<abbr>AUX</abbr></dd> </dl>
 <dl> <dt>litol=ša</dt> <dd>see<abbr>.PST=1PL</abbr></dd> </dl>
 <dl> <dt>ma-wu</dt> <dd>put.<abbr>AUX-3PL</abbr></dd> </dl>
@@ -468,8 +477,8 @@ If we can master the sea like them, we could also prosper."
 <dl> <dt>šomjeʼe-čal</dt> <dd>sailor-<abbr>DEF.PL.DIR</abbr></dd> </dl>
 <dl> <dt>si</dt> <dd><abbr>REL</abbr></dd> </dl>
 <dl> <dt>lompa</dt> <dd>Lompa</dd> </dl>
-<dl> <dt>helnal</dt> <dd>master.<abbr>PST</abbr></dd> </dl>
-<dl> <dt>ʼepasa-š</dt> <dd>balance-<abbr>DEF.SG.OBL</abbr></dd> </dl>
+<dl> <dt>ʼelnal</dt> <dd>master.<abbr>PST</abbr></dd> </dl>
+<dl> <dt>ʼepaca-š</dt> <dd>balance-<abbr>DEF.SG.OBL</abbr></dd> </dl>
 <dl> <dt>si</dt> <dd><abbr>REL</abbr></dd> </dl>
 <dl> <dt>wimi-š</dt> <dd>sea-<abbr>DEF.SG.OBL</abbr></dd> </dl>
 <dl> <dt>šipi,</dt> <dd>live.<abbr>AUX</abbr></dd> </dl>
@@ -491,7 +500,7 @@ If we can master the sea like them, we could also prosper."
 <p class="number"></p>
 <div class="interlinear">
 <dl> <dt>pi=ša</dt> <dd>if=<abbr>1PL</abbr></dd> </dl>
-<dl> <dt>helna</dt> <dd>master</dd> </dl>
+<dl> <dt>ʼelna</dt> <dd>master</dd> </dl>
 <dl> <dt>wimi-la</dt> <dd>sea-<abbr>DEF.SG.DIR</abbr></dd> </dl>
 <dl> <dt>kwal</dt> <dd>like</dd> </dl>
 <dl> <dt>mũ</dt> <dd><abbr>3PL.OBL</abbr></dd> </dl>
