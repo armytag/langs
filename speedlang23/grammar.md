@@ -31,15 +31,15 @@ The velar stop and velar fricative lose their labialization before /u/ and /ũ/
 
 Nasal codas only occur in a handful of words, all direct loans from the (fictional) Lompa language and related to sailing, suggesting that coda nasals developed developed into nasalized vowels before these loans entered the language.[^4]
 
-In closed syllables or syllables with nasal vowels, onset fricatives become stops.[^3]  This is especially relevant for past tense verbs, which often add /-l/ to the end of the verb stem, or with first-person and second-person singular clitics.
+In closed syllables or syllables with nasal vowels, onset fricatives become stops.[^3]  This is especially relevant for past tense verbs, with the definite singular oblique suffix, and with personal-pronoun clitics.
 
 <div class="comparison col4">
 <dt>jexwe<b>š</b>i</dt> <dd>"sleep"</dd>
 <dt>jexwe<b>č</b>il</dt> <dd>"sleep"</dd>
-<dt><b>s</b>i</dt> <dd>"of (relative particle)"</dd>
-<dt><b>c</b>is</dt> <dd>"of me"</dd>
 <dt>cu<b>h</b>e</dt> <dd>"wind"</dd>
 <dt>cu<b>ʼ</b>eš</dt> <dd>"a wind (oblique)"</dd>
+<dt><b>s</b>i</dt> <dd>"of (relative particle)"</dd>
+<dt><b>c</b>is</dt> <dd>"of me"</dd>
 </div>
 
 # Morphology
