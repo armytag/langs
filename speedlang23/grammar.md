@@ -29,7 +29,7 @@ Syllables take the form CV(K), where C is any consonant, V is any vowel, and K i
 
 The velar stop and velar fricative lose their labialization before /u/ and /ũ/.
 
-Nasal codas only occur in a handful of words, all direct loans from the (fictional) Lompa language and related to sailing, suggesting that coda nasals developed developed into nasalized vowels before these loans entered the language.[^4]
+Nasal codas only occur in a handful of words, all of which are direct loans from the (fictional) Lompa language and related to sailing, suggesting that coda nasals developed into nasalized vowels before these loans entered the language.[^4]
 
 In closed syllables or syllables with nasal vowels, onset fricatives become stops.[^3]  This is especially relevant for past tense verbs, with the definite singular oblique suffix, and with personal-pronoun clitics.
 
