@@ -212,6 +212,19 @@ Past tense verb forms all end in a coda /l/, and may involve other minor sound c
 
 Adjectives behave like nouns, and most can derive into nouns with zero derivation.[^8]
 
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>niso-li</dt> <dd>bring-<abbr>2SG</abbr></dd> </dl>
+<dl> <dt>leš-oš</dt> <dd>white-<abbr>DEF.SG.OBL</abbr></dd> </dl>
+<dl> <dt>tos</dt> <dd>to</dd> </dl>
+<dl> <dt>xweji-š</dt> <dd>house-<abbr>DEF.SG.OBL</abbr></dd> </dl>
+<dl> <dt>si</dt> <dd><abbr>REL</abbr></dd> </dl>
+<dl> <dt>leš</dt> <dd>white</dd> </dl>
+</div>
+<p class="freetranslation">"Bring the white (one) to the white house."</p>
+</div>
+
 # Syntax
 
 ## Adjectives
