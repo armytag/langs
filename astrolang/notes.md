@@ -1,6 +1,10 @@
 # Astrolang
 
-### By armytag
+By armytag
+
+## Goal
+
+I want to create a language inspired by ancient Egyptian and classical Mayan, with a major focus on spatio-temporal relationships and valency operations.
 
 ## Phonology
 
