@@ -85,3 +85,22 @@ The original speakers of the language lived in a valley in the foothills of a lo
 | High      | i iː  |         | u uː  |
 | Low       |       | a aː    |       |
 
+### Malagasy (Austronesian)
+
+| CONSONANTS  | Labial | Dental | Alveolar | Retroflex | Velar | Glottal |
+|---          |---     |---     | ---      |---        |---    |---      |
+| Nasal       | m      |        | n        |           |       |         |
+| Plosive     | p b    | t d    | ts dz    | ʈ ɖ       | k g   |         |
+| Prenasal    | ᵐp ᵐb  | ⁿt ⁿd  | ⁿts ⁿdz  | ⁿʈ ⁿɖ     | ᵑk ᵑg |         |
+| Fricative   | f v    |        | s z      |           |       | h       |
+| Lateral     |        |        | l        |           |       |         |
+| Trill       |        |        | r        |           |       |         |
+
+| VOWELS | Front | Central | Back |
+|---     |---    |---      |---   |
+| High   | i     |         | u    |
+| Mid    | e     |         | o    |
+| Low    |       | a       |      |
+
+
+
