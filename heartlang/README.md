@@ -25,22 +25,6 @@ Sounds from inspiration:
 
 ## Phonology
 
-| EGYPTIAN    | Labial | Alveolar | Alv. Pal. | Palatal | Velar | Uvular | Glottal |
-|---          |---     |---       |---        |---      |---    | ---    |---      |
-| Nasal       | m      | n        |           |         |       |        |         |
-| Plosive     | pʰ b   | tʰ tʼ    |           | cʰ cʼ   | kʰ kʼ | qʼ     | ʔ       |
-| Fricative   | f      | sʲ sʼ    | ʃ         | ç       |       | χ      | h       |
-| Approximant | w      | l        |           | j       |       |        |         |
-| Trill       |        | r        |           |         |       | ʀ      |         |
-
-| MAYAN       | Labial | Alveolar | Alv. Pal. | Palatal | Velar | Uvular | Glottal |
-|---          |---     |---       |---        |---      |---    | ---    |---      |
-| Nasal       | m      | n        |           |         |       |        |         |
-| Plosive     | p ɓ    | t tʼ     |           |         | k kʼ  |        | ʔ       |
-| Fricative   |        | s        |           | ʃ       | x     |        | h       |
-| Approximant | w      | l        |           | j       |       |        |         |
-| Affricate   |        | ts tsʼ   |           | tʃ tʃʼ  |       |        |         |
-
 | VOWELS | Front | Central | Back |
 |---     |---    |---      |---   |
 | High   | i iː  |         | u uː |
