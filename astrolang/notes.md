@@ -32,6 +32,15 @@ The original speakers of the language lived in a valley in the foothills of a lo
 
 ## Phonology
 
+### Consonants
+
+| CONSONANTS  | Labial | Alveolar | Palatal | Velar | Glottal |
+|---          |---     |---       |---      |---    |---      |
+| Nasal       | m      | n        |         |       |         |
+| Plosive     | p      | t        | c       | k     | ʔ       |
+| Fricative   |        | s        | ç       | x     | h       |
+| Approximant | w      | l        | j       |       |         |
+
 - Place of Articulation
     - Labial
     - Alveolar
@@ -43,18 +52,43 @@ The original speakers of the language lived in a valley in the foothills of a lo
     - Fricative
     - Nasal
     - Approximant
-    - Trill (?)
+    - Trill
 - No voicing distinction
-- Ejectives (?)
-- Aspiration
+- Secondary articulation (evolve later)
+    - Ejectives (?)
+    - Aspiration (?)
+    - Prenasal (?)
+
+### Vowels
+
+| VOWELS | Front | Central | Back |
+|---     |---    |---      |---   |
+| High   | i     |         | u    |
+| Mid    | e     |         | o    |
+| Low    |       | a       |      |
+
 - Five-vowel system (or just three?)
     - Short (V)
     - Long (Vː)
     - Apsiration (Vh)
     - Glottal (Vʔ)
-    - Rearticulated (VʔV) (?)
 
-### Classical Ch'olti' (Mayan)
+### Tone
+
+- Grammatical tone
+- Two tone levels
+
+### Syllable Structure
+
+- Koda
+    - ː
+    - h
+    - ʔ
+    - m/n
+
+### Inspiration
+
+#### Classical Ch'olti' (Mayan)
 
 | CONSONANTS  | Labial | Alveolar | Palatal | Velar | Glottal |
 |---          |---     |---       |---      |---    |---      |
@@ -70,7 +104,7 @@ The original speakers of the language lived in a valley in the foothills of a lo
 | Mid    | e eː  |         | o oː |
 | Low    |       | a aː    |      |
 
-### Ancient Egyptian (Semitic)
+#### Ancient Egyptian (Semitic)
 
 | CONSONANTS  | Labial | Alveolar | Alv. Pal. | Palatal | Velar | Uvular | Glottal |
 |---          |---     |---       |---        |---      |---    | ---    |---      |
@@ -85,7 +119,7 @@ The original speakers of the language lived in a valley in the foothills of a lo
 | High      | i iː  |         | u uː  |
 | Low       |       | a aː    |       |
 
-### Malagasy (Austronesian)
+#### Malagasy (Austronesian)
 
 | CONSONANTS  | Labial | Dental | Alveolar | Retroflex | Velar | Glottal |
 |---          |---     |---     | ---      |---        |---    |---      |
