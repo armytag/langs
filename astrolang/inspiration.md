@@ -49,6 +49,28 @@ A class of roots that derive into verbs or nouns but cannot occur zero-derived, 
 | High      | i iː  |         | u uː  |
 | Low       |       | a aː    |       |
 
+#### Syllable Structure
+
+|        | Pretonic | Tonic   | Posttonic |
+| ---    | ---      | ---     | ---       |
+| Open   | $cv$     | $ˈcvː$  |           |
+| Closed | $cvc$    | $ˈcvc$  | $cvc#     |
+| Long   |          | $ˈcvːc# |           |
+
+Patterns:
+
+| Pattern     | Example    |
+| ---         | ---        |
+| cvˈcvc      | waˈbax     |
+| cvcˈcvc     | jafˈdaw    |
+| ˈcvːc       | ˈcaːd      |
+| ˈcvːcvc     | ˈsaːtap    |
+| ˈcvccvc     | ˈsatpaw    |
+| cvˈcvc$cvc  | xuˈpirwaw  |
+| cvˈcvː$cvc  | piˈsiːcuw  |
+| cvcˈcvː$cvc | wapˈwuːtij |
+| cvcˈcvc$cvc | wapˈwutjuw |
+
 #### Contruct State
 
 Genitive noun-phrases are formed by a specially-inflected possessee followed by the possessor (unlike typical genetive case where the possessor is inflected).
@@ -74,4 +96,4 @@ head-*ka* house "head of the house; house's head"
 
 #### Tonogenesis
 
-Voicing distinction is lost to created voiced → low-tone, voiceless → high-tone
+Voicing distinction is lost to create voiced → low-tone, voiceless → high-tone
