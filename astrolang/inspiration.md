@@ -53,9 +53,9 @@ A class of roots that derive into verbs or nouns but cannot occur zero-derived, 
 
 |        | Pretonic | Tonic   | Posttonic |
 | ---    | ---      | ---     | ---       |
-| Open   | $cv$     | $ˈcvː$  |           |
-| Closed | $cvc$    | $ˈcvc$  | $cvc#     |
-| Long   |          | $ˈcvːc# |           |
+| Open   | cv       | ˈcvː    |           |
+| Closed | cvc      | ˈcvc    | cvc#      |
+| Long   |          | ˈcvːc#  |           |
 
 Patterns:
 
