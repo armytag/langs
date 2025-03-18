@@ -69,7 +69,7 @@ The original speakers of the language lived in a valley in the foothills of a lo
 
 - Five-vowel system (or just three?)
     - Short (V)
-    - Long (Vː)
+    - Long (Vː) only in stressed syllable
     - Apsiration (Vh)
     - Glottal (Vʔ)
 
@@ -77,6 +77,10 @@ The original speakers of the language lived in a valley in the foothills of a lo
 
 - Grammatical tone
 - Two tone levels
+    - Low:  à
+    - High: á
+- Evolve tone?
+    - Voiced and voiceless obstruents produce low and high tones respectively
 
 ### Syllable Structure
 
