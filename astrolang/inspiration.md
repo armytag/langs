@@ -1,4 +1,3 @@
-
 # Inspiration
 
 ### Classical Ch'olti' (Mayan)
