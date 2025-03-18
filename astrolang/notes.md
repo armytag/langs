@@ -30,6 +30,15 @@ The original speakers of the language lived in a valley in the foothills of a lo
 
 [Fauna of Madagascar](https://en.wikipedia.org/wiki/Fauna_of_Madagascar)
 
+## Ideas
+
+### Spatial Structure
+
+- positionals = internal configuration
+- relational nouns = relative arrangement
+    - directionals (adpositions)
+- verbs (predicates) = change/motion
+
 ## Phonology
 
 ### Consonants
@@ -131,3 +140,4 @@ The original speakers of the language lived in a valley in the foothills of a lo
 
 1. sleep
 
+## Syntax
