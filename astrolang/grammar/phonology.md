@@ -5,8 +5,8 @@
 | CONSONANTS  | Labial | Alveolar | Palatal | Velar | Glottal |
 |---          |---     |---       |---      |---    |---      |
 | Nasal       | m      | n        |         |       |         |
-| Plosive     | p      | t        | c       | k     | ʔ       |
-| Fricative   |        | s        | ç       | x     | h       |
+| Plosive     | p pʼ   | t tʼ     | tʃ tʃʼ  | k kʼ  | ʔ       |
+| Fricative   |        | s sʼ     | ʃ       | x     |         |
 | Approximant | w      | l        | j       |       |         |
 
 - Place of Articulation
@@ -79,6 +79,13 @@ laˈsara   → laˈsara  → laˈzar  → láˈsàr
 - manata    → manata   → mànàt
 - maʔanata  → máʔnata  → mánàt
 - manataʔa  → mantáʔa  → màntá
+
+- pate     → pate     → pàt
+- pateʔe   → patéʔe   → pàtéʔ
+- paʔate   → páʔate   → páát
+- pateki   → pateki   → pàtèk
+- patekiʔi → patekíʔi → pàtkíʔ
+- paʔateki → páʔateki → páátèk
 
 - Koda
     - ː

@@ -3,55 +3,33 @@ import random as rand
 
 # Proto phonology
 NASALS = [
-    "m", "n", "n", "ŋ",
+    "m", "n"
 ]
 PLOSIVES = [
-    "p", "b", "t", "d", "t", "d", "k", "g"
+    "p", "t", "tʃ", "k",
+    "pʼ", "tʼ", "tʃʼ", "kʼ", "ʔ",
 ]
 FRICATIVES = [
-    "ɸ", "s", "s", "x",
+    "s", "ʃ", "x",
+    "sʼ",
 ]
 APPROXIMANTS = [
-    "w", "l", "l", "ɰ",
+    "w", "l", "j",
 ]
 VOWELS = [
     "i", "e", "u", "o", "a",
 ]
 
-# Modern phonology
-"""
-NASALS = [
-    "m", "n", "ɳ",
-]
-PLOSIVES = [
-    "p", "b", "t", "d", "ʈ", "ɖ", "k",
-]
-AFFRICATES = [
-    "ts", "ʈʂ",
-]
-FRICATIVES = [
-    "ɸ", "s", "ʂ", "x", "χ", "h",
-]
-APPROXIMANTS = [
-    "w", "ʟ",
-]
-RHOTICS = [
-    "ɾ", "ɽ",
-]
-VOWELS = [
-    "i", "e", "ɛ", "u", "o", "ɔ", "a",
-]
-"""
 SYLL_STRUCTS = []
 SYLL_STRUCTS += ['V'] * 0
 SYLL_STRUCTS += ['CV'] * 4
-SYLL_STRUCTS += ['CVC'] * 2
+SYLL_STRUCTS += ['CVC'] * 0
 SYLL_STRUCTS += ['CCV'] * 0
 SYLL_STRUCTS += ['CCVC'] * 0
 SYLL_COUNTS = []
 SYLL_COUNTS += [1] * 1
-SYLL_COUNTS += [2] * 5
-SYLL_COUNTS += [3] * 1
+SYLL_COUNTS += [2] * 6
+SYLL_COUNTS += [3] * 3
 SYLL_COUNTS += [4] * 0
 
 def flatten_matrix(matrix):
@@ -86,12 +64,8 @@ def borodovsky_gusein_zade(r, n):
     return (1 / n) * (math.log(n + 1) - math.log(r))
 
 if __name__ == "__main__":
-    # phonemes = NASALS # + FRICATIVES + PLOSIVES + RHOTICS
-    # print(phonemes)
-    # print(generate_frequencies(phonemes))
     word_count = 10 * 10
     words = []
-    # for idx in range(word_count):
     w = 0
     while w < word_count:
         syll_count = rand.choice(SYLL_COUNTS)
