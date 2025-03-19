@@ -64,8 +64,21 @@ laˈsara   → laˈsara  → laˈzar  → láˈsàr
 
 ### Tonogenesis Idea 2
 
-tapa   → tapa  → táp
-tatapa → tʼapa → tàp
+1. Grissman's law for ejectives
+1. High tone before ejectives
+1. Syllable simplification, and loss of non-final glottal stop
+
+- tapʼa     → tapʼa    → táp
+- tapaʔa    → tapáʔa   → tàpáʔ / tàpáá
+- tahapʼa   → tahápʼa  → tááp / tàháp
+- mana      → mana     → màn
+- manaʔa    → manáʔa   → mànáʔ / mànáá
+- maʔana    → máʔana   → máán
+- manatʼa   → manátʼa  → mànát
+- maʔanatʼa → máʔnatʼa → mánát
+- manata    → manata   → mànàt
+- maʔanata  → máʔnata  → mánàt
+- manataʔa  → mantáʔa  → màntá
 
 - Koda
     - ː
