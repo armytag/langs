@@ -52,6 +52,21 @@
 
 ## Syllable Structure
 
+### Tonogenesis Idea 1
+
+1. Loss of vowel before stressed syllable if not first syllable
+1. Voicing of intervocalic obstruents and loss of final vowel
+
+ˈtapa     → ˈtapa    → ˈtap    → ˈtáp
+paˈkala   → paˈkala  → paˈgal  → páˈkàl
+pakaˈlana → pakˈlana → pakˈlan → pákˈlán
+laˈsara   → laˈsara  → laˈzar  → láˈsàr
+
+### Tonogenesis Idea 2
+
+tapa   → tapa  → táp
+tatapa → tʼapa → tàp
+
 - Koda
     - ː
     - h
