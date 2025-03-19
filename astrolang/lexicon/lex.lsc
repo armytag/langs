@@ -5,70 +5,81 @@ Feature front, back
 Feature height(low, mid, high)
 Feature type(*cons, vowel)
 Feature voicing(unvoiced, voiced)
-Feature place(labial, alveolar, retroflex, velar, uvular, glottal)
-Feature manner(nasal, stop, affricate, fricative, approximant, trill, ejective, implosive)
+Feature place(labial, alveolar, palatal, velar, glottal)
+Feature manner(nasal, stop, fricative, approximant)
 Feature +lateral
+Feature +ejective
+Feature tone(*neutral, hightone, lowtone)
 Feature (syllable) +stress
+Diacritic ʼ [+ejective]
+Diacritic ́ [hightone]
+Diacritic ̀ [lowtone]
 Diacritic ' (before) [+stress]
 Symbol a [low  -front +back vowel]
-Symbol ɛ [mid  +front -back vowel]
+Symbol e [mid  +front -back vowel]
 Symbol i [high +front -back vowel]
 Symbol o [mid  -front +back vowel]
 Symbol u [high -front +back vowel]
-Symbol pʼ [unvoiced labial ejective]
-Symbol tʼ [unvoiced alveolar ejective]
-Symbol kʼ [unvoiced velar ejective]
-Symbol qʼ [unvoiced uvular ejective]
 Symbol p [unvoiced labial stop]
 Symbol t [unvoiced alveolar stop]
+Symbol c [unvoiced palatal stop]
 Symbol k [unvoiced velar stop]
-Symbol q [unvoiced uvular stop]
 Symbol ʔ [unvoiced glottal stop]
-Symbol b [voiced labial stop]
-Symbol d [voiced alveolar stop]
-Symbol g [voiced velar stop]
-Symbol ɓ [labial implosive]
-Symbol ɗ [alveolar implosive]
+Symbol s [unvoiced alveolar fricative]
+Symbol ʃ [unvoiced palatal fricative]
+Symbol x [unvoiced velar fricative]
 Symbol m [labial nasal]
 Symbol n [alveolar nasal]
-Symbol ŋ [velar nasal]
+Symbol w [labial approximant]
+Symbol j [palatal approximant]
 Symbol l [alveolar approximant +lateral]
-Symbol r [alveolar trill]
-Symbol ɬ [unvoiced alveolar fricative +lateral]
-Symbol θ [unvoiced alveolar fricative]
 
 Syllables:
 [cons] [vowel]
-[vowel]
 
 assign-stress:
 <syl> => [+stress] / _ <syl> $
 
-i-assmilation:
-i => ɛ / _ [cons] a
+vowel-assimilation:
+{i, u} => {e, o} / _ [cons] a
 
-a-assmilation:
-a => ɛ / _ [cons] i
+ejective-grassmann:
+[+ejective] => [-ejective] / _ [vowel] {[+ejective], ʔ}
 
-o-assmilation:
-o => ɛ / _ [cons] o
+tonogenesis:
+[vowel] => [hightone] / _ {[+ejective], ʔ}
+Then: [neutral vowel] => [hightone] / _ [cons] [hightone vowel] [cons]&[+stress]
 
-# ejective-metathesis:
-# [unvoiced stop]&[+stress] [vowel] [ejective] => [ejective] [vowel] [unvoiced stop]
-# p&[+stress] [vowel] pʼ => pʼ [vowel] p
-# t&[+stress] [vowel] tʼ => tʼ [vowel] t
-# k&[+stress] [vowel] kʼ => kʼ [vowel] k
-# q&[+stress] [vowel] qʼ => qʼ [vowel] q
-
-# a-epenthesis:
-# * => a / $ _ [ejective] [vowel]
-
-move-stress:
-<syl> => [-stress]
-Then: <syl> => [+stress] / _ <syl> $
-
-romanizer-stressed:
+romanizer-tonogenesis:
 unchanged
+
+ejective-loss:
+[+ejective] => [-ejective]
+
+vowel-loss:
+[vowel] => * / [vowel] [cons] _ $
+[vowel] => * / [cons] [vowel] [cons] _ [cons]&[+stress]
+
+Syllables:
+[cons] [vowel]
+[cons] [vowel] [cons]
+
+romanizer-vowel-loss:
+unchanged
+
+glottal-stop-loss:
+[vowel]$1 ʔ => $1 $1 // _ [vowel]
+[cons]$1 ʔ => $1 $1
+ʔ => h / _ [vowel]
+
+Syllables:
+[cons] [vowel]
+[cons] [vowel] [cons]
+[cons] [vowel] [vowel]
+
+# move-stress:
+# <syl> => [-stress]
+# Then: <syl> => [+stress] / _ <syl> $
 
 Syllables:
 clear
