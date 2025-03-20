@@ -1,5 +1,7 @@
 # Introduction
 
+Astrolang has VOS word order with ergative-absolutive alignment and mostly fusional morphology.
+
 ## Goal
 
 I want to create a language inspired by ancient Egyptian and classical Mayan, with a major focus on spatio-temporal relationships and valency operations.
