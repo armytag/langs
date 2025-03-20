@@ -37,6 +37,7 @@ By armytag
 | field    | casipu  | casip  |
 | marsh    | pipa    | pep    |
 | cliff    | capʼiku | cápik  |
+| forest   | nisi    | nis    |
 
 ### Weather
 
@@ -99,4 +100,18 @@ By armytag
 | fly     | tucʼu    | túc    |
 | flow    | naʔa     | náá    |
 | breathe | cʼipa    | cep    |
+
+### Animate nouns
+
+| Meaning  | Proto    | Modern |
+| ---      | ---      | ---    |
+| mother   | ʃawu     | ʃaw    |
+| child    | tita     | tet    |
+| parent   | papa     | pap    |
+| sibling  | pusʼu    | pús    |
+| stranger | lutʼa    | lót    |
+
+#### Mother of forest (Baobab tree)
+
+ʃawutʼa nisi → ʃawót nis
 
