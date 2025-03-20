@@ -15,41 +15,88 @@ By armytag
 
 ### Body terms
 
-1. head
-1. leg
-1. arm
-1. chest
-1. back
-1. eye
-1. mouth
-1. ear
+| Meaning | Proto   | Modern |
+| ---     | ---     | ---    |
+| head    | kʼasini | kasin  |
+| leg     | tʼapʼi  | táp    |
+| arm     | tuca    | toc    |
+| chest   | pʼuci   | puc    |
+| back    | tuʔi    | túú    |
+| eye     | sʼiwu   | siw    |
+| mouth   | micu    | mic    |
+| ear     | lapi    | lap    |
 
 ### Terrain features
 
-1. mountain/volcano
-1. highland
-1. ocean
-1. river
-1. cave
+| Meaning  | Proto   | Modern |
+| ---      | ---     | ---    |
+| mountain | cʼakʼu  | cák    |
+| highland | kʼipʼa  | kép    |
+| river    | mita    | met    |
+| cave     | lumi    | lum    |
+| field    | casipu  | casip  |
+| marsh    | pipa    | pep    |
+| cliff    | capʼiku | cápik  |
 
 ### Weather
 
-1. sun
-1. moon
-1. star
-1. rain
-1. storm
-1. dry season
+| Meaning    | Proto    | Modern |
+| ---        | ---      | ---    |
+| sun        | sʼimuwi  | simuw  |
+| moon       | pʼuʔu    | púú    |
+| star       | tatʼicʼi | tatíc  |
+| rain       | cuki     | cuk    |
+| storm      | nina     | nen    |
+| dry season | sʼapikʼi | sapík  |
+| earthquake | cʼukʼu   | cúk    |
 
 ### Flora
 
+| Meaning           | Proto   | Modern |
+| ---               | ---     | ---    |
+| bamboo            | wucʼitu | wúcit  |
+| yam, tuber        | laʔu    | láá    |
+| millet            | witi    | wit    |
+| lichen, moss      | pʼapu   | pap    |
+| large tree        | sʼasʼa  | sás    |
+| shrub, small tree | cucʼu   | cúc    |
+| fig tree          | ʃiʔi    | ʃíí    |
+| mushroom          | paʔu    | páá    |
+
 ### Fauna
+
+| Meaning              | Proto  | Modern |
+| ---                  | ---    | ---    |
+| buffalo, wild cow    | muʔi   | múú    |
+| goat, deer           | tisʼa  | tés    |
+| rodent, bear         | taʔisu | táhis  |
+| leopard              | sica   | sec    |
+| stinging insect      | tica   | tec    |
+| roach                | nusʼa  | nós    |
+| tree-dwelling bird   | casʼi  | cás    |
+| ground-dwelling bird | kiwi   | kiw    |
 
 ### Transitive verbs
 
-1. eat
+| Meaning    | Proto    | Modern |
+| ---        | ---      | ---    |
+| eat, drink | kʼasʼu   | kás    |
+| cut        | ʃuli     | ʃul    |
+| carry      | pʼicu    | pic    |
+| gather     | pʼasʼu   | pás    |
+| hunt       | cikʼacʼi | cekác  |
+| hit        | wapu     | wap    |
+| bite       | niʃi     | niʃ    |
 
 ### Intransitive verbs
 
-1. sleep
+| Meaning | Proto    | Modern |
+| ---     | ---      | ---    |
+| sleep   | litu     | lit    |
+| stand   | pucʼikʼa | púcek  |
+| sit     | siwa     | sew    |
+| walk    | cʼiʃi    | ciʃ    |
+| fly     | tucʼu    | túc    |
+| flow    | naʔa     | náá    |
+| breathe | cʼipa    | cep    |
 
