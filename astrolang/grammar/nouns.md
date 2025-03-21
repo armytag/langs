@@ -4,9 +4,13 @@
     - Sapient include humans, gods/spirits, and leopards
     - Could this evolve from some sort of honorific system (i.e. those of equal or higher intelligence to me)?
         - Honorific form could be more periphrastic
-- Singular (from "one") vs Plural (from "bundle") distinction
+- Singular vs Plural distinction
+    - Singular originally unmarked
+    - Plural from "people" for humans, from "all" for non-sapients
 - Definite articles develop between Protolang and Early Astrolang
     - Definiteness marked with fusional affix in Protolang
+        - Definite from earlier demonstrative ("that")
+        - Indefinite from earlier "one"
     - Definiteness marked with articles in Early Astrolang
 - Nominal functions indicated through word order (VOS) or directionals with relational nouns (instead of adpositions)
     - In Protolang core functions like Ergative, Absolutive, and Genitive marked with case endings; when final vowels drop, these are replaced with separate articles
