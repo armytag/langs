@@ -14,7 +14,8 @@
         - Indefinite sapient plural from earlier *cunaki ʔupa* → *cokʼop* "one people"
     - Definiteness marked with articles in Early Astrolang
 - Nominal functions indicated through word order (VOS) or directionals with relational nouns (instead of adpositions)
-    - In Protolang core functions like Ergative, Absolutive, and Genitive marked with case endings; when final vowels drop, these are replaced with separate articles
+    - In Protolang core functions like Ergative, Absolutive, and Genitive (*tʼa*) marked with adpositions
+        - Definiteness is not longer relevant for 
 
 Template: root-NUM-DEF
 
@@ -22,29 +23,34 @@ Template: root-NUM-DEF
 | ---   | ---      | ---          | ---            |
 | DEF   | -ci      | -coci        | -sici          |
 | INDEF | -∅       | -cokʼupa     | -si            |
+| CNSTR | -tʼa     | -cotʼa       | -sitʼa         |
 
 |       | Singular | Plural       | Modern SG | Modern PL |
 | ---   | ---      | ---          | ---       | ---       |
 | DEF   | ʃawu-ci  | ʃawu-coci    | ʃawuc     | ʃawcoc    |
 | INDEF | ʃawu     | ʃawu-cokʼupa | ʃaw       | ʃawúckop  |
+| CNSTR | ʃawutʼa  | ʃawu-cotʼa   | ʃawót     | ʃawcót    |
 : *ʃawu* ("mother")
 
 |       | Singular | Plural        | Modern SG | Modern PL |
 | ---   | ---      | ---           | ---       | ---       |
 | DEF   | lutʼa-ci | lutʼa-coci    | lótac     | lótcoc    |
 | INDEF | lutʼa    | lutʼa-cokʼupa | lót       | lótáckop  |
+| CNSTR | lutʼa    | lutʼa-cotʼa   | lótát     | lótcót    |
 : *lutʼa* ("stranger")
 
-|       | Singular | Plural    | Modern SG | Modern PL |
-| ---   | ---      | ---       | ---       | ---       |
-| DEF   | paʔu-ci  | paʔu-sici | páhuc     | páásic    |
-| INDEF | paʔu     | paʔu-si   | páá       | páhus     |
+|       | Singular | Plural     | Modern SG | Modern PL |
+| ---   | ---      | ---        | ---       | ---       |
+| DEF   | paʔu-ci  | paʔu-sici  | páhuc     | páásic    |
+| INDEF | paʔu     | paʔu-si    | páá       | páhus     |
+| CNSTR | paʔu-tʼa | paʔu-sitʼa | páhót     | páásét    |
 : *paʔu* ("mushroom")
 
-|       | Singular  | Plural      | Modern SG | Modern PL |
-| ---   | ---       | ---         | ---       | ---       |
-| DEF   | casipu-ci | casipu-sici | caspuc    | casipsic  |
-| INDEF | casipu    | casipu-si   | casip     | caspus    |
+|       | Singular   | Plural       | Modern SG | Modern PL |
+| ---   | ---        | ---          | ---       | ---       |
+| DEF   | casipu-ci  | casipu-sici  | caspuc    | casipsic  |
+| INDEF | casipu     | casipu-si    | casip     | caspus    |
+| CNSTR | casipu-tʼa | casipu-sitʼa | caspót    | casipsét  |
 : *casipu* ("field")
 
 ## Pronouns
