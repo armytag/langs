@@ -48,13 +48,12 @@ ejective-grassmann:
 
 tonogenesis:
 [vowel] => [hightone] / _ {[+ejective], ʔ}
-# Then: [neutral vowel] => [hightone] / _ [cons]&[+stress] 
 
 romanizer-tonogenesis:
 unchanged
 
 tone-spread:
-[neutral vowel] => [hightone] / _ ([cons] [hightone vowel])? [cons]&[+stress]
+[neutral vowel] => [hightone] / _ [cons] [hightone vowel] [cons]&[+stress]
 
 romanizer-tonespread:
 unchanged
