@@ -10,10 +10,12 @@
 - Definite articles develop between Protolang and Early Astrolang
     - Definiteness marked with fusional affix in Protolang
         - Definite from earlier demonstrative ("that")
-        - Indefinite from earlier "one"
+        - Indefinite from earlier "one" (or unmarked?)
     - Definiteness marked with articles in Early Astrolang
 - Nominal functions indicated through word order (VOS) or directionals with relational nouns (instead of adpositions)
     - In Protolang core functions like Ergative, Absolutive, and Genitive marked with case endings; when final vowels drop, these are replaced with separate articles
+
+Template: root-NUM-DEF
 
 ## Pronouns
 
