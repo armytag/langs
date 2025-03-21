@@ -29,15 +29,22 @@ Template: root-NUM-DEF
 | ---   | ---      | ---          | ---       | ---       |
 | DEF   | ʃawu-ci  | ʃawu-coci    | ʃawuc     | ʃawcoc    |
 | INDEF | ʃawu     | ʃawu-cokʼupa | ʃaw       | ʃawúckop  |
-| CNSTR | ʃawutʼa  | ʃawu-cotʼa   | ʃawót     | ʃawcót    |
+| CNSTR | ʃawu-tʼa | ʃawu-cotʼa   | ʃawót     | ʃawcót    |
 : *ʃawu* ("mother")
 
-|       | Singular | Plural        | Modern SG | Modern PL |
-| ---   | ---      | ---           | ---       | ---       |
-| DEF   | lutʼa-ci | lutʼa-coci    | lótac     | lótcoc    |
-| INDEF | lutʼa    | lutʼa-cokʼupa | lót       | lótáckop  |
-| CNSTR | lutʼa    | lutʼa-cotʼa   | lótát     | lótcót    |
+|       | Singular  | Plural        | Modern SG | Modern PL |
+| ---   | ---       | ---           | ---       | ---       |
+| DEF   | lutʼa-ci  | lutʼa-coci    | lótac     | lótcoc    |
+| INDEF | lutʼa     | lutʼa-cokʼupa | lót       | lótáckop  |
+| CNSTR | lutʼa-tʼa | lutʼa-cotʼa   | lótát     | lótcót    |
 : *lutʼa* ("stranger")
+
+|       | Singular    | Plural          | Modern SG | Modern PL  |
+| ---   | ---         | ---             | ---       | ---        |
+| DEF   | bilutʼa-ci  | bilutʼa-coci    | bíltac    | bilótcoc   |
+| INDEF | bilutʼa     | bilutʼa-cokʼupa | bilót     | bilótáckap |
+| CNSTR | bilutʼa-tʼa | bilutʼa-cotʼa   | biltát    | bilótcót   |
+: *bilutʼa* (nonce)
 
 |       | Singular | Plural     | Modern SG | Modern PL |
 | ---   | ---      | ---        | ---       | ---       |
