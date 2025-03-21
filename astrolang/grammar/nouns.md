@@ -1,23 +1,30 @@
 # Nouns
 
-- Classes for sapient (from "wise") vs non-sapient (from "tool")
-    - Sapient include humans, gods/spirits, and leopards
-    - Could this evolve from some sort of honorific system (i.e. those of equal or higher intelligence to me)?
-        - Honorific form could be more periphrastic
-- Singular vs Plural distinction
-    - Singular originally unmarked
-    - Plural from *cunaki* → *co* "people" for humans, from *sumi* → *si* "all" for non-sapients
-- Definite articles develop between Protolang and Early Astrolang
-    - Definiteness marked with fusional affix in Protolang
-        - Definite from earlier demonstrative (*ʃuti* → *ci* "that")
-        - Indefinite normally unmarked
-        - Indefinite sapient plural from earlier *cunaki ʔupa* → *cokʼop* "one people"
-    - Definiteness marked with articles in Early Astrolang
-- Nominal functions indicated through word order (VOS) or directionals with relational nouns (instead of adpositions)
-    - In Protolang core functions like Ergative, Absolutive, and Genitive (*tʼa*) marked with adpositions
-        - Definiteness is not longer relevant for 
+## Noun Morphology
 
-Template: root-NUM-DEF
+### Class
+
+Nouns have two declension patters or "classes".  The first class generally includes nouns with high intelligence or agency such as humans, gods/spirits, and leopards.  The other class includes all other nouns including livestock, plants, tools, and so on.
+
+(Animate nouns could also involve some sort of periphrastic honorific system i.e. those of equal or higher intelligence to me)
+
+### Number
+
+Nouns can occur in singular or plural form.  The singular is unmarked.  The plural form is different depending on whether the nouns is in the Animate class or the Inanimate class.  The Animate plural derives from *cunaki* ("people") which simplified into *co*.  The Inanimate plural derives from *sumi* ("many") which simplified into *si*.
+
+### Definiteness
+
+Definite marking comes from an old demonstrative *ʃuti* ("that") which simplified into *ci* and fused onto the definite noun after the plural marking.
+
+For Animate nouns, the plural form took a different indefinite marking *ʔupa* ("one") which combined with *cunaki* ("people") to form the indefinite plural suffix *-cokʼupa*.
+
+### Noun functions
+
+In Protolang the syntactic roles of nouns were marked by particles that preceded the noun, but have since affixed to the adjacent noun.  The Ergative particle *pi* has attached as a prefix. However, genetive particle *tʼa* has fused onto the **preceding** noun as a suffix, creating a construct state within genitive constructions where the (anterior) head noun is inflected rather than the (posterior) modifying noun.
+
+Template: ABS-root-NUM-DEF/CNSTR
+
+### Declension examples
 
 |       | Singular | Plural (ANM) | Plural (INANM) |
 | ---   | ---      | ---          | ---            |
@@ -44,7 +51,7 @@ Template: root-NUM-DEF
 | DEF   | pilutʼa-ci  | pilutʼa-coci    | píltac    | pilótcoc   |
 | INDEF | pilutʼa     | pilutʼa-cokʼupa | pilót     | pilótáckap |
 | CNSTR | pilutʼa-tʼa | pilutʼa-cotʼa   | piltát    | pilótcót   |
-: *pilutʼa* (nonce)
+: *pilutʼa* ("ERG-stranger")
 
 |       | Singular | Plural     | Modern SG | Modern PL |
 | ---   | ---      | ---        | ---       | ---       |
