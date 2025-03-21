@@ -6,16 +6,46 @@
         - Honorific form could be more periphrastic
 - Singular vs Plural distinction
     - Singular originally unmarked
-    - Plural from "people" for humans, from "all" for non-sapients
+    - Plural from *cunaki* → *co* "people" for humans, from *sumi* → *si* "all" for non-sapients
 - Definite articles develop between Protolang and Early Astrolang
     - Definiteness marked with fusional affix in Protolang
-        - Definite from earlier demonstrative ("that")
-        - Indefinite from earlier "one" (or unmarked?)
+        - Definite from earlier demonstrative (*ʃuti* → *ci* "that")
+        - Indefinite normally unmarked
+        - Indefinite sapient plural from earlier *cunaki ʔupa* → *cokʼop* "one people"
     - Definiteness marked with articles in Early Astrolang
 - Nominal functions indicated through word order (VOS) or directionals with relational nouns (instead of adpositions)
     - In Protolang core functions like Ergative, Absolutive, and Genitive marked with case endings; when final vowels drop, these are replaced with separate articles
 
 Template: root-NUM-DEF
+
+|       | Singular | Plural (ANM) | Plural (INANM) |
+| ---   | ---      | ---          | ---            |
+| DEF   | -ci      | -coci        | -sici          |
+| INDEF | -∅       | -cokʼupa     | -si            |
+
+|       | Singular | Plural       | Modern SG | Modern PL |
+| ---   | ---      | ---          | ---       | ---       |
+| DEF   | ʃawu-ci  | ʃawu-coci    | ʃawuc     | ʃawcoc    |
+| INDEF | ʃawu     | ʃawu-cokʼupa | ʃaw       | ʃawúckop  |
+: *ʃawu* ("mother")
+
+|       | Singular | Plural        | Modern SG | Modern PL |
+| ---   | ---      | ---           | ---       | ---       |
+| DEF   | lutʼa-ci | lutʼa-coci    | lótac     | lótcoc    |
+| INDEF | lutʼa    | lutʼa-cokʼupa | lót       | lótáckop  |
+: *lutʼa* ("stranger")
+
+|       | Singular | Plural    | Modern SG | Modern PL |
+| ---   | ---      | ---       | ---       | ---       |
+| DEF   | paʔu-ci  | paʔu-sici | páhuc     | páásic    |
+| INDEF | paʔu     | paʔu-si   | páá       | páhus     |
+: *paʔu* ("mushroom")
+
+|       | Singular  | Plural      | Modern SG | Modern PL |
+| ---   | ---       | ---         | ---       | ---       |
+| DEF   | casipu-ci | casipu-sici | caspuc    | casipsic  |
+| INDEF | casipu    | casipu-si   | casip     | caspus    |
+: *casipu* ("field")
 
 ## Pronouns
 
