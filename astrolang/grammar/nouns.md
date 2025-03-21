@@ -36,7 +36,7 @@ Template: root-NUM-DEF
 | ---   | ---       | ---           | ---       | ---       |
 | DEF   | lutʼa-ci  | lutʼa-coci    | lótac     | lótcoc    |
 | INDEF | lutʼa     | lutʼa-cokʼupa | lót       | lótáckop  |
-| CNSTR | lutʼa-tʼa | lutʼa-cotʼa   | lótát     | lótcót    |
+| CNSTR | lutʼa-tʼa | lutʼa-cotʼa   | lotát     | lótcót    |
 : *lutʼa* ("stranger")
 
 |       | Singular    | Plural          | Modern SG | Modern PL  |
