@@ -41,10 +41,10 @@ Template: root-NUM-DEF
 
 |       | Singular    | Plural          | Modern SG | Modern PL  |
 | ---   | ---         | ---             | ---       | ---        |
-| DEF   | bilutʼa-ci  | bilutʼa-coci    | bíltac    | bilótcoc   |
-| INDEF | bilutʼa     | bilutʼa-cokʼupa | bilót     | bilótáckap |
-| CNSTR | bilutʼa-tʼa | bilutʼa-cotʼa   | biltát    | bilótcót   |
-: *bilutʼa* (nonce)
+| DEF   | pilutʼa-ci  | pilutʼa-coci    | píltac    | pilótcoc   |
+| INDEF | pilutʼa     | pilutʼa-cokʼupa | pilót     | pilótáckap |
+| CNSTR | pilutʼa-tʼa | pilutʼa-cotʼa   | piltát    | pilótcót   |
+: *pilutʼa* (nonce)
 
 |       | Singular | Plural     | Modern SG | Modern PL |
 | ---   | ---      | ---        | ---       | ---       |
