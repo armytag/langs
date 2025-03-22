@@ -5,12 +5,11 @@
 -	***cekác***	\[ceˈkác\]	\*cikʼacʼi	(t. verb)	hunt
 -	***cep***	\[ˈcep\]	\*cʼipa	(i. verb)	breathe
 -	***ciʃ***	\[ˈciʃ\]	\*cʼiʃi	(i. verb)	walk
+-	***conak***	\[coˈnak\]	\*cunaki	(anim. noun)	group (people)
 -	***cuk***	\[ˈcuk\]	\*cuki	(i. verb)	rain
 -	***cúc***	\[ˈcúc\]	\*cucʼu	(noun)	shrub, small tree
 -	***cúk***	\[ˈcúk\]	\*cʼukʼu	(i. verb)	earthquake
--	***conak***	\[coˈnak\]	\*cunaki	(anim. noun)	group (people)
 -	***hop***	\[ˈhop\]	\*ʔupa	(number)	one
--	***ʃut***	\[ˈʃut\]	\*ʃuti	(demonstrative)	that
 -	***kasin***	\[kaˈsin\]	\*kʼasini	(noun)	head
 -	***kasnét***	\[kasˈnét\]	\*kʼasinitʼa	(rel. noun)	up; above
 -	***kás***	\[ˈkás\]	\*kʼasʼu	(t. verb)	eat, drink
@@ -30,8 +29,8 @@
 -	***niʃ***	\[ˈniʃ\]	\*niʃi	(t. verb)	bite
 -	***nós***	\[ˈnós\]	\*nusʼa	(noun)	roach
 -	***pa***	\[ˈpa\]	\*pa	(anim. noun)	parent
--	***páp***	\[ˈpáp\]	\*pʼapu	(noun)	lichen, moss
 -	***páá***	\[ˈpáá\]	\*paʔu	(noun)	mushroom
+-	***páp***	\[ˈpáp\]	\*pʼapu	(noun)	lichen, moss
 -	***pás***	\[ˈpás\]	\*pʼasʼu	(t. verb)	gather
 -	***pep***	\[ˈpep\]	\*pipa	(noun)	marsh
 -	***pic***	\[ˈpic\]	\*pʼicu	(t. verb)	carry
@@ -60,3 +59,4 @@
 -	***ʃaw***	\[ˈʃaw\]	\*ʃawu	(anim. noun)	mother
 -	***ʃíí***	\[ˈʃíí\]	\*ʃiʔi	(noun)	fig tree
 -	***ʃul***	\[ˈʃul\]	\*ʃuli	(t. verb)	cut
+-	***ʃut***	\[ˈʃut\]	\*ʃuti	(demonstrative)	that
