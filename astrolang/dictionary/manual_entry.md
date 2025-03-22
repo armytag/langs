@@ -1,58 +1,62 @@
--	***casip***	\[caˈsip\]	\*casipu	(noun)	1. field
--	***cák***	\[ˈcák\]	\*cʼakʼu	(noun)	1. mountain
--	***cápik***	\[cáˈpik\]	\*capʼiku	(noun)	1. cliff
--	***cás***	\[ˈcás\]	\*casʼi	(noun)	1. tree-dwelling bird
--	***cekác***	\[ceˈkác\]	\*cikʼacʼi	(t. verb)	1. hunt
--	***cep***	\[ˈcep\]	\*cʼipa	(i. verb)	1. breathe
--	***ciʃ***	\[ˈciʃ\]	\*cʼiʃi	(i. verb)	1. walk
--	***cuk***	\[ˈcuk\]	\*cuki	(i. verb)	1. rain
--	***cúc***	\[ˈcúc\]	\*cucʼu	(noun)	1. shrub, small tree
--	***cúk***	\[ˈcúk\]	\*cʼukʼu	(i. verb)	1. earthquake
--	***kasin***	\[kaˈsin\]	\*kʼasini	(noun)	1. head
--	***kás***	\[ˈkás\]	\*kʼasʼu	(t. verb)	1. eat, drink
--	***kép***	\[ˈkép\]	\*kʼipʼa	(noun)	1. highland
--	***kiw***	\[ˈkiw\]	\*kiwi	(noun)	1. ground-dwelling bird
--	***lap***	\[ˈlap\]	\*lapi	(noun)	1. ear
--	***láá***	\[ˈláá\]	\*laʔu	(noun)	1. yam, tuber
--	***lit***	\[ˈlit\]	\*litu	(i. verb)	1. sleep
--	***lót***	\[ˈlót\]	\*lutʼa	(anim. noun)	1. stranger
--	***lum***	\[ˈlum\]	\*lumi	(noun)	1. cave
--	***met***	\[ˈmet\]	\*mita	(noun)	1. river
--	***mic***	\[ˈmic\]	\*micu	(noun)	1. mouth
--	***múú***	\[ˈmúú\]	\*muʔi	(noun)	1. buffalo, wild cow
--	***náá***	\[ˈnáá\]	\*naʔa	(i. verb)	1. flow
--	***nen***	\[ˈnen\]	\*nina	(i. verb)	1. storm
--	***nis***	\[ˈnis\]	\*nisi	(noun)	1. forest
--	***niʃ***	\[ˈniʃ\]	\*niʃi	(t. verb)	1. bite
--	***nós***	\[ˈnós\]	\*nusʼa	(noun)	1. roach
--	***pap***	\[ˈpap\]	\*papa	(anim. noun)	1. parent
--	***pap***	\[ˈpap\]	\*pʼapu	(noun)	1. lichen, moss
--	***páá***	\[ˈpáá\]	\*paʔu	(noun)	1. mushroom
--	***pás***	\[ˈpás\]	\*pʼasʼu	(t. verb)	1. gather
--	***pep***	\[ˈpep\]	\*pipa	(noun)	1. marsh
--	***pic***	\[ˈpic\]	\*pʼicu	(t. verb)	1. carry
--	***puc***	\[ˈpuc\]	\*pʼuci	(noun)	1. chest
--	***púcek***	\[púˈcek\]	\*pucʼikʼa	(i. verb)	1. stand
--	***pús***	\[ˈpús\]	\*pusʼu	(anim. noun)	1. sibling
--	***púú***	\[ˈpúú\]	\*pʼuʔu	(noun)	1. moon
--	***sapík***	\[saˈpík\]	\*sʼapikʼi	(noun)	1. dry season
--	***sás***	\[ˈsás\]	\*sʼasʼa	(noun)	1. large tree
--	***sec***	\[ˈsec\]	\*sica	(anim. noun)	1. leopard
--	***sew***	\[ˈsew\]	\*siwa	(i. verb)	1. sit
--	***simuw***	\[siˈmuw\]	\*sʼimuwi	(noun)	1. sun
--	***siw***	\[ˈsiw\]	\*sʼiwu	(noun)	1. eye
--	***tatíc***	\[taˈtíc\]	\*tatʼicʼi	(noun)	1. star
--	***táhis***	\[táˈhis\]	\*taʔisu	(noun)	1. rodent, bear
--	***táp***	\[ˈtáp\]	\*tʼapʼi	(noun)	1. leg
--	***tec***	\[ˈtec\]	\*tica	(noun)	1. stinging insect
--	***tet***	\[ˈtet\]	\*tita	(anim. noun)	1. child
--	***tés***	\[ˈtés\]	\*tisʼa	(noun)	1. goat, deer
--	***toc***	\[ˈtoc\]	\*tuca	(noun)	1. arm
--	***túc***	\[ˈtúc\]	\*tucʼu	(i. verb)	1. fly
--	***túú***	\[ˈtúú\]	\*tuʔi	(noun)	1. back
--	***wap***	\[ˈwap\]	\*wapu	(t. verb)	1. hit
--	***wit***	\[ˈwit\]	\*witi	(noun)	1. millet
--	***wúcit***	\[wúˈcit\]	\*wucʼitu	(noun)	1. bamboo
--	***ʃaw***	\[ˈʃaw\]	\*ʃawu	(anim. noun)	1. mother
--	***ʃíí***	\[ˈʃíí\]	\*ʃiʔi	(noun)	1. fig tree
--	***ʃul***	\[ˈʃul\]	\*ʃuli	(t. verb)	1. cut
+-	***casip***	\[caˈsip\]	\*casipu	(noun)	field
+-	***cák***	\[ˈcák\]	\*cʼakʼu	(noun)	mountain
+-	***cápik***	\[cáˈpik\]	\*capʼiku	(noun)	cliff
+-	***cás***	\[ˈcás\]	\*casʼi	(noun)	tree-dwelling bird
+-	***cekác***	\[ceˈkác\]	\*cikʼacʼi	(t. verb)	hunt
+-	***cep***	\[ˈcep\]	\*cʼipa	(i. verb)	breathe
+-	***ciʃ***	\[ˈciʃ\]	\*cʼiʃi	(i. verb)	walk
+-	***cuk***	\[ˈcuk\]	\*cuki	(i. verb)	rain
+-	***cúc***	\[ˈcúc\]	\*cucʼu	(noun)	shrub, small tree
+-	***cúk***	\[ˈcúk\]	\*cʼukʼu	(i. verb)	earthquake
+-	***conak***	\[coˈnak\]	\*cunaki	(anim. noun)	group (people)
+-	***hop***	\[ˈhop\]	\*ʔupa	(number)	one
+-	***ʃut***	\[ˈʃut\]	\*ʃuti	(demonstrative)	that
+-	***kasin***	\[kaˈsin\]	\*kʼasini	(noun)	head
+-	***kasnét***	\[kasˈnét\]	\*kʼasinitʼa	(rel. noun)	up; above
+-	***kás***	\[ˈkás\]	\*kʼasʼu	(t. verb)	eat, drink
+-	***kép***	\[ˈkép\]	\*kʼipʼa	(noun)	highland
+-	***kiw***	\[ˈkiw\]	\*kiwi	(noun)	ground-dwelling bird
+-	***lap***	\[ˈlap\]	\*lapi	(noun)	ear
+-	***láá***	\[ˈláá\]	\*laʔu	(noun)	yam, tuber
+-	***lit***	\[ˈlit\]	\*litu	(i. verb)	sleep
+-	***lót***	\[ˈlót\]	\*lutʼa	(anim. noun)	stranger
+-	***lum***	\[ˈlum\]	\*lumi	(noun)	cave
+-	***met***	\[ˈmet\]	\*mita	(noun)	river
+-	***mic***	\[ˈmic\]	\*micu	(noun)	mouth
+-	***múú***	\[ˈmúú\]	\*muʔi	(noun)	buffalo, wild cow
+-	***náá***	\[ˈnáá\]	\*naʔa	(i. verb)	flow
+-	***nen***	\[ˈnen\]	\*nina	(i. verb)	storm
+-	***nis***	\[ˈnis\]	\*nisi	(noun)	forest
+-	***niʃ***	\[ˈniʃ\]	\*niʃi	(t. verb)	bite
+-	***nós***	\[ˈnós\]	\*nusʼa	(noun)	roach
+-	***pa***	\[ˈpa\]	\*pa	(anim. noun)	parent
+-	***páp***	\[ˈpáp\]	\*pʼapu	(noun)	lichen, moss
+-	***páá***	\[ˈpáá\]	\*paʔu	(noun)	mushroom
+-	***pás***	\[ˈpás\]	\*pʼasʼu	(t. verb)	gather
+-	***pep***	\[ˈpep\]	\*pipa	(noun)	marsh
+-	***pic***	\[ˈpic\]	\*pʼicu	(t. verb)	carry
+-	***puc***	\[ˈpuc\]	\*pʼuci	(noun)	chest
+-	***púcek***	\[púˈcek\]	\*pucʼikʼa	(i. verb)	stand
+-	***pús***	\[ˈpús\]	\*pusʼu	(anim. noun)	sibling
+-	***púú***	\[ˈpúú\]	\*pʼuʔu	(noun)	moon
+-	***sapík***	\[saˈpík\]	\*sʼapikʼi	(noun)	dry season
+-	***sás***	\[ˈsás\]	\*sʼasʼa	(noun)	large tree
+-	***sec***	\[ˈsec\]	\*sica	(anim. noun)	leopard
+-	***sew***	\[ˈsew\]	\*siwa	(i. verb)	sit
+-	***simuw***	\[siˈmuw\]	\*sʼimuwi	(noun)	sun
+-	***siw***	\[ˈsiw\]	\*sʼiwu	(noun)	eye
+-	***tatíc***	\[taˈtíc\]	\*tatʼicʼi	(noun)	star
+-	***táhis***	\[táˈhis\]	\*taʔisu	(noun)	rodent, bear
+-	***táp***	\[ˈtáp\]	\*tʼapʼi	(noun)	leg
+-	***tec***	\[ˈtec\]	\*tica	(noun)	stinging insect
+-	***tet***	\[ˈtet\]	\*tita	(anim. noun)	child
+-	***tés***	\[ˈtés\]	\*tisʼa	(noun)	goat, deer
+-	***toc***	\[ˈtoc\]	\*tuca	(noun)	arm
+-	***túc***	\[ˈtúc\]	\*tucʼu	(i. verb)	fly
+-	***túú***	\[ˈtúú\]	\*tuʔi	(noun)	back
+-	***wap***	\[ˈwap\]	\*wapu	(t. verb)	hit
+-	***wit***	\[ˈwit\]	\*witi	(noun)	millet
+-	***wúcit***	\[wúˈcit\]	\*wucʼitu	(noun)	bamboo
+-	***ʃaw***	\[ˈʃaw\]	\*ʃawu	(anim. noun)	mother
+-	***ʃíí***	\[ˈʃíí\]	\*ʃiʔi	(noun)	fig tree
+-	***ʃul***	\[ˈʃul\]	\*ʃuli	(t. verb)	cut

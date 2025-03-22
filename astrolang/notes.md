@@ -119,7 +119,7 @@ By armytag
 | ---      | ---      | ---    |
 | mother   | ʃawu     | ʃaw    |
 | child    | tita     | tet    |
-| parent   | papa     | pap    |
+| parent   | pa       | pa     |
 | sibling  | pusʼu    | pús    |
 | stranger | lutʼa    | lót    |
 
