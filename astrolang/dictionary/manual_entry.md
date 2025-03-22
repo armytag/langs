@@ -5,9 +5,9 @@
 -	***cekác***	\[ceˈkác\]	\*cikʼacʼi	(t. verb)	1. hunt
 -	***cep***	\[ˈcep\]	\*cʼipa	(i. verb)	1. breathe
 -	***ciʃ***	\[ˈciʃ\]	\*cʼiʃi	(i. verb)	1. walk
--	***cuk***	\[ˈcuk\]	\*cuki	(noun)	1. rain
+-	***cuk***	\[ˈcuk\]	\*cuki	(i. verb)	1. rain
 -	***cúc***	\[ˈcúc\]	\*cucʼu	(noun)	1. shrub, small tree
--	***cúk***	\[ˈcúk\]	\*cʼukʼu	(noun)	1. earthquake
+-	***cúk***	\[ˈcúk\]	\*cʼukʼu	(i. verb)	1. earthquake
 -	***kasin***	\[kaˈsin\]	\*kʼasini	(noun)	1. head
 -	***kás***	\[ˈkás\]	\*kʼasʼu	(t. verb)	1. eat, drink
 -	***kép***	\[ˈkép\]	\*kʼipʼa	(noun)	1. highland
@@ -21,7 +21,7 @@
 -	***mic***	\[ˈmic\]	\*micu	(noun)	1. mouth
 -	***múú***	\[ˈmúú\]	\*muʔi	(noun)	1. buffalo, wild cow
 -	***náá***	\[ˈnáá\]	\*naʔa	(i. verb)	1. flow
--	***nen***	\[ˈnen\]	\*nina	(verb)	1. storm
+-	***nen***	\[ˈnen\]	\*nina	(i. verb)	1. storm
 -	***nis***	\[ˈnis\]	\*nisi	(noun)	1. forest
 -	***niʃ***	\[ˈniʃ\]	\*niʃi	(t. verb)	1. bite
 -	***nós***	\[ˈnós\]	\*nusʼa	(noun)	1. roach
@@ -52,8 +52,7 @@
 -	***túú***	\[ˈtúú\]	\*tuʔi	(noun)	1. back
 -	***wap***	\[ˈwap\]	\*wapu	(t. verb)	1. hit
 -	***wit***	\[ˈwit\]	\*witi	(noun)	1. millet
--	***wúcit***	\[wúˈcit\]	\*wucʼitu	(verb)	1. bamboo
+-	***wúcit***	\[wúˈcit\]	\*wucʼitu	(noun)	1. bamboo
 -	***ʃaw***	\[ˈʃaw\]	\*ʃawu	(anim. noun)	1. mother
--	***ʃaw***	\[ˈʃaw\]	\*ʃawu	(noun)	1. mother
 -	***ʃíí***	\[ˈʃíí\]	\*ʃiʔi	(noun)	1. fig tree
 -	***ʃul***	\[ˈʃul\]	\*ʃuli	(t. verb)	1. cut
