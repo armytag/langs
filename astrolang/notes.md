@@ -8,8 +8,20 @@ By armytag
 
 - positionals = internal configuration
 - relational nouns = relative arrangement
+    - "head" → up/above
+    - "foot" → down/below
+    - "flank/side" → beside
+    - "belly" → inside
+    - "heart" → between (?)
+    - "neck" → at
+    - "hand" → have (possession)
+    - "eye" → front
+    - "back" (or "buttocks") → behind
     - directionals (adpositions)
+        - "to see" → toward
+        - "surround" → around
 - verbs (predicates) = change/motion
+- "child" → diminutive
 
 ## Proto-forms
 
