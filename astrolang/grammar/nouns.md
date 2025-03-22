@@ -67,6 +67,24 @@ Template: ABS-root-NUM-DEF/CNSTR
 | CNSTR | casipu-tʼa | casipu-sitʼa | caspót    | casipsét  |
 : *casipu* ("field")
 
+## Relational Nouns
+
+Instead of adpositions (though a few do exist), Astrolang primarily uses relational nouns to convey how nouns are related to one another.
+
+- *kasnét* "head of" → up/above
+- *lacót* "neck of" → at
+- *nipót* "flank/side of" → beside
+- *siwót* "eye of" → front
+- *sokát* "belly of" → inside
+- *tapét* "foot of" → down/below
+- *tocát* "hand of" → have (possession)
+- *túhét* "back of" → behind
+- *wowát* "heart of" → between (?)
+
+- directionals (adpositions)
+    - "to see" → toward
+    - "surround" → around
+
 ## Pronouns
 
 ### Personal Pronouns

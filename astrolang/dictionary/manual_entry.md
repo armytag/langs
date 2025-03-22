@@ -11,12 +11,14 @@
 -	***cúk***	\[ˈcúk\]	\*cʼukʼu	(i. verb)	earthquake
 -	***hop***	\[ˈhop\]	\*ʔupa	(number)	one
 -	***kasin***	\[kaˈsin\]	\*kʼasini	(noun)	head
--	***kasnét***	\[kasˈnét\]	\*kʼasinitʼa	(rel. noun)	up; above
+-	***kasnét***	\[kasˈnét\]	\*kʼasinitʼa	(rel. noun)	up, above
 -	***kás***	\[ˈkás\]	\*kʼasʼu	(t. verb)	eat, drink
 -	***kép***	\[ˈkép\]	\*kʼipʼa	(noun)	highland
 -	***kiw***	\[ˈkiw\]	\*kiwi	(noun)	ground-dwelling bird
 -	***lap***	\[ˈlap\]	\*lapi	(noun)	ear
 -	***láá***	\[ˈláá\]	\*laʔu	(noun)	yam, tuber
+-	***lác***	\[ˈlác\]	\*lacʼu	(noun)	neck
+-	***lacót***	\[laˈcót\]	\*lacʼutʼa	(rel. noun)	at
 -	***lit***	\[ˈlit\]	\*litu	(i. verb)	sleep
 -	***lót***	\[ˈlót\]	\*lutʼa	(anim. noun)	stranger
 -	***lum***	\[ˈlum\]	\*lumi	(noun)	cave
@@ -25,6 +27,8 @@
 -	***múú***	\[ˈmúú\]	\*muʔi	(noun)	buffalo, wild cow
 -	***náá***	\[ˈnáá\]	\*naʔa	(i. verb)	flow
 -	***nen***	\[ˈnen\]	\*nina	(i. verb)	storm
+-	***nip***	\[ˈnip\]	\*nipu	(noun)	flank, side
+-	***nipót***	\[niˈpót\]	\*niputʼa	(rel. noun)	beside
 -	***nis***	\[ˈnis\]	\*nisi	(noun)	forest
 -	***niʃ***	\[ˈniʃ\]	\*niʃi	(t. verb)	bite
 -	***nós***	\[ˈnós\]	\*nusʼa	(noun)	roach
@@ -44,17 +48,25 @@
 -	***sew***	\[ˈsew\]	\*siwa	(i. verb)	sit
 -	***simuw***	\[siˈmuw\]	\*sʼimuwi	(noun)	sun
 -	***siw***	\[ˈsiw\]	\*sʼiwu	(noun)	eye
+-	***siwót***	\[siˈwót\]	\*sʼiwutʼa	(rel. noun)	front
+-	***sók***	\[ˈsók\]	\*sukʼa	(noun)	belly
+-	***sokát***	\[soˈkát\]	\*sukʼatʼa	(rel. noun)	inside
 -	***tatíc***	\[taˈtíc\]	\*tatʼicʼi	(noun)	star
 -	***táhis***	\[táˈhis\]	\*taʔisu	(noun)	rodent, bear
 -	***táp***	\[ˈtáp\]	\*tʼapʼi	(noun)	leg
+-	***tapét***	\[taˈpét\]	\*tʼapʼitʼa	(rel. noun)	down, below
 -	***tec***	\[ˈtec\]	\*tica	(noun)	stinging insect
 -	***tet***	\[ˈtet\]	\*tita	(anim. noun)	child
 -	***tés***	\[ˈtés\]	\*tisʼa	(noun)	goat, deer
 -	***toc***	\[ˈtoc\]	\*tuca	(noun)	arm
+-	***tocát***	\[toˈcát\]	\*tucatʼa	(rel. noun)	have (possession)
 -	***túc***	\[ˈtúc\]	\*tucʼu	(i. verb)	fly
 -	***túú***	\[ˈtúú\]	\*tuʔi	(noun)	back
+-	***túhét***	\[túˈhét\]	\*tuʔitʼa	(rel. noun)	behind
 -	***wap***	\[ˈwap\]	\*wapu	(t. verb)	hit
 -	***wit***	\[ˈwit\]	\*witi	(noun)	millet
+-	***wow***	\[ˈwow\]	\*wuwu	(noun)	heart
+-	***wowát***	\[woˈwát\]	\*wuwutʼa	(rel. noun)	between
 -	***wúcit***	\[wúˈcit\]	\*wucʼitu	(noun)	bamboo
 -	***ʃaw***	\[ˈʃaw\]	\*ʃawu	(anim. noun)	mother
 -	***ʃíí***	\[ˈʃíí\]	\*ʃiʔi	(noun)	fig tree
