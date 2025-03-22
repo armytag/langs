@@ -82,7 +82,9 @@ Instead of adpositions (though a few do exist), Astrolang primarily uses relatio
 - *wowát* "heart of" → between (?)
 
 >*\[lit\] sec lacót sásac*
+>
 >\[sleep\] leopard neck_of tree.DEF
+>
 >"A leopard sleeps in the tree"
 
 - directionals (adpositions)
