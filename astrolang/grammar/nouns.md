@@ -72,14 +72,18 @@ Template: ABS-root-NUM-DEF/CNSTR
 Instead of adpositions (though a few do exist), Astrolang primarily uses relational nouns to convey how nouns are related to one another.
 
 - *kasnét* "head of" → up/above
-- *lacót* "neck of" → at
+- *lacót* "neck of" → at (unenclosed)
 - *nipót* "flank/side of" → beside
 - *siwót* "eye of" → front
-- *sokát* "belly of" → inside
+- *sokát* "belly of" → inside (enclosed)
 - *tapét* "foot of" → down/below
 - *tocát* "hand of" → have (possession)
 - *túhét* "back of" → behind
 - *wowát* "heart of" → between (?)
+
+>*\[lit\] sec lacót sásac*
+>\[sleep\] leopard neck_of tree.DEF
+>"A leopard sleeps in the tree"
 
 - directionals (adpositions)
     - "to see" → toward
