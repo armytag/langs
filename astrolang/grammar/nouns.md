@@ -91,6 +91,29 @@ Instead of adpositions (though a few do exist), Astrolang primarily uses relatio
     - "to see" → toward
     - "surround" → around
 
+## Possession
+
+- Attributive (A) possessive: genitive case, associative, connective
+    - *tʼasi* "come from" → *tʼa* GEN → *-tʼa*
+- Belonging (B) possessive: "X belongs to Y", "X is Y's"
+    - *pʼana makitʼa* "be_at home-GEN" → *pankét*
+    - \[be_at\] home GEN Maria ERG book → \[be_at_home-GEN\] Maria ERG-book
+- Have (H) possessive: have, own
+    - from locative copula, for temporary possession (?)
+    - *nasʼu* "be with" → *nás*
+    - \[be_with\] Maria ERG book → \[be_with\] Maria ERG-book
+
+- (A) the cow’s leg
+- (H) the boy’s rock (the one in his possession that he owns)
+- (A) the boy’s rock (the one in the forest that he found and likes to sit on)
+- (A) the barn’s roof
+- (A) the berry’s color / the berry’s taste
+- (A) the stream’s rocks / the stream’s edge
+- (B) Bailey’s book (the one they bought and own)
+- (A) Bailey’s book (the one they wrote but that someone else owns)
+- (H) Bailey’s book (the one the library owns but which they borrowed and are reading)
+- (periphrastic) Bailey’s book (the one I bought for them but have not yet gifted to them)
+
 ## Pronouns
 
 ### Personal Pronouns
