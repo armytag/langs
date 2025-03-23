@@ -99,4 +99,15 @@ Personal pronouns have several forms:
 
 1. Suffix form used with possession phrases, prepositional phrases, and absolutive constructions.
 1. Independant form used for ergative constructions and appears as suffix form with additional final consonant.
-1. Stressed form used for topicalization ("It is X who verbs") and consisting of a common disyllabic root with ending depending on person.
+1. Stressed form used for topicalization ("It is X who verbs") and consisting of a nominal topicalizer *kák* with ending depending on person.
+
+| Person   | Stressed  | Independant | Suffix |
+| ---      | ---       | ---         | ---    |
+| 1SG      | kakʼasa   | sakʼa       | -sa    |
+| 1PL      | kakʼasali | sali        | -sali  |
+| 2SG      | kakʼaca   | cakʼa       | -ca    |
+| 2PL      | kakʼacali | cali        | -cali  |
+| 3SG ANM  | kakʼaʔa   | ʔakʼa       | -ʔa    |
+| 3PL ANM  | kakʼaʔali | ʔali        | -ʔali  |
+| 3SG INAN | miciʃi    | ʃiʃi        | -ʃi    |
+| 3PL INAN | miciʃili  | ʃili        | -ʃili  |
