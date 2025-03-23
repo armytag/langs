@@ -101,6 +101,22 @@ Personal pronouns have several forms:
 1. Independant form used for ergative constructions and appears as suffix form with additional final consonant.
 1. Stressed form used for topicalization ("It is X who verbs") and consisting of a nominal topicalizer *kák* with ending depending on person.
 
+> *\[ciʃ-ec\] siwót sák* "you walk in front of me"
+>
+> *kákac \[ciʃ\] siwót sák* "it is you who walks in front of me"
+
+> *\[ciʃ-éé\] siwót cák* "he walks in front of you"
+>
+> *kakáá \[ciʃ\] siwót cák* "it is he who walks in front of me"
+
+> *\[cíʃ-ʃal\] túhét cal* "they walk behind us"
+>
+> *kákkal \[ciʃ\] túhét cal* "it is they who walk behind us"
+
+> *\[cíʃ-iʃ\] túhét ʃiʃ* "it walks behind it"
+>
+> *miciʃ \[ciʃ\] túhét ʃiʃ* "it is it who walk behind it"
+
 | Person   | Stressed  | Independant | Suffix |
 | ---      | ---       | ---         | ---    |
 | 1SG      | kakʼasa   | sakʼa       | -sa    |
