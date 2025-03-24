@@ -103,6 +103,8 @@ Possession in a noun phrase normally involves genitive/construct morphology, whe
 
 There are four demonstratives in Astrolang: the proximal *ʃop*, the distal *ʃuw*, the further (yon) *ʃut*, and the vocative *háá*.
 
+- Vocative evolves into article and pushes out proximal
+
 | Protolang | Root  | Adjective | SG Pron. | PL Pron.  | Adverb |
 | ---       | ---   | ---       | ---      | ---       | ---    |
 | proximal  | -pa   | ʃupa      | wipa     | micʼupa   | pupa   |
@@ -154,4 +156,4 @@ Personal pronouns have several forms:
 | 3PL ANM  | kakʼaʔali | ʔali        | -ʔali  |
 | 3PL INAN | miciʃili  | ʃili        | -ʃili  |
 
-There are no demonstrative pronoun forms.  Instead, the third-person pronoun form is used and can be modified by a regular demonstrative.
+- Interrogative and negative set
