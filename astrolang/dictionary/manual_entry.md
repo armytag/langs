@@ -1,7 +1,7 @@
 -	***cal***	\[ˈcal\]	\*cali	(pronoun)	first-person plural pronoun (*-cali* suffix form)
 -	***casip***	\[caˈsip\]	\*casipu	(noun)	field
 -	***cák***	\[ˈcák\]	\*cakʼa	(pronoun)	first-person singular pronoun (*-ca* suffix form)
--	***cák***	\[ˈcák\]	\*cʼakʼu	(noun)	mountain
+-	***cáp***	\[ˈcáp\]	\*cʼapʼu	(noun)	mountain
 -	***cápik***	\[cáˈpik\]	\*capʼiku	(noun)	cliff
 -	***cás***	\[ˈcás\]	\*casʼi	(noun)	tree-dwelling bird
 -	***cekác***	\[ceˈkác\]	\*cikʼacʼi	(t. verb)	hunt
