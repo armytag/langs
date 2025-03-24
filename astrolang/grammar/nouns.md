@@ -93,26 +93,11 @@ Instead of adpositions (though a few do exist), Astrolang primarily uses relatio
 
 ## Possession
 
-- Attributive (A) possessive: genitive case, associative, connective
-    - *tʼasi* "come from" → *tʼa* GEN → *-tʼa*
-- Belonging (B) possessive: "X belongs to Y", "X is Y's"
-    - *pʼana makitʼa* "be_at home-GEN" → *pankét*
-    - \[be_at\] home GEN Maria ERG book → \[be_at_home-GEN\] Maria ERG-book
-- Have (H) possessive: have, own
-    - from locative copula, for temporary possession (?)
-    - *nasʼu* "be with" → *nás*
-    - \[be_with\] Maria ERG book → \[be_with\] Maria ERG-book
+Possession in a noun phrase normally involves genitive/construct morphology, where the possessed noun appears in construct state (*-tʼa* from *tʼasi* "come from") and the possessor follows it unmodified.  When the possession of an object (but not an attribute) is used as a predicate, one of two verbs will be used depending on if the object is permenantly or temporarily possessed.  For (relatively) permenant possession or ownership the verb *pankét* (from *pʼana makitʼa* "be at home") will be used, conveying a meaning similar to "X belongs to Y".[^bposs]  When it object is only temporarily in Y's possession, the verb *nás* (from *nasʼu* "be with") is used, meaning something like "X is with Y".[^hposs]
 
-- (A) the cow’s leg
-- (H) the boy’s rock (the one in his possession that he owns)
-- (A) the boy’s rock (the one in the forest that he found and likes to sit on)
-- (A) the barn’s roof
-- (A) the berry’s color / the berry’s taste
-- (A) the stream’s rocks / the stream’s edge
-- (B) Bailey’s book (the one they bought and own)
-- (A) Bailey’s book (the one they wrote but that someone else owns)
-- (H) Bailey’s book (the one the library owns but which they borrowed and are reading)
-- (periphrastic) Bailey’s book (the one I bought for them but have not yet gifted to them)
+[^bposs]: \[be_at\] home GEN Maria ERG book → \[be_at_home-GEN\] Maria ERG-book
+
+[^hposs]: \[be_with\] Maria ERG book → \[be_with\] Maria ERG-book
 
 ## Pronouns
 
