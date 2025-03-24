@@ -139,3 +139,5 @@ Personal pronouns have several forms:
 | 3PL ANM  | kakʼaʔali | ʔali        | -ʔali  |
 | 3SG INAN | miciʃi    | ʃiʃi        | -ʃi    |
 | 3PL INAN | miciʃili  | ʃili        | -ʃili  |
+
+There are no demonstrative pronoun forms.  Instead, the third-person pronoun form is used and can be modified by a regular demonstrative.
