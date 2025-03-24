@@ -73,6 +73,7 @@
 -	***wowát***	\[woˈwát\]	\*wuwutʼa	(rel. noun)	between
 -	***wúcit***	\[wúˈcit\]	\*wucʼitu	(noun)	bamboo
 -	***ʃaw***	\[ˈʃaw\]	\*ʃawu	(anim. noun)	mother
+-	***ʃés***	\[ˈʃés\]	\*ʃisʼa	(demonstrative)	this
 -	***ʃíí***	\[ˈʃíí\]	\*ʃiʔi	(noun)	fig tree
 -	***ʃul***	\[ˈʃul\]	\*ʃuli	(t. verb)	cut
 -	***ʃut***	\[ˈʃut\]	\*ʃuti	(demonstrative)	that
