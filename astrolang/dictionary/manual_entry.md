@@ -5,11 +5,11 @@
 -	***cekác***	\[ceˈkác\]	\*cikʼacʼi	(t. verb)	hunt
 -	***cep***	\[ˈcep\]	\*cʼipa	(i. verb)	breathe
 -	***ciʃ***	\[ˈciʃ\]	\*cʼiʃi	(i. verb)	walk
--	***conak***	\[coˈnak\]	\*cunaki	(anim. noun)	group (people)
+-	***conak***	\[coˈnak\]	\*cunaki	(anim. noun)	group (people); grammaticalized into animate plural
 -	***cuk***	\[ˈcuk\]	\*cuki	(i. verb)	rain
 -	***cúc***	\[ˈcúc\]	\*cucʼu	(noun)	shrub, small tree
 -	***cúk***	\[ˈcúk\]	\*cʼukʼu	(i. verb)	earthquake
--	***hop***	\[ˈhop\]	\*ʔupa	(number)	one
+-	***hop***	\[ˈhop\]	\*ʔupa	(number)	one; grammaticalized with cunaki to form animate indefinite plural
 -	***kasin***	\[kaˈsin\]	\*kʼasini	(noun)	head
 -	***kasnét***	\[kasˈnét\]	\*kʼasinitʼa	(rel. noun)	up, above
 -	***kás***	\[ˈkás\]	\*kʼasʼu	(t. verb)	eat, drink
@@ -22,12 +22,12 @@
 -	***lit***	\[ˈlit\]	\*litu	(i. verb)	sleep
 -	***lót***	\[ˈlót\]	\*lutʼa	(anim. noun)	stranger
 -	***lum***	\[ˈlum\]	\*lumi	(noun)	cave
--	***makít***	\[maˈkít\]	\*makitʼa	(noun)	home, house
+-	***makít***	\[maˈkít\]	\*makitʼa	(noun)	home, house; grammaticalized into belonging-possesion verb
 -	***met***	\[ˈmet\]	\*mita	(noun)	river
 -	***mic***	\[ˈmic\]	\*micu	(noun)	mouth
 -	***múú***	\[ˈmúú\]	\*muʔi	(noun)	buffalo, wild cow
 -	***náá***	\[ˈnáá\]	\*naʔa	(i. verb)	flow
--	***nás***	\[ˈnás\]	\*nasʼu	(t. verb)	be with
+-	***nás***	\[ˈnás\]	\*nasʼu	(t. verb)	be with; grammaticalized into temporary-possesion verb
 -	***nen***	\[ˈnen\]	\*nina	(i. verb)	storm
 -	***nip***	\[ˈnip\]	\*nipu	(noun)	flank, side
 -	***nipót***	\[niˈpót\]	\*niputʼa	(rel. noun)	beside
@@ -36,7 +36,7 @@
 -	***nós***	\[ˈnós\]	\*nusʼa	(noun)	roach
 -	***pa***	\[ˈpa\]	\*pa	(anim. noun)	parent
 -	***páá***	\[ˈpáá\]	\*paʔu	(noun)	mushroom
--	***pan***	\[ˈpan\]	\*pʼana	(t. verb)	be at
+-	***pan***	\[ˈpan\]	\*pʼana	(t. verb)	be at; grammaticalized into belonging-possesion verb
 -	***páp***	\[ˈpáp\]	\*pʼapu	(noun)	lichen, moss
 -	***pás***	\[ˈpás\]	\*pʼasʼu	(t. verb)	gather
 -	***pep***	\[ˈpep\]	\*pipa	(noun)	marsh
@@ -54,11 +54,12 @@
 -	***siwót***	\[siˈwót\]	\*sʼiwutʼa	(rel. noun)	front
 -	***sók***	\[ˈsók\]	\*sukʼa	(noun)	belly
 -	***sokát***	\[soˈkát\]	\*sukʼatʼa	(rel. noun)	inside
+-	***sum***	\[ˈsum\]	\*sumi	(modifier)	many; grammaticalized into inanimate plural
 -	***tatíc***	\[taˈtíc\]	\*tatʼicʼi	(noun)	star
 -	***táhis***	\[táˈhis\]	\*taʔisu	(noun)	rodent, bear
 -	***táp***	\[ˈtáp\]	\*tʼapʼi	(noun)	leg
 -	***tapét***	\[taˈpét\]	\*tʼapʼitʼa	(rel. noun)	down, below
--	***tas***	\[ˈtas\]	\*tʼasi	(t. verb)	come from
+-	***tas***	\[ˈtas\]	\*tʼasi	(t. verb)	come from; grammaticalized into construct suffix
 -	***tec***	\[ˈtec\]	\*tica	(noun)	stinging insect
 -	***tet***	\[ˈtet\]	\*tita	(anim. noun)	child
 -	***tés***	\[ˈtés\]	\*tisʼa	(noun)	goat, deer
@@ -76,4 +77,4 @@
 -	***ʃés***	\[ˈʃés\]	\*ʃisʼa	(demonstrative)	this
 -	***ʃíí***	\[ˈʃíí\]	\*ʃiʔi	(noun)	fig tree
 -	***ʃul***	\[ˈʃul\]	\*ʃuli	(t. verb)	cut
--	***ʃut***	\[ˈʃut\]	\*ʃuti	(demonstrative)	that
+-	***ʃut***	\[ˈʃut\]	\*ʃuti	(demonstrative)	that; grammaticalized into definite marker

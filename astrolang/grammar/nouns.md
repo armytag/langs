@@ -77,7 +77,7 @@ Instead of adpositions (though a few do exist), Astrolang primarily uses relatio
 - *siwót* "eye of" → front
 - *sokát* "belly of" → inside (enclosed)
 - *tapét* "foot of" → down/below
-- *tocát* "hand of" → have (possession)
+- *tocát* "hand of" → with/have (possession) (?)
 - *túhét* "back of" → behind
 - *wowát* "heart of" → between (?)
 
