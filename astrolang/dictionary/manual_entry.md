@@ -22,10 +22,12 @@
 -	***lit***	\[ˈlit\]	\*litu	(i. verb)	sleep
 -	***lót***	\[ˈlót\]	\*lutʼa	(anim. noun)	stranger
 -	***lum***	\[ˈlum\]	\*lumi	(noun)	cave
+-	***makít***	\[maˈkít\]	\*makitʼa	(noun)	home, house
 -	***met***	\[ˈmet\]	\*mita	(noun)	river
 -	***mic***	\[ˈmic\]	\*micu	(noun)	mouth
 -	***múú***	\[ˈmúú\]	\*muʔi	(noun)	buffalo, wild cow
 -	***náá***	\[ˈnáá\]	\*naʔa	(i. verb)	flow
+-	***nás***	\[ˈnás\]	\*nasʼu	(t. verb)	be with
 -	***nen***	\[ˈnen\]	\*nina	(i. verb)	storm
 -	***nip***	\[ˈnip\]	\*nipu	(noun)	flank, side
 -	***nipót***	\[niˈpót\]	\*niputʼa	(rel. noun)	beside
@@ -34,6 +36,7 @@
 -	***nós***	\[ˈnós\]	\*nusʼa	(noun)	roach
 -	***pa***	\[ˈpa\]	\*pa	(anim. noun)	parent
 -	***páá***	\[ˈpáá\]	\*paʔu	(noun)	mushroom
+-	***pan***	\[ˈpan\]	\*pʼana	(t. verb)	be at
 -	***páp***	\[ˈpáp\]	\*pʼapu	(noun)	lichen, moss
 -	***pás***	\[ˈpás\]	\*pʼasʼu	(t. verb)	gather
 -	***pep***	\[ˈpep\]	\*pipa	(noun)	marsh
@@ -55,6 +58,7 @@
 -	***táhis***	\[táˈhis\]	\*taʔisu	(noun)	rodent, bear
 -	***táp***	\[ˈtáp\]	\*tʼapʼi	(noun)	leg
 -	***tapét***	\[taˈpét\]	\*tʼapʼitʼa	(rel. noun)	down, below
+-	***tas***	\[ˈtas\]	\*tʼasi	(t. verb)	come from
 -	***tec***	\[ˈtec\]	\*tica	(noun)	stinging insect
 -	***tet***	\[ˈtet\]	\*tita	(anim. noun)	child
 -	***tés***	\[ˈtés\]	\*tisʼa	(noun)	goat, deer
