@@ -156,4 +156,37 @@ Personal pronouns have several forms:
 | 3PL ANM  | kakʼaʔali | ʔali        | -ʔali  |
 | 3PL INAN | miciʃili  | ʃili        | -ʃili  |
 
+|       | Singular | Plural (ANM) | Plural (INANM) |
+| ---   | ---      | ---          | ---            |
+| DEF   | -ci      | -coci        | -sici          |
+| INDEF | -∅       | -cokʼupa     | -si            |
+| CNSTR | -tʼa     | -cotʼa       | -sitʼa         |
+
+| Person   | Stressed  | Independant | Suffix |
+| ---      | ---       | ---         | ---    |
+| 1SG      | kakʼasa   | ces         | -sa    |
+| 2SG      | kakʼaca   | cec         | -ca    |
+| 3SG ANM  | kakʼaʔa   | céé         | -ʔa    |
+| 3SG INAN | miciʃi    | ciʃ         | -ʃi    |
+| 1PL      | kakʼasali | cesal       | -sali  |
+| 2PL      | kakʼacali | cecal       | -cali  |
+| 3PL ANM  | kakʼaʔali | céhal       | -ʔali  |
+| 3PL INAN | miciʃili  | ciʃil       | -ʃili  |
+
+> *\[ciʃ-ec\] siwót ces* "you walk in front of me"
+>
+> *kákac \[ciʃ\] siwót ces* "it is you who walks in front of me"
+
+> *\[ciʃ-éé\] siwót cec* "he walks in front of you"
+>
+> *kakáá \[ciʃ\] siwót cec* "it is he who walks in front of me"
+
+> *\[cíʃ-ʃal\] túhét cal* "they walk behind us"
+>
+> *kákkal \[ciʃ\] túhét cal* "it is they who walk behind us"
+
+> *\[cíʃ-iʃ\] túhét ʃiʃ* "it walks behind it"
+>
+> *miciʃ \[ciʃ\] túhét ʃiʃ* "it is it who walk behind it"
+
 - Interrogative and negative set
