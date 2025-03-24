@@ -101,7 +101,21 @@ Possession in a noun phrase normally involves genitive/construct morphology, whe
 
 ## Demonstratives
 
-There are two demonstratives in Astrolang: the proximal *ʃés*, and the distal *ʃit*.
+There are four demonstratives in Astrolang: the proximal *ʃop*, the distal *ʃuw*, the further (yon) *ʃut*, and the vocative *háá*.
+
+| Protolang | Root  | Adjective | SG Pron. | PL Pron.  | Adverb |
+| ---       | ---   | ---       | ---      | ---       | ---    |
+| proximal  | -pa   | ʃupa      | wipa     | micʼupa   | pupa   |
+| distal    | -wi   | ʃuwi      | wiwi     | micʼuwi   | puwi   |
+| unseen    | -ti   | ʃuti      | witi     | micʼuti   | puti   |
+| vocative  | -ʔaʔu | ʃuʔaʔu    | wiʔaʔu   | micʼuʔaʔu | puʔaʔu |
+
+| Astrolang | Root  | Adjective | SG Pron. | PL Pron.  | Adverb |
+| ---       | ---   | ---       | ---      | ---       | ---    |
+| proximal  | -p    | ʃop       | wep      | micop     | pop    |
+| distal    | -w    | ʃuw       | wiw      | micuw     | puw    |
+| unseen    | -t    | ʃut       | wit      | micut     | put    |
+| vocative  | -háá  | ʃóháá     | wéháá    | míccáá    | póháá  |
 
 ## Pronouns
 
@@ -132,12 +146,12 @@ Personal pronouns have several forms:
 | Person   | Stressed  | Independant | Suffix |
 | ---      | ---       | ---         | ---    |
 | 1SG      | kakʼasa   | sakʼa       | -sa    |
-| 1PL      | kakʼasali | sali        | -sali  |
 | 2SG      | kakʼaca   | cakʼa       | -ca    |
-| 2PL      | kakʼacali | cali        | -cali  |
 | 3SG ANM  | kakʼaʔa   | ʔakʼa       | -ʔa    |
-| 3PL ANM  | kakʼaʔali | ʔali        | -ʔali  |
 | 3SG INAN | miciʃi    | ʃiʃi        | -ʃi    |
+| 1PL      | kakʼasali | sali        | -sali  |
+| 2PL      | kakʼacali | cali        | -cali  |
+| 3PL ANM  | kakʼaʔali | ʔali        | -ʔali  |
 | 3PL INAN | miciʃili  | ʃili        | -ʃili  |
 
 There are no demonstrative pronoun forms.  Instead, the third-person pronoun form is used and can be modified by a regular demonstrative.
