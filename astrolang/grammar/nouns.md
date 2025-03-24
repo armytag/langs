@@ -99,6 +99,10 @@ Possession in a noun phrase normally involves genitive/construct morphology, whe
 
 [^hposs]: \[be_with\] Maria ERG book → \[be_with\] Maria ERG-book
 
+## Demonstratives
+
+There are two demonstratives in Astrolang: the proximal *ʃés*, and the distal *ʃit*.
+
 ## Pronouns
 
 ### Personal Pronouns
