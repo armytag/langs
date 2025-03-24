@@ -46,6 +46,14 @@
 -	***pús***	\[ˈpús\]	\*pusʼu	(anim. noun)	sibling
 -	***púú***	\[ˈpúú\]	\*pʼuʔu	(noun)	moon
 -	***sapík***	\[saˈpík\]	\*sʼapikʼi	(noun)	dry season
+-	***ʃiʃ***	\[ˈʃiʃ\]	\*ʃiʃi	(pronoun)	third-person inanimate singular pronoun (*-ʃi* suffix form)
+-	***ʃil***	\[ˈʃil\]	\*ʃili	(pronoun)	third-person inanimate plural pronoun (*-ʃili* suffix form)
+-	***hák***	\[ˈhák\]	\*ʔakʼa	(pronoun)	third-person animate singular pronoun (*-ʔa* suffix form)
+-	***hal***	\[ˈhal\]	\*ʔali	(pronoun)	third-person animate plural pronoun (*-ʔali* suffix form)
+-	***cák***	\[ˈcák\]	\*cakʼa	(pronoun)	first-person singular pronoun (*-ca* suffix form)
+-	***cal***	\[ˈcal\]	\*cali	(pronoun)	first-person plural pronoun (*-cali* suffix form)
+-	***sák***	\[ˈsák\]	\*sakʼa	(pronoun)	first-person singular pronoun (*-sa* suffix form)
+-	***sal***	\[ˈsal\]	\*sali	(pronoun)	first-person plural pronoun (*-sali* suffix form)
 -	***sás***	\[ˈsás\]	\*sʼasʼa	(noun)	large tree
 -	***sec***	\[ˈsec\]	\*sica	(anim. noun)	leopard
 -	***sew***	\[ˈsew\]	\*siwa	(i. verb)	sit
