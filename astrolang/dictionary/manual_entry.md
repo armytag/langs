@@ -1,4 +1,6 @@
+-	***cal***	\[ˈcal\]	\*cali	(pronoun)	first-person plural pronoun (*-cali* suffix form)
 -	***casip***	\[caˈsip\]	\*casipu	(noun)	field
+-	***cák***	\[ˈcák\]	\*cakʼa	(pronoun)	first-person singular pronoun (*-ca* suffix form)
 -	***cák***	\[ˈcák\]	\*cʼakʼu	(noun)	mountain
 -	***cápik***	\[cáˈpik\]	\*capʼiku	(noun)	cliff
 -	***cás***	\[ˈcás\]	\*casʼi	(noun)	tree-dwelling bird
@@ -9,16 +11,18 @@
 -	***cuk***	\[ˈcuk\]	\*cuki	(i. verb)	rain
 -	***cúc***	\[ˈcúc\]	\*cucʼu	(noun)	shrub, small tree
 -	***cúk***	\[ˈcúk\]	\*cʼukʼu	(i. verb)	earthquake
+-	***hal***	\[ˈhal\]	\*ʔali	(pronoun)	third-person animate plural pronoun (*-ʔali* suffix form)
+-	***hák***	\[ˈhák\]	\*ʔakʼa	(pronoun)	third-person animate singular pronoun (*-ʔa* suffix form)
 -	***hop***	\[ˈhop\]	\*ʔupa	(number)	one; grammaticalized with cunaki to form animate indefinite plural
 -	***kasin***	\[kaˈsin\]	\*kʼasini	(noun)	head
 -	***kasnét***	\[kasˈnét\]	\*kʼasinitʼa	(rel. noun)	up, above
 -	***kás***	\[ˈkás\]	\*kʼasʼu	(t. verb)	eat, drink
 -	***kép***	\[ˈkép\]	\*kʼipʼa	(noun)	highland
 -	***kiw***	\[ˈkiw\]	\*kiwi	(noun)	ground-dwelling bird
+-	***lacót***	\[laˈcót\]	\*lacʼutʼa	(rel. noun)	at
 -	***lap***	\[ˈlap\]	\*lapi	(noun)	ear
 -	***láá***	\[ˈláá\]	\*laʔu	(noun)	yam, tuber
 -	***lác***	\[ˈlác\]	\*lacʼu	(noun)	neck
--	***lacót***	\[laˈcót\]	\*lacʼutʼa	(rel. noun)	at
 -	***lit***	\[ˈlit\]	\*litu	(i. verb)	sleep
 -	***lót***	\[ˈlót\]	\*lutʼa	(anim. noun)	stranger
 -	***lum***	\[ˈlum\]	\*lumi	(noun)	cave
@@ -35,8 +39,8 @@
 -	***niʃ***	\[ˈniʃ\]	\*niʃi	(t. verb)	bite
 -	***nós***	\[ˈnós\]	\*nusʼa	(noun)	roach
 -	***pa***	\[ˈpa\]	\*pa	(anim. noun)	parent
--	***páá***	\[ˈpáá\]	\*paʔu	(noun)	mushroom
 -	***pan***	\[ˈpan\]	\*pʼana	(t. verb)	be at; grammaticalized into belonging-possesion verb
+-	***páá***	\[ˈpáá\]	\*paʔu	(noun)	mushroom
 -	***páp***	\[ˈpáp\]	\*pʼapu	(noun)	lichen, moss
 -	***pás***	\[ˈpás\]	\*pʼasʼu	(t. verb)	gather
 -	***pep***	\[ˈpep\]	\*pipa	(noun)	marsh
@@ -45,37 +49,31 @@
 -	***púcek***	\[púˈcek\]	\*pucʼikʼa	(i. verb)	stand
 -	***pús***	\[ˈpús\]	\*pusʼu	(anim. noun)	sibling
 -	***púú***	\[ˈpúú\]	\*pʼuʔu	(noun)	moon
--	***sapík***	\[saˈpík\]	\*sʼapikʼi	(noun)	dry season
--	***ʃiʃ***	\[ˈʃiʃ\]	\*ʃiʃi	(pronoun)	third-person inanimate singular pronoun (*-ʃi* suffix form)
--	***ʃil***	\[ˈʃil\]	\*ʃili	(pronoun)	third-person inanimate plural pronoun (*-ʃili* suffix form)
--	***hák***	\[ˈhák\]	\*ʔakʼa	(pronoun)	third-person animate singular pronoun (*-ʔa* suffix form)
--	***hal***	\[ˈhal\]	\*ʔali	(pronoun)	third-person animate plural pronoun (*-ʔali* suffix form)
--	***cák***	\[ˈcák\]	\*cakʼa	(pronoun)	first-person singular pronoun (*-ca* suffix form)
--	***cal***	\[ˈcal\]	\*cali	(pronoun)	first-person plural pronoun (*-cali* suffix form)
--	***sák***	\[ˈsák\]	\*sakʼa	(pronoun)	first-person singular pronoun (*-sa* suffix form)
 -	***sal***	\[ˈsal\]	\*sali	(pronoun)	first-person plural pronoun (*-sali* suffix form)
+-	***sapík***	\[saˈpík\]	\*sʼapikʼi	(noun)	dry season
+-	***sák***	\[ˈsák\]	\*sakʼa	(pronoun)	first-person singular pronoun (*-sa* suffix form)
 -	***sás***	\[ˈsás\]	\*sʼasʼa	(noun)	large tree
 -	***sec***	\[ˈsec\]	\*sica	(anim. noun)	leopard
 -	***sew***	\[ˈsew\]	\*siwa	(i. verb)	sit
 -	***simuw***	\[siˈmuw\]	\*sʼimuwi	(noun)	sun
 -	***siw***	\[ˈsiw\]	\*sʼiwu	(noun)	eye
 -	***siwót***	\[siˈwót\]	\*sʼiwutʼa	(rel. noun)	front
--	***sók***	\[ˈsók\]	\*sukʼa	(noun)	belly
 -	***sokát***	\[soˈkát\]	\*sukʼatʼa	(rel. noun)	inside
+-	***sók***	\[ˈsók\]	\*sukʼa	(noun)	belly
 -	***sum***	\[ˈsum\]	\*sumi	(modifier)	many; grammaticalized into inanimate plural
+-	***tapét***	\[taˈpét\]	\*tʼapʼitʼa	(rel. noun)	down, below
+-	***tas***	\[ˈtas\]	\*tʼasi	(t. verb)	come from; grammaticalized into construct suffix
 -	***tatíc***	\[taˈtíc\]	\*tatʼicʼi	(noun)	star
 -	***táhis***	\[táˈhis\]	\*taʔisu	(noun)	rodent, bear
 -	***táp***	\[ˈtáp\]	\*tʼapʼi	(noun)	leg
--	***tapét***	\[taˈpét\]	\*tʼapʼitʼa	(rel. noun)	down, below
--	***tas***	\[ˈtas\]	\*tʼasi	(t. verb)	come from; grammaticalized into construct suffix
 -	***tec***	\[ˈtec\]	\*tica	(noun)	stinging insect
 -	***tet***	\[ˈtet\]	\*tita	(anim. noun)	child
 -	***tés***	\[ˈtés\]	\*tisʼa	(noun)	goat, deer
 -	***toc***	\[ˈtoc\]	\*tuca	(noun)	arm
 -	***tocát***	\[toˈcát\]	\*tucatʼa	(rel. noun)	have (possession)
 -	***túc***	\[ˈtúc\]	\*tucʼu	(i. verb)	fly
--	***túú***	\[ˈtúú\]	\*tuʔi	(noun)	back
 -	***túhét***	\[túˈhét\]	\*tuʔitʼa	(rel. noun)	behind
+-	***túú***	\[ˈtúú\]	\*tuʔi	(noun)	back
 -	***wap***	\[ˈwap\]	\*wapu	(t. verb)	hit
 -	***wit***	\[ˈwit\]	\*witi	(noun)	millet
 -	***wow***	\[ˈwow\]	\*wuwu	(noun)	heart
@@ -83,6 +81,8 @@
 -	***wúcit***	\[wúˈcit\]	\*wucʼitu	(noun)	bamboo
 -	***ʃaw***	\[ˈʃaw\]	\*ʃawu	(anim. noun)	mother
 -	***ʃés***	\[ˈʃés\]	\*ʃisʼa	(demonstrative)	this
+-	***ʃil***	\[ˈʃil\]	\*ʃili	(pronoun)	third-person inanimate plural pronoun (*-ʃili* suffix form)
+-	***ʃiʃ***	\[ˈʃiʃ\]	\*ʃiʃi	(pronoun)	third-person inanimate singular pronoun (*-ʃi* suffix form)
 -	***ʃíí***	\[ˈʃíí\]	\*ʃiʔi	(noun)	fig tree
 -	***ʃul***	\[ˈʃul\]	\*ʃuli	(t. verb)	cut
 -	***ʃut***	\[ˈʃut\]	\*ʃuti	(demonstrative)	that; grammaticalized into definite marker
