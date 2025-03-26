@@ -2,6 +2,39 @@
 
 By armytag
 
+## Tonogenesis
+
+Sources
+- voicing distinction in onset
+    - pa → pá
+    - ba → pà
+- complex onset
+    - da → tʰà
+    - mda → dà
+    - na → ná
+    - rna → nà
+- glottal codas
+    - pah → pá
+    - paʔ → pà (or sometimes pá)
+- vowel feature (long vs short)
+- syllable loss
+    - e.pit → épit
+    - e.pi.te → èpit
+- voicing
+    - pa → pa
+    - pʰa → pá
+    - ba → pà
+- aspiration
+    - wasi → wàsi
+    - waʰti → wàti
+    - waʰpi → wàpi
+- fortis/geminite onset
+- glottalization in onset or coda
+
+## Metathesis
+
+- TODO
+
 ## Ideas
 
 ### Spatial Structure
