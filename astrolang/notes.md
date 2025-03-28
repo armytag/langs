@@ -33,7 +33,49 @@ Sources
 
 ## Metathesis
 
-- TODO
+Typical sounds to cause metathesis:
+- rhoticity
+- laterality
+- rounding
+- palatalization
+- velarization
+- pharyngealization
+- laryngealization
+- aspiration
+- retroflexion
+- nasalization
+
+### Perceptual Metathesis
+
+Long-distance metathesis usually moves to initial syllable or a position defined by proximity to stress.
+
+Examples:
+- prevocalic *r* or *l* in noninitial syllable transpose to initial syllable
+    - bótʰ**r**ako → v**r**úθako
+- labialization
+    - VCu → VwC
+    - VCwV → VwCV
+- glottalization
+    - qʼʷey + -élʼqs → qʼʷéyʼ-lqs
+    - qʼiw + -ílʼəp → qʼíwʼ-ləp
+    - χey + -ésxnʼ → χyéyʼ-sxn
+- aspiration
+    - duhitr → dʰuːv
+    - jabʰati → dʒʰane
+    - mahiʂa → mʰais
+
+### Compensatory Metathesis
+
+Mostly restricted to Austronesian and Pama-Nyungan languages due to prosodic contours, small vowel inventories, lack of diphthongs, and lack of secondary articulations.
+
+Right edge: ...ˈV1CV2\] → ...ˈV1V2CV̌2\] → ...ˈV1V2C\]
+
+Left edge: \[V1CˈV2... → \[V̌1CV1ˈV2... → \[CV1ˈV2...
+
+### Coarticulatory Metathesis
+
+- labial-velar: PK → KP (but *not* KP → PK)
+- coronal-noncoronal: TP → PT, TK → KT (but *not* reverse)
 
 ## Ideas
 
