@@ -81,7 +81,7 @@ Left edge: \[V1CˈV2... → \[V̌1CV1ˈV2... → \[CV1ˈV2...
 
 Preceding word /sa/ becomes reduced to prefix /h-/ which triggers aspiration of following consonant, which eventually becomes high-tone on following vowel.
 
-> s → h / always? word-initially?
+> s → h / always? word-initially? pre-consonantal?
 
 - da    → da   → da  → tʰà
 - sa da → h-da → tʰa → tʰá
