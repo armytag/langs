@@ -79,6 +79,17 @@ Left edge: \[V1CˈV2... → \[V̌1CV1ˈV2... → \[CV1ˈV2...
 
 ## Ideas
 
+Preceding word /sa/ becomes reduced to prefix /h-/ which triggers aspiration of following consonant, which eventually becomes high-tone on following vowel.
+
+> s → h / always? word-initially?
+
+- da    → da   → da  → tʰà
+- sa da → h-da → tʰa → tʰá
+- ta    → ta   → ta  → tà
+- sa ta → h-ta → tːa → tá
+- na    → na   → na  → nà
+- sa na → h-na → n̥a  → ná
+
 ### Spatial Structure
 
 - positionals = internal configuration
