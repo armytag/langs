@@ -77,7 +77,9 @@ Left edge: \[V1CˈV2... → \[V̌1CV1ˈV2... → \[CV1ˈV2...
 - labial-velar: PK → KP (but *not* KP → PK)
 - coronal-noncoronal: TP → PT, TK → KT (but *not* reverse)
 
-## Ideas
+## Tonogenesis Ideas
+
+### Option 1
 
 Preceding word /sa/ becomes reduced to prefix /h-/ which triggers aspiration of following consonant, which eventually becomes high-tone on following vowel.
 
@@ -89,6 +91,23 @@ Preceding word /sa/ becomes reduced to prefix /h-/ which triggers aspiration of 
 - sa ta → h-ta → tːa → tá
 - na    → na   → na  → nà
 - sa na → h-na → n̥a  → ná
+
+### Option 1
+
+- rV → Vː / C_
+    - kra → ká, ka → kà
+- Vr → Vː / _C
+    - parna → pána, pana → pàna
+- Vh → Vː
+- ˈV → Vː
+- VNC → VːC\[+voiced\]
+- V{j,w} → Vː / C_C
+- {j,w}V → ∅ / Vː_#
+- eCə oCə → Ceː Coː / #_
+- V0ʔV0 → V0ː
+- aw aj {uj,ij} → uː eː iː
+
+## Ideas
 
 ### Spatial Structure
 
