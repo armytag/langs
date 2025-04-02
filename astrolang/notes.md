@@ -92,7 +92,7 @@ Preceding word /sa/ becomes reduced to prefix /h-/ which triggers aspiration of 
 - na    → na   → na  → nà
 - sa na → h-na → n̥a  → ná
 
-### Option 1
+### Option 2
 
 - rV → Vː / C_
     - kra → ká, ka → kà
