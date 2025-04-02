@@ -3,22 +3,43 @@ import random as rand
 
 # Proto phonology
 PLOSIVES = [
-    "p", "b", "t", "d", "c", "k", "g", "ʔ",
+    "p", "p", "p", "p",
+    "b", "b", "b", "b",
+    "t", "t", "t", "t",
+    "t", "t", "t",
+    "d", "d", "d", "d", "d",
+    "c", "c", "c",
+    "k", "k", "k", "k",
+    "k", "k", "k", "k",
+    "g", "g", "g", "g",
+    "ʔ", "ʔ", "ʔ", "ʔ", "ʔ", "ʔ",
 ]
 FRICATIVES = [
-    "f", "s", "ʃ", "x",
+    "f", "f",
+    "s", "s", "s", "s", "s", "s",
+    "ʃ", "ʃ",
+    "x", "x", "x", "x",
 ]
 NASALS = [
-    "m", "n", "ɲ", "ŋ",
+    "m", "m", "m", "m", "m",
+    "n", "n", "n", "n", "n",
+    "n", "n", "n", "n",
+    "ɲ", "ɲ",
+    "ŋ", "ŋ", "ŋ", "ŋ", "ŋ",
 ]
 APPROXIMANTS = [
-    "w", "l", "j", "r",
+    "w", "w", "w", "w",
+    "l", "l", "l", "l", "l", "l",
+    "j", "j", "j", "j",
+    "r", "r", "r", "r", "r", "r",
 ]
 VOWELS = [
-    "a", "a", "ə", "ə", "i", "u", "e", "o",
-    "a", "a", "ə", "ə", "i", "u", "e", "o",
-    "a", "a", "ə", "ə", "i", "u", "e", "o",
-    "aː", "aː", "əː", "iː", "uː", "eː", "oː",
+    "a", "a", "a", "a", "a", "a",  # "aː", "aː",
+    "ə", "ə", "ə", "ə", "ə", "ə",  # "əː",
+    "i", "i", "i",                 # "iː",
+    "u", "u", "u",                 # "uː",
+    "e", "e", "e",                 # "eː",
+    "o", "o", "o",                 # "oː",
 ]
 
 SYLL_STRUCTS = []
@@ -29,9 +50,9 @@ SYLL_STRUCTS += ['CCV'] * 0
 SYLL_STRUCTS += ['CCVC'] * 0
 SYLL_COUNTS = []
 SYLL_COUNTS += [1] * 1
-SYLL_COUNTS += [2] * 8
-SYLL_COUNTS += [3] * 2
-SYLL_COUNTS += [4] * 0
+SYLL_COUNTS += [2] * 7
+SYLL_COUNTS += [3] * 3
+SYLL_COUNTS += [4] * 1
 
 def flatten_matrix(matrix):
     return [item for array in matrix for item in array]
