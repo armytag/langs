@@ -2,12 +2,13 @@
 
 ## Consonants
 
-| CONSONANTS  | Labial | Alveolar | Palatal | Velar | Glottal |
-|---          |---     |---       |---      |---    |---      |
-| Nasal       | m      | n        |         |       |         |
-| Plosive     | p pʼ   | t tʼ     | tʃ tʃʼ  | k kʼ  | ʔ       |
-| Fricative   |        | s sʼ     | ʃ       | x     |         |
-| Approximant | w      | l        | j       |       |         |
+| CONSONANTS  | Labial | Alveolar | Post. Alv. | Velar | Glottal |
+|---          |---     |---       |---         |---    |---      |
+| Plosive     | p b    | t d      | tʃ         | k g   | ʔ       |
+| Fricative   | f      | s        | ʃ          | x     |         |
+| Nasal       | m      | n        | ɲ          | ŋ     |         |
+| Approximant | w      | l        | j          |       |         |
+| Trill       |        | r        |            |       |         |
 
 - Place of Articulation
     - Labial
@@ -21,7 +22,6 @@
     - Nasal
     - Approximant
     - Trill
-- No voicing distinction
 - Secondary articulation (evolve later)
     - Ejectives (?)
     - Aspiration (?)
@@ -31,24 +31,18 @@
 
 | VOWELS | Front | Central | Back |
 |---     |---    |---      |---   |
-| High   | i     |         | u    |
-| Mid    | e     |         | o    |
-| Low    |       | a       |      |
+| High   | i     | ə\~ɨ    | u    |
+| Low    | ɛ     | a       | ɔ    |
 
-- Five-vowel system (or just three?)
-    - Short (V)
-    - Long (Vː) only in stressed syllable
-    - Apsiration (Vh)
-    - Glottal (Vʔ)
+- Short (V) and Long (Vː)
 
 ## Tone
 
 - Grammatical tone
+- Evolve tone
 - Two tone levels
     - Low:  à
     - High: á
-- Evolve tone?
-    - Voiced and voiceless obstruents produce low and high tones respectively
 
 ## Syllable Structure
 
@@ -86,10 +80,4 @@ laˈsara   → laˈsara  → laˈzar  → láˈsàr
 - pateki   → pateki   → pàtèk
 - patekiʔi → patekíʔi → pàtkíʔ
 - paʔateki → páʔateki → páátèk
-
-- Koda
-    - ː
-    - h
-    - ʔ
-    - m/n
 
