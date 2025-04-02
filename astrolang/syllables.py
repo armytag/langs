@@ -3,34 +3,32 @@ import random as rand
 
 # Proto phonology
 PLOSIVES = [
-    "p", "t", "c", "k",
-    "pʼ", "tʼ", "cʼ", "kʼ", "ʔ",
+    "p", "b", "t", "d", "c", "k", "g", "ʔ",
 ]
 FRICATIVES = [
-    "s", "ʃ",
-    "sʼ",
+    "f", "s", "ʃ", "x",
 ]
 NASALS = [
-    "m", "n"
+    "m", "n", "ɲ", "ŋ",
 ]
 APPROXIMANTS = [
-    "w",
-    "l",
-    # "j",
+    "w", "l", "j", "r",
 ]
 VOWELS = [
-    "i", "u", "a",
-    # "e", "o",
+    "a", "a", "ə", "ə", "i", "u", "e", "o",
+    "a", "a", "ə", "ə", "i", "u", "e", "o",
+    "a", "a", "ə", "ə", "i", "u", "e", "o",
+    "aː", "aː", "əː", "iː", "uː", "eː", "oː",
 ]
 
 SYLL_STRUCTS = []
 SYLL_STRUCTS += ['V'] * 0
-SYLL_STRUCTS += ['CV'] * 4
-SYLL_STRUCTS += ['CVC'] * 0
+SYLL_STRUCTS += ['CV'] * 8
+SYLL_STRUCTS += ['CVC'] * 1
 SYLL_STRUCTS += ['CCV'] * 0
 SYLL_STRUCTS += ['CCVC'] * 0
 SYLL_COUNTS = []
-SYLL_COUNTS += [1] * 0
+SYLL_COUNTS += [1] * 1
 SYLL_COUNTS += [2] * 8
 SYLL_COUNTS += [3] * 2
 SYLL_COUNTS += [4] * 0
@@ -48,7 +46,7 @@ def generate_syllable(onset_shape, coda_shape):
         ))
     if len(coda_shape) == 1:
         coda = rand.choice(flatten_matrix(
-            [NASALS,]
+            [NASALS, APPROXIMANTS,]
         ))
     syll = onset + vowel + coda
     return syll
