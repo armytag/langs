@@ -3,19 +3,22 @@
 
 Feature front, back
 Feature height(low, mid, high)
+Feature +long
 Feature type(*cons, vowel)
 Feature voicing(unvoiced, voiced)
 Feature place(labial, alveolar, palatal, velar, glottal)
-Feature manner(nasal, stop, fricative, approximant)
+Feature manner(nasal, stop, fricative, approximant, trill)
 Feature +lateral
 Feature +ejective
 Feature tone(*neutral, hightone, lowtone)
 Feature (syllable) +stress
 Diacritic ʼ [+ejective]
+Diacritic ː [+long]
 Diacritic ́ [hightone]
 Diacritic ̀ [lowtone]
 Diacritic ' (before) [+stress]
-Symbol a [low  -front +back vowel]
+Symbol a [low  -front -back vowel]
+Symbol ə [mid  -front -back vowel]
 Symbol e [mid  +front -back vowel]
 Symbol i [high +front -back vowel]
 Symbol o [mid  -front +back vowel]
@@ -25,66 +28,69 @@ Symbol t [unvoiced alveolar stop]
 Symbol c [unvoiced palatal stop]
 Symbol k [unvoiced velar stop]
 Symbol ʔ [unvoiced glottal stop]
+Symbol b [voiced labial stop]
+Symbol d [voiced alveolar stop]
+Symbol g [voiced velar stop]
+Symbol f [unvoiced labial fricative]
 Symbol s [unvoiced alveolar fricative]
 Symbol ʃ [unvoiced palatal fricative]
 Symbol x [unvoiced velar fricative]
 Symbol m [labial nasal]
 Symbol n [alveolar nasal]
+Symbol ɲ [palatal nasal]
+Symbol ŋ [velar nasal]
 Symbol w [labial approximant]
 Symbol j [palatal approximant]
 Symbol l [alveolar approximant +lateral]
+Symbol r [alveolar trill]
 
 Syllables:
 [cons] [vowel]
+[cons] [vowel] [cons]?
 
 assign-stress:
 <syl> => [+stress] / _ <syl> $
 
-vowel-assimilation:
-{i, u} => {e, o} / _ [cons] a
-
-ejective-grassmann:
-[+ejective] => [-ejective] / _ [vowel] {[+ejective], ʔ}
-
-tonogenesis:
-[vowel] => [hightone] / _ {[+ejective], ʔ}
-
-romanizer-tonogenesis:
-unchanged
-
-tone-spread:
-[neutral vowel] => [hightone] / _ [cons] [hightone vowel] [cons]&[+stress]
-
-romanizer-tonespread:
-unchanged
-
-ejective-loss:
-[+ejective] => [-ejective]
-
-vowel-loss:
-[vowel] => * / [vowel] [cons] _ $
-[vowel] => * / [cons] [vowel] [cons] _ [cons]&[+stress]
-
-Syllables:
-[cons] [vowel]
-[cons] [vowel] [cons]
-
-romanizer-vowel-loss:
-unchanged
+# glottal-stop-vowel-effects:
+# {e, o} => {i, u} / $ ʔ _
 
 glottal-stop-loss:
-[vowel]$1 ʔ => $1 $1 // _ [vowel]
-[cons]$1 ʔ => $1 $1
-ʔ => h / _ [vowel]
+[vowel]$1 ʔ $1 => [+long] * *
+{i, u} ʔ => {j, w} * / [cons] _ [vowel]
+[cons]$1 ʔ => ʔ $1
+Then:
+[vowel] ʔ => [+long] * / _ [cons]
 
 Syllables:
-[cons] [vowel]
-[cons] [vowel] [cons]
-[cons] [vowel] [vowel]
+[cons] [approximant]? [vowel] [cons]?
+[vowel] [cons]?
 
-# move-stress:
-# <syl> => [-stress]
-# Then: <syl> => [+stress] / _ <syl> $
+initial-glottal-stop-loss:
+ʔ ə => * a / $ _
+ʔ [vowel] [cons]$2 ə  => $2 [+long] * * / $ _
+ʔ [vowel] => * [+long] / $ _
+
+intervocalic-glottal-stop-loss:
+[vowel] ʔ {[vowel +back], [vowel +front]} => [+long] * {w, j} // _ [cons] {[cons], $}
+[vowel] ʔ [vowel]$1 [cons]$2 => [+long] * $2 $1
+
+# tonogenesis:
+# [vowel +long] => [hightone -long]
+
+sonorant-assimilation:
+l r => r r
+r l => l l
+[nasal] [nasal]$1 => $1 $1
+
+sonorant-metathesis:
+[nasal]$1 l$2 => $2 $1 // l [vowel] _
+
+stressed-onset-fortition:
+[voiced stop $place] * => [unvoiced stop $place] [unvoiced stop $place] / _ [vowel]&[+stress] // $ _
+Then: ʔ ʔ => * ʔ
+
+# vowel-loss:
+# {[vowel -long], [vowel +long]} => {*, [-long]} / [vowel] [cons] _
 
 Syllables:
 clear
