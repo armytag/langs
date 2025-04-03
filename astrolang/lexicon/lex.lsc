@@ -51,9 +51,6 @@ Syllables:
 assign-stress:
 <syl> => [+stress] / _ <syl> $
 
-# glottal-stop-vowel-effects:
-# {e, o} => {i, u} / $ ʔ _
-
 glottal-stop-loss:
 [vowel]$1 ʔ $1 => [+long] * *
 {i, u} ʔ => {j, w} * / [cons] _ [vowel]
@@ -64,6 +61,11 @@ Then:
 Syllables:
 [cons] [approximant]? [vowel] [cons]?
 [vowel] [cons]?
+
+glide-assimilation:
+{j i, w u} => {iː, uː} / [cons] _
+{i j, u w} => {iː, uː} / _ [cons]
+# d i j d a
 
 initial-glottal-stop-loss:
 ʔ ə => * a / $ _
