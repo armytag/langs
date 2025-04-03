@@ -74,8 +74,8 @@ intervocalic-glottal-stop-loss:
 [vowel] ʔ {[vowel +back], [vowel +front]} => [+long] * {w, j} // _ [cons] {[cons], $}
 [vowel] ʔ [vowel]$1 [cons]$2 => [+long] * $2 $1
 
-# tonogenesis:
-# [vowel +long] => [hightone -long]
+tonogenesis:
+[vowel +long] => [hightone -long]
 
 sonorant-assimilation:
 l r => r r
