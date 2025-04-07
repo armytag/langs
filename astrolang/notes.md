@@ -2,6 +2,63 @@
 
 By armytag
 
+## Ideas
+
+### Underused features
+
+- Analytic/isolating morphology
+- Phonemic nasal vowels
+- Retroflexes, voiceless taps, implosives
+- /ɰ/, /ʟ/, /ɲ/
+- Vowel/consonant harmony
+- Consonant vocalizations
+- Vowel vocalizations
+    - C.f. [Totonacan languages](https://en.wikipedia.org/wiki/Totonacan_languages#Phonology)
+    - C.f. [Jalapa Mazatec](https://en.wikipedia.org/wiki/Jalapa_Mazatec#Vowels)
+- Tone systems
+    - Tonogenesis beyond voicing/coda loss
+    - Vowels for tonogenesis (e.g. quality or length)
+- Secondary articulations
+    - Pharyngealization
+- Metathesis
+- Consonant mutation
+- Non-humanoid phonetics
+- Reduplication
+- Polarity marking
+- Grammatical voices beyond passive/active
+- Grammatical number
+    - Greater plural
+    - Collective
+- Number system
+    - Base 2
+    - Base 1/2
+    - Base -6
+- Alignment
+    - Transitive
+- Grammaticalization
+- Reanalysis
+- Redundancy (synonyms)
+- Spoken content
+- Broad range of example texts
+- Conceptual metaphors
+- Ideophones
+- Discourse management
+- Light verb constructions
+- Boustrophedon
+
+### Overused features
+
+- /q/, /ʔ/, /ɕ/, /ʑ/, /ɬ/, /x/, /ʟ/
+- "whatever" rhotic
+- vowel harmony
+- vowel symmetry
+- triconsonantal root systems
+- polypersonal agreement
+- accusative and ergative alignments
+- agglutination
+- huge case systems
+- vertical and featural writing systems
+
 ## Tonogenesis
 
 Sources
