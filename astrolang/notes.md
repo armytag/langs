@@ -7,11 +7,11 @@ By armytag
 ### Underused features
 
 - Analytic/isolating morphology
-- Phonemic nasal vowels
 - Retroflexes, voiceless taps, implosives
-- /ɰ/, /ʟ/, /ɲ/
-- Vowel/consonant harmony
+- /ɰ/, /ɲ/
+- Consonant harmony
 - Consonant vocalizations
+- Phonemic nasal vowels
 - Vowel vocalizations
     - C.f. [Totonacan languages](https://en.wikipedia.org/wiki/Totonacan_languages#Phonology)
     - C.f. [Jalapa Mazatec](https://en.wikipedia.org/wiki/Jalapa_Mazatec#Vowels)
@@ -22,17 +22,12 @@ By armytag
     - Pharyngealization
 - Metathesis
 - Consonant mutation
-- Non-humanoid phonetics
 - Reduplication
 - Polarity marking
 - Grammatical voices beyond passive/active
 - Grammatical number
     - Greater plural
     - Collective
-- Number system
-    - Base 2
-    - Base 1/2
-    - Base -6
 - Alignment
     - Transitive
 - Grammaticalization
@@ -48,9 +43,8 @@ By armytag
 
 ### Overused features
 
-- /q/, /ʔ/, /ɕ/, /ʑ/, /ɬ/, /x/, /ʟ/
+- /q/, /ʔ/, /ɕ/, /ʑ/, /ɬ/, /x/
 - "whatever" rhotic
-- vowel harmony
 - vowel symmetry
 - triconsonantal root systems
 - polypersonal agreement
