@@ -4,10 +4,25 @@ By armytag
 
 ## Ideas
 
+### Priorities
+
+- Analytic/isolating morphology
+- Grammatical voices beyond passive/active
+- Tone systems
+- Reduplication
+- /ɲ/
+- Vowel vocalizations/nasalization
+- Ergative alignment
+- Metathesis
+- Consonant harmony
+- Secondary articulations
+- Retroflexes
+- Allophonic /ɽ̥/, /ɰ/
+
 ### Underused features
 
 - Analytic/isolating morphology
-- Retroflexes, voiceless taps, implosives
+- Retroflexes, voiceless taps
 - /ɰ/, /ɲ/
 - Consonant harmony
 - Consonant vocalizations
