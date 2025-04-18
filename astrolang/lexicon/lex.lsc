@@ -51,21 +51,22 @@ Syllables:
 assign-stress:
 <syl> => [+stress] / _ <syl> $
 
+vowel-loss:
+[vowel] => * / [vowel] [cons] _ $
+
+rhotic-coda-loss:
+[vowel] r => [+long] * / _ {[cons], $}
+
 glottal-stop-loss:
-[vowel]$1 ʔ $1 => [+long] * *
+# [vowel]$1 ʔ $1 => [+long] * *
 {i, u} ʔ => {j, w} * / [cons] _ [vowel]
-[cons]$1 ʔ => ʔ $1
-Then:
-[vowel] ʔ => [+long] * / _ [cons]
+# [cons]$1 ʔ => ʔ $1
+# Then:
+# [vowel] ʔ => [+long] * / _ [cons]
 
 Syllables:
 [cons] [approximant]? [vowel] [cons]?
 [vowel] [cons]?
-
-glide-assimilation:
-{j i, w u} => {iː, uː} / [cons] _
-{i j, u w} => {iː, uː} / _ [cons]
-# d i j d a
 
 initial-glottal-stop-loss:
 ʔ ə => * a / $ _
@@ -74,7 +75,12 @@ initial-glottal-stop-loss:
 
 intervocalic-glottal-stop-loss:
 [vowel] ʔ {[vowel +back], [vowel +front]} => [+long] * {w, j} // _ [cons] {[cons], $}
-[vowel] ʔ [vowel]$1 [cons]$2 => [+long] * $2 $1
+[vowel] ʔ [vowel]$1 [cons]$2 => [+long] * $2 $1 / _ {[cons], $}
+
+glide-assimilation:
+{j i, w u} => {iː, uː} / [cons] _
+Then: {i j, u w} => {iː, uː} / _ [cons]
+# d i j d a
 
 tonogenesis:
 [vowel +long] => [hightone -long]
@@ -87,12 +93,9 @@ r l => l l
 sonorant-metathesis:
 [nasal]$1 l$2 => $2 $1 // l [vowel] _
 
-stressed-onset-fortition:
-[voiced stop $place] * => [unvoiced stop $place] [unvoiced stop $place] / _ [vowel]&[+stress] // $ _
-Then: ʔ ʔ => * ʔ
-
-# vowel-loss:
-# {[vowel -long], [vowel +long]} => {*, [-long]} / [vowel] [cons] _
+# stressed-onset-fortition:
+# [voiced stop $place] => [unvoiced stop $place +long] / _ [vowel]&[+stress] // $ _
+# Then: ʔ ʔ => * ʔ
 
 Syllables:
 clear

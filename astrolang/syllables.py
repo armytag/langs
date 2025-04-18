@@ -87,7 +87,7 @@ def borodovsky_gusein_zade(r, n):
     return (1 / n) * (math.log(n + 1) - math.log(r))
 
 if __name__ == "__main__":
-    word_count = 20 * 10
+    word_count = 200 * 10
     words = []
     w = 0
     while w < word_count:
