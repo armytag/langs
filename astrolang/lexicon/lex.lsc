@@ -17,24 +17,27 @@ Diacritic ː [+long]
 Diacritic ́ [hightone]
 Diacritic ̀ [lowtone]
 Diacritic ' (before) [+stress]
+Symbol ə [mid -front -back vowel]
 Symbol a [low  -front -back vowel]
-Symbol ə [mid  -front -back vowel]
-Symbol e [mid  +front -back vowel]
+Symbol ɯ [high -front -back vowel]
+Symbol e [low  +front -back vowel]
 Symbol i [high +front -back vowel]
-Symbol o [mid  -front +back vowel]
+Symbol o [low  -front +back vowel]
 Symbol u [high -front +back vowel]
 Symbol p [unvoiced labial stop]
 Symbol t [unvoiced alveolar stop]
-Symbol c [unvoiced palatal stop]
+Symbol tʃ [unvoiced palatal stop]
 Symbol k [unvoiced velar stop]
 Symbol ʔ [unvoiced glottal stop]
 Symbol b [voiced labial stop]
 Symbol d [voiced alveolar stop]
+Symbol dʒ [voiced palatal stop]
 Symbol g [voiced velar stop]
 Symbol f [unvoiced labial fricative]
 Symbol s [unvoiced alveolar fricative]
 Symbol ʃ [unvoiced palatal fricative]
 Symbol x [unvoiced velar fricative]
+Symbol z [voiced alveolar fricative]
 Symbol m [labial nasal]
 Symbol n [alveolar nasal]
 Symbol ɲ [palatal nasal]
@@ -45,42 +48,54 @@ Symbol l [alveolar approximant +lateral]
 Symbol r [alveolar trill]
 
 Syllables:
-[cons] [vowel]
 [cons] [vowel] [cons]?
 
 assign-stress:
-<syl> => [+stress] / _ <syl> $
+<syl> => [+stress] / $ _
 
-vowel-loss:
-[vowel] => * / [vowel] [cons] _ $
+schwa-raising:
+ə => ɯ
 
-rhotic-coda-loss:
-[vowel] r => [+long] * / _ {[cons], $}
+translaryngeal-vowel-harmony:
+[vowel]$1 [glottal]$2 [vowel] => $1 $2 $1
+# [vowel] [glottal]$1 [vowel]$2 => $2 $1 $2
+
+vowel-height-harmony:
+[vowel] => [high] / _ {[cons], [vowel]}+ [high] $
+[vowel] => [low] / _ {[cons], [vowel]}+ [low] $
 
 glottal-stop-loss:
-# [vowel]$1 ʔ $1 => [+long] * *
-{i, u} ʔ => {j, w} * / [cons] _ [vowel]
-# [cons]$1 ʔ => ʔ $1
-# Then:
-# [vowel] ʔ => [+long] * / _ [cons]
+[vowel]$1 ʔ $1 => [+long] * *
+# {i, u} ʔ => {j, w} * / [cons] _ [vowel]
+[cons]$1 ʔ => ʔ $1
+Then:
+[vowel] ʔ => [+long] * / _ {[cons], $}
 
-Syllables:
-[cons] [approximant]? [vowel] [cons]?
-[vowel] [cons]?
+post-tonic-vowel-loss:
+# ə&[+stress] [cons]$1 [vowel]$2 => $2 $1 $2
+{[vowel -long], [vowel +long]} => {*, [-long]} / [vowel]&[+stress] [cons] _ // _ [cons] $
+
+# final-vowel-loss:
+# [vowel] => * / [vowel] [cons] _ $
+
+# rhotic-coda-loss:
+# [vowel] r => [+long] * / _ {[cons], $}
+
+# Syllables:
+# [cons] [approximant]? [vowel] [cons]?
+# [vowel] [cons]?
 
 initial-glottal-stop-loss:
-ʔ ə => * a / $ _
-ʔ [vowel] [cons]$2 ə  => $2 [+long] * * / $ _
+# ʔ ə => * a / $ _
+# ʔ [vowel] [cons]$2 ə  => $2 [+long] * * / $ _
 ʔ [vowel] => * [+long] / $ _
 
-intervocalic-glottal-stop-loss:
-[vowel] ʔ {[vowel +back], [vowel +front]} => [+long] * {w, j} // _ [cons] {[cons], $}
-[vowel] ʔ [vowel]$1 [cons]$2 => [+long] * $2 $1 / _ {[cons], $}
+Syllables:
+[cons]? [vowel] [cons]?
 
 glide-assimilation:
 {j i, w u} => {iː, uː} / [cons] _
 Then: {i j, u w} => {iː, uː} / _ [cons]
-# d i j d a
 
 tonogenesis:
 [vowel +long] => [hightone -long]
@@ -92,6 +107,10 @@ r l => l l
 
 sonorant-metathesis:
 [nasal]$1 l$2 => $2 $1 // l [vowel] _
+
+velar-metathesis:
+{t, d, s, n} {k, g, x, ŋ} => [velar] [alveolar]
+{p, b, f, m} {k, g, x, ŋ} => [velar] [labial]
 
 # stressed-onset-fortition:
 # [voiced stop $place] => [unvoiced stop $place +long] / _ [vowel]&[+stress] // $ _

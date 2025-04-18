@@ -8,7 +8,7 @@ PLOSIVES = [
     "t", "t", "t", "t",
     "t", "t", "t",
     "d", "d", "d", "d", "d",
-    "c", "c", "c",
+    # "c", "c", "c",
     "k", "k", "k", "k",
     "k", "k", "k", "k",
     "g", "g", "g", "g",
@@ -17,20 +17,20 @@ PLOSIVES = [
 FRICATIVES = [
     "f", "f",
     "s", "s", "s", "s", "s", "s",
-    "ʃ", "ʃ",
+    # "ʃ", "ʃ",
     "x", "x", "x", "x",
 ]
 NASALS = [
     "m", "m", "m", "m", "m",
     "n", "n", "n", "n", "n",
     "n", "n", "n", "n",
-    "ɲ", "ɲ",
+    # "ɲ", "ɲ",
     "ŋ", "ŋ", "ŋ", "ŋ", "ŋ",
 ]
 APPROXIMANTS = [
     "w", "w", "w", "w",
     "l", "l", "l", "l", "l", "l",
-    "j", "j", "j", "j",
+    # "j", "j", "j", "j",
     "r", "r", "r", "r", "r", "r",
 ]
 VOWELS = [
@@ -46,7 +46,7 @@ VOWELS = [
 SYLL_STRUCTS = []
 SYLL_STRUCTS += ['V'] * 0
 SYLL_STRUCTS += ['CV'] * 8
-SYLL_STRUCTS += ['CVC'] * 1
+SYLL_STRUCTS += ['CVC'] * 0
 SYLL_STRUCTS += ['CCV'] * 0
 SYLL_STRUCTS += ['CCVC'] * 0
 SYLL_COUNTS = []
