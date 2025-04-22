@@ -8,7 +8,7 @@ PLOSIVES = [
     "t", "t", "t", "t",
     "t", "t", "t",
     "d", "d", "d", "d", "d",
-    # "c", "c", "c",
+    "c", "c", "c",
     "k", "k", "k", "k",
     "k", "k", "k", "k",
     "g", "g", "g", "g",
@@ -17,23 +17,24 @@ PLOSIVES = [
 FRICATIVES = [
     "f", "f",
     "s", "s", "s", "s", "s", "s",
-    # "ʃ", "ʃ",
+    "ʃ", "ʃ",
     "x", "x", "x", "x",
 ]
 NASALS = [
     "m", "m", "m", "m", "m",
     "n", "n", "n", "n", "n",
     "n", "n", "n", "n",
-    # "ɲ", "ɲ",
+    "ɲ", "ɲ",
     "ŋ", "ŋ", "ŋ", "ŋ", "ŋ",
 ]
 APPROXIMANTS = [
     "w", "w", "w", "w",
     "l", "l", "l", "l", "l", "l",
-    # "j", "j", "j", "j",
+    "j", "j", "j", "j",
     "r", "r", "r", "r", "r", "r",
 ]
 VOWELS = [
+    # "aː", "aː", "iː", "uː",
     "a", "a", "a", "a",
     "a", "a", "a",
     "ə", "ə", "ə", "ə", "ə",
@@ -47,12 +48,10 @@ SYLL_STRUCTS = []
 SYLL_STRUCTS += ['V'] * 0
 SYLL_STRUCTS += ['CV'] * 8
 SYLL_STRUCTS += ['CVC'] * 0
-SYLL_STRUCTS += ['CCV'] * 0
-SYLL_STRUCTS += ['CCVC'] * 0
 SYLL_COUNTS = []
 SYLL_COUNTS += [1] * 1
-SYLL_COUNTS += [2] * 7
-SYLL_COUNTS += [3] * 3
+SYLL_COUNTS += [2] * 6
+SYLL_COUNTS += [3] * 4
 SYLL_COUNTS += [4] * 1
 
 def flatten_matrix(matrix):
@@ -97,6 +96,10 @@ if __name__ == "__main__":
             structure = rand.choice(SYLL_STRUCTS)
             syllable = get_syllable(structure)
             word += syllable
+        if syll_count > 1:
+            word = word[:-1]
+        if syll_count > 3:
+            word = word[:3] + word[4:]
         if len(word) > 1 and word not in words:
             words.append(word)
             print(word)

@@ -1,0 +1,71 @@
+# For combining two files together
+# pr -tmJS proto.wli proto-rand.wli > proto-compound.wli
+
+Feature front, back
+Feature height(low, mid, high)
+Feature +long
+Feature type(*cons, vowel)
+Feature voicing(unvoiced, voiced)
+Feature place(labial, alveolar, palatal, velar, glottal)
+Feature manner(nasal, stop, fricative, approximant, trill)
+Feature +lateral
+Feature +ejective
+Feature tone(*neutral, hightone, lowtone)
+Feature (syllable) +stress
+Diacritic ʼ [+ejective]
+Diacritic ː [+long]
+Diacritic ́ [hightone]
+Diacritic ̀ [lowtone]
+Diacritic ' (before) [+stress]
+Symbol ə [mid -front -back vowel]
+Symbol a [low  -front -back vowel]
+Symbol ɯ [high -front -back vowel]
+Symbol e [low  +front -back vowel]
+Symbol i [high +front -back vowel]
+Symbol o [low  -front +back vowel]
+Symbol u [high -front +back vowel]
+Symbol p [unvoiced labial stop]
+Symbol t [unvoiced alveolar stop]
+Symbol c [unvoiced palatal stop]
+Symbol k [unvoiced velar stop]
+Symbol ʔ [unvoiced glottal stop]
+Symbol b [voiced labial stop]
+Symbol d [voiced alveolar stop]
+Symbol ɟ [voiced palatal stop]
+Symbol g [voiced velar stop]
+Symbol f [unvoiced labial fricative]
+Symbol s [unvoiced alveolar fricative]
+Symbol ʃ [unvoiced palatal fricative]
+Symbol x [unvoiced velar fricative]
+Symbol z [voiced alveolar fricative]
+Symbol m [labial nasal]
+Symbol n [alveolar nasal]
+Symbol ɲ [palatal nasal]
+Symbol ŋ [velar nasal]
+Symbol w [labial approximant]
+Symbol j [palatal approximant]
+Symbol l [alveolar approximant +lateral]
+Symbol r [alveolar trill]
+
+Syllables:
+[cons] [vowel] [cons]?
+
+assign-stress:
+<syl> => [+stress] / $ _ $
+<syl> => [+stress] / _ <syl> $
+
+# alveolar-assimilation:
+# {t, d, s, n} => {c, ɟ, ʃ, ɲ} / _ [vowel +front]
+
+vowel-loss:
+[vowel] => * / [vowel] [cons] _ $
+Then: [vowel] => * / [vowel] [cons] _ [cons] [vowel]
+
+romanizer-syllables:
+unchanged
+
+Syllables:
+clear
+
+romanizer:
+unchanged
