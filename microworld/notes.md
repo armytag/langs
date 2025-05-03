@@ -1,0 +1,70 @@
+# Microworld
+
+By armytag
+
+## Ideas
+
+### Priorities
+
+- Analytic/isolating morphology
+- Grammatical voices beyond passive/active
+- Tone systems (Oceanlang)
+- Reduplication
+- /ɲ/
+- Vowel vocalizations/nasalization
+- Ergative alignment
+- Metathesis
+- Consonant harmony
+- Secondary articulations
+- Retroflexes
+- Allophonic /ɽ̥/, /ɰ/
+
+### Underused features
+
+- Analytic/isolating morphology
+- Retroflexes, voiceless taps
+- /ɰ/, /ɲ/
+- Consonant harmony
+- Consonant vocalizations
+- Phonemic nasal vowels
+- Vowel vocalizations
+    - C.f. [Totonacan languages](https://en.wikipedia.org/wiki/Totonacan_languages#Phonology)
+    - C.f. [Jalapa Mazatec](https://en.wikipedia.org/wiki/Jalapa_Mazatec#Vowels)
+- Tone systems
+    - Tonogenesis beyond voicing/coda loss
+    - Vowels for tonogenesis (e.g. quality or length)
+- Secondary articulations
+    - Pharyngealization
+- Metathesis
+- Consonant mutation
+- Reduplication
+- Polarity marking
+- Grammatical voices beyond passive/active
+- Grammatical number
+    - Greater plural
+    - Collective
+- Alignment
+    - Transitive
+- Grammaticalization
+- Reanalysis
+- Redundancy (synonyms)
+- Spoken content
+- Broad range of example texts
+- Conceptual metaphors
+- Ideophones
+- Discourse management
+- Light verb constructions
+- Boustrophedon
+
+### Overused features
+
+- /q/, /ʔ/, /ɕ/, /ʑ/, /ɬ/, /x/
+- "whatever" rhotic
+- vowel symmetry
+- triconsonantal root systems
+- polypersonal agreement
+- accusative and ergative alignments
+- agglutination
+- huge case systems
+- vertical and featural writing systems
+
