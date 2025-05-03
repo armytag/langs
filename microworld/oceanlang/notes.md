@@ -31,6 +31,28 @@
 | Nasal     | m      | n        |        |         |
 | Sonorant  |        | r        |        |         |
 
+### Vowels
+
+| Comorian | Front  | Center | Back   |
+| ---      | ---    | ---    | ---    |
+| High     | i (ĩ)  |        | u (ũ)  |
+| Mid      | e      |        | o      |
+| Low      |        | a (ã)  |        |
+
+| Malagasy | Front  | Center | Back   |
+| ---      | ---    | ---    | ---    |
+| High     | i      |        | u      |
+| Mid      | e      |        | (o)    |
+| Low      |        | a      |        |
+
+| Khoemana | Front  | Center | Back   |
+| ---      | ---    | ---    | ---    |
+| High     | i ĩ    |        | u ũ    |
+| Mid      | e      |        | o      |
+| Low      |        | a ã    |        |
+
+### Notes
+
 - Khoemana
     - Vowels (5): plain, nasal
     - PoA: Labial, Alveolar, Velar, Glottal (ʔ and h)
