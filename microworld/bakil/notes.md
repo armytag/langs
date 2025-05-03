@@ -19,23 +19,21 @@
     - Timing-based definition of aspiration is appropriate for languages like Hindi which also have breathy voiced stops, grouping the aspirated and breathy stops into voiceless-aspirated and voiced-aspirated respectively
 - Relative to modal voicing of vowels, creaky vowels have lower amplitude and breathy vowels have much higher amplitude
 
-| Language | i | e | æ | ʉ | ə | a | u | o | ɑ |
-|---       |---|---|---|---|---|---|---|---|---|
-| Newar    | B | B | * |   | B | B | B |   |   |
-| Sinhala  | B | B | B |   | s | B | B | B |   |
-| Javanese | s | s |   |   | s | s | s | s |   |
-| Kannada  | B | B |   |   |   | B | B | B |   |
-| Thai     | B | B | B | B | B | B | B | B | B |
+| Language | i | e | æ | ə | a | u | o |
+|---       |---|---|---|---|---|---|---|
+| Newar    | B | B | * | B | B | B |   |
+| Sinhala  | B | B | B | s | B | B | B |
+| Javanese | s | s |   | s | s | s | s |
 
-| Language               | N | S | J | K | T |
-|---                     |---|---|---|---|---|
-| Clusters with glides   | Y | s | Y |   | Y |
-| Clusters with liquids  | Y |   | Y |   | Y |
-| Medial geminate cons.  | Y | Y |   | Y | ~ |
-| Nasal-stop clusters    |   | Y | i |   |   |
-| Word-final nasals      | Y | s | Y |   | Y |
-| Word-final liquids     | Y |   | Y |   |   |
-| Word-final plosives    | Y |   | Y |   | Y |
+| Language               | N | S | J |
+|---                     |---|---|---|
+| Clusters with glides   | Y | s | Y |
+| Clusters with liquids  | Y |   | Y |
+| Medial geminate cons.  | Y | Y |   |
+| Nasal-stop clusters    |   | Y | i |
+| Word-final nasals      | Y | s | Y |
+| Word-final liquids     | Y |   | Y |
+| Word-final plosives    | Y |   | Y |
 
 ### Newar phonology
 - i, e, u, ə, a
