@@ -2,15 +2,6 @@
 
 ## Phonology
 
-- Dahalo
-    - Vowels (5): plain, length
-    - Stops: voiceless, voiced, ejective, implosive, prenasalized, some lablialized
-    - Affricate: voiceless, voiced, ejective, lateral-ejective (lick a click), prenasalized, some labialized
-    - Fricatives: voiceless, lateral
-    - Clicks (alveolar): plain, glottalized, labialized
-    - Approximants, Nasals, and Trill
-    - Tone: pitch accent (one per word)
-
 - Khoemana
     - Vowels (5): plain, nasal
     - Stops: voiceless, aspirated, voiced
