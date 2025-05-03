@@ -10,13 +10,13 @@ By armytag
 - Grammatical voices beyond passive/active
 - Tone systems (Oceanlang)
 - Reduplication (Junglelang)
-- /ɲ/
+- /ɲ/ (Junglelang)
 - Vowel vocalizations/nasalization
     - Nasalization (Oceanlang)
 - Ergative alignment
 - Metathesis
 - Consonant harmony
-- Secondary articulations
+- Secondary articulations (Plainslang)
 - Retroflexes (Junglelang)
 - Allophonic /ɽ̥/, /ɰ/
 
