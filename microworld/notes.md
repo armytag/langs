@@ -9,14 +9,14 @@ By armytag
 - Analytic/isolating morphology
 - Grammatical voices beyond passive/active
 - Tone systems (Oceanlang)
-- Reduplication
+- Reduplication (Junglelang)
 - /ɲ/
-- Vowel vocalizations/nasalization
+- Vowel vocalizations/nasalization (Junglelang?)
 - Ergative alignment
 - Metathesis
 - Consonant harmony
 - Secondary articulations
-- Retroflexes
+- Retroflexes (Junglelang)
 - Allophonic /ɽ̥/, /ɰ/
 
 ### Underused features

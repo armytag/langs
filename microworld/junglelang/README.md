@@ -45,13 +45,10 @@ Species:
 Languages:
 - Gallus gallus
     - Newar (Sino-Tibetan)
-    - Thai (Kra-Dai)
 - Gallus varius
     - Javanese (Austronesian)
 - Gallus lafayettii
     - Sinhala (Indo-European)
-- Gallus sonneratii
-    - Kannada (Dravidian)
 
 Consonants:
 

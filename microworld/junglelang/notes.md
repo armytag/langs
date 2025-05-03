@@ -49,6 +49,16 @@
 - Vowel sequences əi, ai, əu, au, əe, ui, ae, iu
 - Syllable types V, VC, VV, CV, CVC, CVV, CCV, CGVC, CGVV
 
+### Javanese
+- No diphthongs
+- No word-final consonant clusters
+- Word-initial consonant clusters
+    - Plain orifice / s, + r
+    - Plain orifice (except ʈ and ɖ) / s, + l
+    - Labial consonant / dorsal consonant (except g), + y
+    - Laminal consonant / s / k / d, + w
+    - Nasal, + voiced plosive
+
 ### Sinhala
 - /ə/ occurs mostly in complementary distribution with /a/
     - /ə/ occurs preceding single consonants
@@ -70,19 +80,6 @@
 - Nasals before a word boundary (with or without intervening schwa) become velarized, e.g. /paanə/ → /paaŋ/
 - Colloquially, initial or medial /s/ becomes /h/ which can trigger changes of following /ə/ to become either /æ/ or /a/
 - Syllables can be V, VC, CV, CVC
-
-### Javanese
-- No diphthongs
-- No word-final consonant clusters
-- Word-initial consonant clusters
-    - Plain orifice / s, + r
-    - Plain orifice (except ʈ and ɖ) / s, + l
-    - Labial consonant / dorsal consonant (except g), + y
-    - Laminal consonant / s / k / d, + w
-    - Nasal, + voiced plosive
-
-### Kannada
-- Long vowels rarely occur word-finally except as grammatical morphemes
 
 ## Newar
 
@@ -173,6 +170,191 @@
     - Final syllable can be triplicated to indicate continuous fast action
 - Postpositions can be reduplicated to *increase* degree
 - Nouns can be reduplicated with slight sound change (echo) to generalize the meaning ('house' to 'houses etc.')
+
+## Javanese
+
+### Terms
+- *Simple words* do not involve any affixation
+    - Verbs take obligatory affixation as soon as a formation process starts
+- *Composed words* involve an extension of a simple word via affixation, reduplication, or combination
+- A *nuclear word* is closely tied to the valency of a verb
+- A *peripheral word* is an option word whose function is not implied by the verb
+- Some monosyllabic words involve an optional affix or a euphonising appendage
+    - There are only a few monosyllabic words in Javanese
+- Non-monosyllabic words are usually not more than three syllables
+- Expansion of a simple word into a composed word usually only occurs for nuclear words
+- Verbs can be combined with verbs or nouns to form new verbs
+- Nouns can be combined with similar or unrelated nouns to form new nouns
+
+### Reduplication
+- Verbs can be reduplicated to convey brief/informall actions or repeated actions
+- Nouns can be reduplicated to convey plurality, affectivity (emphasis), or collections
+
+### Verb specification
+- Verbs have inherent features (specification) that affect how they inflect and are interpretted
+- Verbs have a certain valency that implies relation to nouns, all of which are nuclear words
+    - NOTE: Order of rules do *not* indicate word order
+    - State: V → V N(patient)
+        - Indicates a state that the patient noun is in (e.g. 'dirty')
+        - Non-real states take additional suffix
+    - Action: V → V N(agent)
+        - Indicates an action instigated by an agent noun
+        - Hortative commands take additional suffix
+    - Process: V → V N(patient)
+        - Indicates a change in the patient noun
+        - Transitory (temporally limited) process take an infix
+    - Action-Process: V → V N(patient) N(agent)
+        - Indicates an action which the agent noun performs on the patient noun
+    - State-Experiential: V → V N(patient) N(experience)
+        - Indicates a patient which undergoes a psychological experience (e.g. 'bored')
+    - State-Benefactive: V → V N(patient) N(beneficiary)
+        - Indicates a possessor (beneficiary) noun and a possession (patient) noun
+    - State-Locative: V → V N(location) N(patient)
+        - Indicates the patient noun is located relative to the location noun
+    - Action-Experiential: V → V N(patient) N(agent)
+        - Indicates an experience (implied by the verb) which the agent noun causes in the patient noun
+    - Action-Benefactive: V → V N(patient) N(beneficiary)
+        - Indicates an manipulation of the (possessed) patient noun by the beneficiary noun
+        - Verb can take a prefix to add a recipient noun to the phrase
+    - Action-Locative: V → V N(location) N(agent)
+        - Indicates an action by the agent noun with an origin or goal in the location noun
+    - Process-Experiential: V → V N(patient) N(experience)
+        - Indicates the patient noun undergoes a non-static psychological experience (e.g. 'remember')
+    - Process-Benefactive: V → V N(patient) N(beneficiary)
+        - Indicates the gain/loss of the patient noun by the beneficiary noun
+    - Process-Locative: V → V N(location) N(patient)
+        - Indicates the change of location by the patient noun
+    - Action-Process-Experiential: V → V N(patient) N(experience)
+        - Indicates a change in the psychological experience of the patient noun (e.g. 'learn', 'ask')
+    - Action-Process-Benefactive: V → V N(patient) N(beneficiary) N(agent)
+        - Indicates a change in the possession of the patient noun by the beneficiary noun caused by the agent noun
+    - Action-Process-Locative: V → V N(location) N(patient) N(agent)
+        - Indicates a change in the location of the patient noun caused by the agent noun
+
+### Noun specification
+- Noun specification as patient, agent, experiencer, beneficiary, or location does not involve affixation
+    - Instead of affixation, nouns inherently have certain qualities lexically
+- Nouns specify for count, potent, animate, human, feminine, and unique
+    - Count nouns can take numerals directly, but non-count nouns need a quantifier
+    - Potent nouns can occur as the instigator of an action
+    - Some countable potent nouns can be animate
+    - Some countable potent animate nouns can be human
+        - Only singular human nouns can be pronominalized
+    - Feminine is not usually inflected but can be inherent to the noun
+        - There is a special case of 'rooster' vs 'hen', two non-human words differentiated by gender
+    - A unique noun usually refers to a human noun represented by a proper name, but can sometimes include certain domestic animals which take proper names
+
+### Derivation
+- Verb → verb
+    - Intensification indicates more or less intense action via affix or separate word
+    - Transitivization via affix
+    - Intentionalization via affix
+    - Reciprocalization indicates actions between two nouns applied to each other via reduplication and affix together
+- Verb → noun
+    - Direct nominalization into an abstract noun via affix or inflection
+    - Displaced nominalization into a physical object via affix
+- Noun → noun
+    - Collection indicates collection of individually countable nouns via reduplication with an affix
+    - Location indicates place or general location of the noun via affix
+    - Imitation indicates a copy of a reality conveyed by the original noun via reduplication with an affix
+        - 'house' → 'toy house', 'child' → 'doll'
+- Noun → verb
+    - Enactment indicates performance with the noun as the object/instrument/upshot via affix (including infix)
+    - Provision indicates noun as object of provision/supply via affix
+    - Orientation indicates movement towards directions or locations via affix
+    - Predication indicates a state or condition via placement after the patient noun
+        - This allows nominal predicates without copula
+
+### Peripheral words (including particles)
+- Emotives indicate the state of emotion of the speaker
+- Conjunctives combine two sentences or two words within a sentence
+    - Alternative conjunctives indicate choice between two elements, and appear between the elements
+    - Inclusive conjunctives indicate union of two elements into a relatively larger entity, and appear between the elements
+    - Contrastive conjunctives indicate contrast between two elements, and appear between the elements
+    - Conditional conjunctives indicate a condition or implication of one sentence on another sentence, and appear at the beginning of the sentence with the condition
+    - Temporal conjunctives indicate a temporal relationship of one sentence on another sentence, and appear at the beginning of the temporal sentence
+    - Explanatory conjunctives indicate that one sentence is the source or target of explanation for another sentence, and appear at the beginning of the explanation sentence
+    - Relator conjunctives indicate joins a sentence to an antecedent element, and appears at the beginning of the relativized sentence
+- Specifiers provide further diagnostics of a nuclear word
+    - Negative specifier for verbs ('not')
+    - Frequency specifiers for verbs ('once', 'seldom')
+    - Stage specifiers for verbs ('yet', 'in the process of')
+    - Negative specifier for nouns
+    - Prepositions for nouns
+        - 'in' can attach as an affix to directions to create complex prepositions
+        - 'to' indicates goal of some movement, and can allow the movement verb to be deleted
+
+### Sentence structure
+- Verbs can occur with zero or more nouns, sometimes without changing form
+    - Zero-place verbs denote contextual occurances like weather, and don't need any dummy arguments
+    - One-place verbs can be state verbs, action verbs, or process verbs
+        - Normal order: N V
+        - Emphatic order: V N
+    - Two-place verbs are a combination of state, action, or process with experiential, benefactive, or locative, or action-process or action-process-experiential
+        - Normal order: N1 V N2
+        - Emphatic order: V N2 N1 (topicalization of verb structure)
+    - Three-place verbs usually add an agent to the two-place verbs, but can also involve expansion of a locative verb with a second locative noun
+        - Benefactive three-place verbs can be direct or indirect
+            - Direct transfer indicates transfer of object between the agent noun and the beneficiary noun, via 'to'
+            - Indirect transfer indicates the transfer of an object consecutive to a service, via 'for'
+            - Agent-focused order: N(agt) V N(pat) 'to/for' N(ben)
+            - Beneficiary-focused order: N(ben) V N(pat) 'by' N(agt)
+        - Complemental three-place verbs indicate a change in condition of the patient instigated by the agent
+            - Agent-focused order: N(agt) V N(pat) N(compl)
+            - Patient-focused order: N(pat) V N(compl) 'by' N(agt)
+            - Compliment noun cannot be topicalized
+        - Action-Locative three-place verbs indicate a change in location of the agent
+            - Depending on the focus, one or both location noun (origin or goal) can be dropped
+            - Locations (origin or goal) cannot be topicalized
+            - Agent-focused order: N(agt) V (N(org)) (N(goal))
+            - Verb-focused order: V (N(org)) (N(goal)) N(agt) 
+        - Experiential three-place verbs indicate an experience instigated by an agent to a patient
+            - Agent-focused order: N(agt) V N(exp) 'to' N(pat)
+            - Patient-focused order: N(pat) V N(exp) 'by' N(agt)
+        - Process-Locative three-place verbs indicate motion between an origin location and a goal location
+            - Depending on the focus, one or both location noun (origin or goal) can be dropped
+            - Locations (origin or goal) cannot be topicalized
+            - Patient-focused order: N(pat) V (N(org)) (N(goal))
+            - Verb-focused order: V (N(org)) (N(goal)) N(pat) 
+    - Four-place, five-place, and further verbs can be created by adding further location nouns to the phrase
+- Simple sentences have a single verb and are an affirmative statement (not a command, question, or negative statement)
+- Modified simple sentences are derived from simple sentences by an optional process without additional verbal constructions
+    - Possible modifications include negation, frequency, stage, time, question, command, potentiality, or further specification of a noun
+- Compound sentences combine two or more simple sentences
+    - Identical elements are not repeated
+    - None of the conjoined elements modify or subordinate any other
+    - Conjoining occurs through a single conjunctive particle
+    - Examples of word order with conjunction
+        - {N1 V1 N2 N3} + {N4 V1 N5 N3} → {N1 V1 N2 N3 Con N4 N5}
+        - {N1 V1 N2 N3} + {N4 V2 N5 N3} → {N1 V1 N2 N3 Con V2 N4 N5}
+        - {N1 V1 N2 N3} + {N2 V1 N2 N4} → {N1 V1 N2 N3 Con N4}
+        - {N1 V1 N2 N3} + {N1 V2 N4 N3} → {N1 V1 N2 Con V2 N4 N3}
+        - {N1 V1 N2 N3} + {N4 V1 N2 N3} → {N1 Con N4 V1 N2 N3}
+- Complex sentences combine two simple sentences where one sentence is embedded in another (called the matrix sentence)
+    - Non-state matrix verbs can only take noun complementation, state matrix verbs can take both verb complementation and noun complementation
+    - Patient noun complementation via 'which'
+        - 'father bury trash *which* be garden' = 'Father buried the trash which was in the garden'
+    - Agent noun complementation via 'who'
+        - 'kid (*who*) sit that make kite' = 'The kid who is sitting there is making a kite'
+    - Patient noun complementation with a process verb via 'which'
+        - 'timber *which* fall float' = 'The timber which fell down is floating'
+    - Verb complementation via replacing patient noun with non-passive sentence
+        - 'Sardi like help mother' = 'Sardi likes to help his mother'
+    - Antecedents can be deleted if clear from context
+    - Conditional sentences are marked by a conditional conjunctive
+        - Usually delete a noun from the matrix sentence if present in the conditional sentence
+        - 'if you sick permitted stop' = 'If you are sick, you make take a break'
+    - Locative sentence complements a locative noun via the marker 'who/which'
+        - 'hour nine I must depart to place *which* already marked twig bamboo' = 'At nine I must already have gone to the place which was previously marked with a bamboo twig'
+    - Manner sentence complements matrix verbs via peripheral word
+        - 'back itch *like* stung bee' = 'My back is itching as if it were stung by a bee'
+    - Temporal sentence places martix sentence in relation to time, via temporal word
+        - Temporality can be sequential, coincidental, future, or past
+
+### Speech decorum (registers)
+- Complex system of address references, vocabulary, and affixation
+- Developed from a complex pronoun system and word-ending variation
+- Influenced by factors such as formality, intimacy, respect, courtesy, and status difference/equality
 
 ## Sinhala
 
@@ -483,243 +665,4 @@
 - Deixis is important for integrating contextual information
 - Deixis distinguishes between four levels: proximal-to-speaker, proximal-to-hearer, distal-in-sight, and distal-out-of-sight
     - There are deictic demonstratives for each level, which decline for different semantic categories
-
-## Javanese
-
-### Terms
-- *Simple words* do not involve any affixation
-    - Verbs take obligatory affixation as soon as a formation process starts
-- *Composed words* involve an extension of a simple word via affixation, reduplication, or combination
-- A *nuclear word* is closely tied to the valency of a verb
-- A *peripheral word* is an option word whose function is not implied by the verb
-- Some monosyllabic words involve an optional affix or a euphonising appendage
-    - There are only a few monosyllabic words in Javanese
-- Non-monosyllabic words are usually not more than three syllables
-- Expansion of a simple word into a composed word usually only occurs for nuclear words
-- Verbs can be combined with verbs or nouns to form new verbs
-- Nouns can be combined with similar or unrelated nouns to form new nouns
-
-### Reduplication
-- Verbs can be reduplicated to convey brief/informall actions or repeated actions
-- Nouns can be reduplicated to convey plurality, affectivity (emphasis), or collections
-
-### Verb specification
-- Verbs have inherent features (specification) that affect how they inflect and are interpretted
-- Verbs have a certain valency that implies relation to nouns, all of which are nuclear words
-    - NOTE: Order of rules do *not* indicate word order
-    - State: V → V N(patient)
-        - Indicates a state that the patient noun is in (e.g. 'dirty')
-        - Non-real states take additional suffix
-    - Action: V → V N(agent)
-        - Indicates an action instigated by an agent noun
-        - Hortative commands take additional suffix
-    - Process: V → V N(patient)
-        - Indicates a change in the patient noun
-        - Transitory (temporally limited) process take an infix
-    - Action-Process: V → V N(patient) N(agent)
-        - Indicates an action which the agent noun performs on the patient noun
-    - State-Experiential: V → V N(patient) N(experience)
-        - Indicates a patient which undergoes a psychological experience (e.g. 'bored')
-    - State-Benefactive: V → V N(patient) N(beneficiary)
-        - Indicates a possessor (beneficiary) noun and a possession (patient) noun
-    - State-Locative: V → V N(location) N(patient)
-        - Indicates the patient noun is located relative to the location noun
-    - Action-Experiential: V → V N(patient) N(agent)
-        - Indicates an experience (implied by the verb) which the agent noun causes in the patient noun
-    - Action-Benefactive: V → V N(patient) N(beneficiary)
-        - Indicates an manipulation of the (possessed) patient noun by the beneficiary noun
-        - Verb can take a prefix to add a recipient noun to the phrase
-    - Action-Locative: V → V N(location) N(agent)
-        - Indicates an action by the agent noun with an origin or goal in the location noun
-    - Process-Experiential: V → V N(patient) N(experience)
-        - Indicates the patient noun undergoes a non-static psychological experience (e.g. 'remember')
-    - Process-Benefactive: V → V N(patient) N(beneficiary)
-        - Indicates the gain/loss of the patient noun by the beneficiary noun
-    - Process-Locative: V → V N(location) N(patient)
-        - Indicates the change of location by the patient noun
-    - Action-Process-Experiential: V → V N(patient) N(experience)
-        - Indicates a change in the psychological experience of the patient noun (e.g. 'learn', 'ask')
-    - Action-Process-Benefactive: V → V N(patient) N(beneficiary) N(agent)
-        - Indicates a change in the possession of the patient noun by the beneficiary noun caused by the agent noun
-    - Action-Process-Locative: V → V N(location) N(patient) N(agent)
-        - Indicates a change in the location of the patient noun caused by the agent noun
-
-### Noun specification
-- Noun specification as patient, agent, experiencer, beneficiary, or location does not involve affixation
-    - Instead of affixation, nouns inherently have certain qualities lexically
-- Nouns specify for count, potent, animate, human, feminine, and unique
-    - Count nouns can take numerals directly, but non-count nouns need a quantifier
-    - Potent nouns can occur as the instigator of an action
-    - Some countable potent nouns can be animate
-    - Some countable potent animate nouns can be human
-        - Only singular human nouns can be pronominalized
-    - Feminine is not usually inflected but can be inherent to the noun
-        - There is a special case of 'rooster' vs 'hen', two non-human words differentiated by gender
-    - A unique noun usually refers to a human noun represented by a proper name, but can sometimes include certain domestic animals which take proper names
-
-### Derivation
-- Verb → verb
-    - Intensification indicates more or less intense action via affix or separate word
-    - Transitivization via affix
-    - Intentionalization via affix
-    - Reciprocalization indicates actions between two nouns applied to each other via reduplication and affix together
-- Verb → noun
-    - Direct nominalization into an abstract noun via affix or inflection
-    - Displaced nominalization into a physical object via affix
-- Noun → noun
-    - Collection indicates collection of individually countable nouns via reduplication with an affix
-    - Location indicates place or general location of the noun via affix
-    - Imitation indicates a copy of a reality conveyed by the original noun via reduplication with an affix
-        - 'house' → 'toy house', 'child' → 'doll'
-- Noun → verb
-    - Enactment indicates performance with the noun as the object/instrument/upshot via affix (including infix)
-    - Provision indicates noun as object of provision/supply via affix
-    - Orientation indicates movement towards directions or locations via affix
-    - Predication indicates a state or condition via placement after the patient noun
-        - This allows nominal predicates without copula
-
-### Peripheral words (including particles)
-- Emotives indicate the state of emotion of the speaker
-- Conjunctives combine two sentences or two words within a sentence
-    - Alternative conjunctives indicate choice between two elements, and appear between the elements
-    - Inclusive conjunctives indicate union of two elements into a relatively larger entity, and appear between the elements
-    - Contrastive conjunctives indicate contrast between two elements, and appear between the elements
-    - Conditional conjunctives indicate a condition or implication of one sentence on another sentence, and appear at the beginning of the sentence with the condition
-    - Temporal conjunctives indicate a temporal relationship of one sentence on another sentence, and appear at the beginning of the temporal sentence
-    - Explanatory conjunctives indicate that one sentence is the source or target of explanation for another sentence, and appear at the beginning of the explanation sentence
-    - Relator conjunctives indicate joins a sentence to an antecedent element, and appears at the beginning of the relativized sentence
-- Specifiers provide further diagnostics of a nuclear word
-    - Negative specifier for verbs ('not')
-    - Frequency specifiers for verbs ('once', 'seldom')
-    - Stage specifiers for verbs ('yet', 'in the process of')
-    - Negative specifier for nouns
-    - Prepositions for nouns
-        - 'in' can attach as an affix to directions to create complex prepositions
-        - 'to' indicates goal of some movement, and can allow the movement verb to be deleted
-
-### Sentence structure
-- Verbs can occur with zero or more nouns, sometimes without changing form
-    - Zero-place verbs denote contextual occurances like weather, and don't need any dummy arguments
-    - One-place verbs can be state verbs, action verbs, or process verbs
-        - Normal order: N V
-        - Emphatic order: V N
-    - Two-place verbs are a combination of state, action, or process with experiential, benefactive, or locative, or action-process or action-process-experiential
-        - Normal order: N1 V N2
-        - Emphatic order: V N2 N1 (topicalization of verb structure)
-    - Three-place verbs usually add an agent to the two-place verbs, but can also involve expansion of a locative verb with a second locative noun
-        - Benefactive three-place verbs can be direct or indirect
-            - Direct transfer indicates transfer of object between the agent noun and the beneficiary noun, via 'to'
-            - Indirect transfer indicates the transfer of an object consecutive to a service, via 'for'
-            - Agent-focused order: N(agt) V N(pat) 'to/for' N(ben)
-            - Beneficiary-focused order: N(ben) V N(pat) 'by' N(agt)
-        - Complemental three-place verbs indicate a change in condition of the patient instigated by the agent
-            - Agent-focused order: N(agt) V N(pat) N(compl)
-            - Patient-focused order: N(pat) V N(compl) 'by' N(agt)
-            - Compliment noun cannot be topicalized
-        - Action-Locative three-place verbs indicate a change in location of the agent
-            - Depending on the focus, one or both location noun (origin or goal) can be dropped
-            - Locations (origin or goal) cannot be topicalized
-            - Agent-focused order: N(agt) V (N(org)) (N(goal))
-            - Verb-focused order: V (N(org)) (N(goal)) N(agt) 
-        - Experiential three-place verbs indicate an experience instigated by an agent to a patient
-            - Agent-focused order: N(agt) V N(exp) 'to' N(pat)
-            - Patient-focused order: N(pat) V N(exp) 'by' N(agt)
-        - Process-Locative three-place verbs indicate motion between an origin location and a goal location
-            - Depending on the focus, one or both location noun (origin or goal) can be dropped
-            - Locations (origin or goal) cannot be topicalized
-            - Patient-focused order: N(pat) V (N(org)) (N(goal))
-            - Verb-focused order: V (N(org)) (N(goal)) N(pat) 
-    - Four-place, five-place, and further verbs can be created by adding further location nouns to the phrase
-- Simple sentences have a single verb and are an affirmative statement (not a command, question, or negative statement)
-- Modified simple sentences are derived from simple sentences by an optional process without additional verbal constructions
-    - Possible modifications include negation, frequency, stage, time, question, command, potentiality, or further specification of a noun
-- Compound sentences combine two or more simple sentences
-    - Identical elements are not repeated
-    - None of the conjoined elements modify or subordinate any other
-    - Conjoining occurs through a single conjunctive particle
-    - Examples of word order with conjunction
-        - {N1 V1 N2 N3} + {N4 V1 N5 N3} → {N1 V1 N2 N3 Con N4 N5}
-        - {N1 V1 N2 N3} + {N4 V2 N5 N3} → {N1 V1 N2 N3 Con V2 N4 N5}
-        - {N1 V1 N2 N3} + {N2 V1 N2 N4} → {N1 V1 N2 N3 Con N4}
-        - {N1 V1 N2 N3} + {N1 V2 N4 N3} → {N1 V1 N2 Con V2 N4 N3}
-        - {N1 V1 N2 N3} + {N4 V1 N2 N3} → {N1 Con N4 V1 N2 N3}
-- Complex sentences combine two simple sentences where one sentence is embedded in another (called the matrix sentence)
-    - Non-state matrix verbs can only take noun complementation, state matrix verbs can take both verb complementation and noun complementation
-    - Patient noun complementation via 'which'
-        - 'father bury trash *which* be garden' = 'Father buried the trash which was in the garden'
-    - Agent noun complementation via 'who'
-        - 'kid (*who*) sit that make kite' = 'The kid who is sitting there is making a kite'
-    - Patient noun complementation with a process verb via 'which'
-        - 'timber *which* fall float' = 'The timber which fell down is floating'
-    - Verb complementation via replacing patient noun with non-passive sentence
-        - 'Sardi like help mother' = 'Sardi likes to help his mother'
-    - Antecedents can be deleted if clear from context
-    - Conditional sentences are marked by a conditional conjunctive
-        - Usually delete a noun from the matrix sentence if present in the conditional sentence
-        - 'if you sick permitted stop' = 'If you are sick, you make take a break'
-    - Locative sentence complements a locative noun via the marker 'who/which'
-        - 'hour nine I must depart to place *which* already marked twig bamboo' = 'At nine I must already have gone to the place which was previously marked with a bamboo twig'
-    - Manner sentence complements matrix verbs via peripheral word
-        - 'back itch *like* stung bee' = 'My back is itching as if it were stung by a bee'
-    - Temporal sentence places martix sentence in relation to time, via temporal word
-        - Temporality can be sequential, coincidental, future, or past
-
-### Speech decorum (registers)
-- Complex system of address references, vocabulary, and affixation
-- Developed from a complex pronoun system and word-ending variation
-- Influenced by factors such as formality, intimacy, respect, courtesy, and status difference/equality
-
-## Kannada
-
-### Syntax
-
-#### Questions
-- Direct quotes inidicated by word/verb after the quote
-    - Quotative word ('anta') in other situations, and generally indicates "cogitations" like 'anxious', 'assume', etc.
-    - Can combine with verbs as a suffix for narrative purposes
-- Neutral yes-no questions indicated by clitic at end of statement
-    - The clitic can attach to an contituent to focus the question on that constituent
-- Alternatively, question word 'what' can be cliticized to right of statement
-    - Optionally a vocative clitic can be added which is specific to the sex of the addressee and the relationship between speaker and addressee
-    - To question a specific constituent, it must occur in a cleft sentence (the verb is put in gerund form) and the constituent is moved to the right of the rest of the sentence
-- Leading questions expecting an affirmative answer use a particle at the end of the statement
-    - To focus a specific constituent, it must occur in a cleft sentence
-- Alternative questions ('or') add a clitic to the right of each constituent
-    - In nonequational sentences, alternatives are entire clauses and shared non-constituent parts are deleted
-    - If a verb and its negation are the alternatives, only the negation with a clitics occurs as the second constituent
-- Question words can be substituted for any questioned constituent
-    - When more than one of the thing is expected (e.g. 'Which books do you like?') the question word is reduplicated
-- When the verb is questioned, a special question verb is inflected and used
-    - Separate verb for transitive and intransitive verbs
-- In copular sentences, any constituent except the copula can be questioned
-- In infinitive clauses, any constituent except the subject can be questioned
-- In participial clauses, any constituent except the subject can be questioned
-- In gerundive clauses, any constituent can be questioned
-- In noun phrases, any constituent except a classifier can be questioned
-- Elements of juxtaposed and cliticized coordinated sentences cannot have any of their constituents questioned
-- Disjunctive structures do not allow their constituents to be questioned
-- It is possible to question any number of elements in a sentence
-- Plural nouns with a distributive meaning can use a reduplicated question word ("howmuch-howmuch money to whom?")
-- Within coordinate structures, multiple questions are not permitted
-- Both main and subordinate clauses can have question words
-    - 'you-obl-loc who where-dat go-pst-ptpl what did compl who-dat know?' = "Who knows who among you went where and did what?"
-- Yes-no echo questions (asking for clarification) can simply repeat the unclear constituent with the question clitic attached, or by putting the suspected statement in a quotation with question clitic attached to the quotation verb
-    - Any element of a sentence could be part of an echo question
-
-#### Answers
-- The agreement and disagreement response morphemes (hu~ and uhu~) contain nasal vowels which are not found anywhere else in the language
-- Answers to question-word questions usually contain only the constituent required
-- It is very common to delete subjects, objects, and other major constituents if they are clear from verb marking, anaphora, or context
-- "Eat" is phrased as 'meal become-3sn' (it becomes a meal)
-- Different affirmative/negative answer words may be used depending on the kind of question (request vs interrogative)
-- Answers to leading questions depend on if the speaker agrees or disagrees with the underlying assumption, rather than the positive/negative polarity of the tag
-    - In other words, consider the question in statement form, then answer if that statement is true
-
-#### Imperatives
-
-## Thai
-
-
-
-
 
