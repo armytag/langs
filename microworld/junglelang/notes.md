@@ -19,11 +19,63 @@
     - Timing-based definition of aspiration is appropriate for languages like Hindi which also have breathy voiced stops, grouping the aspirated and breathy stops into voiceless-aspirated and voiced-aspirated respectively
 - Relative to modal voicing of vowels, creaky vowels have lower amplitude and breathy vowels have much higher amplitude
 
+### Consonants
+
+| Newar    | Labial | Alveolar | Retroflex | Palatal | Velar | Glottal |
+| ---      | ---    | ---      | ---       | ---     | ---   | ---     |
+| Nasal    | m mʱ   | n nʱ     |           |         | ŋ     |         |
+| Vcl. S.  | p pʰ   | t tʰ     |           | tɕ tɕʰ  | k kʰ  |         |
+| Vcd. S.  | b bʱ   | d dʱ     |           | dʑ dʑʱ  | g gʱ  |         |
+| Fric.    |        | s        |           |         |       | h       |
+| Appr.    | w wʱ   | l lʱ     |           | j jʱ    |       |         |
+| Rhotic   |        | r        |           |         |       |         |
+
+| Javanese | Labial | Alveolar | Retroflex | Palatal | Velar | Glottal |
+| ---      | ---    | ---      | ---       | ---     | ---   | ---     |
+| Nasal    | m      | n        |           | ɲ       | ŋ     |         |
+| Vl. S.   | p      | t        | ʈ         | tʃ      | k     | ʔ       |
+| Vd. S.   | b      | d        | ɖ         | dʒ      | g     |         |
+| Fric.    |        | s        |           |         |       | h       |
+| Appr.    | w      | l        |           | j       |       |         |
+| Rhotic   |        | r        |           |         |       |         |
+
+| Sinhala  | Labial | Alveolar | Retroflex | Palatal | Velar | Glottal |
+| ---      | ---    | ---      | ---       | ---     | ---   | ---     |
+| Nasal    | m      | n        |           | ɲ       | ŋ     |         |
+| Vl. S.   | p      | t        | ʈ         | tʃ      | k     | ʔ       |
+| Vd. S.   | b      | d        | ɖ         | dʒ      | g     |         |
+| Ns. S.   | ᵐb     | ⁿd       | ⁿɖ        | ⁿdʒ     | ᵑg    |         |
+| Fric.    |        | s        |           |         |       | h       |
+| Appr.    | ʋ      | l        |           | j       |       |         |
+| Rhotic   |        | r        |           |         |       |         |
+
+### Vowels
+
+| Newar    | Front  | Center | Back   |
+| ---      | ---    | ---    | ---    |
+| High     | i iː ĩ |        | u uː ũ |
+| Mid      | e eː ẽ |        | o oː õ |
+| Low      |   ɛː ɛ̃ | a aː ã | ɔ ɔː ɔ̃ |
+
+| Javanese | Front  | Center | Back   |
+| ---      | ---    | ---    | ---    |
+| High     | i      |        | u      |
+| Mid      | e      | ə      | o      |
+| Low      |        | a      |        |
+
+| Sinhala  | Front  | Center | Back   |
+| ---      | ---    | ---    | ---    |
+| High     | i iː   |        | u uː   |
+| Mid      | e eː   | ə      | o oː   |
+| Low      | æ æː   | a aː   |        |
+
 | Language | i | e | æ | ə | a | u | o |
 |---       |---|---|---|---|---|---|---|
 | Newar    | B | B | * | B | B | B |   |
 | Sinhala  | B | B | B | s | B | B | B |
 | Javanese | s | s |   | s | s | s | s |
+
+### Language-specific Phonology
 
 | Language               | N | S | J |
 |---                     |---|---|---|
@@ -35,7 +87,7 @@
 | Word-final liquids     | Y |   | Y |
 | Word-final plosives    | Y |   | Y |
 
-### Newar phonology
+#### Newar phonology
 - i, e, u, ə, a
 - /æ/ exists but is fundamentally a sequence of /ae/
 - Diphthongs are /ui/, /əi/, and /əu/ with second vowel non-syllabic
@@ -49,7 +101,7 @@
 - Vowel sequences əi, ai, əu, au, əe, ui, ae, iu
 - Syllable types V, VC, VV, CV, CVC, CVV, CCV, CGVC, CGVV
 
-### Javanese
+#### Javanese
 - No diphthongs
 - No word-final consonant clusters
 - Word-initial consonant clusters
@@ -59,7 +111,7 @@
     - Laminal consonant / s / k / d, + w
     - Nasal, + voiced plosive
 
-### Sinhala
+#### Sinhala
 - /ə/ occurs mostly in complementary distribution with /a/
     - /ə/ occurs preceding single consonants
     - /a/ occurs before double consonants or another vowel
