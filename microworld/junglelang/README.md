@@ -17,24 +17,24 @@ Features:
 
 Consonants:
 
-| CONSONANTS    | Bilabial | Dental | Alveolar | Retroflex | Palatal | Velar | Glottal |
-|---            |---       |---     |---       |---        |---      |---    |---      |
-| Nasal         | m        |        | n        |           |         | ŋ     |         |
-| Breathy Plos. | bʱ       | dʱ     |          | ɖʱ        | dʑʱ     | gʱ    |         |
-| Modal Plos.   | b        | d      |          | ɖ         | dʑ      | g     |         |
-| Creaky Plos.  | b˷       | d˷     |          | ɖ˷        | dʑ˷     | g˷    |         |
-| Fricative     |          |        | s        |           |         |       | h       |
-| Approximant   | w        |        |          |           | j       |       |         |
-| Rhotic        |          |        | ɾ/r      |           |         |       |         |
-| Lateral       |          |        | l        |           |         |       |         |
+| CONSONANTS    | Bilabial | Alveolar | Retroflex | Palatal | Velar | Glottal |
+|---            |---       |---       |---        |---      |---    |---      |
+| Nasal         | m        | n        |           | ɲ       | ŋ     |         |
+| Breathy Plos. | bʱ       | dʱ       | ɖʱ        | dʑʱ     | gʱ    |         |
+| Modal Plos.   | b        | d        | ɖ         | dʑ      | g     |         |
+| Creaky Plos.  | b˷       | d˷       | ɖ˷        | dʑ˷     | g˷    |         |
+| Fricative     |          | s        |           |         |       | h       |
+| Approximant   | w        |          |           | j       |       |         |
+| Rhotic        |          | ɾ/r      |           |         |       |         |
+| Lateral       |          | l        |           |         |       |         |
 
 Vowels:
 
-| VOWELS | Front | Central | Back |
-|---     |---    |---      |---   |
-| Close  | i iː  |         | u uː |
-| Mid    | e eː  | ə       | o oː |
-| Open   | (æ)   | a aː    |      |
+| VOWELS | Front | Back |
+|---     |---    |---   |
+| Close  | i iː  | u uː |
+| Mid    | e eː  | o oː |
+| Open   | æ æː  | ɑ ɑː |
 
 Phonotactics:
 
