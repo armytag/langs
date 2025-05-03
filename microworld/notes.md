@@ -11,7 +11,8 @@ By armytag
 - Tone systems (Oceanlang)
 - Reduplication (Junglelang)
 - /ɲ/
-- Vowel vocalizations/nasalization (Junglelang?)
+- Vowel vocalizations/nasalization
+    - Nasalization (Oceanlang)
 - Ergative alignment
 - Metathesis
 - Consonant harmony
