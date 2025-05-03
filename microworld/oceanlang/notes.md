@@ -2,6 +2,35 @@
 
 ## Phonology
 
+### Consonants
+
+| Comorian  | Labial | Dental | Postalveolar | Prepalatal | Palatal | Velar |
+| ---       | ---    | ---    | ---          | ---        | ---     | ---   |
+| Vcl. S.   | p      | t̪      | t̻            | ts         | tʃ      | k     |
+| Vcd. S.   | b      | d̪      | d̻            | dz         | dʒ      | g     |
+| Impl. S.  | ɓ      | ɗ      |              |            |         |       |
+| PNsl. S.  | mb     | n̪d̪     | n̻d̻           | ndz        | ndʒ     | ŋg    |
+| Vcl. F.   |        | f      | s            |            | ʃ       | x     |
+| Vcd. F.   | β      | v      | z            |            | ʒ       |       |
+| Nasal     | m      |        | n            |            |         |       |
+| Apprx.    | w      |        |              |            | j       |       |
+| Sonorant  |        |        | l r          |            |         | h     |
+
+| Malagasy  | Labial | Dental | Alveolar | Postalveolar | Velar |
+| ---       | ---    | ---    | ---      | ---          | ---   |
+| Vcl. S.   | p b    | t d    | ts dz    | ʈ ɖ          | k g   |
+| PNsl. S.  | mp mb  | nt nd  | nts ndz  | nʈ nɖ        | ŋk ŋg |
+| Vcl. F.   |        | f v    | s z      |              | h     |
+| Nasal     | m      |        | n        |              |       |
+| Sonorant  |        |        | l r      |              |       |
+
+| Khoemana  | Labial | Alveolar | Velar  | Glottal |
+| ---       | ---    | ---      | ---    | ---     |
+| Plosive   | b      | t d tʰ   | k g kʰ |         |
+| Fricative |        | s        | x      | h       |
+| Nasal     | m      | n        |        |         |
+| Sonorant  |        | r        |        |         |
+
 - Khoemana
     - Vowels (5): plain, nasal
     - PoA: Labial, Alveolar, Velar, Glottal (ʔ and h)
