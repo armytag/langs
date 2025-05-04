@@ -1,40 +1,27 @@
 ## Phonology
 
-### Chukchi
+### Consonants
 
-Consonants
-- Manner of Articulation
-    - Nasal
-    - Plain stop
-    - Fricative
-    - Lateral
-    - Semivowel
-- Place of Articulation
-    - Bilabial
-    - Alveolar
-    - Retroflex
-    - Palatal
-    - Velar
-    - Uvular
-    - Glottal
+| Chukchi   | Labial | Alveolar | Palatal | Velar | Uvular |
+| ---       | ---    | ---      | ---     | ---   | ---    |
+| Nasal     | p      | t        |         | ŋ     |        |
+| Stop      | m      | n        |         | k     | q      |
+| Fricative |        | s        | tʃ      |       |        |
+| Approx.   | w      | r        | j       | ɣ     |        |
+| Lateral   |        | ɬ        |         |       |        |
 
-Vowels
-- Qualities
-    - Front close
-    - Back close
-    - Front mid (in both harmony sets)
-    - Central mid
-    - Back mid
-    - Central open
-- Height harmony
+| Egyptian  | Labial | Alveolar | Palatal | Velar | Uvular |
+| ---       | ---    | ---      | ---     | ---   | ---    |
+| Nasal     | p      | t        |         | ŋ     |        |
+| Stop      | m      | n        |         | k     | q      |
+| Fricative |        | s        | tʃ      |       |        |
+| Approx.   | w      | r        | j       | ɣ     |        |
+| Lateral   |        | ɬ        |         |       |        |
 
-### Spokane Salish
-
-Consonants
-- Manner of Articulation
-    - Nasal (plain and glottalized)
-    - Stop (plain and ejective)
-    - Fricative
-    - Lateral
-    - Semivowel
-    - Rhotic
+| Salish    | Labial | Alveolar | Palatal | Velar | Uvular |
+| ---       | ---    | ---      | ---     | ---   | ---    |
+| Nasal     | p      | t        |         | ŋ     |        |
+| Stop      | m      | n        |         | k     | q      |
+| Fricative |        | s        | tʃ      |       |        |
+| Approx.   | w      | r        | j       | ɣ     |        |
+| Lateral   |        | ɬ        |         |       |        |

@@ -2,6 +2,24 @@
 
 By armytag
 
+## Summary (Typology)
+
+1. Junglelang
+    - Breathy-voiced segments
+    - Retroflex & Palatal
+    - Reduplication
+    - Egophoric person-marking
+1. Oceanlang
+    - Tone
+    - Nasal vowels
+    - Consonant mutation
+    - Prenasalized consonants
+    - Dental and Alveolar PoA
+1. Mountainlang
+    - Polypersonal agreement
+1. Plainslang
+    - Polysynthesis
+
 ## Ideas
 
 ### Priorities
