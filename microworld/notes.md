@@ -16,9 +16,11 @@ By armytag
     - Prenasalized consonants
     - Dental and Alveolar PoA
 1. Mountainlang
+    - Dialect continuum
     - Polypersonal agreement
-1. Plainslang
     - Polysynthesis
+    - Glottalization
+    - Vowel insertion/templating
 
 ## Ideas
 
@@ -34,7 +36,7 @@ By armytag
 - Ergative alignment
 - Metathesis
 - Consonant harmony
-- Secondary articulations (Plainslang)
+- Secondary articulations (Mountainlang)
 - Retroflexes (Junglelang)
 - Allophonic /ɽ̥/, /ɰ/
 

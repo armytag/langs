@@ -1,4 +1,4 @@
-## Phonetics
+## Phonology
 
 ### Consonants
 
@@ -14,22 +14,21 @@
 | Appr.     | w      | l        | j       |       |         |
 | Rhotic    |        | r        |         |       |         |
 
-| Jingpo    | Labial     | Alveolar  | Retroflex | Palatal  | Velar      | Glottal |
-| ---       | ---        | ---       | ---       | ---      | ---        | ---     |
-| Nasal     | m mʲ       | n nʲ      |           |          | ŋ          |         |
-| Glt. Nsl. | ˀm ˀmʲ     | ˀn ˀnʲ    |           |          | ˀŋ         |         |
-| Vl. S.    | p pʲ pʐ    | t         |           | tɕ       | k kʲ kʐ    | ʔ       |
-| Vl. S.    | pʰ pʰʲ pʰʐ | tʰ        |           |          | kʰ kʰʲ kʰʐ |         |
-| Vd. S.    | b bʲ bʐ    | d         |           | dʑ       | g gʲ gʐ    |         |
-| Fric.     |            | s         |           | ɕ        |            |         |
-| Appr.     | w ˀw       | l ˀl      | ɻ ˀɻ      | j ˀj     |            |         |
+| Egyptian  | Labial | Alveolar | Palatal | Velar | Uvular | Pharyn. | Glottal |
+| ---       | ---    | ---      | ---     | ---   | ---    |  ---    |  ---    |
+| Nasal     | m      | n        |         |       |        |         |         |
+| Stop      | pʰ b   | tʰ tʼ    | cʰ cʼ   | kʰ kʼ | qʼ     |         | ʔ       |
+| Fricative |        | sʲ sʼ    | ʃ ç     |       | χ      | ħ ʕ     | h       |
+| Approx.   | w      | r        | j       |       | ʀ      |         |         |
+| Lateral   |        | l        |         |       |        |         |         |
 
-| Ngiyampaa | Labial | Dental | Alveolar | Retroflex | Palatal | Velar |
-| ---       | ---    | ---    | ---      | ---       | ---     | ---   |
-| Nasal     | m      | n̪      | n        |           | ɲ       | ŋ     |
-| Vd. S.    | b      | d̪      | d        |           | ɟ       | g     |
-| Appr.     | w      |        | l        | ɻ         | j       |       |
-| Rhotic    |        |        | r        |           |         |       |
+| Salish    | Labial | Alveolar | Spirant | Lateral | Palatal | Velar | Uvular | Glottal |
+| ---       | ---    | ---      | ---     | ---     | ---     | ---   | ---    |  ---    |
+| Stop      | p      | t        | ts      |         | tʃ      | kʷ    | q  qʷ  | ʔ       |
+| Glt. Stop | pʼ     | tʼ       | tsʼ     | tɬʼ     | tʃʼ     | kʼʷ   | qʼ qʼʷ |         |
+| Fricative |        |          | s       | ɬ       | ʃ       | xʷ    | χ χʷ   | h       |
+| Resonant  | m      | n        | r       | l       | j       | w     | ʕ ʕʷ   |         |
+| Glt. Res. | ˀm     | ˀn       | ˀr      | ˀl      | ˀj      | ˀw    | ˀʕ ˀʕʷ |         |
 
 ### Vowels
 
@@ -39,14 +38,14 @@
 | Mid       | e eː   |        | o oː   |
 | Low       |        | a aː   |        |
 
-| Jingpo    | Front  | Center | Back   |
-| ---       | ---    | ---    | ---    |
-| High      | i      |        | u      |
-| Mid       | e      | ə      | o      |
-| Low       |        | a      |        |
+| Egyptian | Front  | Center | Back   |
+| ---      | ---    | ---    | ---    |
+| High     | i iː   |        | u uː   |
+| Low      |        | a aː   |        |
 
-| Ngiyampaa | Front  | Center | Back   |
-| ---       | ---    | ---    | ---    |
-| High      | i iː   |        | u uː   |
-| Low       |        | a aː   |        |
+| Salish   | Front  | Center | Back   |
+| ---      | ---    | ---    | ---    |
+| High     | i      |        | u      |
+| Mid      | e      | (ə)    | o      |
+| Low      |        | a      |        |
 
