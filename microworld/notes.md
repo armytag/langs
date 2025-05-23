@@ -15,10 +15,12 @@ By armytag
     - Consonant mutation
     - Prenasalized consonants
     - Dental and Alveolar PoA
-1. Mountainlang (Ch'ol, Jingpo, Ngiyampaa)
+1. Mountainlang (Ch'ol, Jingpo, Ngiyampaa)(Chukchi, Salish, Egyptian)
+    - Dialect continuum
     - Polypersonal agreement
-1. Plainslang (Chukchi, Salish, Egyptian)
     - Polysynthesis
+    - Glottalization
+    - Vowel insertion/templating
 
 ## Ideas
 
@@ -34,7 +36,7 @@ By armytag
 - Ergative alignment
 - Metathesis
 - Consonant harmony
-- Secondary articulations (Plainslang)
+- Secondary articulations (Mountainlang)
 - Retroflexes (Junglelang)
 - Allophonic /ɽ̥/, /ɰ/
 

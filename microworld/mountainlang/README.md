@@ -1,9 +1,13 @@
-# Maggot Therapy Language
+# Mountainlang
 
-## References
+## Insipiration
 
-- Inspired by the use of green bottle fly maggots in maggot therapy
-- A synthesis of three language from cultures that historically used maggot therapy:
-    - Ch'ol language, Mayan [https://en.wikipedia.org/wiki/Ch%CA%BCol_language]
-    - Jingpo language, Burmese [https://en.wikipedia.org/wiki/Jingpo_language]
-    - Ngiyampaa language, Pama-Nyungan (Australian) [https://en.wikipedia.org/wiki/Ngiyampaa_language]
+Reference Languages:
+- Ch'ol language, Mayan [https://en.wikipedia.org/wiki/Ch%CA%BCol_language]
+- Spokane Salish [https://en.wikipedia.org/wiki/Salish%E2%80%93Spokane%E2%80%93Kalispel_language]
+- Egyptian [https://en.wikipedia.org/wiki/Egyptian_language]
+
+Features:
+- Polysynthesis
+- Glottalization
+- Vowel insertion/templating
