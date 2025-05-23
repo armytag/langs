@@ -57,8 +57,46 @@ Symbol w [voiced labial approximant]
 Symbol j [voiced palatal approximant]
 
 Syllables:
-[cons]? {[trill], [tap], [approximant]}? [vowel] [cons]?
-[cons]? [vowel] {[trill], [tap], [approximant]}? [cons]?
-[cons]? [vowel] [palatal]? [cons]?
-[cons]? [vowel] [cons]? [palatal]?
-[+sibilant]? [cons]? [vowel] [cons]?
+[cons]? [cons]? {[trill], [tap], [approximant]}? [vowel] [cons]? [cons]?
+# [cons]? {[trill], [tap], [approximant]}? [vowel] {[palatal], [+sibilant]}? [cons]?
+# [cons]? [vowel] {[trill], [tap], [approximant]}? [cons]?
+# [cons]? [vowel] {[palatal], [+sibilant]}? [cons]?
+# [cons]? [vowel] [cons]? {[palatal], [+sibilant]}?
+# [+sibilant]? [cons]? [vowel] [cons]?
+
+Preformatting:
+[cons +long] * => [cons -long] [cons -long]
+
+T76:
+ʃ => k / [vowel +back] _ $
+Else: ʃ => s / _ $
+
+T77:
+{x, ɣ} => {ʍ, w} / _ [vowel +round]
+Else: {x, ɣ} =>  {kʰ, x}
+
+T78:
+{f, θ} => {pʰ, tʰ}
+{ɾ̥, ɾ} => {ɬ, l} / [cons] _
+
+
+T80:
+{ɪ, ʏ, ɛ, œ, a, ʊ, ɔ} => {i, u, e, ɛ, a, o, ɔ}
+{ɪː, ʏː, ɛː, œː, aː, ʊː, ɔː} => {iː, uː, je, ja, aː, oː, wa}
+
+T83:
+{[nasal] w, [nasal] r, [nasal] j, q} => {ʔ p, ʔ k, ʔ t, ʔ}
+{r̥, ʍ, h} => {h, f, ʔ}
+
+
+cleanup:
+unchanged
+
+Syllables:
+clear
+
+# romanizer:
+# {ɣ, ʍ, r̥, ʃ, t͡ɕ, d͡ʑ, θ, ŋ, kʰ, pʰ, tʰ} => {g, hw, hr, c, ch, zh, th, ng, kh, ph, th}
+# [vowel +long]$1 * => $1 $1
+# Then: [vowel +long]$1 $1 => [-long] [-long]
+# Then: {ɪ, ʏ, ɛ, œ, a, ʊ, ɔ} => {i, ü, e, ö, a, u, o}
