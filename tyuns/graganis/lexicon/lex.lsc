@@ -1,0 +1,64 @@
+# For combining two files together
+# pr -tmJS proto.wli proto-rand.wli > proto-compound.wli
+
+Feature front, back, round
+Feature height(low, lowmid, mid, highmid, high)
+Feature type(*cons, vowel)
+Feature voicing(unvoiced, voiced)
+Feature place(labial, alveolar, palatal, velar, uvular, glottal)
+Feature manner(nasal, stop, affricate, fricative, approximant, trill, tap)
+Feature +long, +lateral, +aspirated, sibilant
+Feature (syllable) +stress
+Diacritic ː [+long]
+Diacritic ʰ [+aspirated]
+Diacritic ' (before) [+stress]
+Symbol i [high    +front -back -round vowel]
+Symbol ɪ [highmid +front -back -round vowel]
+Symbol ʏ [highmid +front -back +round vowel]
+Symbol e [mid     +front -back -round vowel]
+Symbol ɛ [lowmid  +front -back -round vowel]
+Symbol œ [lowmid  +front -back +round vowel]
+Symbol a [low     -front -back -round vowel]
+Symbol u [high    -front +back +round vowel]
+Symbol ʊ [highmid -front +back +round vowel]
+Symbol o [mid     -front +back +round vowel]
+Symbol ɔ [lowmid  -front +back +round vowel]
+Symbol p [unvoiced labial stop]
+Symbol t [unvoiced alveolar stop]
+Symbol k [unvoiced velar stop]
+Symbol q [unvoiced uvular stop]
+Symbol ʔ [unvoiced glottal stop]
+Symbol b [voiced labial stop]
+Symbol d [voiced alveolar stop]
+Symbol g [voiced velar stop]
+Symbol m [labial nasal]
+Symbol n [alveolar nasal]
+Symbol ɲ [palatal nasal]
+Symbol ŋ [velar nasal]
+Symbol l [alveolar approximant +lateral]
+Symbol r̥ [unvoiced alveolar trill]
+Symbol r [voiced alveolar trill]
+Symbol ɾ̥ [unvoiced alveolar tap]
+Symbol ɾ [voiced alveolar tap]
+Symbol f [unvoiced labial fricative -sibilant]
+Symbol v [voiced labial fricative -sibilant]
+Symbol ɬ [unvoiced alveolar fricative +lateral]
+Symbol θ [unvoiced alveolar fricative -sibilant]
+Symbol s [unvoiced alveolar fricative +sibilant]
+Symbol ʃ [unvoiced palatal fricative +sibilant]
+Symbol z [voiced alveolar fricative +sibilant]
+Symbol x [unvoiced velar fricative -sibilant]
+Symbol ɣ [voiced velar fricative -sibilant]
+Symbol h [unvoiced glottal fricative -sibilant]
+Symbol t͡ɕ [unvoiced palatal affricate]
+Symbol d͡ʑ [voiced palatal affricate]
+Symbol ʍ [unvoiced labial approximant]
+Symbol w [voiced labial approximant]
+Symbol j [voiced palatal approximant]
+
+Syllables:
+[cons]? {[trill], [tap], [approximant]}? [vowel] [cons]?
+[cons]? [vowel] {[trill], [tap], [approximant]}? [cons]?
+[cons]? [vowel] [palatal]? [cons]?
+[cons]? [vowel] [cons]? [palatal]?
+[+sibilant]? [cons]? [vowel] [cons]?
