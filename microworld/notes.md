@@ -4,20 +4,20 @@ By armytag
 
 ## Summary (Typology)
 
-1. Junglelang
+1. Junglelang (Newar, Javanese, Sinhala)
     - Breathy-voiced segments
     - Retroflex & Palatal
     - Reduplication
     - Egophoric person-marking
-1. Oceanlang
+1. Oceanlang (Comorian, Malagasy, Khoemana)
     - Tone
     - Nasal vowels
     - Consonant mutation
     - Prenasalized consonants
     - Dental and Alveolar PoA
-1. Mountainlang
+1. Mountainlang (Ch'ol, Jingpo, Ngiyampaa)
     - Polypersonal agreement
-1. Plainslang
+1. Plainslang (Chukchi, Salish, Egyptian)
     - Polysynthesis
 
 ## Ideas
