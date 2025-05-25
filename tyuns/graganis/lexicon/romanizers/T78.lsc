@@ -1,0 +1,10 @@
+Syllables:
+explicit
+
+Syllables:
+clear
+
+romanizer:
+{ɣ, ʍ, r̥, ʃ, t͡ɕ, d͡ʑ, θ, ŋ, kʰ, pʰ, tʰ} => {g, hw, hr, c, ch, zh, th, ng, kh, ph, th}
+{ɪː, ʏː, ɛː, œː, aː, ʊː, ɔː} => {ɪɪ, ʏʏ, ɛɛ, œœ, aa, ʊʊ, ɔɔ}
+Then: {ɪ, ʏ, ɛ, œ, a, ʊ, ɔ} => {i, ü, e, ö, a, u, o}
