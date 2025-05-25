@@ -9,6 +9,8 @@ Feature place(labial, alveolar, palatal, velar, uvular, glottal)
 Feature manner(nasal, stop, affricate, fricative, approximant, trill, tap)
 Feature +long, +lateral, +aspirated, sibilant
 Feature (syllable) +stress
+Feature +priorstress
+Diacritic ́ [+priorstress]
 Diacritic ː [+long]
 Diacritic ʰ [+aspirated]
 Diacritic ' (before) [+stress]
@@ -61,9 +63,10 @@ Syllables:
 explicit
 
 Preformatting:
-[cons +long] * => [cons -long] [cons -long]
-[cons]$1 * {[approximant], [tap], [trill], [nasal], [+sibilant]}$2 => $1 ɪ $2 / [vowel] _ {[cons], $}
-ð => θ
+[+priorstress] => [-priorstress]
+Then: [cons +long] * => [cons -long] [cons -long]
+Then: [cons]$1 * {[approximant], [tap], [trill], [nasal], [+sibilant]}$2 => $1 ɪ $2 / [vowel] _ {[cons], $}
+Then: ð => θ
 
 Syllables:
 [cons] [vowel] [cons]
