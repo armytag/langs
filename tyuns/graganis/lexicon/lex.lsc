@@ -57,12 +57,11 @@ Symbol w [voiced labial approximant]
 Symbol j [voiced palatal approximant]
 
 Syllables:
-[cons]? [cons]? {[trill], [tap], [approximant]}? [vowel] [cons]? [cons]?
-# [cons]? {[trill], [tap], [approximant]}? [vowel] {[palatal], [+sibilant]}? [cons]?
-# [cons]? [vowel] {[trill], [tap], [approximant]}? [cons]?
-# [cons]? [vowel] {[palatal], [+sibilant]}? [cons]?
-# [cons]? [vowel] [cons]? {[palatal], [+sibilant]}?
-# [+sibilant]? [cons]? [vowel] [cons]?
+[cons] [vowel]
+[cons] [vowel] [cons]
+[cons] [cons] [vowel] [cons]
+[cons] [vowel] [cons] [cons]
+[cons] [cons] [cons]? [vowel] [cons] [cons]?
 
 Preformatting:
 [cons +long] * => [cons -long] [cons -long]
@@ -76,7 +75,7 @@ T77:
 Else: {x, ɣ} =>  {kʰ, x}
 
 T78:
-{f, θ} => {pʰ, tʰ}
+{f, θ} => {pʰ, tʰ} // _ $
 {ɾ̥, ɾ} => {ɬ, l} / [cons] _
 
 T79:
