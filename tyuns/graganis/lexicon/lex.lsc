@@ -85,15 +85,16 @@ T78:
 {ɾ̥, ɾ} => {ɬ, l} / [cons] _
 
 T79:
-unchanged
-
-T80:
 {ɪ, ʏ, ɛ, œ, a, ʊ, ɔ} => {i, u, e, ɛ, a, o, ɔ}
 {ɪː, ʏː, ɛː, œː, aː, ʊː, ɔː} => {iː, uː, je, ja, aː, oː, wa}
+Then: w w => ʍ *
+Then: j j => j *
+
+T80:
+unchanged
 
 T81:
-w w => ʍ *
-j j => j *
+unchanged
 
 T82:
 unchanged
@@ -104,7 +105,6 @@ T83:
 
 T84:
 unchanged
-
 
 cleanup:
 unchanged
