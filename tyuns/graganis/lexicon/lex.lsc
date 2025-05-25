@@ -44,6 +44,7 @@ Symbol f [unvoiced labial fricative -sibilant]
 Symbol v [voiced labial fricative -sibilant]
 Symbol ɬ [unvoiced alveolar fricative +lateral]
 Symbol θ [unvoiced alveolar fricative -sibilant]
+Symbol ð [voiced alveolar fricative -sibilant]
 Symbol s [unvoiced alveolar fricative +sibilant]
 Symbol ʃ [unvoiced palatal fricative +sibilant]
 Symbol z [voiced alveolar fricative +sibilant]
@@ -56,15 +57,14 @@ Symbol ʍ [unvoiced labial approximant]
 Symbol w [voiced labial approximant]
 Symbol j [voiced palatal approximant]
 
-Syllables:
-[cons] [vowel]
-[cons] [vowel] [cons]
-[cons] [cons] [vowel] [cons]
-[cons] [vowel] [cons] [cons]
-[cons] [cons] [cons]? [vowel] [cons] [cons]?
-
 Preformatting:
 [cons +long] * => [cons -long] [cons -long]
+[cons]$1 * {[approximant], [tap], [trill], [nasal], [+sibilant]}$2 => $1 ɪ $2 / [vowel] _ {[cons], $}
+ð => θ
+
+Syllables:
+[cons] [vowel] [cons]
+[+sibilant]? [cons]? {[approximant], [tap], [trill]}? [vowel] {[approximant], [tap], [trill], [nasal], [+sibilant]}? [cons]?
 
 T76:
 ʃ => k / [vowel +back] _ $
@@ -72,7 +72,7 @@ Else: ʃ => s / _ $
 
 T77:
 {x, ɣ} => {ʍ, w} / _ [vowel +round]
-Else: {x, ɣ} =>  {kʰ, x}
+{x, ɣ} => {kʰ, x}
 
 T78:
 {f, θ} => {pʰ, tʰ} // _ $
