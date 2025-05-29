@@ -5,6 +5,6 @@ Syllables:
 clear
 
 romanizer:
-{ɣ, ʍ, r̥, ʃ, t͡ɕ, d͡ʑ, θ, ŋ, kʰ, pʰ, tʰ} => {g, hw, hr, c, ch, zh, th, ng, kh, ph, th}
-{ɪː, ʏː, ɛː, œː, aː, ʊː, ɔː} => {ɪɪ, ʏʏ, ɛɛ, œœ, aa, ʊʊ, ɔɔ}
-Then: {ɪ, ʏ, ɛ, œ, a, ʊ, ɔ} => {i, ü, e, ö, a, u, o}
+{ɣ, ʍ, r̥, ɬ, ʃ, t͡ɕ, d͡ʑ, θ, ŋ, kʰ, pʰ, tʰ} => {g, hw, hr, hl, c, ch, zh, th, ng, kh, ph, th}
+{iː, uː, eː, oː, aː} => {ii, uu, ee, oo, aa}
+Then: {i, e, ɛ, a, u, o, ɔ} => {i, e, ê, a, u, o, ô}
