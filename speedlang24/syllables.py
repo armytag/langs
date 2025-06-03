@@ -47,10 +47,9 @@ STRESS_STRUCTS = []
 STRESS_STRUCTS += ['CVC'] * 2
 STRESS_STRUCTS += ['CCVC'] * 1
 SYLL_COUNTS = []
-SYLL_COUNTS += [0] * 1
-SYLL_COUNTS += [1] * 1
-SYLL_COUNTS += [2] * 0
-SYLL_COUNTS += [3] * 0
+SYLL_COUNTS += [1] * 3
+SYLL_COUNTS += [2] * 2
+SYLL_COUNTS += [3] * 1
 SYLL_COUNTS += [4] * 0
 
 
@@ -72,12 +71,14 @@ def generate_syllable(onset_shape, coda_shape):
         coda += rand.choice(flatten_matrix(
             [NONAPPROXIMANTS, "ʋ",]
         ))
-    if len(coda_shape) == 0:
-        if vowel != "a":
-            vowel = "ə"
-    if onset.endswith("ɦ"):
-        vowel = BREATHY_VOWELS[vowel]
-        onset = onset[:-1]
+    # if len(coda_shape) == 0:
+    #     if vowel != "a":
+    #         vowel = "ə"
+    # if onset.endswith("ɦ"):
+    #     vowel = BREATHY_VOWELS[vowel]
+    #     onset = onset[:-1]
+    #     if len(coda_shape) == 1 and len(onset_shape) == 1:
+    #         onset = "ʔ"
     syll = onset + vowel + coda
     return syll
 
@@ -99,9 +100,6 @@ def borodovsky_gusein_zade(r, n):
 
 
 if __name__ == "__main__":
-    # phonemes = NASALS # + FRICATIVES + PLOSIVES + RHOTICS
-    # print(phonemes)
-    # print(generate_frequencies(phonemes))
     word_count = 10 * 2
     words = []
     w = 0
@@ -109,16 +107,22 @@ if __name__ == "__main__":
         syll_count = rand.choice(SYLL_COUNTS)
         syllables = []
         word = ''
-        # Stressed syllable
-        structure = rand.choice(STRESS_STRUCTS)
-        syllable = "" + get_syllable(structure)
-        syllables.append(syllable)
-        # Unstressed syllables
-        for s in range(syll_count):
-            structure = rand.choice(SYLL_STRUCTS)
+        if syll_count == 1:
+            structure = rand.choice(flatten_matrix(
+                [STRESS_STRUCTS, SYLL_STRUCTS,]
+            ))
             syllable = get_syllable(structure)
             syllables.append(syllable)
-        rand.shuffle(syllables)
+        else:
+            # Unstressed syllables
+            for s in range(syll_count - 1):
+                structure = rand.choice(SYLL_STRUCTS)
+                syllable = get_syllable(structure)
+                syllables.append(syllable)
+            # Stressed syllable
+            structure = rand.choice(STRESS_STRUCTS)
+            syllable = get_syllable(structure)
+            syllables.append(syllable)
         word = "".join(syllables)
         if len(word) > 1 and word not in words:
             words.append(word)
