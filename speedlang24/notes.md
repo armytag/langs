@@ -20,16 +20,16 @@
 
 - C: any consonant, V: any vowel,
 - Unstressed syllable: (C)(ʋ)V
-- Stressed syllable: C(ʋ)V(C)
+- Stressed syllable: C(ʋ)VC
 
 # Requirements
 
 ## Phonology
 
-- [ ] No diphthongs, but allow adjacent vowels.
-- [ ] Voicing must be a contrastive feature, but at only one POA.
-- [ ] Have a stress system, but have the stressed syllable be different more than merely in prominence. Maybe more vowel contrasts are allowed in stressed syllables; maybe stressed syllables have (or can have) different phonation; maybe stressed syllables carry tone (including contour tones); etc. You can call this 'pitch accent' if you like.
-- [ ] Don't include /w j/.
+- [x] No diphthongs, but allow adjacent vowels.
+- [x] Voicing must be a contrastive feature, but at only one POA.
+- [x] Have a stress system, but have the stressed syllable be different more than merely in prominence. Maybe more vowel contrasts are allowed in stressed syllables; maybe stressed syllables have (or can have) different phonation; maybe stressed syllables carry tone (including contour tones); etc. You can call this 'pitch accent' if you like.
+- [x] Don't include /w j/.
 
 ## Morphology
 
