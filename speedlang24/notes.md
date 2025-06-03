@@ -22,6 +22,16 @@
 - Unstressed syllable: (C)(ʋ)V
 - Stressed syllable: C(ʋ)VC
 
+### Noun Cases
+
+- 'static' for contextual referants
+- 'dynamic' for nouns involved in the action
+- 'topical' for introducing topics
+
+### Positionals
+
+Like Mayan positionals, describes the internal orientation of a noun.  Can be used to specify nouns in context of a specific action (adverbially), or to generally describe the noun (adjectivally).
+
 ## Requirements
 
 ### Phonology
