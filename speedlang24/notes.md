@@ -32,6 +32,14 @@
 
 Like Mayan positionals, describes the internal orientation of a noun.  Can be used to specify nouns in context of a specific action (adverbially), or to generally describe the noun (adjectivally).
 
+### "Dual" Verb Form
+
+Verbs can reduplicate the body (not coda) of the first syllable in the root in order to indicate an action occuring a second time.
+
+### Syntax
+
+- OV order and postpositions
+
 ## Requirements
 
 ### Phonology
@@ -43,7 +51,7 @@ Like Mayan positionals, describes the internal orientation of a noun.  Can be us
 
 ### Morphology
 
-- [ ] Have a 'dual form' for verbs. Interpret this how you will.
+- [x] Have a 'dual form' for verbs. Interpret this how you will.
 - [ ] Have a normal-ish set of TAM(E) distinctions, and then exactly 1x weird outlier. For example, normal-ish TAM(E) distinctions might be past/non-past and perfective/imperfective; but then a weird outlier could be a TAM used only for events seen in visions.
 - [ ] Nouns have at least 3x cases, and 2x of the cases must be called 'static' and 'dynamic'. Interpret this how you will.
 - [ ] Use 'inversion' on nouns or verbs (or both) to indicate something. By 'inversion' I mean swap the vowels, or invert the tone contour, or swap the MOA or POA of some consonants etc. Could be used to indicate plurality, pluractionality, TAME, possession, definiteness, etc. Use your imagination.
