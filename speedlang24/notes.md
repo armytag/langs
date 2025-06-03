@@ -1,13 +1,13 @@
 # Ideas
 
-|             | Bilabial | Alveolar | Velar | Glottal |
-| ---         | ---      | ---      | ---   | ---     |
-| Nasal       | m        | n̥ n      |       |         |
-| Plosive     | p        | t d      | k     | ʔ       |
-| Fricative   | f        | s z      | x     |         |
-| Affricate   |          | ts dz    |       |         |
-| Trill       |          | r̥ r      |       |         |
-| Approximant | ʋ        | l        |       | ɦ       |
+|             | Labial  | Coronal    | Dorsal | Glottal |
+| ---         | ---     | ---        | ---    | ---     |
+| Nasal       | m       | n̥ \<hn\> n |        |         |
+| Plosive     | b       | t d        | k      | ʔ \<ʼ\> |
+| Fricative   |         | s z        | x      |         |
+| Affricate   |         | t͡s d͡z      |        |         |
+| Trill       |         | r̥ \<hr\> r |        |         |
+| Approximant | ʋ \<v\> |            |        |         |
 : Consonants
 
 |       | Front | Central | Back |
@@ -15,6 +15,12 @@
 | Close | i     |         | u    |
 | Mid   |       | ə       |      |
 | Open  |       | a       |      |
+
+### Phonotactics
+
+- C: any consonant, V: any vowel,
+- Unstressed syllable: (C)(ʋ)V
+- Stressed syllable: C(ʋ)V(C)
 
 # Requirements
 
