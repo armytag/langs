@@ -31,7 +31,7 @@
 
 ### Relator Nouns
 
-Like prepositions, but can also head noun phrases in their own right and otherwise appear without other nouns.
+Like prepositions, but can also head noun phrases in their own right and otherwise appear without other nouns.  Can occur before a determiner to modify a noun, or after a determiner to modify the phrase.
 
 ### Positionals (?)
 
@@ -40,6 +40,13 @@ Like Mayan positionals, describes the internal orientation of a noun.  Can be us
 ### "Dual" Verb Form
 
 Verbs can reduplicate the body (not coda) of the first syllable in the root in order to indicate an action occuring a second time.
+
+### TAM(E)
+
+- Tense marked by ambiguous words (might be inflected or uninflected, or both?)
+- Aspect marked by inflected words (auxiliaries, not predicate verb)
+- Mood marked on the verb (maybe in combination with a separate word)
+- No evidential marking
 
 ### Syntax
 
