@@ -48,9 +48,23 @@ Verbs can reduplicate the body (not coda) of the first syllable in the root in o
 - Mood marked on the verb (maybe in combination with a separate word)
 - No evidential marking
 
+### Diminutive Register
+
+- Special marking for when you're holding your toes together
+
 ### Syntax
 
 - OV order and postpositions
+
+### Color/Texture Term
+
+- *naʋ* "squeaky purple"
+- *ʋar̥* "green for plants, pale for animals, light blue for sky"
+
+### Sound Symbolism
+
+- *bʋ-* Senses/perception (touch, taste, hearing, sight, etc.)
+- *aʔ-* Ghosts/spirits/supernatural
 
 ## Requirements
 
@@ -76,8 +90,8 @@ Verbs can reduplicate the body (not coda) of the first syllable in the root in o
 
 ### Vocabulary
 
-1. [ ] Have a weird colour/texture term (could be very specific, or very vague, like 'red and rubbery' or 'blonde but also maybe reddish-brown or coppery'). Bonus if it means a different thing in different collocations.
-1. [ ] Include two sets of words that exhibit sound symbolism. For example, in English a bunch of words beginning gl- have to do with light: gleam, glimmer, glint, glare, glow, gloaming, glisten; and sl- have to do with wetness: slip, slide, slug, slick, slop, slush, slurp, slobber. You need to make 2x sets of at least 3x words in each set. You cannot use sound symbolism for wetness or light.
+1. [x] Have a weird colour/texture term (could be very specific, or very vague, like 'red and rubbery' or 'blonde but also maybe reddish-brown or coppery'). Bonus if it means a different thing in different collocations.
+1. [x] Include two sets of words that exhibit sound symbolism. For example, in English a bunch of words beginning gl- have to do with light: gleam, glimmer, glint, glare, glow, gloaming, glisten; and sl- have to do with wetness: slip, slide, slug, slick, slop, slush, slurp, slobber. You need to make 2x sets of at least 3x words in each set. You cannot use sound symbolism for wetness or light.
 
 ### Bonus
 
