@@ -26,9 +26,14 @@
 
 - 'static' for contextual referants
 - 'dynamic' for nouns involved in the action
-- 'topical' for introducing topics
+- 'relative' for associating noun phrases together
+- 'topical/vocative' for highlighting the topic of discourse, or to address someone
 
-### Positionals
+### Relator Nouns
+
+Like prepositions, but can also head noun phrases in their own right and otherwise appear without other nouns.
+
+### Positionals (?)
 
 Like Mayan positionals, describes the internal orientation of a noun.  Can be used to specify nouns in context of a specific action (adverbially), or to generally describe the noun (adjectivally).
 
@@ -53,7 +58,7 @@ Verbs can reduplicate the body (not coda) of the first syllable in the root in o
 
 - [x] Have a 'dual form' for verbs. Interpret this how you will.
 - [ ] Have a normal-ish set of TAM(E) distinctions, and then exactly 1x weird outlier. For example, normal-ish TAM(E) distinctions might be past/non-past and perfective/imperfective; but then a weird outlier could be a TAM used only for events seen in visions.
-- [ ] Nouns have at least 3x cases, and 2x of the cases must be called 'static' and 'dynamic'. Interpret this how you will.
+- [x] Nouns have at least 3x cases, and 2x of the cases must be called 'static' and 'dynamic'. Interpret this how you will.
 - [ ] Use 'inversion' on nouns or verbs (or both) to indicate something. By 'inversion' I mean swap the vowels, or invert the tone contour, or swap the MOA or POA of some consonants etc. Could be used to indicate plurality, pluractionality, TAME, possession, definiteness, etc. Use your imagination.
 - [ ] Somewhere, include deliberate ambiguity (nouns/verbs that don't change form; syncretism in agreement markers or cases; etc.)
 
