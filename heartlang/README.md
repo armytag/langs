@@ -20,6 +20,7 @@ The speaker is a human, taller than average, with lots of hair on the head, face
 
 1. Reduplication like Newar (and Thai?)
 1. Some initial mutations: vowels (Sinhala), consonants (Newar), or both
+1. Breathiness, voicing, and tone like [Dzongkha](https://en.wikipedia.org/wiki/Dzongkha) (?)
 
 Inspiration:
 - mtʃarabi
@@ -29,6 +30,13 @@ Sounds from inspiration:
 - syllabic nasals
 
 ## Phonology
+
+| VOWELS | Front | Central | Back |
+| ---    | ---   | ---     | ---  |
+| Close  | i     | ɨ       | u    |
+| Open   | ɛ     | a       | ɔ    |
+
+- Unstressed central (a + ɨ) and back vowels (u + ɔ) centralize to mid \[ə\] and \[o\] respectively, like [Bulgarian](https://en.wikipedia.org/wiki/Bulgarian_phonology) (?)
 
 ## Lexicon Ideas
 
