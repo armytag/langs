@@ -29,6 +29,18 @@ Inspiration:
 Sounds from inspiration:
 - syllabic nasals
 
+Place of Articulation:
+- bilabial
+- alveolar
+- retroflex
+- velar
+
+Manner of Articulation:
+- Nasal
+- Plosive
+- Fricative (?)
+- Trill
+
 ## Phonology
 
 | VOWELS | Front | Central | Back |
@@ -37,6 +49,14 @@ Sounds from inspiration:
 | Open   | ɛ     | a       | ɔ    |
 
 - Unstressed central (a + ɨ) and back vowels (u + ɔ) centralize to mid \[ə\] and \[o\] respectively, like [Bulgarian](https://en.wikipedia.org/wiki/Bulgarian_phonology) (?)
+
+| CONSONANTS | Labial | Alveolar | Retroflex | Palatal | Velar |
+| ---        | ---    | ---      | ---       | ---     | ---   |
+| Stiff Stop | p      | t        | ʈ         | tʃ      | k     |
+| Slack Stop | b̥      | d̥        | ɖ̥         | dʒ̊      | g̊     |
+| Fricative  | f      | s        |           |         |       |
+| Nasal      | m      | n        |           | ɲ       | ŋ     |
+| Sonorant   |        | r        | ɽ         | j       |       |
 
 ## Lexicon Ideas
 
