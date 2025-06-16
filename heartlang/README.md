@@ -52,11 +52,11 @@ Manner of Articulation:
 
 | CONSONANTS | Labial | Alveolar | Retroflex | Palatal | Velar |
 | ---        | ---    | ---      | ---       | ---     | ---   |
-| Stiff Stop | p      | t        | ʈ         | tʃ      | k     |
-| Slack Stop | b̥      | d̥        | ɖ̥         | dʒ̊      | g̊     |
-| Fricative  | f      | s        |           |         |       |
-| Nasal      | m      | n        |           | ɲ       | ŋ     |
-| Sonorant   |        | r        | ɽ         | j       |       |
+| Stiff Stop | p      | t        | ʈ         | c       | k     |
+| Slack Stop | b̥      | d̥        | ɖ̥         | ɟ̊       | g̊     |
+| Fricative  | f      | s        | ʂ         | ç       |       |
+| Nasal      | m      | n        | ɳ         | ɲ       | ŋ     |
+| Sonorant   |        | r        | ɻ         | j       |       |
 
 ## Lexicon Ideas
 
