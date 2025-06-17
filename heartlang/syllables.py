@@ -82,7 +82,7 @@ def borodovsky_gusein_zade(r, n):
 
 
 if __name__ == "__main__":
-    word_count = 10 * 5
+    word_count = 10 * 10
     words = []
     w = 0
     while w < word_count:
