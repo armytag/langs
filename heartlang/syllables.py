@@ -34,8 +34,8 @@ SYLL_STRUCTS += ['V'] * 1
 SYLL_STRUCTS += ['CV'] * 4
 SYLL_STRUCTS += ['CCV'] * 0
 STRESS_STRUCTS = []
-STRESS_STRUCTS += ['CVC'] * 2
-STRESS_STRUCTS += ['CCVC'] * 0
+STRESS_STRUCTS += ['CVC'] * 3
+STRESS_STRUCTS += ['CCVC'] * 1
 SYLL_COUNTS = []
 SYLL_COUNTS += [1] * 3
 SYLL_COUNTS += [2] * 2
@@ -107,7 +107,8 @@ if __name__ == "__main__":
                 if rand.random() > 0.5:
                     syllables.append(syllable)
                 else:
-                    syllables = flatten_matrix([[syllable], syllables])
+                    # syllables = flatten_matrix([[syllable], syllables])
+                    syllables.append(syllable)
         word = ".".join(syllables)
         if len(word) > 1 and word not in words:
             words.append(word)

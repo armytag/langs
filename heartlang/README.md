@@ -29,19 +29,29 @@ Inspiration:
 Sounds from inspiration:
 - syllabic nasals
 
-Place of Articulation:
-- bilabial
-- alveolar
-- retroflex
-- velar
-
-Manner of Articulation:
-- Nasal
-- Plosive
-- Fricative (?)
-- Trill
-
 ## Phonology
+
+### Proto Phonology
+
+| CONSONANTS | Labial | Alveolar | Retroflex | Palatal | Velar |
+| ---        | ---    | ---      | ---       | ---     | ---   |
+| Vcl. Stop  | p      | t        | ʈ         | c       | k     |
+| Asp. Stop  | pʰ     | tʰ       | ʈʰ        | cʰ      | kʰ    |
+| Vcd. Stop  | b      | d        | ɖ         | ɟ       | g     |
+| Br. Stop   | bʱ     | dʱ       | ɖʱ        | ɟʱ      | gʱ    |
+| Fricative  | f      | s        |           | ç       |       |
+| Nasal      | m      | n        |           |         | ŋ     |
+| Br. Nasal  | mʱ     | nʱ       |           |         |       |
+| Apprx.     | w      | l        |           | j       |       |
+| Br. Apprx. | wʱ     | lʱ       |           | jʱ      |       |
+
+### Sound Changes
+
+- {Cʰ, Cʱ} V => C V\[+lowtone\]
+- Progressive voicing assimilation
+- {T, D} => {T\[+stiff\], T\[+slack\]}
+
+### Modern Phonology
 
 | VOWELS | Front | Central | Back |
 | ---    | ---   | ---     | ---  |
@@ -54,9 +64,9 @@ Manner of Articulation:
 | ---        | ---    | ---      | ---       | ---     | ---   |
 | Stiff Stop | p      | t        | ʈ         | c       | k     |
 | Slack Stop | b̥      | d̥        | ɖ̥         | ɟ̊       | g̊     |
-| Fricative  | f      | s        | ʂ         | ç       |       |
-| Nasal      | m      | n        | ɳ         | ɲ       | ŋ     |
-| Sonorant   |        | r        | ɻ         | j       |       |
+| Fricative  | f      | s        |           | ç       |       |
+| Nasal      | m      | n        |           |         | ŋ     |
+| Sonorant   | w      | l        |           | j       |       |
 
 ## Lexicon Ideas
 
