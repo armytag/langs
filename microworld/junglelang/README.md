@@ -17,16 +17,15 @@ Features:
 
 Consonants:
 
-| CONSONANTS    | Bilabial | Alveolar | Retroflex | Palatal | Velar | Glottal |
-|---            |---       |---       |---        |---      |---    |---      |
-| Nasal         | m        | n        |           | ɲ       | ŋ     |         |
-| Breathy Plos. | bʱ       | dʱ       | ɖʱ        | dʑʱ     | gʱ    |         |
-| Modal Plos.   | b        | d        | ɖ         | dʑ      | g     |         |
-| Creaky Plos.  | b˷       | d˷       | ɖ˷        | dʑ˷     | g˷    |         |
-| Fricative     |          | s        |           |         |       | h       |
-| Approximant   | w        |          |           | j       |       |         |
-| Rhotic        |          | ɾ/r      |           |         |       |         |
-| Lateral       |          | l        |           |         |       |         |
+| CONSONANTS  | Bilabial | Alveolar | Retroflex | Palatal | Velar | Glottal |
+|---          |---       |---       |---        |---      |---    |---      |
+| Nasal       | m        | n        |           | ɲ       | ŋ     |         |
+| Stiff Stop  | p        | t        | ʈ         | tɕ      | k     |         |
+| Slack Stop  | b̥        | d̥        | ɖ̥         | d̥ʑ̊      | g̊     |         |
+| Fricative   |          | s        |           |         |       | h       |
+| Approximant | w        |          |           | j       |       |         |
+| Rhotic      |          | ɾ/r      |           |         |       |         |
+| Lateral     |          | l        |           |         |       |         |
 
 Vowels:
 
@@ -38,10 +37,10 @@ Vowels:
 
 Phonotactics:
 
-| LANGUAGE FEATURES   | Javanese | Kannada | Newar | Sinhala | Thai |
-|---                  |---       |---      |---    |---      |---   |
-| Word order          | SVO      | SOV     | SOV   | SOV     | SVO  |
-| Syllable Structure  | CCVC     | CCCVC   | CGVC  | CVC     | CCVC |
-| Nominal Number      | S, P     | S, P    | S, P  | S, P    | S, P |
-| Nominal Cases       | 0        | 8       | 6     | 5-7     | 0    |
+| LANGUAGE FEATURES   | Newar | Javanese | Sinhala |
+|---                  |---    |---       |---      |
+| Word order          | SOV   | SVO      | SOV     |
+| Syllable Structure  | CGVC  | CCVC     | CVC     |
+| Nominal Number      | S, P  | S, P     | S, P    |
+| Nominal Cases       | 6     | 0        | 5-7     |
 

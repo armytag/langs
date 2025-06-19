@@ -7,11 +7,11 @@ By armytag
 1. Junglelang (Newar, Javanese, Sinhala)
     - Breathy-voiced segments
     - Retroflex & Palatal
+    - Nasal vowels (somewhat)
     - Reduplication
     - Egophoric person-marking
 1. Oceanlang (Comorian, Malagasy, Khoemana)
     - Tone
-    - Nasal vowels
     - Consonant mutation
     - Prenasalized consonants
     - Dental and Alveolar PoA
@@ -20,6 +20,8 @@ By armytag
     - Polypersonal agreement
     - Polysynthesis
     - Glottalization
+        - Glottalized consonant harmony
+    - Pharyngeals
     - Vowel insertion/templating
 
 ## Ideas
@@ -35,7 +37,7 @@ By armytag
     - Nasalization (Oceanlang)
 - Ergative alignment
 - Metathesis
-- Consonant harmony
+- Consonant harmony (Mountainlang)
 - Secondary articulations (Mountainlang)
 - Retroflexes (Junglelang)
 - Allophonic /ɽ̥/, /ɰ/
