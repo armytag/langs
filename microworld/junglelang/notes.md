@@ -24,10 +24,10 @@
 | Newar    | Labial | Alveolar | Retroflex | Palatal | Velar | Glottal |
 | ---      | ---    | ---      | ---       | ---     | ---   | ---     |
 | Nasal    | m mʱ   | n nʱ     |           |         | ŋ     |         |
-| Vcl. S.  | p pʰ   | t tʰ     |           | tɕ tɕʰ  | k kʰ  |         |
-| Vcd. S.  | b bʱ   | d dʱ     |           | dʑ dʑʱ  | g gʱ  |         |
+| Vcl. S.  | p pʰ   | t tʰ     |           | tʃ tʃʰ  | k kʰ  |         |
+| Vcd. S.  | b bʱ   | d dʱ     |           | dʒ dʒʱ  | g gʱ  |         |
 | Fric.    |        | s        |           |         |       | h       |
-| Appr.    | w wʱ   | l lʱ     |           | j jʱ    |       |         |
+| Appr.    | w      | l lʱ     |           | j       |       |         |
 | Rhotic   |        | r        |           |         |       |         |
 
 | Javanese | Labial | Alveolar | Retroflex | Palatal | Velar | Glottal |
