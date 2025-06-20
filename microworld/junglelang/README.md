@@ -15,7 +15,7 @@ Features:
 - Mixed morphosyntactic alignment (?)
     - Transitive alignment with marked S?
 - SOV default word order that can be inverted to OVS
-    - Check Javanese for syntax inspiration
+    - Syntax inspired by Javanese, i.e. mostly analytic with various word-order paradigms
 
 Consonants:
 
