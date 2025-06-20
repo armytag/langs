@@ -44,23 +44,23 @@ Phonotactics:
 | Word order         | SOV/OVS    | SOV   | SVO      | SOV     |
 | Syllable Structure | CV/CCVC    | CGVC  | CCVC     | CVC     |
 | Nominal Number     | S, P       | S, P  | S, P     | S, P    |
-| Nominal Cases      | 4          | 6     | 0        | 5-7     |
+| Nominal Cases      | 5-7        | 6     | 0        | 5-7     |
 
 Noun cases:
 
-- Newar
-    - Instrumental/Ergative
-    - Absolutive
-    - Sociative
-    - Dative
-    - Genitive
-    - Locative
-- Sinhala
-    - Nominative
-    - Accusative
-    - Dative
-    - Genitive
-    - Locative
-    - Ablative
-    - Instrumental
-    - Vocative
+| NEWAR   | Animate     | Inanimate    |
+| ---     | ---         | ---          |
+| -∅      | Nominative  | Nominative   |
+| -V(ː)   | Agentive    | Instrumental |
+| -yata   | Dative      | Objective    |
+| -(yak)e | Commitative | Locative     |
+| -ya     | Genitive    | Genitive     |
+
+| SINHALA | Animate    | Inanimate    |
+| ---     | ---        | ---          |
+| -∅      | Nominative | Nominative   |
+| -wə     | Accusative |              |
+| -ʈə     | Dative     | Dative       |
+| -(g)eŋ  | Genitive   | Locative     |
+| -(g)e   | Ablative   | Instrumental |
+| -eː     | Vocative   |              |
