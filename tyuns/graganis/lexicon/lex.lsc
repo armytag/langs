@@ -92,17 +92,16 @@ Then: j j => j *
 Then: l$1 [approximant]$2 [vowel]$3 => $2 $3 $1 / [cons] _
 
 T80:
-{[nasal] w, [nasal] r, [nasal] j, q} => {ʔ p, ʔ k, ʔ t, ʔ}
-{r̥, ʍ, h} => {h, f, ʔ}
+unchanged # Ongoing shift form T79
 
 T81:
-unchanged # Ongoing shift form T79
+{[nasal] w, [nasal] r, [nasal] j, q} => {ʔ p, ʔ k, ʔ t, ʔ}
 
 T82:
-unchanged # Ongoing shift form T79
+unchanged
 
 T83:
-unchanged # Ongoing shift form T79
+{r̥, ʍ, h} => {h, f, ʔ}
 
 T84:
 unchanged
