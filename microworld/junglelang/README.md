@@ -12,21 +12,22 @@ Features:
 - Retroflex & Palatal
 - Reduplication
 - Egophoric verb agreement
-- Mixed morphosyntactic alignment
+- Mixed morphosyntactic alignment (?)
     - Transitive alignment with marked S?
+- SOV default word order that can be inverted to OVS
+    - Syntax inspired by Javanese, i.e. mostly analytic with various word-order paradigms
 
 Consonants:
 
-| CONSONANTS    | Bilabial | Alveolar | Retroflex | Palatal | Velar | Glottal |
-|---            |---       |---       |---        |---      |---    |---      |
-| Nasal         | m        | n        |           | ɲ       | ŋ     |         |
-| Breathy Plos. | bʱ       | dʱ       | ɖʱ        | dʑʱ     | gʱ    |         |
-| Modal Plos.   | b        | d        | ɖ         | dʑ      | g     |         |
-| Creaky Plos.  | b˷       | d˷       | ɖ˷        | dʑ˷     | g˷    |         |
-| Fricative     |          | s        |           |         |       | h       |
-| Approximant   | w        |          |           | j       |       |         |
-| Rhotic        |          | ɾ/r      |           |         |       |         |
-| Lateral       |          | l        |           |         |       |         |
+| CONSONANTS  | Bilabial | Alveolar | Retroflex | Palatal | Velar | Glottal |
+|---          |---       |---       |---        |---      |---    |---      |
+| Stiff Nasal | m        | n        |           | ɲ       | ŋ     |         |
+| Slack Nasal | m̥        | n̥        |           |         |       |         |
+| Stiff Stop  | p        | t        | ʈ         | tɕ      | k     |         |
+| Slack Stop  | b̥        | d̥        | ɖ̥         | d̥ʑ̊      | g̊     |         |
+| Fricative   |          | s        |           |         |       | h       |
+| Approximant | w        | l        |           | j       |       |         |
+| Rhotic      |          | ɾ/r      |           |         |       |         |
 
 Vowels:
 
@@ -38,10 +39,28 @@ Vowels:
 
 Phonotactics:
 
-| LANGUAGE FEATURES   | Javanese | Kannada | Newar | Sinhala | Thai |
-|---                  |---       |---      |---    |---      |---   |
-| Word order          | SVO      | SOV     | SOV   | SOV     | SVO  |
-| Syllable Structure  | CCVC     | CCCVC   | CGVC  | CVC     | CCVC |
-| Nominal Number      | S, P     | S, P    | S, P  | S, P    | S, P |
-| Nominal Cases       | 0        | 8       | 6     | 5-7     | 0    |
+| LANGUAGE FEATURES  | Junglelang | Newar | Javanese | Sinhala |
+|---                 |---         |---    |---       |---      |
+| Word order         | SOV/OVS    | SOV   | SVO      | SOV     |
+| Syllable Structure | CV/CCVC    | CGVC  | CCVC     | CVC     |
+| Nominal Number     | S, P       | S, P  | S, P     | S, P    |
+| Nominal Cases      | 5-7        | 6     | 0        | 5-7     |
 
+Noun cases:
+
+| NEWAR   | Animate     | Inanimate    |
+| ---     | ---         | ---          |
+| -∅      | Nominative  | Nominative   |
+| -V(ː)   | Agentive    | Instrumental |
+| -yata   | Dative      | Objective    |
+| -(yak)e | Commitative | Locative     |
+| -ya     | Genitive    | Genitive     |
+
+| SINHALA | Animate    | Inanimate    |
+| ---     | ---        | ---          |
+| -∅      | Nominative | Nominative   |
+| -wə     | Accusative |              |
+| -ʈə     | Dative     | Dative       |
+| -(g)eŋ  | Genitive   | Locative     |
+| -(g)e   | Ablative   | Instrumental |
+| -eː     | Vocative   |              |

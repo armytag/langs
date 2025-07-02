@@ -7,3 +7,7 @@ For generations it has been common practice to pile waste in certain locations a
 ### Traditional Medicinal Texts
 
 As the Uwul expand farther up the *Henkopix* river, they encounter a new environment with noticably different plants and animals compared to the subtropical jungle they had been living in.  This created a desire to document the local flora and fauna with useful medicinal applications in both the old and new territories, to help travels migrating between these two environments.  Although such texts are still inaccesible to most of the still-illiterate population, the acolytes that travel between the holy cities in the south and the new frontiers in the north find these medicinal texts invaluable.
+
+### Law
+
+In order to formalize their position and mitigate conflicts, the ruling families of Eres have agreed to codify a set of laws for arbitrating disputes.  Although these amount to little more than a common agreement between the most powerful families, they have taken inspiration from the laws laid out by the Council of Indras to ensure standard practices for handling disputes between any individuals in the city.  Because most of the population is still illiterate, especially those from outside the city, a class of legal consultants and advocates has also begun to form.
