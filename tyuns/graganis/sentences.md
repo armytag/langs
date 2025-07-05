@@ -1,12 +1,12 @@
 47. I have been waiting for you.
   - Klêcil'enuttôl wuk.
-  - klɛʃil-ʔenut-tɔ      -l   wuk
-  - wait  -DUR  -PST.IPFV-1SG 2SG.DAT
+  - klɛʃil-ʔenut-tɔ-l     wuk
+  - wait-DUR-PST.IPFV-1SG 2SG.DAT
 
 72. During our residence in the country we often walked in the pastures.
   - Erilcô blit alcô erirôcem 'jathiikhôk ôktôkôce bliix.
-  - eɾil  -ʃɔ  blit al       -ʃɔ  eɾiɾɔ-ʃe     -m   ʔjatʰiː-kʰɔk   ɔktɔkɔ-ʃe      bliːx
-  - period-LOC when grassland-LOC stay -PST.PFV-1PL pasture-PL.LOC walk  -PST.PFV DIR.EVI.1PL
+  - eɾil-ʃɔ    blit al-ʃɔ         eɾiɾɔ-ʃe-m       ʔjatʰiː-kʰɔk   ɔktɔkɔ-ʃe    bliːx
+  - period-LOC when grassland-LOC stay-PST.PFV-1PL pasture-PL.LOC walk-PST.PFV DIR.EVI.1PL
 
 119. He played a tune on his wonderful flute.
 
