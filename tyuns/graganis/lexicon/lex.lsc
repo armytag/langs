@@ -111,9 +111,12 @@ T85:
 {pʰ, tʰ, kʰ, b, z, v, ʃ t, ʃ k} => {f, t͡ɕ, x, p, s, f, t͡ɕ *, s k} / [vowel] {n, l}? _ {[cons], $}
 * => ɛ / $ ʃ _ [cons] // $ ʃ _ [approximant]
 
+post-clean:
+unchanged
+
 Syllables:
-[cons] [vowel] [cons]?
-[cons]? [approximant]? [vowel] {n, l, s}? [cons]?
+[cons]? [approximant]? [vowel] [cons]?
+[cons]? [approximant]? [vowel] {{l, n} {p, t, k, t͡ɕ}, s k}
 
 T86:
 unchanged
