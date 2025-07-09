@@ -95,15 +95,30 @@ T80:
 unchanged # Ongoing shift form T79
 
 T81:
-{[nasal] w, [nasal] r, [nasal] j, q} => {ʔ p, ʔ k, ʔ t, ʔ}
+unchanged # Ongoing shift form T79
 
 T82:
-unchanged
+{[nasal] w, [nasal] r, [nasal] j, q} => {ʔ p, ʔ k, ʔ t, ʔ}
 
 T83:
 {r̥, ʍ, h} => {h, f, ʔ}
 
 T84:
+{ɬ, ɲ, ŋ} => {l, n, n}
+* => ɛ / {[cons], $} [cons] _ [cons] [cons]
+
+T85:
+{pʰ, tʰ, kʰ, b, z, v, ʃ t, ʃ k} => {f, t͡ɕ, x, p, s, f, t͡ɕ *, s k} / [vowel] {n, l}? _ {[cons], $}
+* => ɛ / $ ʃ _ [cons] // $ ʃ _ [approximant]
+
+post-clean:
+unchanged
+
+Syllables:
+[cons]? [approximant]? [vowel] [cons]?
+[cons]? [approximant]? [vowel] {l, n, s} {p, t, k, t͡ɕ}
+
+T86:
 unchanged
 
 last-step:
