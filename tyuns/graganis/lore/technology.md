@@ -11,3 +11,17 @@ As the Uwul expand farther up the *Henkopix* river, they encounter a new environ
 ### Law
 
 In order to formalize their position and mitigate conflicts, the ruling families of Eres have agreed to codify a set of laws for arbitrating disputes.  Although these amount to little more than a common agreement between the most powerful families, they have taken inspiration from the laws laid out by the Council of Indras to ensure standard practices for handling disputes between any individuals in the city.  Because most of the population is still illiterate, especially those from outside the city, a class of legal consultants and advocates has also begun to form.
+
+### Disk Wheel
+
+The Uwul have been making pottery for countless generations, but only recently have they begun to try other techniques aside from class hand-building and wood-frame brickmaking.  The most successful of these advancements is the use of a spinning platform to quickly produce round objects like pots, bowls, and jars.  At first this was used to improve the efficiency of laying coiled layers on top of each other, but some potters have taken to pulling the clay up from a single lump while its spinning to create much more even shapes.
+
+### Statesmanship
+
+XXX
+
+### Early Armor
+
+XXX
+
+
