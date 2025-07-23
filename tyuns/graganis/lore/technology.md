@@ -16,12 +16,11 @@ In order to formalize their position and mitigate conflicts, the ruling families
 
 The Uwul have been making pottery for countless generations, but only recently have they begun to try other techniques aside from class hand-building and wood-frame brickmaking.  The most successful of these advancements is the use of a spinning platform to quickly produce round objects like pots, bowls, and jars.  At first this was used to improve the efficiency of laying coiled layers on top of each other, but some potters have taken to pulling the clay up from a single lump while its spinning to create much more even shapes.
 
-### Statesmanship
-
-XXX
-
 ### Early Armor
 
-XXX
+Due to the widespread conflict of the Oshnodi collapse and the material wealth of Eres at the time, Uwul warriors began to use more substantial protective clothing.  Prior to this not much was worn beyond regular lightweight garments, but now soldiers regularly wore leather or wooden pieces among their clothing.  Occasionally even small metal plates made of copper or iron, but this was rare due it's high material cost and relatively low benefit compared to the other armors.  These armors are primarily meant to protect the torso, arms, and thighs from glancing blows and cuts, giving the wearer a slight edge but still not protecting from solid strikes to those areas.
 
+### Statesmanship
+
+After visiting the village of Nakan and learning about the Oshnodi style of governance through taxation, the Eres envoys brought back these ideas to inform their own ideas about statecraft.  Uwul society is bound together through loose association and mutual obligation, rather than strong familial bonds or stratified heirarchies.  Only in Eres have a few families gathered enough power and influence to control the actions of others, having established a dedicated force of guards and a set of common laws.  It would not be possible to quickly extend this centralized control across other Uwul settlements, so the elites of Eres have chosen to establish their *xijêtwo* "kingdom" through mutual agreements instead.  Leaders of those other settlements freely choose to support Eres families based on agreements with family heads, and gradually a network of cooperation will emerge with Eres at the center.
 
