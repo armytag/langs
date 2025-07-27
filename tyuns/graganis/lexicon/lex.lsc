@@ -5,12 +5,13 @@ Feature front, back, round
 Feature height(low, lowmid, mid, highmid, high)
 Feature type(*cons, vowel)
 Feature voicing(unvoiced, voiced)
-Feature place(labial, alveolar, palatal, velar, uvular, glottal)
+Feature place(labial, alveolar, retroflex, palatal, velar, uvular, glottal)
 Feature manner(nasal, stop, affricate, fricative, approximant, trill, tap)
 Feature +long, +lateral, +aspirated, sibilant
 Feature (syllable) +stress
 Feature +priorstress
-Diacritic ́ [+priorstress]
+Diacritic ́ [+hightone]
+Diacritic ̀ [+lowtone]
 Diacritic ː [+long]
 Diacritic ʰ [+aspirated]
 Diacritic ' (before) [+stress]
@@ -27,14 +28,17 @@ Symbol o [mid     -front +back +round vowel]
 Symbol ɔ [lowmid  -front +back +round vowel]
 Symbol p [unvoiced labial stop]
 Symbol t [unvoiced alveolar stop]
+Symbol ʈ [unvoiced retroflex stop]
 Symbol k [unvoiced velar stop]
 Symbol q [unvoiced uvular stop]
 Symbol ʔ [unvoiced glottal stop]
 Symbol b [voiced labial stop]
 Symbol d [voiced alveolar stop]
+Symbol ɖ [voiced retroflex stop]
 Symbol g [voiced velar stop]
 Symbol m [labial nasal]
 Symbol n [alveolar nasal]
+Symbol ɳ [retroflex nasal]
 Symbol ɲ [palatal nasal]
 Symbol ŋ [velar nasal]
 Symbol l [alveolar approximant +lateral]
@@ -48,8 +52,10 @@ Symbol ɬ [unvoiced alveolar fricative +lateral]
 Symbol θ [unvoiced alveolar fricative -sibilant]
 Symbol ð [voiced alveolar fricative -sibilant]
 Symbol s [unvoiced alveolar fricative +sibilant]
+Symbol ʂ [unvoiced retroflex fricative +sibilant]
 Symbol ʃ [unvoiced palatal fricative +sibilant]
 Symbol z [voiced alveolar fricative +sibilant]
+Symbol ʐ [voiced retroflex fricative +sibilant]
 Symbol x [unvoiced velar fricative -sibilant]
 Symbol ɣ [voiced velar fricative -sibilant]
 Symbol h [unvoiced glottal fricative -sibilant]
@@ -120,6 +126,18 @@ Syllables:
 
 T86:
 unchanged
+
+T87:
+[alveolar !approximant !tap] => [retroflex] / _ [vowel]? l
+
+T88:
+l => * / [retroflex] [vowel] _ {$, [cons]}
+l => r // [vowel] _ {$, [cons]}
+
+T89:
+ɾ => l
+Then: l j [vowel -long] => * j [+long]
+Then: l$1 w$2 [vowel]$3 => $2 $3 $1
 
 last-step:
 unchanged
