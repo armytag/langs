@@ -1,0 +1,147 @@
+# For combining two files together
+# pr -tmJS proto.wli proto-rand.wli > proto-compound.wli
+
+Feature front, back, round
+Feature height(low, lowmid, mid, highmid, high)
+Feature type(*cons, vowel)
+Feature voicing(unvoiced, voiced)
+Feature place(labial, alveolar, retroflex, palatal, velar, uvular, glottal)
+Feature manner(nasal, stop, affricate, fricative, approximant, trill, tap)
+Feature +long, +lateral, +aspirated, sibilant
+Feature (syllable) +stress
+Feature +priorstress
+Diacritic ́ [+hightone]
+Diacritic ̀ [+lowtone]
+Diacritic ː [+long]
+Diacritic ʰ [+aspirated]
+Diacritic ' (before) [+stress]
+Symbol i [high    +front -back -round vowel]
+Symbol ɪ [highmid +front -back -round vowel]
+Symbol ʏ [highmid +front -back +round vowel]
+Symbol e [mid     +front -back -round vowel]
+Symbol ɛ [lowmid  +front -back -round vowel]
+Symbol œ [lowmid  +front -back +round vowel]
+Symbol a [low     -front -back -round vowel]
+Symbol u [high    -front +back +round vowel]
+Symbol ʊ [highmid -front +back +round vowel]
+Symbol o [mid     -front +back +round vowel]
+Symbol ɔ [lowmid  -front +back +round vowel]
+Symbol p [unvoiced labial stop]
+Symbol t [unvoiced alveolar stop]
+Symbol ʈ [unvoiced retroflex stop]
+Symbol k [unvoiced velar stop]
+Symbol q [unvoiced uvular stop]
+Symbol ʔ [unvoiced glottal stop]
+Symbol b [voiced labial stop]
+Symbol d [voiced alveolar stop]
+Symbol ɖ [voiced retroflex stop]
+Symbol g [voiced velar stop]
+Symbol m [labial nasal]
+Symbol n [alveolar nasal]
+Symbol ɳ [retroflex nasal]
+Symbol ɲ [palatal nasal]
+Symbol ŋ [velar nasal]
+Symbol l [alveolar approximant +lateral]
+Symbol r̥ [unvoiced alveolar trill]
+Symbol r [voiced alveolar trill]
+Symbol ɾ̥ [unvoiced alveolar tap]
+Symbol ɾ [voiced alveolar tap]
+Symbol f [unvoiced labial fricative -sibilant]
+Symbol v [voiced labial fricative -sibilant]
+Symbol ɬ [unvoiced alveolar fricative +lateral]
+Symbol θ [unvoiced alveolar fricative -sibilant]
+Symbol ð [voiced alveolar fricative -sibilant]
+Symbol s [unvoiced alveolar fricative +sibilant]
+Symbol ʂ [unvoiced retroflex fricative +sibilant]
+Symbol ʃ [unvoiced palatal fricative +sibilant]
+Symbol z [voiced alveolar fricative +sibilant]
+Symbol ʐ [voiced retroflex fricative +sibilant]
+Symbol x [unvoiced velar fricative -sibilant]
+Symbol ɣ [voiced velar fricative -sibilant]
+Symbol h [unvoiced glottal fricative -sibilant]
+Symbol t͡ɕ [unvoiced palatal affricate]
+Symbol d͡ʑ [voiced palatal affricate]
+Symbol ʍ [unvoiced labial approximant]
+Symbol w [voiced labial approximant]
+Symbol j [voiced palatal approximant]
+
+Syllables:
+explicit
+
+Preformatting:
+[+priorstress] => [-priorstress]
+Then: [cons +long] * => [cons -long] [cons -long]
+Then: [cons]$1 * {[approximant], [tap], [trill], [nasal], [+sibilant]}$2 => $1 ɪ $2 / [vowel] _ {[cons], $}
+Then: ð => θ
+
+Syllables:
+[cons] [vowel] [cons]
+[+sibilant]? [cons]? {[approximant], [tap], [trill]}? [vowel] {[approximant], [tap], [trill], [nasal], [+sibilant]}? [cons]?
+
+T76:
+ʃ => k / [vowel +back] _ $
+Else: ʃ => s / _ $
+
+T77:
+{x, ɣ} => {ʍ, w} / _ [vowel +round]
+{x, ɣ} => {kʰ, x}
+
+T78:
+{f, θ} => {pʰ, tʰ}
+{ɾ̥, ɾ} => {ɬ, l} / [cons] _
+
+T79:
+{ɪ, ʏ, ɛ, œ, a, ʊ, ɔ} => {i, u, e, ɛ, a, o, ɔ}
+{ɪː, ʏː, ɛː, œː, aː, ʊː, ɔː} => {iː, uː, je, ja, aː, oː, wa}
+Then: w w => ʍ *
+Then: j j => j *
+Then: l$1 [approximant]$2 [vowel]$3 => $2 $3 $1 / [cons] _
+
+T80:
+unchanged # Ongoing shift form T79
+
+T81:
+unchanged # Ongoing shift form T79
+
+T82:
+{[nasal] w, [nasal] r, [nasal] j, q} => {ʔ p, ʔ k, ʔ t, ʔ}
+
+T83:
+{r̥, ʍ, h} => {h, f, ʔ}
+
+T84:
+{ɬ, ɲ, ŋ} => {l, n, n}
+* => ɛ / {[cons], $} [cons] _ [cons] [cons]
+
+T85:
+{pʰ, tʰ, kʰ, b, z, v, ʃ t, ʃ k} => {f, t͡ɕ, x, p, s, f, t͡ɕ *, s k} / [vowel] {n, l}? _ {[cons], $}
+* => ɛ / $ ʃ _ [cons] // $ ʃ _ [approximant]
+
+post-clean:
+unchanged
+
+Syllables:
+[cons]? [approximant]? [vowel] [cons]?
+[cons]? [approximant]? [vowel] {l, n, s} {p, t, k, t͡ɕ}
+
+T86:
+unchanged
+
+T87:
+[alveolar !approximant !tap] => [retroflex] / _ [vowel]? l
+
+T88:
+l => * / [retroflex] [vowel] _ {$, [cons]}
+l => r // [vowel] _ {$, [cons]}
+
+T89:
+ɾ => l
+Then: l j [vowel -long] => * j [+long]
+Then: l$1 w$2 [vowel]$3 => $2 $3 $1
+
+last-step:
+unchanged
+
+Syllables:
+clear
+
