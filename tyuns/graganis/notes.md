@@ -35,7 +35,8 @@
 | change into                 |       |        | TRL   |       |       |
 
 - "one" → INDEF (L, A)
-- DEM.LOC → DEF (L, A)
+- DEM.LOC → DEF (L)
+- DEM.ESS → anaphoric → DEF (A)
 - DAT → comparative (L, A)
 - "body" → reflexive/reciprocal (L, A)
 - LOC → cause (L)
