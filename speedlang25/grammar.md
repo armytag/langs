@@ -3,29 +3,35 @@
 
 ## Consonants
 
-Pucaxwa has several places of articulation, including sibilant, palatal, and labialized velar series (which are not found in any of my prior languages).[^1]
-
-|           | Labial | Plain Alv. | Sibilant Alv. | Palatal  | Velar     | Glottal |
-| :---      | :---:  | :---:      | :---:         | :---:    | :---:     | :---:   |
-| Stop      | p      | t          | ts \<c\>      | tʃ \<č\> | kʷ \<kw\> | ʔ \<ʼ\> |
-| Fricative |        |            | s             | ʃ \<š\>  | xʷ \<xw\> | h       |
-| Sonorant  | m      | n          | l             | j        | w         |         |
+|           | Bilabial | Dental | Alveolar | Dorsal   | Glottal |
+| :---      | :---:    | :---:  | :---:    | :---:    | :---:   |
+| Stop      | p        | t      | ts       | k        | ʔ       |
+| Lab. Stop | pʷ       | tʷ     | tsʷ      | kʷ       | ʔʷ      |
+| Implosive | ɓ        | ɗ      |          |          |         |
+| Fricative |          | θ      | s        | ʃ        | h       |
+| Lab. Fric.|          | θʷ     | sʷ       | ʃʷ       | hʷ      |
+| Sonorant  | m        | n      | l        | j        |         |
+| Lab. Son. | mʷ       | nʷ     | lʷ       | w        |         |
 : Consonants
 
 ## Vowels
 
-The vowels include a common five-vowel oral system, as well as three phonemic nasal vowels (also not found in my prior languages).[^2]
+|                          | Short | Long  |
+| ---                      | :---: | :---: |
+| Close (after nonlabial)  | e     | iː    |
+| Close (after labialized) | o     | uː    |
+| Open                     | a     | aː    |
+: Basic Vowels
 
-|       | Front | Center | Back  |
-| ---   | :---: | :---:  | :---: |
-| Close | i ĩ   |        | u ũ   |
-| Mid   | e     |        | o     |
-| Open  |       | a ã    |       |
-: Vowels
+|       | Short | Long  |
+| ---   | :---: | :---: |
+| Close | o     | uː    |
+| Open  | a     | aː    |
+: Vowels After Labialized Consonants
 
 ## Syllable Structure
 
-Syllables take the form CV(K), where C is any consonant, V is any vowel, and K is a sonorant or fricative.
+Syllables take the form CV, where C is any consonant and V is any vowel
 
 <div class="comparison col4">
 <dt>jexwe<b>š</b>i</dt> <dd>"sleep"</dd>
@@ -92,7 +98,7 @@ The direct and oblique forms are used like regular nouns described above.
 
 # Texts
 
-## Example Sentences [^12]
+## Example Sentences
 
 <div class="gloss">
 <p class="number"></p>
