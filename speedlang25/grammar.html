@@ -1,0 +1,849 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <meta name="author" content="armytag" />
+  <meta name="dcterms.date" content="2025-08-21" />
+  <title>Speedlang 25 – Pucaxwa</title>
+  <style>
+    html {
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      overflow-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 12px;
+      }
+      h1 {
+        font-size: 1.8em;
+      }
+    }
+    @media print {
+      html {
+        background-color: white;
+      }
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    svg {
+      height: auto;
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
+      font-size: 85%;
+      margin: 0;
+      hyphens: manual;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+      overflow-wrap: normal;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      background-color: #1a1a1a;
+      border: none;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC ul {
+      padding-left: 1.3em;
+    }
+    #TOC > ul {
+      padding-left: 0;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+</head>
+<body>
+<header id="title-block-header">
+<h1 class="title">Speedlang 25 – Pucaxwa</h1>
+<p class="author">armytag</p>
+<p class="date">21 August 2025</p>
+</header>
+<style>
+html {
+    color: #1a1a1a;
+    background-color: #fdfdfd;
+}
+
+body {
+    margin: 0 auto;
+    max-width: 60ch;
+    padding: 50px 0;
+    hyphens: auto;
+    overflow-wrap: break-word;
+    text-rendering: optimizeLegibility;
+    font-kerning: normal;
+    text-align: justify;
+    line-height: 1.5em;
+}
+
+@media (max-width: 600px) {
+    body {
+        font-size: 0.9em;
+        padding: 12px;
+    }
+}
+
+@media print {
+    html {
+        color: black;
+        background-color: white;
+    }
+
+    /*
+    h1:not(.title) {
+        page-break-before: always;
+    }
+    */
+
+    #TOC {
+        page-break-before: always;
+    }
+
+    table {
+        page-break-inside: avoid;
+        page-break-before: auto;
+    }
+}
+
+header {
+    text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin-top: 1.25rem;
+    margin-bottom: 0.5rem;
+    line-height: initial;
+}
+
+/*
+h1 {
+    text-align: center;
+    margin-top: 2em;
+}
+*/
+
+h1:not(.title) {
+    font-size: 1.75rem;
+    text-decoration: underline;
+}
+
+h2 {
+    font-size: 1.5rem;
+}
+
+p {
+    margin: 1em 0.33ch;
+}
+
+a {
+    color: #1a1a1a;
+}
+
+ol, ul {
+    padding-left: 1.7em;
+    margin-top: 1em;
+}
+
+li > ol, li > ul {
+    margin-top: 0;
+}
+
+.date {
+    margin: 1em;
+    font-style: italic;
+}
+
+.author {
+    margin: 0.5ch;
+}
+
+.author::before {
+    content: "by";
+    padding: 0 0.5ch;
+}
+
+#TOC ul {
+    padding-left: 1.3em;
+}
+
+#TOC > ul {
+    padding-left: 0;
+}
+
+#TOC li {
+    list-style: none;
+}
+
+#TOC > ul > li {
+    margin: 1em 0;
+}
+
+#TOC a:not(:hover) {
+    text-decoration: none;
+}
+
+.gloss {
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    margin: 1em auto;
+    padding: 0 6ch;
+    align-content: center;
+    justify-content: center;
+    gap: 0.33em;
+}
+
+.gloss > * {
+    margin: 0;
+}
+
+.gloss > .number {
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin: 0.5ch;
+    width: 5ch;
+    text-align: right;
+}
+
+.number + p {
+    margin-top: 0.5ch;
+}
+
+.original {
+    direction: rtl;
+    /* font-weight: bold; */
+    /* font-style: italic; */
+    margin-top: 0.5ch;
+}
+
+.interlinear {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.125em 0.25em;
+}
+
+.interlinear dl {
+    margin: 0.5ch;
+}
+
+.interlinear .phonetic,
+.interlinear dt {
+    font-style: italic;
+}
+
+.interlinear dd {
+    margin-left: 0;
+}
+
+.comparison abbr,
+.interlinear abbr {
+    text-transform: lowercase;
+    font-variant-caps: small-caps;
+    font-variant-numeric: oldstyle-nums;
+}
+
+.freetranslation {
+    text-align: left;
+}
+
+.qathebo {
+    text-align: justify;
+    word-spacing: 1ch;
+}
+
+.source {
+    text-align: right;
+}
+
+table {
+    margin: 1em auto;
+    border-collapse: collapse;
+    width: max-content;
+    overflow-x: auto;
+    display: block;
+    font-variant-numeric: lining-nums tabular-nums;
+}
+
+table caption {
+    margin-bottom: 0.5em;
+    font-weight: bold;
+    font-style: italic;
+}
+
+tbody {
+    margin-top: 0.5em;
+    border-top: 1pt solid #1a1a1a;
+    border-bottom: 1pt solid #1a1a1a;
+}
+
+th {
+    border-top: 1pt solid #1a1a1a;
+    padding: 0.25em 0.5em 0.25em 0.5em;
+}
+
+td {
+    padding: 0.125em 0.5em 0.25em 0.5em;
+}
+
+.comparison {
+    display: grid;
+    grid-template-columns: repeat(1, max-content);
+    justify-content: center;
+    gap: 2ch;
+}
+
+.comparison.col2 {
+    grid-template-columns: repeat(2, max-content);
+}
+
+.comparison.col3 {
+    grid-template-columns: repeat(3, max-content);
+}
+
+.comparison.col4 {
+    grid-template-columns: repeat(4, max-content);
+}
+
+.comparison dt {
+    font-style: italic;
+    margin-left: 1ch;
+}
+
+.comparison dd {
+    margin: 0;
+    margin-right: 1ch;
+}
+
+.side-by-side {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
+}
+
+.side-by-side h4 {
+    text-align: center;
+}
+</style>
+<h1 id="phonology">Phonology</h1>
+<h2 id="consonants">Consonants</h2>
+<p>Pucaxwa has several places of articulation, including sibilant,
+palatal, and labialized velar series (which are not found in any of my
+prior languages).<a href="#fn1" class="footnote-ref" id="fnref1"
+role="doc-noteref"><sup>1</sup></a></p>
+<table>
+<caption>Consonants</caption>
+<colgroup>
+<col style="width: 11%" />
+<col style="width: 14%" />
+<col style="width: 14%" />
+<col style="width: 14%" />
+<col style="width: 14%" />
+<col style="width: 14%" />
+<col style="width: 14%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;"></th>
+<th style="text-align: center;">Labial</th>
+<th style="text-align: center;">Plain Alv.</th>
+<th style="text-align: center;">Sibilant Alv.</th>
+<th style="text-align: center;">Palatal</th>
+<th style="text-align: center;">Velar</th>
+<th style="text-align: center;">Glottal</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Stop</td>
+<td style="text-align: center;">p</td>
+<td style="text-align: center;">t</td>
+<td style="text-align: center;">ts &lt;c&gt;</td>
+<td style="text-align: center;">tʃ &lt;č&gt;</td>
+<td style="text-align: center;">kʷ &lt;kw&gt;</td>
+<td style="text-align: center;">ʔ &lt;ʼ&gt;</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Fricative</td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;">s</td>
+<td style="text-align: center;">ʃ &lt;š&gt;</td>
+<td style="text-align: center;">xʷ &lt;xw&gt;</td>
+<td style="text-align: center;">h</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Sonorant</td>
+<td style="text-align: center;">m</td>
+<td style="text-align: center;">n</td>
+<td style="text-align: center;">l</td>
+<td style="text-align: center;">j</td>
+<td style="text-align: center;">w</td>
+<td style="text-align: center;"></td>
+</tr>
+</tbody>
+</table>
+<h2 id="vowels">Vowels</h2>
+<p>The vowels include a common five-vowel oral system, as well as three
+phonemic nasal vowels (also not found in my prior languages).[^2]</p>
+<table>
+<caption>Vowels</caption>
+<thead>
+<tr class="header">
+<th></th>
+<th style="text-align: center;">Front</th>
+<th style="text-align: center;">Center</th>
+<th style="text-align: center;">Back</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Close</td>
+<td style="text-align: center;">i ĩ</td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;">u ũ</td>
+</tr>
+<tr class="even">
+<td>Mid</td>
+<td style="text-align: center;">e</td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;">o</td>
+</tr>
+<tr class="odd">
+<td>Open</td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;">a ã</td>
+<td style="text-align: center;"></td>
+</tr>
+</tbody>
+</table>
+<h2 id="syllable-structure">Syllable Structure</h2>
+<p>Syllables take the form CV(K), where C is any consonant, V is any
+vowel, and K is a sonorant or fricative.</p>
+<div class="comparison col4">
+<dt>
+jexwe<b>š</b>i
+</dt>
+<dd>
+“sleep”
+</dd>
+<dt>
+jexwe<b>č</b>il
+</dt>
+<dd>
+“sleep”
+</dd>
+<dt>
+cu<b>h</b>e
+</dt>
+<dd>
+“wind”
+</dd>
+<dt>
+cu<b>ʼ</b>eš
+</dt>
+<dd>
+“a wind (oblique)”
+</dd>
+<dt>
+<b>s</b>i
+</dt>
+<dd>
+“of (relative particle)”
+</dd>
+<dt>
+<b>c</b>is
+</dt>
+<dd>
+“of me”
+</dd>
+</div>
+<h1 id="morphology">Morphology</h1>
+<h2 id="nouns">Nouns</h2>
+<p>Nouns have direct and oblique cases. In regular (nominative) clauses,
+the direct case is used for intransitive subject and transitive agent,
+and the oblique case is used for transitive object. In (ergative)
+subclauses, the direct case is used for the transitive agent, and the
+oblique case is used for intransitive subject and transitive object.[^5]
+In both kinds of clauses, the direct case is used for the “object” of
+copular sentences, and the oblique case is used in possessive/genitive
+phrases, adpositional phrases, and most other situations.</p>
+<table>
+<caption>Nominal Case-Definiteness Marking</caption>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Definiteness</th>
+<th style="text-align: left;">Direct</th>
+<th style="text-align: left;">Oblique</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Generic</td>
+<td style="text-align: left;">-</td>
+<td style="text-align: left;">-xwe</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Indefinite</td>
+<td style="text-align: left;">-pu</td>
+<td style="text-align: left;">-pi</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Definite Singular</td>
+<td style="text-align: left;">-la</td>
+<td style="text-align: left;">-(o)š</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Definite Plural</td>
+<td style="text-align: left;">-čal</td>
+<td style="text-align: left;">-čũ</td>
+</tr>
+</tbody>
+</table>
+<h2 id="pronouns">Pronouns</h2>
+<p>Dedicated pronoun forms only exist for human referents. Non-human
+referents use <em>mili</em> (“this”) or <em>cuʼi</em> (“that”) with
+appropriate case-definiteness marking as an anaphoric “pronoun”.</p>
+<table>
+<caption>Personal Pronouns</caption>
+<thead>
+<tr class="header">
+<th style="text-align: center;">Person</th>
+<th style="text-align: left;">Direct</th>
+<th style="text-align: left;">Oblique</th>
+<th style="text-align: left;">Suffix</th>
+<th style="text-align: left;">Clitic</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;">1SG</td>
+<td style="text-align: left;">cũ</td>
+<td style="text-align: left;">xwece</td>
+<td style="text-align: left;">-mu</td>
+<td style="text-align: left;">=(a)s</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">1PL</td>
+<td style="text-align: left;">pone</td>
+<td style="text-align: left;">tomo</td>
+<td style="text-align: left;">-co</td>
+<td style="text-align: left;">=ša</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">2SG</td>
+<td style="text-align: left;">kwos</td>
+<td style="text-align: left;">la</td>
+<td style="text-align: left;">-li</td>
+<td style="text-align: left;">=(e)l</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">2PL</td>
+<td style="text-align: left;">čoxwmo</td>
+<td style="text-align: left;">lũxwo</td>
+<td style="text-align: left;">-čã</td>
+<td style="text-align: left;">=ʼes</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">3SG</td>
+<td style="text-align: left;">nuš</td>
+<td style="text-align: left;">ʼũ</td>
+<td style="text-align: left;">-ʼuš</td>
+<td style="text-align: left;">=nũ</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">3PL</td>
+<td style="text-align: left;">mopu</td>
+<td style="text-align: left;">mũ</td>
+<td style="text-align: left;">-wu</td>
+<td style="text-align: left;">=mi</td>
+</tr>
+</tbody>
+</table>
+<p>The direct and oblique forms are used like regular nouns described
+above.</p>
+<div class="gloss">
+<p class="number">(1)
+</p>
+<div class="interlinear">
+<dl>
+<dt>
+mopu
+</dt>
+<dd>
+<abbr>3PL.DIR</abbr>
+</dd>
+</dl>
+<dl>
+<dt>
+litu
+</dt>
+<dd>
+see
+</dd>
+</dl>
+<dl>
+<dt>
+xwece
+</dt>
+<dd>
+<abbr>1PL.OBL</abbr>
+</dd>
+</dl>
+</div>
+<p class="freetranslation">
+“They see us.”
+</p>
+</div>
+<h1 id="syntax">Syntax</h1>
+<div class="gloss">
+<p class="number">(2)
+</p>
+<div class="interlinear">
+<dl>
+<dt>
+ʔila=ša
+</dt>
+<dd>
+while<abbr>=1PL</abbr>
+</dd>
+</dl>
+<dl>
+<dt>
+jexwečil
+</dt>
+<dd>
+sleep<abbr>.PST</abbr>
+</dd>
+</dl>
+<dl>
+<dt>
+šipi
+</dt>
+<dd>
+live.<abbr>AUX</abbr>
+</dd>
+</dl>
+<dl>
+<dt>
+litol=ša
+</dt>
+<dd>
+see<abbr>.PST=1PL</abbr>
+</dd>
+</dl>
+<dl>
+<dt>
+ma-wu
+</dt>
+<dd>
+put.<abbr>AUX-3PL</abbr>
+</dd>
+</dl>
+</div>
+<p class="freetranslation">
+“They saw us while we slept.”
+</p>
+</div>
+<h1 id="texts">Texts</h1>
+<h2 id="example-sentences-12">Example Sentences [^12]</h2>
+<div class="gloss">
+<p class="number">(3)
+</p>
+<div class="interlinear">
+<dl>
+<dt>
+he
+</dt>
+<dd>
+who
+</dd>
+</dl>
+<dl>
+<dt>
+soʼucal
+</dt>
+<dd>
+urinate.<abbr>PST</abbr>
+</dd>
+</dl>
+<dl>
+<dt>
+hi
+</dt>
+<dd>
+in
+</dd>
+</dl>
+<dl>
+<dt>
+tila-š
+</dt>
+<dd>
+water-<abbr>DEF.SG.OBL</abbr>
+</dd>
+</dl>
+<dl>
+<dt>
+ma?
+</dt>
+<dd>
+put.<abbr>AUX</abbr>
+</dd>
+</dl>
+<dl>
+<dt>
+cũ
+</dt>
+<dd>
+<abbr>1SG.DIR</abbr>
+</dd>
+</dl>
+<dl>
+<dt>
+ma!
+</dt>
+<dd>
+put.<abbr>AUX</abbr>
+</dd>
+</dl>
+</div>
+<p class="freetranslation">
+“Who urinated (in) the water? I did!”
+</p>
+<p class="source">
+1225th 5MOYD
+</p>
+</div>
+<h1 id="prompts">Prompts</h1>
+<section id="footnotes" class="footnotes footnotes-end-of-document"
+role="doc-endnotes">
+<hr />
+<ol>
+<li id="fn1"><p>Use two points of articulation you don’t use very often
+- (free choice! anything out of your comfort zone - willing to consider
+any secondary articulation that patterns as a POA as a separate POA if
+it makes sense)<a href="#fnref1" class="footnote-back"
+role="doc-backlink">↩︎</a></p></li>
+</ol>
+</section>
+</body>
+</html>
