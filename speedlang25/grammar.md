@@ -14,6 +14,94 @@
 | Lab. Son. | mʷ       | nʷ     | lʷ       | w        |         |
 : Consonants
 
+<table>
+<caption>Consonants</caption>
+<tr class="header">
+    <th></th>
+    <th colspan="2" style="text-align: center;">Bilabial</th>
+    <th colspan="2" style="text-align: center;">Dental</th>
+    <th colspan="2" style="text-align: center;">Alveolar</th>
+    <th colspan="2" style="text-align: center;">Dorsal</th>
+    <th colspan="2" style="text-align: center;">Glottal</th>
+<tr>
+<tr class="header">
+    <th></th>
+    <th>Pln.</th>
+    <th>Lab.</th>
+    <th>Pln.</th>
+    <th>Lab.</th>
+    <th>Pln.</th>
+    <th>Lab.</th>
+    <th>Pln.</th>
+    <th>Lab.</th>
+    <th>Pln.</th>
+    <th>Lab.</th>
+</tr>
+<tr class="odd">
+    <td>Stop</td>
+    <td style="text-align: center">p</td>
+    <td style="text-align: center">pʷ</td>
+    <td style="text-align: center">t</td>
+    <td style="text-align: center">tʷ</td>
+    <td style="text-align: center">ts</td>
+    <td style="text-align: center">tsʷ</td>
+    <td style="text-align: center">k</td>
+    <td style="text-align: center">kʷ</td>
+    <td style="text-align: center">ʔ</td>
+    <td style="text-align: center">ʔʷ</td>
+</tr>
+<tr class="even">
+    <td>Implosive</td>
+    <td style="text-align: center">ɓ</td>
+    <td style="text-align: center"></td>
+    <td style="text-align: center">ɗ</td>
+    <td style="text-align: center"></td>
+    <td style="text-align: center"></td>
+    <td style="text-align: center"></td>
+    <td style="text-align: center"></td>
+    <td style="text-align: center"></td>
+    <td style="text-align: center"></td>
+    <td style="text-align: center"></td>
+</tr>
+<tr class="odd">
+    <td>Fricative</td>
+    <td style="text-align: center"></td>
+    <td style="text-align: center"></td>
+    <td style="text-align: center">θ</td>
+    <td style="text-align: center">θʷ</td>
+    <td style="text-align: center">s</td>
+    <td style="text-align: center">sʷ</td>
+    <td style="text-align: center">ʃ</td>
+    <td style="text-align: center">ʃʷ</td>
+    <td style="text-align: center">h</td>
+    <td style="text-align: center">hʷ</td>
+</tr>
+<tr class="even">
+    <td>Sonorant</td>
+    <td style="text-align: center">m</td>
+    <td style="text-align: center">mʷ</td>
+    <td style="text-align: center">n</td>
+    <td style="text-align: center">nʷ</td>
+    <td style="text-align: center">l</td>
+    <td style="text-align: center">lʷ</td>
+    <td style="text-align: center">j</td>
+    <td style="text-align: center">w</td>
+    <td style="text-align: center"></td>
+    <td style="text-align: center"></td>
+</tr>
+</table>
+
+|           | Bilabial | Dental | Alveolar | Dorsal   | Glottal |
+| :---      | :---:    | :---:  | :---:    | :---:    | :---:   |
+| Stop      | p        | t      | ts       | k        | ʔ       |
+| Lab. Stop | pʷ       | tʷ     | tsʷ      | kʷ       | ʔʷ      |
+| Implosive | ɓ        | ɗ      |          |          |         |
+| Fricative |          | θ      | s        | ʃ        | h       |
+| Lab. Fric.|          | θʷ     | sʷ       | ʃʷ       | hʷ      |
+| Sonorant  | m        | n      | l        | j        |         |
+| Lab. Son. | mʷ       | nʷ     | lʷ       | w        |         |
+: Consonants
+
 ## Vowels
 
 |                          | Short | Long  |
