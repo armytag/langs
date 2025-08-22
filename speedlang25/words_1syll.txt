@@ -7,13 +7,9 @@ kíː	2SG
 lʷàː	1PL
 kʷàː	2PL
 láː	above
-ɓá
-jìː
-kó
-lìː
+kúː	who
+ʃá	Q
 hìː
-kúː
-ʃá
 tsúː
 tʷáː
 tìː
@@ -222,3 +218,7 @@ nàː
 hàː
 ʔíː
 jó
+ɓá
+jìː
+kó
+lìː

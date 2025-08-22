@@ -232,7 +232,14 @@ The direct and oblique forms are used like regular nouns described above.
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt></dt> <dd></dd> </dl>
+<dl> <dt>kíí</dt> <dd><abbr>2SG</abbr></dd> </dl>
+<dl> <dt>hémii</dt> <dd>book</dd> </dl>
+<dl> <dt>kúú</dt> <dd>who</dd> </dl>
+<dl> <dt>tsá=shá</dt> <dd><abbr>NOM=Q</abbr></dd> </dl>
+<dl> <dt>kíí</dt> <dd><abbr>2SG</abbr></dd> </dl>
+<dl> <dt>nwá</dt> <dd><abbr>ALL</abbr></dd> </dl>
+<dl> <dt>màʼwa</dt> <dd>give</dd> </dl>
+<dl> <dt>tsók-ii</dt> <dd>lose-<abbr>EGO</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"You lost the book given to you by whom?"</p>
 <p class="source">1323rd 5MOYD</p>
