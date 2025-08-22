@@ -1,35 +1,39 @@
 import math
 import random as rand
 
-NASALS = [
-    "m", "n",
+IMPLOSIVES = [
+    "ɓ", "ɗ",
 ]
 PLOSIVES = [
-    "p", "t", "ts", "tʃ", "kʷ", "ʔ"
+    "p", "t", "ts", "k", "ʔ",
+    "pʷ", "tʷ", "tsʷ", "kʷ", "ʔʷ",
 ]
 FRICATIVES = [
-    "s", "ʃ", "xʷ", "h",
+    "θ", "s", "ʃ", "h",
+    "θʷ", "sʷ", "ʃʷ", "hʷ",
 ]
 SONORANTS = [
-    "l",
-]
-APPROXIMANTS = [
-    "j", "w",
+    "m", "n", "l", "j",
+    "mʷ", "nʷ", "lʷ", "w",
 ]
 VOWELS = [
-    "a", "e", "i", "o", "u",
+    "e", "iː", "a", "aː",
+]
+TONES = [
+    # "L", "H",
+    "̀", "́",
 ]
 
 SYLL_STRUCTS = []
 SYLL_STRUCTS += ['VC'] * 0
 SYLL_STRUCTS += ['CV'] * 3
-SYLL_STRUCTS += ['CVC'] * 1
+SYLL_STRUCTS += ['CVC'] * 0
 SYLL_STRUCTS += ['CCV'] * 0
 SYLL_STRUCTS += ['CCVC'] * 0
 SYLL_COUNTS = []
-SYLL_COUNTS += [1] * 3
-SYLL_COUNTS += [2] * 2
-SYLL_COUNTS += [3] * 1
+SYLL_COUNTS += [1] * 1
+SYLL_COUNTS += [2] * 0
+SYLL_COUNTS += [3] * 0
 SYLL_COUNTS += [4] * 0
 
 
@@ -37,25 +41,50 @@ def flatten_matrix(matrix):
     return [item for array in matrix for item in array]
 
 
-def generate_syllable(onset_shape, coda_shape):
-    onset = ''
+def generate_syllable(onset_shape, coda_shape, syll_num):
+    onset = rand.choice(flatten_matrix(
+        [IMPLOSIVES, PLOSIVES, SONORANTS, FRICATIVES,]
+    ))
     vowel = rand.choice(VOWELS)
-    coda = ''
-    if len(onset_shape) == 1:
-        onset = rand.choice(flatten_matrix(
-            [PLOSIVES, NASALS, SONORANTS, APPROXIMANTS, FRICATIVES,]
-        ))
-    if len(coda_shape) == 1:
-        coda = rand.choice(flatten_matrix(
-            [NASALS, NASALS, SONORANTS, SONORANTS, FRICATIVES,]
-        ))
-    syll = onset + vowel + coda
+    tone = rand.choice(TONES)
+    # print("\t", onset, vowel, tone, end=" ")
+    if onset == "w" or "ʷ" in onset:
+        if vowel == "e":
+            vowel = "o"
+            onset = delabialize(onset)
+        elif vowel == "iː":
+            vowel = "uː"
+            onset = delabialize(onset)
+    if syll_num == 0:
+        vowel = apply_tone(vowel, tone)
+    # print("→", onset, vowel)
+    syll = onset + vowel
     return syll
 
 
-def get_syllable(s):
+def delabialize(consonant):
+    if consonant == "w":
+        return "j"
+    if len(consonant) > 1 and consonant[-1] == "ʷ":
+        return consonant[:-1]
+
+
+def apply_tone(vowel, tone):
+    if len(vowel) > 1:
+        return vowel[0] + tone + vowel[1:]
+    return vowel + tone
+
+
+def get_syllable(s, syll_num):
     shapes = s.split('V')
-    return generate_syllable(shapes[0], shapes[1])
+    return generate_syllable(shapes[0], shapes[1], syll_num)
+
+
+def is_labial(syllable):
+    for c in ["w", "ʷ", "o", "u"]:
+        if c in syllable:
+            return True
+    return False
 
 
 def generate_frequencies(phonemes):
@@ -73,16 +102,26 @@ if __name__ == "__main__":
     # phonemes = NASALS # + FRICATIVES + PLOSIVES + RHOTICS
     # print(phonemes)
     # print(generate_frequencies(phonemes))
-    word_count = 10
+    word_count = 10 * 50
     words = []
     w = 0
-    while w < word_count:
+    attempts = 0
+    while w < word_count and attempts < 100000:
         syll_count = rand.choice(SYLL_COUNTS)
+        syllables = []
         word = ''
         for s in range(syll_count):
             structure = rand.choice(SYLL_STRUCTS)
-            syllable = get_syllable(structure)
-            word += syllable
+            syllable = get_syllable(structure, s)
+            if len(syllables) > 0 and is_labial(syllables[-1]):
+                while is_labial(syllable):
+                    structure = rand.choice(SYLL_STRUCTS)
+                    syllable = get_syllable(structure, s)
+            syllables.append(syllable)
+        # for syll in syllables:
+        #     print(syll, is_labial(syll))
+        word = "".join(syllables)
+        attempts += 1
         if len(word) > 1 and word not in words:
             words.append(word)
             print(word)
