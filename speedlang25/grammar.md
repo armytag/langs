@@ -88,12 +88,15 @@ Shátuu has twenty-eight phonemic consonants.  Plosives, fricatives, and sonora
 
 ## Vowels
 
+There are four phonemic vowels in Shátuu, differentiated by height and length.  The close vowels are front unrounded vowels, and the short one is lower than the long.  The open vowels don't differ in quality, only length.
+
 |       | Short | Long  |
 | ---   | :---: | :---: |
 | Close | e     | iː    |
 | Open  | a     | aː    |
 : Phonemic Vowels
 
+After a labialized consonant, the close vowels are backed and rounded and cause the triggering consonant to delabialize.  The open vowels are not affected by labialized consonants, nor do they trigger delabialization.
 
 <div class="comparison col2">
 <div>/pʷe/ → [po]</div>
@@ -104,11 +107,11 @@ Shátuu has twenty-eight phonemic consonants.  Plosives, fricatives, and sonora
 
 ## Tone
 
-There are 
+There are three tone levels in Shátuu: high, mid, and low.  Only high and low tones can spread or trigger tone changes, so the mid tone appears to be a neutral unmarked tone.
 
 ## Syllable Structure
 
-Syllables take the form CV, where C is any consonant and V is any vowel
+Syllables take the form CV, where C is any consonant and V is any vowel.
 
 <div class="comparison col4">
 <dt>jexwe<b>š</b>i</dt> <dd>"sleep"</dd>
@@ -118,6 +121,36 @@ Syllables take the form CV, where C is any consonant and V is any vowel
 <dt><b>s</b>i</dt> <dd>"of (relative particle)"</dd>
 <dt><b>c</b>is</dt> <dd>"of me"</dd>
 </div>
+
+## Orthography
+
+[https://en.wikipedia.org/wiki/Yi_script](https://en.wikipedia.org/wiki/Yi_script)
+
+| Shátuu | Yi Pinyin | Shátuu | Yi Pinyin |
+| :---:  | :---:     | :---:  | :---:     |
+| ɓ      | bb        | e/iː   | i         |
+| ɗ      | dd        | o/uː   | o         |
+| p      | b         | a/aː   | a         |
+| t      | d         | ʷa/ʷaː | u         |
+| ts     | z         | v́ (-h) | -t        |
+| k      | g         | v (-m) | -         |
+| ʔ      | k         | v̀ (-l) | -p        |
+| θ      | t         |        |           |
+| s      | s         |        |           |
+| ʃ      | x/sh      |        |           |
+| h      | h (-ʷa y) |        |           |
+| m      | m         |        |           |
+| n      | n (-á hn) |        |           |
+| l      | l         |        |           |
+| j      | r (-iː y) |        |           |
+
+| Shátuu    | Yi Pinyin      | Yi Script |
+| :---:     | :---:          | :---:     |
+| ʃátuː     | shat do o      | ꎫꄏꀑ    |
+| tò        | dop            | ꄐ        |
+| tèkwa     | dip gu         | ꄃꇴ      |
+| tèkwamwa  | dip gu mu      | ꄃꇴꃅ    |
+| tèkwàmwàá | dip gup mup at | ꄃꇵꃆꀈ  |
 
 # Morphology
 
