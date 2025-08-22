@@ -186,9 +186,11 @@ li > ol, li > ul {
 	text-align: left;
 }
 
-.qathebo {
+.yi-script {
 	text-align: justify;
 	word-spacing: 1ch;
+	font-size: 1.75rem;
+	line-height: 1.7rem;
 }
 
 .source {

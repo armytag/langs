@@ -126,23 +126,23 @@ Syllables take the form CV, where C is any consonant and V is any vowel.
 
 [https://en.wikipedia.org/wiki/Yi_script](https://en.wikipedia.org/wiki/Yi_script)
 
-| Shátuu | Yi Pinyin | Shátuu | Yi Pinyin |
-| :---:  | :---:     | :---:  | :---:     |
-| ɓ      | bb        | e/iː   | i         |
-| ɗ      | dd        | o/uː   | o         |
-| p      | b         | a/aː   | a         |
-| t      | d         | ʷa/ʷaː | u         |
-| ts     | z         |        |           |
-| k      | g         | v́ (-h) | -t        |
-| ʔ      | k         | v (-m) | -         |
-| θ      | t         | v̀ (-l) | -p        |
-| s      | s         |        |           |
-| ʃ      | x/sh      |        |           |
-| h      | h (-ʷa y) |        |           |
-| m      | m         |        |           |
-| n      | n (-á hn) |        |           |
-| l      | l         |        |           |
-| j      | r (-iː y) |        |           |
+| Shátuu | Yi Pinyin  | Shátuu | Yi Pinyin |
+| :---:  | :---:      | :---:  | :---:     |
+| ɓ      | bb         | e/iː   | i         |
+| ɗ      | dd         | o/uː   | o         |
+| p      | b          | a/aː   | a         |
+| t      | d          | ʷa/ʷaː | u         |
+| ts     | z          |        |           |
+| k      | g          | v́ (-h) | -t        |
+| ʔ      | k          | v (-m) | -         |
+| θ      | t          | v̀ (-l) | -p        |
+| s      | s          |        |           |
+| ʃ      | x/sh       |        |           |
+| h      | hx (-ʷa y) |        |           |
+| m      | m          |        |           |
+| n      | n (-á hn)  |        |           |
+| l      | l          |        |           |
+| j      | r (-iː y)  |        |           |
 
 | Shátuu    | Yi Pinyin      | Yi Script |
 | :---:     | :---:          | :---:     |
@@ -208,6 +208,7 @@ The direct and oblique forms are used like regular nouns described above.
 
 <div class="gloss">
 <p class="number"></p>
+<p class="yi-script"></p>
 <div class="interlinear">
 <dl> <dt></dt> <dd></dd> </dl>
 </div>
@@ -217,6 +218,7 @@ The direct and oblique forms are used like regular nouns described above.
 
 <div class="gloss">
 <p class="number"></p>
+<p class="yi-script">ꄳꀋꉐꀊ ꊔ ꆿꀈꉈ ꆑ ꑠꉐꀊ ꌞꀈꇜ</p>
 <div class="interlinear">
 <dl> <dt>thwààhaa</dt> <dd>water</dd> </dl>
 <dl> <dt>tsá</dt> <dd><abbr>NOM</abbr></dd> </dl>
@@ -231,6 +233,7 @@ The direct and oblique forms are used like regular nouns described above.
 
 <div class="gloss">
 <p class="number"></p>
+<p class="yi-script">ꇚꀀ ꉆꂰꀂ ꇪꀏ ꊔꎮ ꇚꀀ ꆑ ꂸꈐ ꊛꇜꀂ</p>
 <div class="interlinear">
 <dl> <dt>kíí</dt> <dd><abbr>2SG</abbr></dd> </dl>
 <dl> <dt>hémii</dt> <dd>book</dd> </dl>
@@ -247,6 +250,7 @@ The direct and oblique forms are used like regular nouns described above.
 
 <div class="gloss">
 <p class="number"></p>
+<p class="yi-script"></p>
 <div class="interlinear">
 <dl> <dt></dt> <dd></dd> </dl>
 </div>
@@ -256,6 +260,7 @@ The direct and oblique forms are used like regular nouns described above.
 
 <div class="gloss">
 <p class="number"></p>
+<p class="yi-script">ꇑꀋ ꑴꎮ ꇪꑝꃅ ꊐꈈꀑ ꇑꀋ ꑧꀏꄉꀊ ꉉꀃ ꂮꏰꀋꎽꀋꄿꃆꎮ</p>
 <div class="interlinear">
 <dl> <dt>lwàà</dt> <dd><abbr>1PL</abbr></dd> </dl>
 <dl> <dt>jè=shà</dt> <dd>what<abbr>=Q</abbr></dd> </dl>
