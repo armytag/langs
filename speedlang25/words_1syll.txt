@@ -1,11 +1,15 @@
-lúː
-kíː
-lʷàː
+nʷá	arrive; ALL; SUC
+mìː	leave; ABL; NEG
+tsá	hand; NOM
+hʷàː	take; COM; CAUS
+lúː	1SG
+kíː	2SG
+lʷàː	1PL
+kʷàː	2PL
 ɓá
 jìː
 kó
 lìː
-kʷàː
 hìː
 kúː
 ʃá
@@ -60,8 +64,6 @@ mʷàː
 ɗàː
 θìː
 júː
-hʷàː
-mìː
 lʷáː
 sò
 ʔʷà
@@ -75,7 +77,6 @@ pò
 háː
 té
 kìː
-nʷá
 sʷá
 ʃʷàː
 θè
@@ -205,7 +206,6 @@ kàː
 θʷàː
 tsíː
 tó
-tsá
 hʷáː
 nìː
 sè

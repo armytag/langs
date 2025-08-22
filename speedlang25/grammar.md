@@ -170,8 +170,8 @@ Dedicated pronoun forms only exist for first- and second-person human referents.
 
 | Person     | Singular | Dual    | Plural  |
 | :---:      | :---     | :---    | :---    |
-| 1          | lìì      | lúúɓa   | lwàà    |
-| 2          | kíí      | kójii   | kwàà    |
+| 1 human    | lìì      | lúúba   | lwàà    |
+| 2 human    | kíí      | kójii   | kwàà    |
 | 3 human    | shèhaa   | shááʼo  | shèlwaa |
 | 3 nonhuman | tùùjii   | tùùjii  | tùùjii  |
 : Personal Pronouns
@@ -218,7 +218,12 @@ The direct and oblique forms are used like regular nouns described above.
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt></dt> <dd></dd> </dl>
+<dl> <dt>AA</dt> <dd>water</dd> </dl>
+<dl> <dt>tsá</dt> <dd><abbr>NOM</abbr></dd> </dl>
+<dl> <dt>AA</dt> <dd>above</dd> </dl>
+<dl> <dt>nwá</dt> <dd><abbr>ALL</abbr></dd> </dl>
+<dl> <dt>shèhaa</dt> <dd><abbr>3SG</abbr></dd> </dl>
+<dl> <dt>AA</dt> <dd>carry</dd> </dl>
 </div>
 <p class="freetranslation">"The water carried him upwards."</p>
 <p class="source">1130th 5MOYD</p>
