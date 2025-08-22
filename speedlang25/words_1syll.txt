@@ -8,13 +8,13 @@ lʷàː	1PL
 kʷàː	2PL
 láː	above
 kúː	who
-ʃá	Q
-hìː
+ʃà	Q
+jè	what
+hìː	in
 tsúː
 tʷáː
 tìː
 tíː
-jè
 mà
 pìː
 θʷá
@@ -92,7 +92,7 @@ jé
 tsùː
 mè
 táː
-ʃà
+ʃá
 mé
 ʃáː
 páː

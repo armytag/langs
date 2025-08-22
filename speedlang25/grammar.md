@@ -235,7 +235,7 @@ The direct and oblique forms are used like regular nouns described above.
 <dl> <dt>kíí</dt> <dd><abbr>2SG</abbr></dd> </dl>
 <dl> <dt>hémii</dt> <dd>book</dd> </dl>
 <dl> <dt>kúú</dt> <dd>who</dd> </dl>
-<dl> <dt>tsá=shá</dt> <dd><abbr>NOM=Q</abbr></dd> </dl>
+<dl> <dt>tsá=shà</dt> <dd><abbr>NOM=Q</abbr></dd> </dl>
 <dl> <dt>kíí</dt> <dd><abbr>2SG</abbr></dd> </dl>
 <dl> <dt>nwá</dt> <dd><abbr>ALL</abbr></dd> </dl>
 <dl> <dt>màʼwa</dt> <dd>give</dd> </dl>
@@ -257,7 +257,14 @@ The direct and oblique forms are used like regular nouns described above.
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>tò</dt> <dd></dd> </dl>
+<dl> <dt>lwàà</dt> <dd><abbr>1PL</abbr></dd> </dl>
+<dl> <dt>jè=shà</dt> <dd>what<abbr>=Q</abbr></dd> </dl>
+<dl> <dt>kóshé-mwa</dt> <dd>do<abbr>-FUT</abbr></dd> </dl>
+<dl> <dt>tsèʼuu,</dt> <dd>now</dd> </dl>
+<dl> <dt>lwàà</dt> <dd><abbr>1PL</abbr></dd> </dl>
+<dl> <dt>shúútaa</dt> <dd>tents</dd> </dl>
+<dl> <dt>hìì</dt> <dd>in</dd> </dl>
+<dl> <dt>méwáà-shwààda-mwà=shà</dt> <dd>night-sleep<abbr>-FUT=Q</abbr></dd> </dl>
 </div>
 <p class="freetranslation">"What are we going to do now, are we going to camp out?"</p>
 <p class="source">1733rd 5MOYD</p>

@@ -11,11 +11,11 @@ sʷáːke	carry
 màʔʷa	give
 hémiː	book
 tsóke	lose
-kóʃe
-tsèʔuː
-míːpʷaː
-ʃʷàːɗaː
-ʃúːtaː
+kóʃe	do; knead
+tsèʔuː	now
+méwaː	night
+ʃʷàːɗa	sleep
+ʃúːtaː	tent
 hʷàːɓe
 móniː
 ɗáːlaː
@@ -138,7 +138,6 @@ lóθa
 mùːɗiː
 θʷájiː
 tsʷàla
-méwaː
 θùːpe
 témo
 tósa
@@ -500,3 +499,4 @@ tʷáːna
 ɓáʔa
 kèʃʷa
 nʷàmaː
+míːpʷaː
