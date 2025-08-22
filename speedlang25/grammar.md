@@ -132,10 +132,10 @@ Syllables take the form CV, where C is any consonant and V is any vowel.
 | ɗ      | dd        | o/uː   | o         |
 | p      | b         | a/aː   | a         |
 | t      | d         | ʷa/ʷaː | u         |
-| ts     | z         | v́ (-h) | -t        |
-| k      | g         | v (-m) | -         |
-| ʔ      | k         | v̀ (-l) | -p        |
-| θ      | t         |        |           |
+| ts     | z         |        |           |
+| k      | g         | v́ (-h) | -t        |
+| ʔ      | k         | v (-m) | -         |
+| θ      | t         | v̀ (-l) | -p        |
 | s      | s         |        |           |
 | ʃ      | x/sh      |        |           |
 | h      | h (-ʷa y) |        |           |
@@ -156,8 +156,6 @@ Syllables take the form CV, where C is any consonant and V is any vowel.
 
 ## Nouns
 
-Nouns have direct and oblique cases.  In regular (nominative) clauses, the direct case is used for intransitive subject and transitive agent, and the oblique case is used for transitive object.  In (ergative) subclauses, the direct case is used for the transitive agent, and the oblique case is used for intransitive subject and transitive object.[^5]  In both kinds of clauses, the direct case is used for the "object" of copular sentences, and the oblique case is used in possessive/genitive phrases, adpositional phrases, and most other situations.
-
 | Definiteness      | Direct | Oblique |
 | :---              | :---   | :---    |
 | Generic           | -      | -xwe    |
@@ -168,16 +166,14 @@ Nouns have direct and oblique cases.  In regular (nominative) clauses, the direc
 
 ## Pronouns
 
-Dedicated pronoun forms only exist for human referents.  Non-human referents use *mili* ("this") or *cuʼi* ("that") with appropriate case-definiteness marking as an anaphoric "pronoun".
+Dedicated pronoun forms only exist for first- and second-person human referents.  Third-person human referents use the various forms for *shèlwaa* "person", and non-human referents use *tùùjii* ("thing").
 
-| Person | Direct  | Oblique | Suffix | Clitic |
-| :---:  | :---    | :---    | :---   | :---   |
-| 1SG    | cũ      | xwece   | -mu    | =(a)s  |
-| 1PL    | pone    | tomo    | -co    | =ša    |
-| 2SG    | kwos    | la      | -li    | =(e)l  |
-| 2PL    | čoxwmo  | lũxwo   | -čã    | =ʼes   |
-| 3SG    | nuš     | ʼũ      | -ʼuš   | =nũ    |
-| 3PL    | mopu    | mũ      | -wu    | =mi    |
+| Person     | Singular | Dual    | Plural  |
+| :---:      | :---     | :---    | :---    |
+| 1          | lìì      | lúúɓa   | lwàà    |
+| 2          | kíí      | kójii   | kwàà    |
+| 3 human    | shèhaa   | shááʼo  | shèlwaa |
+| 3 nonhuman | tùùjii   | tùùjii  | tùùjii  |
 : Personal Pronouns
 
 The direct and oblique forms are used like regular nouns described above.
@@ -208,21 +204,51 @@ The direct and oblique forms are used like regular nouns described above.
 
 # Texts
 
-## Example Sentences
+## Example Sentences[^8]
 
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>he</dt> <dd>who</dd> </dl>
-<dl> <dt>soʼucal</dt> <dd>urinate.<abbr>PST</abbr></dd> </dl>
-<dl> <dt>hi</dt> <dd>in</dd> </dl>
-<dl> <dt>tila-š</dt> <dd>water-<abbr>DEF.SG.OBL</abbr></dd> </dl>
-<dl> <dt>ma?</dt> <dd>put.<abbr>AUX</abbr></dd> </dl>
-<dl> <dt>cũ</dt> <dd><abbr>1SG.DIR</abbr></dd> </dl>
-<dl> <dt>ma!</dt> <dd>put.<abbr>AUX</abbr></dd> </dl>
+<dl> <dt></dt> <dd></dd> </dl>
 </div>
-<p class="freetranslation">"Who urinated (in) the water? I did!"</p>
-<p class="source">1225th 5MOYD</p>
+<p class="freetranslation">"“I am fast”, he told the wolf; but the wolf found out."</p>
+<p class="source">1083rd 5MOYD</p>
+</div>
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt></dt> <dd></dd> </dl>
+</div>
+<p class="freetranslation">"The water carried him upwards."</p>
+<p class="source">1130th 5MOYD</p>
+</div>
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt></dt> <dd></dd> </dl>
+</div>
+<p class="freetranslation">"You lost the book given to you by whom?"</p>
+<p class="source">1323rd 5MOYD</p>
+</div>
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt></dt> <dd></dd> </dl>
+</div>
+<p class="freetranslation">"(They) say that the King of China has 306 provinces."</p>
+<p class="source">1458th 5MOYD</p>
+</div>
+
+<div class="gloss">
+<p class="number"></p>
+<div class="interlinear">
+<dl> <dt>tò</dt> <dd></dd> </dl>
+</div>
+<p class="freetranslation">"What are we going to do now, are we going to camp out?"</p>
+<p class="source">1733rd 5MOYD</p>
 </div>
 
 # Prompts
