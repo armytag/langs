@@ -3,6 +3,8 @@
 
 ## Consonants
 
+Shátuu has twenty-eight phonemic consonants.  Plosives, fricatives, and sonorants all have plain and labialized counterparts, but the two implosives only occur unlabialized[^1].  The consonant invetory is summarized in the table below.
+
 <table>
 <caption>Consonants</caption>
 <thead>
@@ -30,19 +32,6 @@
 </thead>
 <tbody>
 <tr class="odd">
-    <td>Stop</td>
-    <td style="text-align: center">p</td>
-    <td style="text-align: center">pʷ</td>
-    <td style="text-align: center">t</td>
-    <td style="text-align: center">tʷ</td>
-    <td style="text-align: center">ts</td>
-    <td style="text-align: center">tsʷ</td>
-    <td style="text-align: center">k</td>
-    <td style="text-align: center">kʷ</td>
-    <td style="text-align: center">ʔ</td>
-    <td style="text-align: center">ʔʷ</td>
-</tr>
-<tr class="even">
     <td>Implosive</td>
     <td style="text-align: center">ɓ</td>
     <td style="text-align: center"></td>
@@ -54,6 +43,19 @@
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
+</tr>
+<tr class="even">
+    <td>Plosive</td>
+    <td style="text-align: center">p</td>
+    <td style="text-align: center">pʷ</td>
+    <td style="text-align: center">t</td>
+    <td style="text-align: center">tʷ</td>
+    <td style="text-align: center">ts</td>
+    <td style="text-align: center">tsʷ</td>
+    <td style="text-align: center">k</td>
+    <td style="text-align: center">kʷ</td>
+    <td style="text-align: center">ʔ</td>
+    <td style="text-align: center">ʔʷ</td>
 </tr>
 <tr class="odd">
     <td>Fricative</td>
@@ -86,35 +88,23 @@
 
 ## Vowels
 
-<table>
-<caption>Vowels</caption>
-<thead>
-<tr class="header">
-    <th></th>
-    <th></th>
-    <th style="text-align: center">Short</th>
-    <th style="text-align: center">Long</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-    <td rowspan="2" style="text-align: center">Close</td>
-    <td style="text-align: center">after C</td>
-    <td style="text-align: center">e</td>
-    <td style="text-align: center">iː</td>
-</tr>
-<tr class="even">
-    <td style="text-align: center">after Cʷ</td>
-    <td style="text-align: center">o</td>
-    <td style="text-align: center">uː</td>
-</tr>
-<tr class="odd">
-    <td colspan="2" style="text-align: center">Open</td>
-    <td style="text-align: center">a</td>
-    <td style="text-align: center">aː</td>
-</tr>
-</tbody>
-</table>
+|       | Short | Long  |
+| ---   | :---: | :---: |
+| Close | e     | iː    |
+| Open  | a     | aː    |
+: Phonemic Vowels
+
+
+<div class="comparison col2">
+<div>/pʷe/ → [po]</div>
+<div>/pʷiː/ → [puː]</div>
+<div>/pʷa/ → [pʷa]</div>
+<div>/pʷaː/ → [pʷaː]</div>
+</div>
+
+## Tone
+
+There are 
 
 ## Syllable Structure
 
@@ -204,4 +194,11 @@ The direct and oblique forms are used like regular nouns described above.
 
 # Prompts
 
-[^1]: Use two points of articulation you don't use very often - (free choice! anything out of your comfort zone - willing to consider any secondary articulation that patterns as a POA as a separate POA if it makes sense)
+[^1]: Have a secondary articulation that either applies to all but one phoneme or features, or only two phonemes (justify its behavior either way)
+[^2]: Have a class of phonemes that undergoes Obligatory Contour Principle effects. This could be, like, geminates or aspirated consonants or voiced stops or whatever. Anything, really.
+[^3]: Have no plural marking xor have more than two (≥3) plurals (e.g., dual, trial, quadral, paucal, lesser/greater plurals, associative plural, &c.).
+[^4]: (bonus) Have both. Note that there is no restraint on having all nouns or verbs or whatever is number-marked take number morphology, so this should be easy.
+[^5]: Have periodic tense marker(s).
+[^6]: Have multiple negation morphemes based on TAM or something. Have them differ in form.
+[^7]: Make a ‘lexicon showcase’ of a minimum of five (5) lexemes, in which you detail specific lexical items.
+[^8]: Translate and gloss at least five (5) example sentences from acceptable sources.
