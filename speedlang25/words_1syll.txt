@@ -6,6 +6,7 @@ lúː	1SG
 kíː	2SG
 lʷàː	1PL
 kʷàː	2PL
+láː	above
 ɓá
 jìː
 kó
@@ -68,7 +69,6 @@ lʷáː
 sò
 ʔʷà
 híː
-láː
 ʔʷàː
 hʷá
 θíː

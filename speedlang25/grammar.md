@@ -218,12 +218,12 @@ The direct and oblique forms are used like regular nouns described above.
 <div class="gloss">
 <p class="number"></p>
 <div class="interlinear">
-<dl> <dt>AA</dt> <dd>water</dd> </dl>
+<dl> <dt>thwààhaa</dt> <dd>water</dd> </dl>
 <dl> <dt>tsá</dt> <dd><abbr>NOM</abbr></dd> </dl>
-<dl> <dt>AA</dt> <dd>above</dd> </dl>
+<dl> <dt>lááhe</dt> <dd>above</dd> </dl>
 <dl> <dt>nwá</dt> <dd><abbr>ALL</abbr></dd> </dl>
 <dl> <dt>shèhaa</dt> <dd><abbr>3SG</abbr></dd> </dl>
-<dl> <dt>AA</dt> <dd>carry</dd> </dl>
+<dl> <dt>swááke</dt> <dd>carry</dd> </dl>
 </div>
 <p class="freetranslation">"The water carried him upwards."</p>
 <p class="source">1130th 5MOYD</p>
