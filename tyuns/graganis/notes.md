@@ -16,10 +16,8 @@
 
 | Noun Cases                  | Archie | Yshy | Uwul  | Uwaa  | Talon |
 | ---                         | ---    | ---  | ---   | ---   | ---   |
-| Nominative                  |        |      |       |       | NOM   |
-| Accusative                  | ACC    |      | acc?  | acc?  | ACC   |
-| Ergative                    | ERG    |      | ERG   | ERG   |       |
-| Absolutive                  | ABS    |      | ABS   | ABS   |       |
+| Transitive Agent            | ERG    |      | ERG   | ERG   | NOM   |
+| Transitive Patient          | ABS    |      | ABS   | ABS   | ACC   |
 | relation, composition       | GEN    | GEN  | GEN   | GEN   | GEN   |
 | location                    | LOC    |      | LOC   | LOC   |       |
 | addressee of speech         | VOC    |      | *voc* | *voc* | VOC   |
@@ -58,7 +56,6 @@ Ergative
 Genitive
 Locative
 Vocative
-Accusative
 
 ### Uwul
 Absolutive
