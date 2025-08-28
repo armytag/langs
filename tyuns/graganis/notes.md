@@ -14,25 +14,25 @@
 
 ## Noun Cases
 
-| Noun Cases                  | Uwul  | Archie | Yshy  | Talon | Uwaa  |
-| ---                         | ---   | ---    | ---   | ---   | ---   |
-| Nominative                  |       |        |       | NOM   |       |
-| Accusative                  | acc?  | ACC    |       | ACC   |       |
-| Ergative                    | ERG   | ERG    |       |       | ERG   |
-| Absolutive                  | ABS   | ABS    |       |       | ABS   |
-| relation, composition       | GEN   | GEN    | GEN   | GEN   | GEN   |
-| location                    | LOC   | LOC    |       |       | LOC   |
-| addressee of speech         | *voc* | VOC    |       | VOC   | *voc* |
-| indirect obj, recipient     | DAT   |        |       |       | DAT   |
-| comparative                 | DAT   |        |       |       | DAT   |
-| accompaniant                | ~COM~ |        |       |       | ~COM~ |
-| manner, being like          | ESS   |        | ESS   |       | ESS   |
-| motion away                 |       |        |       | ABL   |       |
-| motion towards              |       |        | ALL   |       |       |
-| motion out from             |       |        | ELT   |       |       |
-| motion beyond               |       |        | UTL   |       |       |
-| motion from beyond          |       |        | ITL   |       |       |
-| change into                 |       |        | TRL   |       |       |
+| Noun Cases                  | Archie | Yshy | Uwul  | Uwaa  | Talon |
+| ---                         | ---    | ---  | ---   | ---   | ---   |
+| Nominative                  |        |      |       |       | NOM   |
+| Accusative                  | ACC    |      | acc?  | acc?  | ACC   |
+| Ergative                    | ERG    |      | ERG   | ERG   |       |
+| Absolutive                  | ABS    |      | ABS   | ABS   |       |
+| relation, composition       | GEN    | GEN  | GEN   | GEN   | GEN   |
+| location                    | LOC    |      | LOC   | LOC   |       |
+| addressee of speech         | VOC    |      | *voc* | *voc* | VOC   |
+| indirect obj, recipient     |        |      | DAT   | DAT   |       |
+| comparative                 |        |      | DAT   | DAT   |       |
+| accompaniant                |        |      | ~COM~ | ~COM~ |       |
+| manner, being like          |        | ESS  | ESS   | ESS   |       |
+| motion away                 |        |      |       |       | ABL   |
+| motion towards              |        | ALL  |       |       |       |
+| motion out from             |        | ELT  |       |       |       |
+| motion beyond               |        | UTL  |       |       |       |
+| motion from beyond          |        | ITL  |       |       |       |
+| change into                 |        | TRL  |       |       |       |
 
 - "one" → INDEF (L, A)
 - DEM.LOC → DEF (L)
