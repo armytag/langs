@@ -1,3 +1,10 @@
+## Custom
+1. "I dropped the brick and (it) broke."
+  - Thixis       thôsôcei         bek thiice.
+  - tʰix-is      tʰɔsɔ-ʃe-i       bek tʰiː-ʃe
+  - brick-ABS.SG drop-PST.PFV-1SG and break-PST.PFV
+
+## Randomized
 47. I have been waiting for you.
   - Klêcil'enuttôl wuk.
   - klɛʃil-ʔenut-tɔ-l     wuk
