@@ -1,6 +1,5 @@
 ## Constraints
-- ~Consonant mutation (?)~
-- Breathy voice (?)
+- Liquid consonants (especially coda)
 - Front rounded vowels
 - Click consonants
 - Noun classifiers
