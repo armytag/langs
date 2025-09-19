@@ -1,5 +1,6 @@
 ## Constraints
-- Consonant mutation (?)
+- ~Consonant mutation (?)~
+- Breathy voice (?)
 - Front rounded vowels
 - Click consonants
 - Noun classifiers
