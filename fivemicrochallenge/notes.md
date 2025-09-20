@@ -12,12 +12,17 @@
 
 ### Vowels
 
-| VOWELS    | Front | Central | Back   |
-| ---       | ---   | ---     | ---    |
-| Close     | i     |         | u      |
-| Close-Mid | ø     |         | ɤ      |
-| Open-Mid  | ɛ     |         | ɔ      |
-| Open      |       |         |        |
+| VOWELS    | F. Un. | F. Rd. | B. Un. | B. Rd. |
+| ---       | ---    | ---    | ---    | ---    |
+| Close     | i      | y      |        | u      |
+| Mid       | e      | ø      | ɤ      | o      |
+| Open      | æ      |        | ä      | ɔ      |
+
+
+| VOWELS | F. Un. | F. Rd. | Central | B. Un. | B. Rd. |
+| ---    | ---    | ---    | ---     | ---    | ---    |
+| High   | i      | y      | ə       | ɯ      | u      |
+| Low    | ɛ      | ø      | a       | ɤ      | ɔ      |
 
 | VOWELS    | Front | Back   |
 | ---       | ---   | ---    |
