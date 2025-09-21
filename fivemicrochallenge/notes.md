@@ -32,10 +32,14 @@
 
 ### Consonants
 
+| CONSONANTS  | Labial | Dental | Alveolar | Palatal | Velar | Glottal |
+|:---:        | ---    | ---    | ---      | ---     | ---   | ---     |
+| Voiceless   |        |        |          |         |       |         |
+| Plosive     |        | t̪      | t        |         |       |         |
+| Nasal       |        |        |          |         |       |         |
+
 | CLICKS      | Dental (ǀ) | Alveolar (ǃ) | Lateral (ǁ) |
 |:---:        |:---:       |:---:         |:---:        |
 | Voiceless   | kǀ         | kǃ           | kǁ          |
 | Aspirated   | kǀʰ        | kǃʰ          | kǁʰ         |
 | Nasal       | ŋǀ         | ŋǃ           | ŋǁ          |
-| Nasal Asp.  | ŋ̊ǀʰ        | ŋ̊ǃʰ          | ŋ̊ǁʰ         |
-| Nasal Brth. | ŋ̤ǀ         | ŋ̤ǃ           | ŋ̤ǁ          |
