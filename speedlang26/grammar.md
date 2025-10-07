@@ -1,5 +1,7 @@
 
-# Phonology
+# Ideas
+
+## Phonology
 
 - 15-18 consonants
 - 5-6 vowels
@@ -19,6 +21,26 @@
 - Bilabials, nasals, and fricatives all present
 - Pharyngeals
 - Initial stress
+
+## Modifiers
+
+- Nouns can appear together in apposition to form a more specific meaning of the combined noun
+    - This is frequently done with property nouns to specify color, shape, etc. of the other noun(s)
+        - Some property nouns are used so commonly they have become like classifiers
+    - Articles define the boundary between noun phrases, as well as there specificity/definiteness
+    - Abstract nouns can be derived from root nouns
+- Some properties are predicated by default, using a small class of stative verbs for:
+    - Size
+    - Age
+
+### Examples
+
+1. bird COP blue "The bird is blue."
+1. bird COP DEF blue "The bird is the blue one."
+1. DEF blue COP bird "The blue one is a bird."
+1. blue eat bug "The blue one eats a bug." *if following the previous sentence, 'blue' would be understood to refer to the bird*
+1. bird big "The bird is big."
+1. bird REL big eat bug "The big bird eats a bug." *literally "The bird which bigs eats a bug."*
 
 # Prompts
 
