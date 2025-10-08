@@ -3,6 +3,24 @@
 
 ## Phonology
 
+| CONSONANTS  | Labial | Alveolar | Velar | Glottal |
+| ---         | ---    | ---      | ---   | ---     |
+| Nasal       | m      | n        |       |         |
+| Vcl. Stop   | p      | t        | k     |         |
+| Vcd. Stop   | b      | d        | g     |         |
+| Fricative   |        | s        | x     | h       |
+| Approximant | w      | l        | j     |         |
+
+1. Include tone and/or phonation that is contrastive on the level of the word or lower. This could be tone/phonation that works on a word, foot, syllable, or mora level.
+    1. Breathy voice patterns at word or foot level (breathy-creaky vs. creaky-breathy)
+        - Word-level: dʱa̤la̤ | ta̰la̰
+        - Foot-level: dʱa̤la̰ | ta̰la̤
+2. Have some asymmetries between the set of consonants allowed to occur in the onset and coda, meaning that either more or less consonants are allowed in the onset than in the coda, or having consonants that only occur in either the onset or the coda. ***Bonus***: have restrictions specific for clusters that are different to the constraints for initial onsets and final codas.
+    1. Initial onset: No approximants
+    1. Final coda: Only stops
+    1. Clusters: Can have nasal-stop and C-approximant clusters
+3. Include at least two different strategies for resolving clusters or hiatus at morpheme boundaries, distinct from how clusters or hiatus are resolved within roots. These strategies must both be synchronically active.
+
 - 15-18 consonants
 - 5-6 vowels
 - Voicing contrast in plosives only
