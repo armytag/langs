@@ -45,6 +45,8 @@
     - E.g. LHH́L, LHH́H, LH́LL, ĹLLL
     - Long vowels heavy
     - No rhythm/secondary stress
+    - Examples
+        1. pátaka, páːtaka, paːtáːka, paːtaːkáː
 
 ## Modifiers
 
