@@ -1,0 +1,42 @@
+Feature front, back
+Feature height(low, mid, high)
+Feature type(*cons, vowel)
+Feature voicing(unvoiced, voiced)
+Feature place(labial, alveolar, velar, glottal)
+Feature manner(nasal, stop, fricative, affricate, trill, approximant)
+Feature +breathy, +long
+Feature (syllable) +stress
+Feature (syllable) +heavy
+Diacritic ̤ (floating) [+breathy]
+Diacritic ː (floating) [+long]
+Diacritic ' (before) [+stress]
+Diacritic " [+heavy]
+Symbol i [high +front -back vowel]
+Symbol u [high -front +back vowel]
+Symbol a [low  -front -back vowel]
+Symbol e [mid +front -back vowel]
+Symbol o [mid -front +back vowel]
+Symbol ə [mid -front -back vowel]
+Symbol m [voiced labial nasal]
+Symbol n [voiced alveolar nasal]
+Symbol p [unvoiced labial stop]
+Symbol t [unvoiced alveolar stop]
+Symbol k [unvoiced velar stop]
+Symbol ʔ [unvoiced glottal stop]
+
+Syllables:
+	[cons]? [vowel +long] => [+heavy]
+	[cons]? [vowel]
+
+assign-stress:
+	<syl>&[+heavy] => [+stress] / _ <syl> $
+	Else: <syl>&[+heavy] => [+stress] / _ $
+	Else: <syl>&[+heavy] => [+stress] / $ <syl>&[+heavy]* _ {<syl>&[-heavy], $}
+	Else: <syl> => [+stress] / $ _
+
+drop-syllable-features:
+	<syl>&[+heavy] => [-heavy]
+
+vowel-reduction:
+	[vowel]&[-stress] => [mid]
+
