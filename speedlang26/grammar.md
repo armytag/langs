@@ -15,6 +15,9 @@
     1. Breathy voice patterns at word or foot level (breathy-creaky vs. creaky-breathy)
         - Word-level: dʱa̤la̤ | ta̰la̰
         - Foot-level: dʱa̤la̰ | ta̰la̤
+    2. Breathy/creaky voice evolving from stress system
+        - ˈdago → ˈda.gʱo̤
+        - daˈgol → daˈgo
 2. Have some asymmetries between the set of consonants allowed to occur in the onset and coda, meaning that either more or less consonants are allowed in the onset than in the coda, or having consonants that only occur in either the onset or the coda. ***Bonus***: have restrictions specific for clusters that are different to the constraints for initial onsets and final codas.
     1. Initial onset: No approximants
     1. Final coda: Only stops
@@ -38,7 +41,10 @@
     - Probably go with 3 level tones
 - Bilabials, nasals, and fricatives all present
 - Pharyngeals
-- Initial stress
+- Both Right-edge and unbounded stress (if H exists in bounded right-edge, use that system; otherwise use an unbounded system of some kind)
+    - E.g. LHH́L, LHH́H, LH́LL, ĹLLL
+    - Long vowels heavy
+    - No rhythm/secondary stress
 
 ## Modifiers
 
