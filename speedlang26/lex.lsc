@@ -1,19 +1,21 @@
-Feature +long, +nasalized
+Feature +long, +nasalized, +breathy, +aspirated, +murmured
 Feature (syllable) +stress
 Feature (syllable) +heavy
-
+Feature (syllable) +breath
 Feature front, back
 Feature height(low, mid, high)
 Feature type(*cons, vowel)
 Feature voicing(unvoiced, voiced)
-Feature place(labial, alveolar, velar, glottal)
+Feature place(labial, alveolar, palatal, velar, uvular, pharyngeal, glottal)
 Feature manner(nasal, stop, fricative, affricate, trill, approximant)
-
-Diacritic ː (floating) [+long]
 Diacritic ̃  (floating) [+nasalized]
+Diacritic ̤ (floating) [+breathy]
+Diacritic ʰ [+aspirated]
+Diacritic ʱ [+murmured]
+Diacritic ː (floating) [+long]
 Diacritic ˈ (before) [+stress]
 Diacritic ² [+heavy]
-
+Diacritic ᵏ [+breath]
 Symbol i [high +front -back vowel]
 Symbol u [high -front +back vowel]
 Symbol a [low  -front -back vowel]
@@ -24,21 +26,87 @@ Symbol m [voiced labial nasal]
 Symbol n [voiced alveolar nasal]
 Symbol p [unvoiced labial stop]
 Symbol t [unvoiced alveolar stop]
+Symbol t͡s [unvoiced alveolar affricate]
+Symbol t͡ʃ [unvoiced palatal affricate]
 Symbol k [unvoiced velar stop]
+Symbol q [unvoiced uvular stop]
 Symbol ʔ [unvoiced glottal stop]
+Symbol b [voiced labial stop]
+Symbol d [voiced alveolar stop]
+Symbol g [voiced velar stop]
+Symbol f [unvoiced labial fricative]
+Symbol s [unvoiced alveolar fricative]
+Symbol ʃ [unvoiced palatal fricative]
+Symbol x [unvoiced velar fricative]
+Symbol χ [unvoiced uvular fricative]
+Symbol ħ [unvoiced pharyngeal fricative]
+Symbol h [unvoiced glottal fricative]
+Symbol w [voiced labial approximant]
+Symbol l [voiced alveolar approximant]
+Symbol j [voiced velar approximant]
+Symbol ʕ [voiced pharyngeal approximant]
+Symbol r [alveolar trill]
 
 Syllables:
-    [cons]? [vowel +long] => [+heavy]
-    [cons]? [vowel -long]
+	[cons] [vowel +long] => [+heavy]
+	[cons] [vowel -long]
 
 assign-stress:
-    <syl>&[+heavy] => [+stress] / _ <syl> $
-    Else: <syl>&[+heavy] => [+stress] / _ $
-    Else: <syl>&[+heavy] => [+stress] / $ <syl>&[+heavy]* _ {<syl>&[-heavy], $}
-    Else: <syl> => [+stress] / $ _
+	<syl>&[+heavy] => [+stress] / _ <syl> $
+	Else: <syl>&[+heavy] => [+stress] / _ $
+	Else: <syl>&[+heavy] => [+stress] / $ <syl>&[+heavy]* _ {<syl>&[-heavy], $}
+	Else: <syl> => [+stress] / $ _
 
+breathy-stress:
+	<syl> => [+breath] / <syl>&[+stress] _
+
+final-vowel-loss:
+	[vowel -long]&[-stress] => * / _ $
+	[vowel +long]&[-stress] => [-long] / _ $
 Syllables:
-    [cons]? [vowel]
+	[cons] [vowel] [cons]? / _ $
+	[cons] [vowel]
 
-drop-syllable-features:
-    <syl>&[+heavy] => [-heavy]
+rhotic-combining:
+	[vowel high +front -long]&[-stress] => * / _ r [vowel]
+Syllables:
+	[cons] r? [vowel] [cons]? / _ $
+	[cons] r? [vowel]
+
+diphthongization:
+	[vowel high +front +long] * => [mid -long] j
+	[vowel high +back +long] * => [mid -long] w
+	Then: [vowel]$1 w$2 => $2 $1 / [velar] _ {[cons], $}
+	Then: * => o / w _ r
+Syllables:
+	[cons] {r, w}? [vowel] [approximant]? [cons]? / _ $
+	[cons] {r, w}? [vowel] [approximant]?
+
+voiced-velar-loss:
+	g => k / $ _
+	g => k / _ w
+	g => w / [vowel] _ // _ w
+
+uvular-lowering:
+	q => ʕ
+
+alveolar-lenition:
+	{t, d} => {t͡s, t}
+
+palatalization:
+	j {t͡s, s} => * {t͡ʃ, ʃ}
+	Then: {t͡s, s} => {t͡ʃ, ʃ} / _ [vowel high +front]
+
+breathy-spread propagate:
+	<syl> => [+breath] / <syl>&[+breath] <syl>* _
+
+breathy-stress-realization propagate:
+	[vowel]&[+breath] => [+breathy]
+	{[unvoiced stop !glottal], [unvoiced affricate], s}&[+breath] => [+aspirated] / _ [vowel]
+	[voiced stop]&[+breath] => [+murmured] / _ [vowel]
+
+drop-syllable-features propagate:
+	<syl>&[+heavy] => [-heavy]
+	<syl>&[+breath] => [-breath]
+	<syl>&[+stress] => [-stress]
+
