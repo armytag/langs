@@ -1,3 +1,12 @@
+## Goal
+
+## Sharing
+
+This conlang will be shared with other conlangers through illustrative reddit posts or participation in conlang relays.
+
+## Speakers & Surroundings
+
+The speakers of Lang30 live in a wooded area with sporadic clearings, various streams, and a slightly rolling topography.  There are trees, bushes, vines, and wildflowers all around, and many small animals like squirrels, birds, rabbits, and deer.
 
 ## Phonology
 
@@ -15,12 +24,23 @@
 | High   | i     | ə      | u    |
 | Low    | ɛ     | a      | ɔ    |
 
-- CCVC max syllable structure
+- Phonemic vowel length
+- CVC or CVː max syllable structure
+- Diphthongs? (evolve)
+- Initial stress?
 - Glottal stop between adjacent vowels
+
+## Sound changes
+
+- CVC => Cː (matching C's)
+    - except when stressed
+- VCːa => VːCa
+- ɛː => ui
+- ɔː => au
 
 ## Grammar
 
-- Few verbs
+- Light verbs or converbs
 - Noun incorporation
 - Verb-initial clauses
     - Prepositions
