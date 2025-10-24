@@ -5,7 +5,6 @@
 | ---          | ---    | ---      | ---     | ---   |
 | Vcl. Stops   | p      | t        | c       | k     |
 | Vcd. Stops   | b      | d        | ɟ       | g     |
-| Implosives   | ɓ      | ɗ        | ʄ       |       |
 | Fricatives   | f      | s        | ʃ       | x     |
 | Nasals       | m      | n        | ɲ       | ŋ     |
 | Rhotic       |        | r        |         |       |
@@ -17,9 +16,11 @@
 | Low    | ɛ     | a      | ɔ    |
 
 - CCVC max syllable structure
+- Glottal stop between adjacent vowels
 
 ## Grammar
 
 - Few verbs
 - Noun incorporation
 - Verb-initial clauses
+    - Prepositions
