@@ -47,3 +47,15 @@ The speakers of Lang30 live in a wooded area with sporadic clearings, various st
     - Noun-Adj
     - Noun-REL
 - Nom-Acc alignment
+
+## Words
+
+### Flora
+
+1. cɔm.ca - long thing plant that winds around other plants; vines
+
+### Fauna
+
+### Transitive Verbs
+
+### Intransitive Verbs

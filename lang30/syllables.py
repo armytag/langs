@@ -25,16 +25,16 @@ VOWELS = [
 SYLL_STRUCTS = []
 SYLL_STRUCTS += ['V'] * 0
 SYLL_STRUCTS += ['VC'] * 0
-SYLL_STRUCTS += ['CV'] * 7
-SYLL_STRUCTS += ['CV:'] * 2
-SYLL_STRUCTS += ['CVC'] * 3
+SYLL_STRUCTS += ['CV'] * 9
+SYLL_STRUCTS += ['CV:'] * 1
+SYLL_STRUCTS += ['CVC'] * 2
 SYLL_STRUCTS += ['CCV'] * 0
 SYLL_STRUCTS += ['CCVC'] * 0
 SYLL_COUNTS = []
 SYLL_COUNTS += [1] * 2
-SYLL_COUNTS += [2] * 4
-SYLL_COUNTS += [3] * 3
-SYLL_COUNTS += [4] * 1
+SYLL_COUNTS += [2] * 6
+SYLL_COUNTS += [3] * 0
+SYLL_COUNTS += [4] * 0
 
 
 def flatten_matrix(matrix):
@@ -88,7 +88,7 @@ if __name__ == "__main__":
         word = ''
         for s in range(syll_count):
             structure = rand.choice(SYLL_STRUCTS)
-            while s == 0 and structure == "CV":
+            while s == 0 and structure == "CV" and syll_count >= 1:
                 structure = rand.choice(SYLL_STRUCTS)
             syllables.append(get_syllable(structure))
         word = ".".join(syllables)
