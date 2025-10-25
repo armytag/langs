@@ -88,7 +88,7 @@ if __name__ == "__main__":
         word = ''
         for s in range(syll_count):
             structure = rand.choice(SYLL_STRUCTS)
-            if s == 0 and structure == "CV":
+            while s == 0 and structure == "CV":
                 structure = rand.choice(SYLL_STRUCTS)
             syllables.append(get_syllable(structure))
         word = ".".join(syllables)
