@@ -44,3 +44,6 @@ The speakers of Lang30 live in a wooded area with sporadic clearings, various st
 - Noun incorporation
 - Verb-initial clauses
     - Prepositions
+    - Noun-Adj
+    - Noun-REL
+- Nom-Acc alignment

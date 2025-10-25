@@ -53,7 +53,7 @@ def generate_syllable(onset_shape: str, coda_shape: str):
         coda = "ː"
     elif len(coda_shape) == 1:
         coda = rand.choice(flatten_matrix(
-            [NASALS, LIQUIDS,]
+            ["m", "n", "ŋ", LIQUIDS,]
         ))
     syll = onset + vowel + coda
     return syll
@@ -79,7 +79,7 @@ if __name__ == "__main__":
     # phonemes = NASALS # + FRICATIVES + PLOSIVES + RHOTICS
     # print(phonemes)
     # print(generate_frequencies(phonemes))
-    word_count = 10
+    word_count = 20
     words = []
     w = 0
     while w < word_count:
@@ -88,6 +88,8 @@ if __name__ == "__main__":
         word = ''
         for s in range(syll_count):
             structure = rand.choice(SYLL_STRUCTS)
+            if s == 0 and structure == "CV":
+                structure = rand.choice(SYLL_STRUCTS)
             syllables.append(get_syllable(structure))
         word = ".".join(syllables)
         if len(word) > 1 and word not in words:
