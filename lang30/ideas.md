@@ -47,6 +47,17 @@ The speakers of Lang30 live in a wooded area with sporadic clearings, various st
     - Noun-Adj
     - Noun-REL
 - Nom-Acc alignment
+- Plural marked with a separate word/enclitic
+    - Derive from demonstrative? DEM.PL → DEF.PL → PL
+- Articles
+    - Prenominal? Postnominal? Both?
+    - "some" (imprecise quantity) → indefinite
+- Locative case
+    - "hand" → LOC
+        - "in the hand of" → "away from"
+        - "under the hand of" → "at"
+        - "on the hand of" → "through"
+- Genitive case?
 
 ## Words
 
