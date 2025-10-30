@@ -25,14 +25,14 @@ VOWELS = [
 SYLL_STRUCTS = []
 SYLL_STRUCTS += ['V'] * 0
 SYLL_STRUCTS += ['VC'] * 0
-SYLL_STRUCTS += ['CV'] * 9
+SYLL_STRUCTS += ['CV'] * 5
 SYLL_STRUCTS += ['CV:'] * 1
 SYLL_STRUCTS += ['CVC'] * 2
 SYLL_STRUCTS += ['CCV'] * 0
 SYLL_STRUCTS += ['CCVC'] * 0
 SYLL_COUNTS = []
 SYLL_COUNTS += [1] * 2
-SYLL_COUNTS += [2] * 6
+SYLL_COUNTS += [2] * 1
 SYLL_COUNTS += [3] * 0
 SYLL_COUNTS += [4] * 0
 
@@ -88,8 +88,8 @@ if __name__ == "__main__":
         word = ''
         for s in range(syll_count):
             structure = rand.choice(SYLL_STRUCTS)
-            while s == 0 and structure == "CV" and syll_count >= 1:
-                structure = rand.choice(SYLL_STRUCTS)
+            # while s == 0 and structure == "CV" and syll_count >= 1:
+            #     structure = rand.choice(SYLL_STRUCTS)
             syllables.append(get_syllable(structure))
         word = ".".join(syllables)
         if len(word) > 1 and word not in words:

@@ -58,15 +58,55 @@ The speakers of Lang30 live in a wooded area with sporadic clearings, various st
         - "under the hand of" → "at"
         - "on the hand of" → "through"
 - Genitive case?
+- Instrumental case?
 
 ## Words
 
-### Flora
+### Body parts
+1. duŋ - arm
+1. mɛː - nose
+1. dɔː.kə - hair on the top of the head
+1. mur - leg
+1. xən.jə - stomach
 
+### Terrain
+1. ɟin - stream (shallow enough to stand in)
+1. gə.bul - hill, rise
+1. tu.kal - valley, low flat area
+1. xir - large open area surround by trees or other major features
+1. ɲa.nəː - pools of standing water larger than a few meters across (in front of housing communities)
+
+### Weather
+1. ŋɔː - rain
+1. nəː.war - thunder/lightning
+1. bɛŋ - sunshine
+1. gɛm - snow
+1. lɔm - wind
+
+### Flora
 1. cɔm.ca - long thing plant that winds around other plants; vines
+1. ga.dɔr - trees which lose their leaves in the winter
+1. jəŋ - trees with needle-like leaves
+1. dum - berries and small fruit
+1. niŋ - flower
 
 ### Fauna
+1. rə.tə - squirrel
+1. ban - small bird
+1. ɲu.pi - rabbit
+1. ŋa.wəl - deer
+1. cəŋ - domesticated dog or cat (pet)
 
 ### Transitive Verbs
+1. wiː - to pour onto (with a liquid like water)
+1. ɟu - to build (combining materials to produce an object that is too large to fit in one hand)
+1. ɲə - to craft (combining materials into an object that fits in one hand)
+1. ʃur - to cook (heating food to make it more easily digestible)
+1. wɛ.ʃɛ - to carry (move items using both hands)
 
 ### Intransitive Verbs
+1. gɛ - to eat/drink
+1. ŋul - to sit
+1. jɛː - to lie down
+1. liŋ - to walk
+1. rən.rəː - to speak
