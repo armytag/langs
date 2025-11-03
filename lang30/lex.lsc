@@ -1,0 +1,57 @@
+# For combining two files together
+# pr -tmJS proto.wli proto-rand.wli > proto-compound.wli
+
+Feature front, back, mid
+Feature height(low, high)
+Feature type(*cons, vowel)
+Feature voicing(unvoiced, voiced)
+Feature place(labial, alveolar, palatal, velar)
+Feature manner(nasal, stop, fricative, approximant, trill)
+Feature +lateral, +long
+Feature (syllable) +stress, (syllable) +heavy
+Diacritic ː [+long]
+Diacritic ' (before) [+stress]
+Diacritic " (floating) [+heavy]
+Symbol i [high +front -back vowel]
+Symbol ə [high -front -back vowel]
+Symbol u [high -front +back vowel]
+Symbol ɛ [low  +front -back vowel]
+Symbol a [low  -front -back vowel]
+Symbol ɔ [low  -front +back vowel]
+Symbol p [unvoiced labial stop]
+Symbol t [unvoiced alveolar stop]
+Symbol c [unvoiced palatal stop]
+Symbol k [unvoiced velar stop]
+Symbol b [voiced labial stop]
+Symbol d [voiced alveolar stop]
+Symbol ɟ [voiced palatal stop]
+Symbol g [voiced velar stop]
+Symbol f [unvoiced labial fricative]
+Symbol s [unvoiced alveolar fricative]
+Symbol ʃ [unvoiced palatal fricative]
+Symbol x [unvoiced velar fricative]
+Symbol m [labial nasal]
+Symbol n [alveolar nasal]
+Symbol ɲ [palatal nasal]
+Symbol ŋ [velar nasal]
+Symbol w [labial approximant]
+Symbol l [alveolar approximant +lateral]
+Symbol r [alveolar trill]
+Symbol j [palatal approximant]
+
+Syllables:
+explicit
+
+Syllables:
+[cons] [vowel -long] {[nasal], l, r}?
+[cons] [vowel +long]
+
+nasal-assimilation:
+[nasal !labial] [cons $place]$2 => [$place] $2
+
+long-vowel-diphthongization:
+{ɛː, ɔː} => {ui, au}
+
+Syllables:
+[cons] [vowel -long] {[nasal], l, r, [vowel -long]}?
+[cons] [vowel +long]
