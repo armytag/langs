@@ -27,14 +27,21 @@
 | Sonorant    | ʋ      |        | r        |           | j       | w         |
 | Lateral     |        |        | l        | lˠ        | ʎ       |           |
 
-| MONOPHTHONGS | Front | Back |
-| ---          | ---   | ---  |
-| Close        | i     | u    |
-| Open         | e     | a    |
+| MONOPHTHONGS | Front | Central | Back |
+| ---          | ---   | ---     | ---  |
+| Close        | i     |         | u    |
+| Mid          |       | ə       |      |
+| Open         |       | a       |      |
+
+### Sound Changes
+- iC aC uC → Cj Ca Cw / #_ ! before an identical vowel
+- wa ja → uə̯ iə̯ / C_
+- k ŋ → ʔ ∅ / Və̯_#
+- ə → ∅ / #_C
 
 | DIPHTHONGS | Front | Back  |
 | ---        | ---   | ---   |
-| Rising     |    ia | ue ua |
+| Rising     | iə̯    | uə̯ ua |
 | Level      | ea    |       |
-| Falling    |       | ai au |
+| Falling    | ai    | au    |
 
