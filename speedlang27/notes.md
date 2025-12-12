@@ -8,3 +8,14 @@
 | Fricative   |        |        | s        | sˠ        | ç       | xʷ        |
 | Sonorant    | ʋ      |        | r        |           | j       | w         |
 | Lateral     |        |        | l        | lˠ        | ʎ       |           |
+
+| MONOPHTHONGS | Front | Back |
+| ---          | ---   | ---  |
+| Close        | i     | u    |
+| Open         | e     | a    |
+
+| DIPHTHONGS | Front | Back  |
+| ---        | ---   | ---   |
+| Rising     |    ia | ue ua |
+| Level      | ea    |       |
+| Falling    |       | ai au |
