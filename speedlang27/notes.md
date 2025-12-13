@@ -15,13 +15,11 @@
 
 # Phonology
 
-| CONSONANTS  | Labial | Dental | Alveolar | Vel. Alv. | Palatal | Lab. Vel. |
-| ---         | ---    | ---    | ---      | ---       | ---     | ---       |
-| Nasal       | m      | n̪      | n        |           | ɲ       | ŋʷ        |
-| Stop        | p      | t̪      | t        | tˠ        | c       | kʷ        |
-| Fricative   |        |        | s        | sˠ        | ç       | xʷ        |
-| Sonorant    | ʋ      |        | r        |           | j       | w         |
-| Lateral     |        |        | l        | lˠ        | ʎ       |           |
+| CONSONANTS  | Labial | Dental | Sib. Alv. | Lat. Alv. | Palatal | Velar |
+| ---         | ---    | ---    | ---       | ---       | ---     | ---   |
+| Nasal       | m      |        | n         |           | ɲ       |       |
+| Obstruent   | p~f    | t̪~θ    | ts~s      | tɬ~ɬ      | tʃ~ʃ    | k~x   |
+| Sonorant    | w      |        | r         | l         | j       | ʟ     |
 
 | MONOPHTHONGS | Front | Central | Back |
 | ---          | ---   | ---     | ---  |
