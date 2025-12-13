@@ -53,7 +53,7 @@ Symbol j [voiced palatal approximant]
 
 Syllables:
 	[vowel] {[nasal], [approximant +lateral], [trill]}? / $ _
-	[cons] [approximant]? [vowel] {[nasal], [approximant +lateral], [trill]}?
+	[cons] [approximant -lateral]? [vowel] {[nasal], [approximant +lateral], [trill]}?
 
 spiranization:
 	[stop] => [fricative] / [vowel] _ [vowel]
@@ -66,7 +66,7 @@ first-syllable-metathesis:
 
 Syllables:
 	[vowel] {[nasal], [approximant +lateral], [trill]}? / $ _
-	[cons] [approximant]? [vowel] [vowel]? {[nasal], [approximant +lateral], [trill]}?
+	[cons] [approximant -lateral]? [vowel] [vowel]? {[nasal], [approximant +lateral], [trill]}?
 
 syllabics-shift:
 	{j, w} a => {i, u} ə / [cons] _
@@ -76,7 +76,3 @@ obstruent-allophones:
 
 peripheral-schwa-lenition:
 	ə => * / $ _ [cons] [vowel]
-
-Syllables:
-	[vowel] {[nasal], [approximant +lateral], [trill]}? / $ _
-	[cons] [approximant]? [vowel] [vowel]? {[nasal], [approximant +lateral], [trill]}?
