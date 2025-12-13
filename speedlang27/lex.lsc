@@ -55,6 +55,11 @@ Syllables:
 	[vowel] {[nasal], [approximant +lateral], [trill]}? / $ _
 	[cons] [approximant -lateral]? [vowel] {[nasal], [approximant +lateral], [trill]}?
 
+nasal-assimilation:
+	[nasal] => m / _ [labial]
+	[nasal] => n / _ {[dental], [alveolar], [velar]}
+	[nasal] => ɲ / _ [palatal]
+
 spiranization:
 	[stop] => [fricative] / [vowel] _ [vowel]
 

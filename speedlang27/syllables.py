@@ -25,10 +25,10 @@ SYLL_STRUCTS += ['CVC'] * 1
 SYLL_STRUCTS += ['CCV'] * 0
 SYLL_STRUCTS += ['CCVC'] * 0
 SYLL_COUNTS = []
-SYLL_COUNTS += [1] * 3
-SYLL_COUNTS += [2] * 4
-SYLL_COUNTS += [3] * 2
-SYLL_COUNTS += [4] * 1
+SYLL_COUNTS += [1] * 1
+SYLL_COUNTS += [2] * 6
+SYLL_COUNTS += [3] * 3
+SYLL_COUNTS += [4] * 0
 
 
 def flatten_matrix(matrix):
