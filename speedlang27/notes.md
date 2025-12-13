@@ -15,11 +15,11 @@
 
 # Phonology
 
-| CONSONANTS  | Labial | Dental | Sib. Alv. | Lat. Alv. | Palatal | Velar |
-| ---         | ---    | ---    | ---       | ---       | ---     | ---   |
-| Nasal       | m      |        | n         |           | ɲ       |       |
-| Obstruent   | p~f    | t̪~θ    | ts~s      | tɬ~ɬ      | tʃ~ʃ    | k~x   |
-| Sonorant    | w      |        | r         | l         | j       | ʟ     |
+| CONSONANTS  | Labial     | Dental     | Sib. Alv.    | Lat. Alv.    | Palatal      | Velar      |
+| ---         | ---        | ---        | ---          | ---          | ---          | ---        |
+| Nasal       | m          |            | n            |              | ɲ            |            |
+| Obstruent   | b\~p\~f\~v | d̪\~t̪\~θ\~ð | dz\~ts\~s\~z | dɮ\~tɬ\~ɬ\~ɮ | dʒ\~tʃ\~ʃ\~ʒ | g\~k\~x\~ɣ |
+| Sonorant    | w          |            | r            | l            | j            | ʟ          |
 
 | MONOPHTHONGS | Front | Central | Back |
 | ---          | ---   | ---     | ---  |
