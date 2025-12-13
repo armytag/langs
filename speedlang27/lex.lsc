@@ -1,0 +1,49 @@
+Feature +long
+Feature (syllable) +stress
+Feature (syllable) +heavy
+Feature front, back
+Feature height(low, mid, high)
+Feature type(*cons, vowel)
+Feature voicing(unvoiced, voiced)
+Feature place(labial, alveolar, palatal, velar)
+Feature manner(nasal, stop, fricative, approximant)
+Feature +lateral
+Diacritic ː (floating) [+long]
+Diacritic ˈ (before) [+stress]
+Diacritic ² [+heavy]
+Symbol i [high +front -back vowel]
+Symbol u [high -front +back vowel]
+Symbol a [low  -front -back vowel]
+Symbol e [mid +front -back vowel]
+Symbol o [mid -front +back vowel]
+Symbol ə [mid -front -back vowel]
+Symbol m [voiced labial nasal]
+Symbol n [voiced alveolar nasal]
+Symbol ŋ [voiced velar nasal]
+Symbol p [unvoiced labial stop]
+Symbol t [unvoiced alveolar stop]
+Symbol k [unvoiced velar stop]
+Symbol s [unvoiced alveolar fricative]
+Symbol ʃ [unvoiced palatal fricative]
+Symbol x [unvoiced velar fricative]
+Symbol w [voiced labial approximant]
+Symbol l [voiced alveolar approximant +lateral]
+Symbol ʟ [voiced velar approximant +lateral]
+Symbol j [voiced velar approximant]
+
+Syllables:
+	[vowel] {[nasal], [approximant +lateral]}? / $ _
+	[cons] [approximant]? [vowel] {[nasal], [approximant +lateral]}?
+
+glide-schwa-merging:
+	{j, w} ə => {i, u} *
+
+first-syllable-metathesis:
+	a$1 [cons]$2 => $2 $1 / $ _ // $ _ a
+
+Syllables:
+	[vowel] {[nasal], [approximant +lateral]}? / $ _
+	[cons] [approximant]? [vowel] [vowel]? {[nasal], [approximant +lateral]}?
+
+syllabics-shift:
+	{j, w} a => {i, u} ə / [cons] _
