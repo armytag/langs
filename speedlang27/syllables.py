@@ -1,19 +1,17 @@
 import math
 import random as rand
 
-IMPLOSIVES = [
-]
 PLOSIVES = [
-    "p", "t", "k",
+    "p", "t̪", "ts", "tɬ", "tʃ", "k",
 ]
 FRICATIVES = [
-    "s", "ʃ", "x",
+    # "s", "ʃ", "x",
 ]
 NASALS = [
-    "m", "n", "ŋ",
+    "m", "n", "ɲ",
 ]
 APPROXIMANTS = [
-    "l", "ʟ",
+    "r", "l", "ʟ",
 ]
 VOWELS = [
     "a", "a", "ə", "ə",
