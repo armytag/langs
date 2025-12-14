@@ -55,6 +55,9 @@ Syllables:
 	[vowel] {[nasal], [approximant +lateral], [trill]}? / $ _
 	[cons] [approximant -lateral]? [vowel] {[nasal], [approximant +lateral], [trill]}?
 
+assign-stress:
+	<syl> => [+stress] / $ <syl> _
+
 nasal-assimilation:
 	[nasal] => m / _ [labial]
 	[nasal] => n / _ {[dental], [alveolar]}
@@ -89,8 +92,8 @@ obstruent-allophones:
 initial-schwa-lenition:
 	ə => * / $ _ [cons] [vowel]
 
-final-syllable-lenition:
-	{[fricative], [stop]} ə => [unvoiced stop] * / [vowel] _ $
+# final-syllable-lenition:
+# 	{[fricative], [stop]} ə => [unvoiced stop] * / [vowel] _ $
 
 Syllables:
 	[vowel] {[nasal], [approximant +lateral], [trill]}? / $ _

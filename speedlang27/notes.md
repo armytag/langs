@@ -19,7 +19,7 @@
 | ---         | ---        | ---        | ---          | ---          | ---          | ---        |
 | Nasal       | m          |            | n            |              | ɲ            |            |
 | Obstruent   | b\~p\~f\~v | d̪\~t̪\~θ\~ð | dz\~ts\~s\~z | dɮ\~tɬ\~ɬ\~ɮ | dʒ\~tʃ\~ʃ\~ʒ | g\~k\~x\~ɣ |
-| Sonorant    | w          |            | r            | l            | j            | ʟ          |
+| Approximant | w          |            | r            | l            | j            | ʟ          |
 
 | MONOPHTHONGS | Front | Central | Back |
 | ---          | ---   | ---     | ---  |

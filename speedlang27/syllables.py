@@ -90,7 +90,10 @@ if __name__ == "__main__":
         for s in range(syll_count):
             structure = rand.choice(SYLL_STRUCTS)
             if s == 0:
-                structure = rand.choice(["V", "V", "VC",])
+                structure = rand.choice([
+                    "V", "V", "V", "V", "V", "V", "V"
+                    "VC",
+                ])
             syllable = get_syllable(structure, s)
             syllables.append(syllable)
         word = "".join(syllables)
