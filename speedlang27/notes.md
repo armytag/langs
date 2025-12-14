@@ -47,21 +47,21 @@ Stress is on the first syllable if it has a falling diphthong, otherwise on the 
     - Genitive POSS-Noun
 
 ## Pronouns
-- *\*əpan* 1SG
-- *\*əkwər* 2SG
-- *\*ətʃən* 3SG
+- **\*əpan** → *ˈvam* 1SG
+- **\*əkwər** → *ˈgur* 2SG
+- **\*ətʃən** → *ˈʒəɲ* 3SG
 
 ## Verbs
 - Verbs inflected for tense, not for aspect
-    - Past < "get" **\*əkan**
+    - Past < "get" **\*əkan** → *ɣan*
         - **\*atʃwəkə əpan əkan** → *ˈtʃau.ɣə.__va.ɣan__*
-        - **\*atʃwəkə əkan əpan** → *ˈtʃau.ɣə.__ɣa.vam__*
-    - Present < "lie" **\*ara**
+        <!-- - **\*atʃwəkə əkan əpan** → *ˈtʃau.ɣə.__ɣa.vam__* -->
+    - Present < "lie" **\*ara** → *ˈara*
         - **\*atʃwəkə əpan ara** → *ˈtʃau.ɣə.__va.na.ra__*
-        - **\*atʃwəkə ara əpan** → *ˈtʃau.ɣa.__ra.vam__*
-    - Future < "take" **\*əljərə**
+        <!-- - **\*atʃwəkə ara əpan** → *ˈtʃau.ɣa.__ra.vam__* -->
+    - Future < "take" **\*əljərə** → *ˈli.rə*
         - **\*atʃwəkə əpan əljərə** → *ˈtʃau.ɣə.__van.li.rə__*
-        - **\*atʃwəkə əljərə əpan** → *ˈtʃau.ɣə.__li.rə.vam__*
+        <!-- - **\*atʃwəkə əljərə əpan** → *ˈtʃau.ɣə.__li.rə.vam__* -->
 
 ## Word Order
 
