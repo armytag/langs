@@ -57,8 +57,15 @@ Syllables:
 
 nasal-assimilation:
 	[nasal] => m / _ [labial]
-	[nasal] => n / _ {[dental], [alveolar], [velar]}
+	[nasal] => n / _ {[dental], [alveolar]}
 	[nasal] => ɲ / _ [palatal]
+	[nasal] => ŋ / _ [velar]
+	[nasal] => n / _ $
+	Then: [nasal] => [palatal] / [palatal] [vowel] _ $
+	Then: [nasal] => [labial] / [labial] [vowel] _ $
+
+lateral-assimilation propagate:
+	[approximant +lateral] => [$place] / _ {[vowel], [approximant], [nasal]}* [approximant +lateral $place]
 
 spiranization:
 	[stop] => [fricative] / [vowel] _ [vowel]
@@ -79,5 +86,13 @@ syllabics-shift:
 obstruent-allophones:
 	{[stop],[fricative]} => [voiced] / [vowel] _ [vowel]
 
-peripheral-schwa-lenition:
+initial-schwa-lenition:
 	ə => * / $ _ [cons] [vowel]
+
+final-syllable-lenition:
+	{[fricative], [stop]} ə => [unvoiced stop] * / [vowel] _ $
+
+Syllables:
+	[vowel] {[nasal], [approximant +lateral], [trill]}? / $ _
+	[cons] [approximant -lateral]? [vowel] [vowel]? {[unvoiced stop], [unvoiced fricative]}? / _ $
+	[cons] [approximant -lateral]? [vowel] [vowel]? {[nasal], [approximant +lateral], [trill]}?
