@@ -30,13 +30,15 @@
 ### Sound Changes
 - aC → Ca / #_ ! before an identical vowel
 - wa ja → uə̯ iə̯ / C_
-- k ŋ → ʔ ∅ / Və̯_#
 - ə → ∅ / #_C
 
 | DIPHTHONGS | Front | Back |
 | ---        | ---   | ---  |
 | Rising     | iə̯    | uə̯   |
 | Falling    | ai aə | au   |
+
+### Stress
+Stress is on the first syllable if it has a falling diphthong, otherwise on the second syllable.
 
 # Grammar
 
