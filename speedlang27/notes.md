@@ -42,11 +42,30 @@ Stress is on the first syllable if it has a falling diphthong, otherwise on the 
 
 # Grammar
 
+## Nouns
+- Possessed noun marked by prefix
+    - Genitive POSS-Noun
+
+## Pronouns
+- *\*əpan* 1SG
+- *\*əkwər* 2SG
+- *\*ətʃən* 3SG
+
+## Verbs
+- Verbs inflected for tense, not for aspect
+    - Past < "get" **\*əkan**
+        - **\*atʃwəkə əpan əkan** → *ˈtʃau.ɣə.__va.ɣan__*
+        - **\*atʃwəkə əkan əpan** → *ˈtʃau.ɣə.__ɣa.vam__*
+    - Present < "lie" **\*ara**
+        - **\*atʃwəkə əpan ara** → *ˈtʃau.ɣə.__va.na.ra__*
+        - **\*atʃwəkə ara əpan** → *ˈtʃau.ɣa.__ra.vam__*
+    - Future < "take" **\*əljərə**
+        - **\*atʃwəkə əpan əljərə** → *ˈtʃau.ɣə.__van.li.rə__*
+        - **\*atʃwəkə əljərə əpan** → *ˈtʃau.ɣə.__li.rə.vam__*
+
 ## Word Order
 
 - Agent-medial, verb-final (SV, PAV)
     - Agent (ergative) marked by following word derived from "with" or "follow"
     - Postpositions
 - RelN or Correlative (woman REL leave 3SG buy clothes → "The woman who left buys clothes")
-- Possessed noun marked by prefix
-    - Genitive POSS-Noun
