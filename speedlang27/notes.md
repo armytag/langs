@@ -28,7 +28,7 @@
 | Open         |       | a       |      |
 
 ### Sound Changes
-- iC aC uC → Cj Ca Cw / #_ ! before an identical vowel
+- aC → Ca / #_ ! before an identical vowel
 - wa ja → uə̯ iə̯ / C_
 - k ŋ → ʔ ∅ / Və̯_#
 - ə → ∅ / #_C
@@ -38,11 +38,13 @@
 | Rising     | iə̯    | uə̯   |
 | Falling    | ai aə | au   |
 
-1. apəta
-
 # Grammar
 
 ## Word Order
 
-- Subject-medial, verb-final (OSV)
+- Agent-medial, verb-final (SV, PAV)
+    - Agent (ergative) marked by following word derived from "with" or "follow"
+    - Postpositions
 - RelN or Correlative (woman REL leave 3SG buy clothes → "The woman who left buys clothes")
+- Possessed noun marked by prefix
+    - Genitive POSS-Noun
