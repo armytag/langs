@@ -17,4 +17,28 @@ The speakers of Lang30 live in a wooded area with sporadic clearings, various st
 - Headless relative clauses
 - Egophoricity + evidentiality
 - More analytic than synthetic
+- Reduplication
 - Topicalization (word order based on information structure)
+- Numeral classifiers (obligatory for humans, more optional for inanimates?)
+    - Allow different classifier position to indicate different semantics
+
+### Numeral classifiers
+
+#### Thai
+| Purpose          | Gloss            | Meaning    |
+| ------------     | --------------   | ---------- |
+| cardinal numbers | cow two *CL*     | two cows   |
+| indefiniteness   | cow *CL* one     | a cow      |
+| measure/quantity | cow many *CL*    | many cows  |
+| demonstratives   | cow *CL* this    | this cows  |
+| quantifiers      | cow every *CL*   | every cow  |
+| ordinals         | cow *CL* ORD two | second cow |
+| adjectives       | cow *CL* old     | old cow    |
+
+Complex noun phrases can have several classifiers:
+*boat **CL** large **CL** that*
+"That large boat"
+
+#### Iranian
+Two general classifiers for Singular and Plural, as well as some specialized ones.
+
