@@ -19,6 +19,7 @@ The speakers of Lang30 live in a wooded area with sporadic clearings, various st
 - Headless relative clauses
 - Egophoricity + evidentiality
 - More analytic than synthetic
+    - Note the difference between phonological words and syntactic words. [See WALS chapter 22](https://wals.info/chapter/22).
 - Reduplication
 - Topicalization (word order based on information structure)
 - Numeral classifiers (obligatory for humans, more optional for inanimates?)
