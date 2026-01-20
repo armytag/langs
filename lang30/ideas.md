@@ -10,6 +10,8 @@ The speakers of Lang30 live in a wooded area with sporadic clearings, various st
 
 ## Phonology
 
+- Use contrastive hierarchy to guide phonemic inventory
+
 ## Grammar
 
 - Serial verb constructions
@@ -41,4 +43,7 @@ Complex noun phrases can have several classifiers:
 
 #### Iranian
 Two general classifiers for Singular and Plural, as well as some specialized ones.
+
+#### Korean
+Classifiers take case marking, e.g. *cow **CL** three* vs *three **CL-GEN** cow*
 
