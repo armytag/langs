@@ -1,6 +1,6 @@
-# Junglelang
+= Junglelang
 
-## Ideas
+== Ideas
 
 Reference Languages:
 - Newar (Sino-Tibetan)
@@ -37,19 +37,11 @@ Vowels:
 | Mid    | e eː  | o oː |
 | Open   | æ æː  | ɑ ɑː |
 
-Diphthongs:
-
-| VOWELS | Front | Back  |
-| ---    | ---   | ---   |
-| High   |    iu | ui    |
-| Mid    | ei eu | oi ou |
-| Low    | æi æu | ai au |
-
 Phonotactics:
 
 | LANGUAGE FEATURES  | Junglelang | Newar | Javanese | Sinhala |
 |---                 |---         |---    |---       |---      |
-| Word order         | SVO/SOV    | SOV   | SVO      | SOV     |
+| Word order         | SOV/OVS    | SOV   | SVO      | SOV     |
 | Syllable Structure | CV/CCVC    | CGVC  | CCVC     | CVC     |
 | Nominal Number     | S, P       | S, P  | S, P     | S, P    |
 | Nominal Cases      | 5-7        | 6     | 0        | 5-7     |

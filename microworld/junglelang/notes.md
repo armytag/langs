@@ -51,6 +51,8 @@
 
 ### Vowels
 
+#### Monophthongs
+
 | Newar    | Front  | Center | Back   |
 | ---      | ---    | ---    | ---    |
 | High     | i iː ĩ |        | u uː ũ |
@@ -66,7 +68,7 @@
 | Sinhala  | Front  | Center | Back   |
 | ---      | ---    | ---    | ---    |
 | High     | i iː   |        | u uː   |
-| Mid      | e eː   | ə      | o oː   |
+| Mid      | e eː   | (ə)    | o oː   |
 | Low      | æ æː   | a aː   |        |
 
 | Language | i | e | æ | ə | a | u | o |
@@ -74,6 +76,24 @@
 | Newar    | B | B | * | B | B | B |   |
 | Sinhala  | B | B | B | s | B | B | B |
 | Javanese | s | s |   | s | s | s | s |
+
+#### Diphthongs
+
+| Newar    | Front  | Center | Back   |
+| ---      | ---    | ---    | ---    |
+| High     |        |        | ui     |
+| Mid      | ei     | əi əu  |        |
+| Low      |        |        | ai au  |
+
+| Javanese |
+| ---      |
+| None     |
+
+| Sinhala  | Front  | Back   |
+| ---      | ---    | ---    |
+| High     |    iu  | ui     |
+| Mid      | ei eu  | oi ou  |
+| Low      | æi æu  | ai au  |
 
 ### Language-specific Phonology
 
