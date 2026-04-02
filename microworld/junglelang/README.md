@@ -46,6 +46,13 @@ Diphthongs:
 | Low    | æi æu | ai au |
 
 Phonotactics:
+- syllables can be heavy (long vowel or coda) or light (only short vowel)
+    - heavy syllables can have plosive/affricate/sibilant + glide/liquid as onset cluster
+    - initial syllable can have nasal + voiced obstruent regardless of weight
+- word stress is initial unless the second is heavy
+    - only one syllable can be heavy in a word
+    - final vowel loss may lead to word-final codas, but these do not affect stress
+    - ˈL.L, ˈH.L, L.ˈH, ˈH.(H)
 
 | LANGUAGE FEATURES  | Junglelang | Newar | Javanese | Sinhala |
 |---                 |---         |---    |---       |---      |
