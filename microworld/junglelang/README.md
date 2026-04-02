@@ -54,6 +54,21 @@ Phonotactics:
     - final vowel loss may lead to word-final codas, but these do not affect stress
     - ˈL.L, ˈH.L, L.ˈH, ˈH.(H)
 
+| WORD SHAPE | Examples    |
+| ---        | ---         |
+| L.L        | ˈda.ka      |
+| L.L        | ˈmbe.me     |
+| L.L.L      | ˈpa.ʈi.go   |
+| L.L.L      | ˈndu.si.tɕi |
+| H.L        | ˈdaŋ.ka     |
+| H.L        | ˈdja.ka     |
+| H.L        | ˈmboː.ɖo    |
+| H.L        | ˈndwi.se    |
+| L.H        | su.ˈgaŋ     |
+| L.H        | ŋgi.ˈsem    |
+| L.H        | te.ˈpriː    |
+| L.H        | ɳɖæ.ˈkweː   |
+
 | LANGUAGE FEATURES  | Junglelang | Newar | Javanese | Sinhala |
 |---                 |---         |---    |---       |---      |
 | Word order         | SVO/SOV    | SOV   | SVO      | SOV     |
