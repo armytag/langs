@@ -20,7 +20,7 @@ def stringify_digit(value):
 
 if __name__ == "__main__":
     print(find_repeating_digits(1, 2, 5))
-    bases = [5, 7, 12, 30]
+    bases = [5, 6, 10, 12, 20, 30]
     places_format = "{:>2}: " + "{:>3}" + "{:>4}{:>1}" * len(bases)
     header_args = ['D', 'Min']
     extra_places = []
@@ -33,7 +33,7 @@ if __name__ == "__main__":
         reps_places.append(0)
     print(places_format.format(*header_args))
     for denomenator in range(1, 21):
-        if denomenator == 17:
+        if denomenator in [13, 17]:
             continue
         result_list = []
         places_list = []
