@@ -2,24 +2,22 @@
 
 ### Consonants
 
-| Ch'ol     | Labial | Alveolar | Palatal | Velar | Glottal |
+| Mayan     | Labial | Alveolar | Palatal | Velar | Glottal |
 | ---       | ---    | ---      | ---     | ---   | ---     |
-| Nasal     | m      |          | ɲ       |       |         |
-| Vcl. S.   | p      | t        | tʲ      | k     |         |
-| Ejc. S.   | pʼ     | tʼ       | tʲʼ     | kʼ    | ʔ       |
-| Vcd. S.   | b      |          |         |       |         |
+| Nasal     | m      | n        |         |       |         |
+| Vcl. Stop | p      | t        |         | k     |         |
+| Glt. Stop | ɓ      | tʼ       |         | kʼ    | ʔ       |
 | Affricate |        | ts       | tʃ      |       |         |
 | Ejc. Aff. |        | tsʼ      | tʃʼ     |       |         |
-| Fric.     |        | s        | ʃ       | x     |         |
-| Appr.     | w      | l        | j       |       |         |
-| Rhotic    |        | r        |         |       |         |
+| Fricative |        | s        | ʃ       | x     | h       |
+| Approx.   |        | l        | j       | w     |         |
 
 | Egyptian  | Labial | Alveolar | Palatal | Velar | Uvular | Pharyn. | Glottal |
 | ---       | ---    | ---      | ---     | ---   | ---    |  ---    |  ---    |
 | Nasal     | m      | n        |         |       |        |         |         |
 | Stop      | pʰ b   | tʰ tʼ    | cʰ cʼ   | kʰ kʼ | qʼ     |         | ʔ       |
 | Fricative |        | sʲ sʼ    | ʃ ç     |       | χ      | ħ ʕ     | h       |
-| Approx.   | w      | r        | j       |       | ʀ      |         |         |
+| Approx.   |        | r        | j       | w     | ʀ      |         |         |
 | Lateral   |        | l        |         |       |        |         |         |
 
 | Salish    | Labial | Alveolar | Spirant | Lateral | Palatal | Velar | Uvular | Glottal |
@@ -34,7 +32,7 @@
 
 | Ch'ol     | Front  | Center | Back   |
 | ---       | ---    | ---    | ---    |
-| High      | i iː   | ɨ ɨː   | u uː   |
+| High      | i iː   |        | u uː   |
 | Mid       | e eː   |        | o oː   |
 | Low       |        | a aː   |        |
 
@@ -42,6 +40,12 @@
 | ---      | ---    | ---    | ---    |
 | High     | i iː   |        | u uː   |
 | Low      |        | a aː   |        |
+
+| Coptic | Front  | Center | Back   |
+| ---    | ---    | ---    | ---    |
+| High   | iː     |        | uː     |
+| Mid    | e eː   | (ə)    | o oː   |
+| Low    |        | a      |        |
 
 | Salish   | Front  | Center | Back   |
 | ---      | ---    | ---    | ---    |
