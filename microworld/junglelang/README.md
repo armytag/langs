@@ -21,10 +21,9 @@ Consonants:
 
 | CONSONANTS  | Bilabial | Alveolar | Retroflex | Palatal | Velar | Glottal |
 |---          |---       |---       |---        |---      |---    |---      |
-| Stiff Nasal | m        | n        |           | ɲ       | ŋ     |         |
-| Slack Nasal | m̥        | n̥        |           |         |       |         |
-| Stiff Stop  | p        | t        | ʈ         | tɕ      | k     |         |
-| Slack Stop  | b̥        | d̥        | ɖ̥         | d̥ʑ̊      | g̊     |         |
+| Nasal       | m        | n        |           | ɲ       | ŋ     |         |
+| Stiff Stop  | p        | t        | ʈ         | tʃ      | k     |         |
+| Slack Stop  | b̥        | d̥        | ɖ̥         | d̥ʒ̊      | g̊     |         |
 | Fricative   |          | s        |           |         |       | h       |
 | Approximant | w        | l        |           | j       |       |         |
 | Rhotic      |          | ɾ/r      |           |         |       |         |
@@ -41,9 +40,9 @@ Diphthongs:
 
 | VOWELS | Front | Back  |
 | ---    | ---   | ---   |
-| High   |    iu | ui    |
-| Mid    | ei eu | oi ou |
-| Low    | æi æu | ai au |
+| High   |       | ui    |
+| Mid    | ei eu |       |
+| Low    |       | ai au |
 
 Phonotactics:
 - syllables can be heavy (long vowel or coda) or light (only short vowel)
