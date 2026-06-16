@@ -11,7 +11,7 @@
 |---          |---       |---     |---       |---     |---      |
 | Nasal       | m        | n      |          |        |         |
 | Implosive   | ɓ        | ɗ      |          |        |         |
-| Plosive     | p b      | t d    | ts dz    | k g    | ʔ       |
+| Plosive     | p b      | t d    | ts dz    | k g    |         |
 | Prenasal    | ᵐp ᵐb    | ⁿt ⁿd  | ⁿts ⁿdz  | ᵑk ᵑg  |         |
 | Fricative   | f v      |        | s z      | x ɣ    | h       |
 | Approximant | w        |        | l        | j      |         |
@@ -27,5 +27,5 @@
 | VOWELS | Front | Central | Back |
 |---     |---    |---      |---   |
 | Close  | i ĩ   |         | u ũ  |
-| Mid    | e ẽ   |         | o õ  |
+| Mid    | e     |         | o    |
 | Open   |       | a ã     |      |
