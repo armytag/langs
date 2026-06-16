@@ -15,8 +15,7 @@ By armytag
     - Consonant mutation
     - Prenasalized consonants
     - Dental and Alveolar PoA
-1. Mountainlang (Ch'ol, Jingpo, Ngiyampaa)(Chukchi, Salish, Egyptian)
-    - Dialect continuum
+1. Riverlang (Mayan, Salish, Egyptian)
     - Polypersonal agreement
     - Polysynthesis
     - Glottalization
