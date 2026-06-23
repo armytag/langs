@@ -29,7 +29,8 @@
   - Most ditransitive verbs take dative R
   - Verbs of creation and obtaining use *internal possessor strategy* "I wrote your letter" (a letter for you)
 - You must distinguish temporariness, characteristics, etc. and permanence, states, etc. in some grammaticalized way. This is intentionally vague and can refer to several phenomena.
-  - _Cop-out_: have two different copulae à la Spanish.
+  - _Cop-out_: #strike[have two different copulae à la Spanish.]
+  - Difference in use of an auxilliary verb (likely for the temporary sense)
 
 = Ideas
 == Scenario
@@ -44,7 +45,7 @@
   - NP-internal vs NP-external case marking? Would allow case stacking
 - Transitive/Intransitive verb root pairs
   - Transitivity split is strict and consistent, affects verb declension patterns
-  - Sperate causative morphology for verbs
+  - Separate causative morphology for verbs
 - Verb agreement with subjects
   - Volition can cause disagreement between verb and noun morphology
     - "I will die=3SG (unintentionally)" vs "I will die=1SG (intentionally)"
