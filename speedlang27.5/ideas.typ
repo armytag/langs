@@ -25,16 +25,43 @@
 - You must have certain verbs whose arguments' morphology (in a very broad sense; I don’t intend to presuppose the requirement that nouns decline) and syntax do not correspond to each other.
   - _Cop-out_: quirky subjects, especially dative experiencers.
 - You must have some kind of split in the argument structure of trivalent verbs. NB, I used the term "trivalent" very deliberately, for there are more restrictive definitions of the term "ditransitive" floating around. This is a very deep subject and can give many interesting results, so I encourage people to do some research and share around papers!
-  - _Cop-out_: the split involves a difference in marking SAP-like R/T vs non-SAP.
+  - _Cop-out_: #strike[the split involves a difference in marking SAP-like R/T vs non-SAP.]
+  - Most ditransitive verbs take dative R
+  - Verbs of creation and obtaining use *internal possessor strategy* "I wrote your letter" (a letter for you)
 - You must distinguish temporariness, characteristics, etc. and permanence, states, etc. in some grammaticalized way. This is intentionally vague and can refer to several phenomena.
-  - _Cop-out_: #strike[have two different copulae à la Spanish.]
-  - Comes from *s-* and *m-* prefixes from PTB
+  - _Cop-out_: have two different copulae à la Spanish.
 
 = Ideas
 == Scenario
-- In Darjeeling on break from studying egophoricity in Tibeto-Burman languages
+- In Kathmandu studying egophoricity in Tibeto-Burman languages
 - Fell through fissure into underground tunnel
 - Followed tunnel to underground lake with sunlight coming through narrow fissure on far end
 - Met local women gathering water, Nepali and Lepcha greetings didn't work but they were still friendly
 == Language
 - Classifiers and causitive infix like Newar
+- Noun cases
+  - Ergative/Instrumental
+  - NP-internal vs NP-external case marking? Would allow case stacking
+- Transitive/Intransitive verb root pairs
+  - Transitivity split is strict and consistent, affects verb declension patterns
+  - Sperate causative morphology for verbs
+- Verb agreement with subjects
+  - Volition can cause disagreement between verb and noun morphology
+    - "I will die=3SG (unintentionally)" vs "I will die=1SG (intentionally)"
+  - No dative experiencers, suggesting little direct contact with Indo-Aryan languages
+- Verbs negated by prefix/preposition
+- Prefixes
+  - ʔa/ʔaŋ/ʔak = third-person possessive
+  - s- = directive, causative, or intensive
+  - m- = inner-directed states or actions
+  - r- = directive
+  - b- = transitive future, or past with -s suffix
+  - g- = present and future tense
+- Suffixes
+  - -n = nominalizing, transitivizing, and collectivizing
+  - -t = nominalizing, verbalizing
+  - -s = nominalizing, locative, causative
+  - -k = distributive
+  - -ʔay = motion away from deictic center
+  - -ya = diminutive
+  - -way/-ray = proto-copula
