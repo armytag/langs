@@ -1,0 +1,16 @@
+with: std-ipa-features std-assimilations coronal-metathesis
+
+letters: p b t d ts dz tʃ dʒ k g s z ʃ ʒ h m n ɲ ŋ w l r y
+
+C = p b t d ts dz tʃ dʒ k g s z ʃ ʒ h m n ɲ ŋ w l r y
+G = w l r y
+V = a e i o u ə əy əw ey ow ay aw
+F = p t k s m n w l r y
+
+random-rate: 25
+
+$S = CG?VF?s?
+
+words: $S
+
+reject: tl dl tsl dzl tʃl dʒl
