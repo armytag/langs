@@ -31,6 +31,7 @@
 - You must distinguish temporariness, characteristics, etc. and permanence, states, etc. in some grammaticalized way. This is intentionally vague and can refer to several phenomena.
   - _Cop-out_: #strike[have two different copulae à la Spanish.]
   - Difference in use of an auxilliary verb (likely for the temporary sense)
+  - Property predicates generally noun-like, but can be verbalized for temporary meanings
 
 = Ideas
 == Scenario
