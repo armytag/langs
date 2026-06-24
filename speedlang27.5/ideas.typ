@@ -67,3 +67,61 @@
   - -ʔay = motion away from deictic center
   - -ya = diminutive
   - -way/-ray = proto-copula
+
+== Core Vocabulary
+=== Body Terms
+1. _\*nyam_ "brain"
+2. _\*sya-n_ "body"
+3. _\*lak_ "hand/limb"
+4. _\*kum_ "back"
+5. _\*kləy_ "feces"
+=== Terrain Features
+1. _\*b-rak_ "rock/stone"
+2. _\*kuŋ_ "cave"
+3. _\*k-yum_ "house"
+4. _\*g-nam_ "sky"
+5. _\*s-gaŋ_ "hill/mountain"
+=== Weather
+1. _\*rwa_ "rain"
+2. _\*r-məw_ "clouds"
+3. _\*nəy_ "sun, day"
+4. _\*s-la_ "moon, month"
+5. _\*g-ləy_ "wind"
+=== Flora
+1. _\*g-pwa_ "bamboo"
+2. _\*b-wat_ "flower"
+3. _\*b-rəw_ "grain, seed"
+4. _\*s-wan_ "onion/garlic"
+5. _\*m-nway_ "yam/taro"
+=== Fauna
+1. _\*kwəy_ "dog"
+2. _\*m-rwaŋ_ "cat"
+3. _\*s-ŋya_ "fish"
+4. _\*kak_ "chicken"
+5. _\*pwak_ "pig"
+6. _\*bak_ "bat"
+=== Intransitive Verbs
+1. _\*m/s-kri-t_ "be afraid"
+2. _\*s-twak_ "come out, go out, emerge"
+3. _\*səy_ "die"
+4. _\*m-tsu-ŋ_ "sit"
+5. _\*g-na-s_ "rest, sleep"
+=== Transitive Verbs
+1. _\*m/s-nam_ "smell"
+2. _\*dzya_ "eat"
+3. _\*hwap_ "drink something prepared (soup, beverage) especially with others"
+4. _\*ʔam_ "drink something raw for sustinence (mainly water)
+5. _\*kaŋ_ "see, know"
+6. _\*g-sat_ "kill"
+=== Ditransitive Verbs
+1. _\*s-bəy-n_ "give"
+2. _\*r-ney-t_ "obtain"
+=== Pronouns
+1. _\*ŋa-y_ "I, me, 1st-person pronoun"
+2. _\*na-ŋ_ "You, 2nd-person pronoun"
+3. _\*ʔa_ "3rd-person pronoun"
+4. _\*wa-n_ "distal demonstrative"
+=== Grammar
+1. _\*ma_ "no"
+2. _\*ray_ "copula"
+3. _\*way_ "copula"
