@@ -19,11 +19,15 @@
 - Your introduction must mention that you're a field linguist. Use this as a space to express your creativity and have some fun!
   - Do not spend too much time here. Get this out of the way in the first day!
 - You must have a phoneme whose precise realization depends on age, dialect, social class, register, whatever. Provide a diachronic speculation on why this phoneme has such a diverse array of pronunciations.
-  - _Cop-out_: this phoneme is /r/, and it is realized as [ɻ~ɹ~r~ʀ~ʁ~ɦ].
+  - _Cop-out_: #strike[this phoneme is /r/, and it is realized as \[ɻ~ɹ~r~ʀ~ʁ~ɦ\].]
+  - Intervocalic /w/ becomes \[w~v~β~ɣʷ~j~ʔ\]
+  - Varies by village as a travel towards the surface
 - You must have a salient sandhi phenomenon operating across word boundaries. It is encouraged to have more than one, and to be creative here.
-  - _Cop-out_: high vowels may turn into glides, and they and underlying glides affect consonants in the appropriate way.
+  - _Cop-out_: #strike[high vowels may turn into glides, and they and underlying glides affect consonants in the appropriate way.]
+  - General sandhi rules as well as compound-specific sandhi rules
 - You must have certain verbs whose arguments' morphology (in a very broad sense; I don’t intend to presuppose the requirement that nouns decline) and syntax do not correspond to each other.
-  - _Cop-out_: quirky subjects, especially dative experiencers.
+  - _Cop-out_: #underline[quirky subjects, especially dative experiencers.]
+  - Locative experiencers (similar to weather sentences)
 - You must have some kind of split in the argument structure of trivalent verbs. NB, I used the term "trivalent" very deliberately, for there are more restrictive definitions of the term "ditransitive" floating around. This is a very deep subject and can give many interesting results, so I encourage people to do some research and share around papers!
   - _Cop-out_: #strike[the split involves a difference in marking SAP-like R/T vs non-SAP.]
   - Most ditransitive verbs take dative R
