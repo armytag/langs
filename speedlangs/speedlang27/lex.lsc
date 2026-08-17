@@ -1,0 +1,101 @@
+Feature +long
+Feature (syllable) +stress
+Feature (syllable) +heavy
+Feature front, back
+Feature height(low, mid, high)
+Feature type(*cons, vowel)
+Feature voicing(unvoiced, voiced)
+Feature place(labial, dental, alveolar, palatal, velar)
+Feature manner(nasal, stop, fricative, approximant, trill)
+Feature +lateral, +sibilant
+Diacritic ː (floating) [+long]
+Diacritic ˈ (before) [+stress]
+Diacritic ² [+heavy]
+Symbol i [high +front -back vowel]
+Symbol u [high -front +back vowel]
+Symbol a [low  -front -back vowel]
+Symbol e [mid +front -back vowel]
+Symbol o [mid -front +back vowel]
+Symbol ə [mid -front -back vowel]
+Symbol m [voiced labial nasal]
+Symbol n [voiced alveolar nasal]
+Symbol ɲ [voiced palatal nasal]
+Symbol ŋ [voiced velar nasal]
+Symbol p [unvoiced labial stop]
+Symbol t̪ [unvoiced dental stop]
+Symbol ts [unvoiced alveolar stop +sibilant]
+Symbol tɬ [unvoiced alveolar stop +lateral]
+Symbol tʃ [unvoiced palatal stop]
+Symbol k [unvoiced velar stop]
+Symbol f [unvoiced labial fricative]
+Symbol θ [unvoiced dental fricative]
+Symbol s [unvoiced alveolar fricative +sibilant]
+Symbol ɬ [unvoiced alveolar fricative +lateral]
+Symbol ʃ [unvoiced palatal fricative]
+Symbol x [unvoiced velar fricative]
+Symbol b [voiced labial stop]
+Symbol d̪ [voiced dental stop]
+Symbol dz [voiced alveolar stop +sibilant]
+Symbol dɮ [voiced alveolar stop +lateral]
+Symbol dʒ [voiced palatal stop]
+Symbol g [voiced velar stop]
+Symbol v [voiced labial fricative]
+Symbol ð [voiced dental fricative]
+Symbol z [voiced alveolar fricative +sibilant]
+Symbol ɮ [voiced alveolar fricative +lateral]
+Symbol ʒ [voiced palatal fricative]
+Symbol ɣ [voiced velar fricative]
+Symbol w [voiced labial approximant]
+Symbol r [voiced alveolar trill]
+Symbol l [voiced alveolar approximant +lateral]
+Symbol ʟ [voiced velar approximant +lateral]
+Symbol j [voiced palatal approximant]
+
+Syllables:
+	[vowel] {[nasal], [approximant +lateral], [trill]}? / $ _
+	[cons] [approximant -lateral]? [vowel] {[nasal], [approximant +lateral], [trill]}?
+
+assign-stress:
+	<syl> => [+stress] / $ <syl> _
+
+nasal-assimilation:
+	[nasal] => m / _ [labial]
+	[nasal] => n / _ {[dental], [alveolar]}
+	[nasal] => ɲ / _ [palatal]
+	[nasal] => ŋ / _ [velar]
+	[nasal] => n / _ $
+	Then: [nasal] => [palatal] / [palatal] [vowel] _ $
+	Then: [nasal] => [labial] / [labial] [vowel] _ $
+
+lateral-assimilation propagate:
+	[approximant +lateral] => [$place] / _ {[vowel], [approximant], [nasal]}* [approximant +lateral $place]
+
+spiranization:
+	[stop] => [fricative] / [vowel] _ [vowel]
+
+glide-schwa-merging:
+	{j, w} ə => {i, u} *
+
+first-syllable-metathesis:
+	a$1 [cons]$2 => $2 $1 / $ _ // $ _ a
+
+Syllables:
+	[vowel] {[nasal], [approximant +lateral], [trill]}? / $ _
+	[cons] [approximant -lateral]? [vowel] [vowel]? {[nasal], [approximant +lateral], [trill]}?
+
+syllabics-shift:
+	{j, w} a => {i, u} ə / [cons] _
+
+obstruent-allophones:
+	{[stop],[fricative]} => [voiced] / [vowel] _ [vowel]
+
+initial-schwa-lenition:
+	ə => * / $ _ [cons] [vowel]
+
+# final-syllable-lenition:
+# 	{[fricative], [stop]} ə => [unvoiced stop] * / [vowel] _ $
+
+Syllables:
+	[vowel] {[nasal], [approximant +lateral], [trill]}? / $ _
+	[cons] [approximant -lateral]? [vowel] [vowel]? {[unvoiced stop], [unvoiced fricative]}? / _ $
+	[cons] [approximant -lateral]? [vowel] [vowel]? {[nasal], [approximant +lateral], [trill]}?

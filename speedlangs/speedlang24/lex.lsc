@@ -1,0 +1,68 @@
+# For combining two files together
+# pr -tmJS proto.wli proto-rand.wli > proto-compound.wli
+
+Feature front, back
+Feature height(low, mid, high)
+Feature type(*cons, vowel)
+Feature voicing(unvoiced, voiced)
+Feature place(labial, alveolar, velar, glottal)
+Feature manner(nasal, stop, fricative, affricate, trill, approximant)
+Feature +breathy
+Feature (syllable) +stress
+Diacritic ' (before) [+stress]
+Diacritic ̤ [+breathy]
+Symbol i [high +front -back vowel]
+Symbol u [high -front +back vowel]
+Symbol ə [mid -front -back vowel]
+Symbol a [low  -front -back vowel]
+Symbol m [voiced labial nasal]
+Symbol n [voiced alveolar nasal]
+Symbol n̥ [unvoiced alveolar nasal]
+Symbol b [voiced labial stop]
+Symbol t [unvoiced alveolar stop]
+Symbol d [voiced alveolar stop]
+Symbol k [unvoiced velar stop]
+Symbol ʔ [unvoiced glottal stop]
+Symbol s [unvoiced alveolar fricative]
+Symbol z [voiced alveolar fricative]
+Symbol x [unvoiced velar fricative]
+Symbol t͡s [unvoiced alveolar affricate]
+Symbol d͡z [voiced alveolar affricate]
+Symbol r [voiced alveolar trill]
+Symbol r̥ [unvoiced alveolar trill]
+Symbol ʋ [labial approximant]
+Symbol ɦ [voiced glottal approximant]
+
+Syllables:
+[cons]? {ʋ, ɦ}? [vowel]
+[cons] {ʋ, ɦ}? [vowel] [cons]
+[vowel +breathy] [cons]
+
+assign-stress:
+<syl> => [+stress] / _ $
+
+vowel-reduction:
+{i, u}&[-stress] => ə
+
+no-long-vowels:
+[vowel]$1 * $1 => $1 ʔ $1
+
+breathy-voice:
+ɦ [vowel] => ʔ [+breathy] / [vowel] _
+ɦ [vowel] => * [+breathy] / {[cons], $} _
+
+breathy-spreading:
+[vowel] => [+breathy] / _ [cons voiced]* [vowel +breathy]
+[vowel] => [+breathy] / [vowel +breathy] [cons voiced]* _
+
+Syllables:
+clear
+
+romanizer:
+t͡s => ts
+d͡z => dz
+n̥ => n̊
+r̥ => r̊
+ʋ => v
+ʔ => ʼ
+

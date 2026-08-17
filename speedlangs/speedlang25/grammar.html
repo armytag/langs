@@ -1,0 +1,1317 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <meta name="author" content="armytag" />
+  <meta name="dcterms.date" content="2025-08-22" />
+  <title>Speedlang 25 – Shátuu ꎫꄏꀑ</title>
+  <style>
+    html {
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      overflow-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 12px;
+      }
+      h1 {
+        font-size: 1.8em;
+      }
+    }
+    @media print {
+      html {
+        background-color: white;
+      }
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    svg {
+      height: auto;
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
+      font-size: 85%;
+      margin: 0;
+      hyphens: manual;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+      overflow-wrap: normal;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      background-color: #1a1a1a;
+      border: none;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC ul {
+      padding-left: 1.3em;
+    }
+    #TOC > ul {
+      padding-left: 0;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+</head>
+<body>
+<header id="title-block-header">
+<h1 class="title">Speedlang 25 – Shátuu ꎫꄏꀑ</h1>
+<p class="author">armytag</p>
+<p class="date">22 August 2025</p>
+</header>
+<style>
+html {
+    color: #1a1a1a;
+    background-color: #fdfdfd;
+}
+
+body {
+    margin: 0 auto;
+    max-width: 60ch;
+    padding: 50px 0;
+    hyphens: auto;
+    overflow-wrap: break-word;
+    text-rendering: optimizeLegibility;
+    font-kerning: normal;
+    text-align: justify;
+    line-height: 1.5em;
+}
+
+@media (max-width: 600px) {
+    body {
+        font-size: 0.9em;
+        padding: 12px;
+    }
+}
+
+@media print {
+    html {
+        color: black;
+        background-color: white;
+    }
+
+    /*
+    h1:not(.title) {
+        page-break-before: always;
+    }
+    */
+
+    #TOC {
+        page-break-before: always;
+    }
+
+    table {
+        page-break-inside: avoid;
+        page-break-before: auto;
+    }
+}
+
+header {
+    text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin-top: 1.25rem;
+    margin-bottom: 0.5rem;
+    line-height: initial;
+}
+
+/*
+h1 {
+    text-align: center;
+    margin-top: 2em;
+}
+*/
+
+h1:not(.title) {
+    font-size: 1.75rem;
+    text-decoration: underline;
+}
+
+h2 {
+    font-size: 1.5rem;
+}
+
+p {
+    margin: 1em 0.33ch;
+}
+
+a {
+    color: #1a1a1a;
+}
+
+ol, ul {
+    padding-left: 1.7em;
+    margin-top: 1em;
+}
+
+li > ol, li > ul {
+    margin-top: 0;
+}
+
+.date {
+    margin: 1em;
+    font-style: italic;
+}
+
+.author {
+    margin: 0.5ch;
+}
+
+.author::before {
+    content: "by";
+    padding: 0 0.5ch;
+}
+
+#TOC ul {
+    padding-left: 1.3em;
+}
+
+#TOC > ul {
+    padding-left: 0;
+}
+
+#TOC li {
+    list-style: none;
+}
+
+#TOC > ul > li {
+    margin: 1em 0;
+}
+
+#TOC a:not(:hover) {
+    text-decoration: none;
+}
+
+.gloss {
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    margin: 1em auto;
+    padding: 0 6ch;
+    align-content: center;
+    justify-content: center;
+    gap: 0.33em;
+}
+
+.gloss > * {
+    margin: 0;
+}
+
+.gloss > .number {
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin: 0.5ch;
+    width: 5ch;
+    text-align: right;
+}
+
+.number + p {
+    margin-top: 0.5ch;
+}
+
+.original {
+    direction: rtl;
+    /* font-weight: bold; */
+    /* font-style: italic; */
+    margin-top: 0.5ch;
+}
+
+.interlinear {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.125em 0.25em;
+}
+
+.interlinear dl {
+    margin: 0.5ch;
+}
+
+.interlinear .phonetic,
+.interlinear dt {
+    font-style: italic;
+}
+
+.interlinear dd {
+    margin-left: 0;
+}
+
+.comparison abbr,
+.interlinear abbr {
+    text-transform: lowercase;
+    font-variant-caps: small-caps;
+    font-variant-numeric: oldstyle-nums;
+}
+
+.freetranslation {
+    text-align: left;
+}
+
+.yi-script {
+    text-align: justify;
+    word-spacing: 1ch;
+    font-size: 1.75rem;
+    line-height: 1.7rem;
+}
+
+.source {
+    text-align: right;
+}
+
+table {
+    margin: 1em auto;
+    border-collapse: collapse;
+    width: max-content;
+    overflow-x: auto;
+    display: block;
+    font-variant-numeric: lining-nums tabular-nums;
+}
+
+table caption {
+    margin-bottom: 0.5em;
+    font-weight: bold;
+    font-style: italic;
+}
+
+tbody {
+    margin-top: 0.5em;
+    border-top: 1pt solid #1a1a1a;
+    border-bottom: 1pt solid #1a1a1a;
+}
+
+th {
+    border-top: 1pt solid #1a1a1a;
+    padding: 0.25em 0.5em 0.25em 0.5em;
+}
+
+td {
+    padding: 0.125em 0.5em 0.25em 0.5em;
+}
+
+.comparison {
+    display: grid;
+    grid-template-columns: repeat(1, max-content);
+    justify-content: center;
+    gap: 2ch;
+}
+
+.comparison.col2 {
+    grid-template-columns: repeat(2, max-content);
+}
+
+.comparison.col3 {
+    grid-template-columns: repeat(3, max-content);
+}
+
+.comparison.col4 {
+    grid-template-columns: repeat(4, max-content);
+}
+
+.comparison dt {
+    font-style: italic;
+    margin-left: 1ch;
+}
+
+.comparison dd {
+    margin: 0;
+    margin-right: 1ch;
+}
+
+.side-by-side {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
+}
+
+.side-by-side h4 {
+    text-align: center;
+}
+</style>
+<h1 id="phonology">Phonology</h1>
+<h2 id="consonants">Consonants</h2>
+<p>Shátuu has twenty-eight phonemic consonants. Plosives, fricatives,
+and sonorants all have plain and labialized counterparts, but the two
+implosives only occur unlabialized<a href="#fn1" class="footnote-ref"
+id="fnref1" role="doc-noteref"><sup>1</sup></a>. The consonant invetory
+is summarized in the table below.</p>
+<table>
+<caption>
+Consonants
+</caption>
+<thead>
+<tr class="header">
+<th>
+</th>
+<th colspan="2" style="text-align: center;">
+Bilabial
+</th>
+<th colspan="2" style="text-align: center;">
+Dental
+</th>
+<th colspan="2" style="text-align: center;">
+Alveolar
+</th>
+<th colspan="2" style="text-align: center;">
+Dorsal
+</th>
+<th colspan="2" style="text-align: center;">
+Glottal
+</th>
+</tr>
+<tr class="header">
+<td>
+</td>
+<td>
+Pln.
+</td>
+<td>
+Lab.
+</td>
+<td>
+Pln.
+</td>
+<td>
+Lab.
+</td>
+<td>
+Pln.
+</td>
+<td>
+Lab.
+</td>
+<td>
+Pln.
+</td>
+<td>
+Lab.
+</td>
+<td>
+Pln.
+</td>
+<td>
+Lab.
+</td>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>
+Implosive
+</td>
+<td style="text-align: center">
+ɓ
+</td>
+<td style="text-align: center">
+</td>
+<td style="text-align: center">
+ɗ
+</td>
+<td style="text-align: center">
+</td>
+<td style="text-align: center">
+</td>
+<td style="text-align: center">
+</td>
+<td style="text-align: center">
+</td>
+<td style="text-align: center">
+</td>
+<td style="text-align: center">
+</td>
+<td style="text-align: center">
+</td>
+</tr>
+<tr class="even">
+<td>
+Plosive
+</td>
+<td style="text-align: center">
+p
+</td>
+<td style="text-align: center">
+pʷ
+</td>
+<td style="text-align: center">
+t
+</td>
+<td style="text-align: center">
+tʷ
+</td>
+<td style="text-align: center">
+ts
+</td>
+<td style="text-align: center">
+tsʷ
+</td>
+<td style="text-align: center">
+k
+</td>
+<td style="text-align: center">
+kʷ
+</td>
+<td style="text-align: center">
+ʔ
+</td>
+<td style="text-align: center">
+ʔʷ
+</td>
+</tr>
+<tr class="odd">
+<td>
+Fricative
+</td>
+<td style="text-align: center">
+</td>
+<td style="text-align: center">
+</td>
+<td style="text-align: center">
+θ
+</td>
+<td style="text-align: center">
+θʷ
+</td>
+<td style="text-align: center">
+s
+</td>
+<td style="text-align: center">
+sʷ
+</td>
+<td style="text-align: center">
+ʃ
+</td>
+<td style="text-align: center">
+ʃʷ
+</td>
+<td style="text-align: center">
+h
+</td>
+<td style="text-align: center">
+hʷ
+</td>
+</tr>
+<tr class="even">
+<td>
+Sonorant
+</td>
+<td style="text-align: center">
+m
+</td>
+<td style="text-align: center">
+mʷ
+</td>
+<td style="text-align: center">
+n
+</td>
+<td style="text-align: center">
+nʷ
+</td>
+<td style="text-align: center">
+l
+</td>
+<td style="text-align: center">
+lʷ
+</td>
+<td style="text-align: center">
+j
+</td>
+<td style="text-align: center">
+w
+</td>
+<td style="text-align: center">
+</td>
+<td style="text-align: center">
+</td>
+</tr>
+</tbody>
+</table>
+<h2 id="vowels">Vowels</h2>
+<p>There are four phonemic vowels in Shátuu, differentiated by height
+and length. The close vowels are front unrounded vowels, and the short
+one is lower than the long. The open vowels don’t differ in quality,
+only length.</p>
+<table>
+<caption>Phonemic Vowels</caption>
+<thead>
+<tr class="header">
+<th></th>
+<th style="text-align: center;">Short</th>
+<th style="text-align: center;">Long</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Close</td>
+<td style="text-align: center;">e</td>
+<td style="text-align: center;">iː</td>
+</tr>
+<tr class="even">
+<td>Open</td>
+<td style="text-align: center;">a</td>
+<td style="text-align: center;">aː</td>
+</tr>
+</tbody>
+</table>
+<p>After a labialized consonant, the close vowels are backed and rounded
+and cause the triggering consonant to delabialize. The open vowels are
+not affected by labialized consonants, nor do they trigger
+delabialization.</p>
+<div class="comparison col2">
+<div>
+/pʷe/ → [po]
+</div>
+<div>
+/pʷiː/ → [puː]
+</div>
+<div>
+/pʷa/ → [pʷa]
+</div>
+<div>
+/pʷaː/ → [pʷaː]
+</div>
+</div>
+<h2 id="tone">Tone</h2>
+<p>There are three tone levels in Shátuu: high, mid, and low. Only high
+and low tones can spread or trigger tone changes, so the mid tone
+appears to be a neutral unmarked tone.</p>
+<h2 id="syllable-structure">Syllable Structure</h2>
+<p>Syllables take the form CV, where C is any consonant and V is any
+vowel.</p>
+<div class="comparison col4">
+<dt>
+jexwe<b>š</b>i
+</dt>
+<dd>
+“sleep”
+</dd>
+<dt>
+jexwe<b>č</b>il
+</dt>
+<dd>
+“sleep”
+</dd>
+<dt>
+cu<b>h</b>e
+</dt>
+<dd>
+“wind”
+</dd>
+<dt>
+cu<b>ʼ</b>eš
+</dt>
+<dd>
+“a wind (oblique)”
+</dd>
+<dt>
+<b>s</b>i
+</dt>
+<dd>
+“of (relative particle)”
+</dd>
+<dt>
+<b>c</b>is
+</dt>
+<dd>
+“of me”
+</dd>
+</div>
+<h2 id="orthography">Orthography</h2>
+<p><a
+href="https://en.wikipedia.org/wiki/Yi_script">https://en.wikipedia.org/wiki/Yi_script</a></p>
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: center;">Shátuu</th>
+<th style="text-align: center;">Yi Pinyin</th>
+<th style="text-align: center;">Shátuu</th>
+<th style="text-align: center;">Yi Pinyin</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;">ɓ</td>
+<td style="text-align: center;">bb</td>
+<td style="text-align: center;">e/iː</td>
+<td style="text-align: center;">i</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">ɗ</td>
+<td style="text-align: center;">dd</td>
+<td style="text-align: center;">o/uː</td>
+<td style="text-align: center;">o</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">p</td>
+<td style="text-align: center;">b</td>
+<td style="text-align: center;">a/aː</td>
+<td style="text-align: center;">a</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">t</td>
+<td style="text-align: center;">d</td>
+<td style="text-align: center;">ʷa/ʷaː</td>
+<td style="text-align: center;">u</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">ts</td>
+<td style="text-align: center;">z</td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">k</td>
+<td style="text-align: center;">g</td>
+<td style="text-align: center;">v́ (-h)</td>
+<td style="text-align: center;">-t</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">ʔ</td>
+<td style="text-align: center;">k</td>
+<td style="text-align: center;">v (-m)</td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">θ</td>
+<td style="text-align: center;">t</td>
+<td style="text-align: center;">v̀ (-l)</td>
+<td style="text-align: center;">-p</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">s</td>
+<td style="text-align: center;">s</td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">ʃ</td>
+<td style="text-align: center;">x/sh</td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">h</td>
+<td style="text-align: center;">hx (-ʷa y)</td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">m</td>
+<td style="text-align: center;">m</td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">n</td>
+<td style="text-align: center;">n (-á hn)</td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">l</td>
+<td style="text-align: center;">l</td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">j</td>
+<td style="text-align: center;">r (-iː y)</td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: center;">Shátuu</th>
+<th style="text-align: center;">Yi Pinyin</th>
+<th style="text-align: center;">Yi Script</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;">ʃátuː</td>
+<td style="text-align: center;">shat do o</td>
+<td style="text-align: center;">ꎫꄏꀑ</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">tò</td>
+<td style="text-align: center;">dop</td>
+<td style="text-align: center;">ꄐ</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">tèkwa</td>
+<td style="text-align: center;">dip gu</td>
+<td style="text-align: center;">ꄃꇴ</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">tèkwamwa</td>
+<td style="text-align: center;">dip gu mu</td>
+<td style="text-align: center;">ꄃꇴꃅ</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">tèkwàmwàá</td>
+<td style="text-align: center;">dip gup mup at</td>
+<td style="text-align: center;">ꄃꇵꃆꀈ</td>
+</tr>
+</tbody>
+</table>
+<h1 id="morphology">Morphology</h1>
+<h2 id="nouns">Nouns</h2>
+<table>
+<caption>Nominal Case-Definiteness Marking</caption>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Definiteness</th>
+<th style="text-align: left;">Direct</th>
+<th style="text-align: left;">Oblique</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Generic</td>
+<td style="text-align: left;">-</td>
+<td style="text-align: left;">-xwe</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Indefinite</td>
+<td style="text-align: left;">-pu</td>
+<td style="text-align: left;">-pi</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Definite Singular</td>
+<td style="text-align: left;">-la</td>
+<td style="text-align: left;">-(o)š</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Definite Plural</td>
+<td style="text-align: left;">-čal</td>
+<td style="text-align: left;">-čũ</td>
+</tr>
+</tbody>
+</table>
+<h2 id="pronouns">Pronouns</h2>
+<p>Dedicated pronoun forms only exist for first- and second-person human
+referents. Third-person human referents use the various forms for
+<em>shèlwaa</em> “person”, and non-human referents use <em>tùùjii</em>
+(“thing”).</p>
+<table>
+<caption>Personal Pronouns</caption>
+<thead>
+<tr class="header">
+<th style="text-align: center;">Person</th>
+<th style="text-align: left;">Singular</th>
+<th style="text-align: left;">Dual</th>
+<th style="text-align: left;">Plural</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;">1 human</td>
+<td style="text-align: left;">lìì</td>
+<td style="text-align: left;">lúúba</td>
+<td style="text-align: left;">lwàà</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">2 human</td>
+<td style="text-align: left;">kíí</td>
+<td style="text-align: left;">kójii</td>
+<td style="text-align: left;">kwàà</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">3 human</td>
+<td style="text-align: left;">shèhaa</td>
+<td style="text-align: left;">shááʼo</td>
+<td style="text-align: left;">shèlwaa</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">3 nonhuman</td>
+<td style="text-align: left;">tùùjii</td>
+<td style="text-align: left;">tùùjii</td>
+<td style="text-align: left;">tùùjii</td>
+</tr>
+</tbody>
+</table>
+<p>The direct and oblique forms are used like regular nouns described
+above.</p>
+<div class="gloss">
+<p class="number">(1)
+</p>
+<div class="interlinear">
+<dl>
+<dt>
+mopu
+</dt>
+<dd>
+<abbr>3PL.DIR</abbr>
+</dd>
+</dl>
+<dl>
+<dt>
+litu
+</dt>
+<dd>
+see
+</dd>
+</dl>
+<dl>
+<dt>
+xwece
+</dt>
+<dd>
+<abbr>1PL.OBL</abbr>
+</dd>
+</dl>
+</div>
+<p class="freetranslation">
+“They see us.”
+</p>
+</div>
+<h1 id="syntax">Syntax</h1>
+<div class="gloss">
+<p class="number">(2)
+</p>
+<div class="interlinear">
+<dl>
+<dt>
+ʔila=ša
+</dt>
+<dd>
+while<abbr>=1PL</abbr>
+</dd>
+</dl>
+<dl>
+<dt>
+jexwečil
+</dt>
+<dd>
+sleep<abbr>.PST</abbr>
+</dd>
+</dl>
+<dl>
+<dt>
+šipi
+</dt>
+<dd>
+live.<abbr>AUX</abbr>
+</dd>
+</dl>
+<dl>
+<dt>
+litol=ša
+</dt>
+<dd>
+see<abbr>.PST=1PL</abbr>
+</dd>
+</dl>
+<dl>
+<dt>
+ma-wu
+</dt>
+<dd>
+put.<abbr>AUX-3PL</abbr>
+</dd>
+</dl>
+</div>
+<p class="freetranslation">
+“They saw us while we slept.”
+</p>
+</div>
+<h1 id="texts">Texts</h1>
+<h2 id="example-sentences8">Example Sentences<a href="#fn2"
+class="footnote-ref" id="fnref2"
+role="doc-noteref"><sup>2</sup></a></h2>
+<div class="gloss">
+<p class="number">(3)
+</p>
+<p class="yi-script">
+</p>
+<div class="interlinear">
+<dl>
+<dt>
+</dt>
+<dd>
+</dd>
+</dl>
+</div>
+<p class="freetranslation">
+““I am fast”, he told the wolf; but the wolf found out.”
+</p>
+<p class="source">
+1083rd 5MOYD
+</p>
+</div>
+<div class="gloss">
+<p class="number">(4)
+</p>
+<p class="yi-script">
+ꄳꀋꉐꀊ ꊔ ꆿꀈꉈ ꆑ ꑠꉐꀊ ꌞꀈꇜ
+</p>
+<div class="interlinear">
+<dl>
+<dt>
+thwààhaa
+</dt>
+<dd>
+water
+</dd>
+</dl>
+<dl>
+<dt>
+tsá
+</dt>
+<dd>
+<abbr>NOM</abbr>
+</dd>
+</dl>
+<dl>
+<dt>
+lááhe
+</dt>
+<dd>
+above
+</dd>
+</dl>
+<dl>
+<dt>
+nwá
+</dt>
+<dd>
+<abbr>ALL</abbr>
+</dd>
+</dl>
+<dl>
+<dt>
+shèhaa
+</dt>
+<dd>
+<abbr>3SG</abbr>
+</dd>
+</dl>
+<dl>
+<dt>
+swááke
+</dt>
+<dd>
+carry
+</dd>
+</dl>
+</div>
+<p class="freetranslation">
+“The water carried him upwards.”
+</p>
+<p class="source">
+1130th 5MOYD
+</p>
+</div>
+<div class="gloss">
+<p class="number">(5)
+</p>
+<p class="yi-script">
+ꇚꀀ ꉆꂰꀂ ꇪꀏ ꊔꎮ ꇚꀀ ꆑ ꂸꈐ ꊛꇜꀂ
+</p>
+<div class="interlinear">
+<dl>
+<dt>
+kíí
+</dt>
+<dd>
+<abbr>2SG</abbr>
+</dd>
+</dl>
+<dl>
+<dt>
+hémii
+</dt>
+<dd>
+book
+</dd>
+</dl>
+<dl>
+<dt>
+kúú
+</dt>
+<dd>
+who
+</dd>
+</dl>
+<dl>
+<dt>
+tsá=shà
+</dt>
+<dd>
+<abbr>NOM=Q</abbr>
+</dd>
+</dl>
+<dl>
+<dt>
+kíí
+</dt>
+<dd>
+<abbr>2SG</abbr>
+</dd>
+</dl>
+<dl>
+<dt>
+nwá
+</dt>
+<dd>
+<abbr>ALL</abbr>
+</dd>
+</dl>
+<dl>
+<dt>
+màʼwa
+</dt>
+<dd>
+give
+</dd>
+</dl>
+<dl>
+<dt>
+tsók-ii
+</dt>
+<dd>
+lose-<abbr>EGO</abbr>
+</dd>
+</dl>
+</div>
+<p class="freetranslation">
+“You lost the book given to you by whom?”
+</p>
+<p class="source">
+1323rd 5MOYD
+</p>
+</div>
+<div class="gloss">
+<p class="number">(6)
+</p>
+<p class="yi-script">
+</p>
+<div class="interlinear">
+<dl>
+<dt>
+</dt>
+<dd>
+</dd>
+</dl>
+</div>
+<p class="freetranslation">
+“(They) say that the King of China has 306 provinces.”
+</p>
+<p class="source">
+1458th 5MOYD
+</p>
+</div>
+<div class="gloss">
+<p class="number">(7)
+</p>
+<p class="yi-script">
+ꇑꀋ ꑴꎮ ꇪꑝꃅ ꊐꈈꀑ ꇑꀋ ꑧꀏꄉꀊ ꉉꀃ ꂮꏰꀋꎽꀋꄿꃆꎮ
+</p>
+<div class="interlinear">
+<dl>
+<dt>
+lwàà
+</dt>
+<dd>
+<abbr>1PL</abbr>
+</dd>
+</dl>
+<dl>
+<dt>
+jè=shà
+</dt>
+<dd>
+what<abbr>=Q</abbr>
+</dd>
+</dl>
+<dl>
+<dt>
+kóshé-mwa
+</dt>
+<dd>
+do<abbr>-FUT</abbr>
+</dd>
+</dl>
+<dl>
+<dt>
+tsèʼuu,
+</dt>
+<dd>
+now
+</dd>
+</dl>
+<dl>
+<dt>
+lwàà
+</dt>
+<dd>
+<abbr>1PL</abbr>
+</dd>
+</dl>
+<dl>
+<dt>
+shúútaa
+</dt>
+<dd>
+tents
+</dd>
+</dl>
+<dl>
+<dt>
+hìì
+</dt>
+<dd>
+in
+</dd>
+</dl>
+<dl>
+<dt>
+méwáà-shwààda-mwà=shà
+</dt>
+<dd>
+night-sleep<abbr>-FUT=Q</abbr>
+</dd>
+</dl>
+</div>
+<p class="freetranslation">
+“What are we going to do now, are we going to camp out?”
+</p>
+<p class="source">
+1733rd 5MOYD
+</p>
+</div>
+<h1 id="prompts">Prompts</h1>
+<section id="footnotes" class="footnotes footnotes-end-of-document"
+role="doc-endnotes">
+<hr />
+<ol>
+<li id="fn1"><p>Have a secondary articulation that either applies to all
+but one phoneme or features, or only two phonemes (justify its behavior
+either way)<a href="#fnref1" class="footnote-back"
+role="doc-backlink">↩︎</a></p></li>
+<li id="fn2"><p>Translate and gloss at least five (5) example sentences
+from acceptable sources.<a href="#fnref2" class="footnote-back"
+role="doc-backlink">↩︎</a></p></li>
+</ol>
+</section>
+</body>
+</html>
