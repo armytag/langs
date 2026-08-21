@@ -26,7 +26,7 @@ Syllable: RV(R), O(G)V(R) (but G not after /x/)
 ### Sound Changes
 
 1. x → h
-2. sj → ɕ
+2. ʃj → ɕ
 3. {C, V} → * \\ VC(V)_# (not m, n, l)
 4. *vowel mayhem*
 5. h → {ç, x} \\ _ {i, ɯ} (allophonic)
@@ -41,25 +41,27 @@ Syllable: RV(R), O(G)V(R) (but G not after /x/)
 | a   | aː  | aj  | wa  | aː   | aj   | ha  | ha   | haj  |
 | e   | eo  | e   | we  | eo   | e    | he  | heo  | he   |
 
-- kujpji → kɯjphi (kïyphi) \[kɯjphi\]
-- pawkil → paːkil (paakil) \[paːkil\]
-- tjiwtiw → thɯtɯ (thïtï) \[txɯtɯ\]
-- sjəkaw → shəka (shëka) \[ɕəka\]
+- kujpji → kɯjphi (kïyphi) \[kɯj.phi\]
+- pawkil → paːkil (paakil) \[paː.kil\]
+- tjiwtiw → thɯtɯ (thïtï) \[txɯ.tɯ\]
+- sjəkaw → shəka (shëka) \[shə.ka\]
+- ʃjəwkaw → ʃhəkaː (cyëkaa) \[ɕə.kaː\]
+- məjtʃjiw → majtʃhɯ (mayjhï) \[maj.tʃxɯ\]
 
 ### Modern Phonology
 
 | CONSONANTS  | Labial | Alveolar | Palatal | Velar |
 | ---         | ---    | ---      | ---     | ---   |
 | Nasal       | m      | n        |         |       |
-| Plosive     | p      | t        | tʃ      | k     |
-| Fricative   |        | s        | ʃ       | x     |
-| Approximant | w      | l        | j       |       |
+| Plosive     | p      | t        | tʃ <j>  | k     |
+| Fricative   |        | s        | ʃ <c>   | h     |
+| Approximant | w      | l        | j <y>   |       |
 
 | VOWELS | Front | Central | Back |
 | ---    | ---   | ---     | ---  |
-| High   | i     |         | u    |
-| Mid    | e     | ə       | o    |
-| Low    |       | a       |      |
+| High   | i     |         | u uː |
+| Mid    | e     | ə       | o oː |
+| Low    |       | a aː    |      |
 
 Diphthongs: aj, oj, ɯj, eo
 
