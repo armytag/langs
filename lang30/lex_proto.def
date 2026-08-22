@@ -1,0 +1,21 @@
+with: std-ipa-features
+random-rate: 50
+
+letters: m n p t j k s c x w l y a e i o u ə ɯ
+
+C = m n p t j k s c x w l y
+O = t k p s j c
+R = n m y w l
+G = y w l
+N = n m
+V = a i u e ə o
+
+$S = OG?VR?
+$Z = RVR?
+
+words: $S$S $S$Z $Z$S $Z$Z OG?VR RVR
+
+reject: tl
+reject: ^(m|n|p|t|j|k|s|c|x|w|l|y)(a|i|u|e|ə|o)$
+
+
