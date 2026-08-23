@@ -1,5 +1,5 @@
 class cons {m, n, p, t, c, k, s, ʃ, ɕ, x, w, l, j, r, h}
-class stop {t, k, p, s, c, ʃ, ɕ}
+class stop {t, k, p, s, c, ʃ, x, ɕ, h}
 class res {n, m, j, w, l, h, r}
 class glide {j, w, l, h, r}
 class nasal {n, m}
@@ -26,14 +26,15 @@ t3:
 {@cons&!@nasal&!@lateral, e, ə, o} => * / @vowel @cons @vowel? _ $
 
 vowel-mayhem:
-j {i, u, o, ə, a, e} j => * {hi, hɯj, hoj, haj, haj, he} * / . @cons _ @res? .
-j {i, u, o, ə, a, e} w => * {hɯ, hu, ho, ho, ha, heo} * / . @cons _ @res? .
-w {i, u, o, ə, a, e} j => * {ɯj, ɯj, oj, oj, aj, e} * / . @cons _ @res? .
-w {i, u, o, ə, a, e} w => * {ɯ, uː, uː, oː, aː, eo} * / . @cons _ @res? .
-j {i, u, o, ə, a, e} => * {hi, hu, ho, hə, ha, he} / . @cons _ @res? .
-w {i, u, o, ə, a, e} => * {wi, u, wo, wə, wa, we} / . @cons _ @res? .
-{i, u, o, ə, a, e} j => {ɯ, ɯj, oj, aj, aj, e} * / . @cons _ @res? .
-{i, u, o, ə, a, e} w => {ɯ, uː, oː, oː, aː, eo} * / . @cons _ @res? .
+j {i, u, o, ə, a, e} j => * {hi, hɯj, hoj, haj, haj, he} * / @stop _ @res? .
+j {i, u, o, ə, a, e} w => * {hɯ, hu, ho, ho, ha, heo} * / @stop _ @res? .
+w {i, u, o, ə, a, e} j => * {ɯj, ɯj, oj, oj, aj, e} * / @stop _ @res? .
+w {i, u, o, ə, a, e} w => * {ɯ, uː, uː, oː, aː, eo} * / @stop _ @res? .
+j {i, u, o, ə, a, e} => * {hi, hu, ho, hə, ha, he} / @stop _ @res? .
+w {i, u, o, ə, a, e} => * {wi, u, wo, wə, wa, we} / @stop _ @res? .
+{i, u, o, ə, a, e} j => {ɯ, ɯj, oj, aj, aj, e} * / @stop _ @res? .
+{i, u, o, ə, a, e} w => {ɯ, uː, oː, oː, aː, eo} * / @stop _ @res? .
+Then: hh => h
 
 l-metathesis:
 l$1 {k, p}$2 => $2 $1 / @vowel _ @vowel
@@ -51,7 +52,10 @@ Syllables:
 @stop @glide? @vowel
 @res @vowel
 {@stop @glide?, @res} @vowel @cons / _ $
-@cons$1 $1 @glide? @vowel @cons?
+@cons @glide? @vowel @stop / _ @stop
+
+romanizer-phonetic:
+unchanged
 
 final:
 unchanged
