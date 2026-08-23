@@ -1,7 +1,7 @@
-class cons {m, n, p, t, j, k, s, c, ɕ, x, w, l, y}
-class stop {t, k, p, s, j, c, ɕ}
-class res {n, m, y, w, l, h}
-class glide {y, w, l, h}
+class cons {m, n, p, t, c, k, s, ʃ, ɕ, x, w, l, j, r}
+class stop {t, k, p, s, c, ʃ, ɕ}
+class res {n, m, j, w, l, h, r}
+class glide {j, w, l, h, r}
 class nasal {n, m}
 class lateral {l}
 class vowel {a, i, u, e, ə, o, uː, oː, aː, ɯ, eo}
@@ -17,21 +17,50 @@ t1:
 x => h
 
 t2:
-cy => ɕ
+ʃ j => ɕ *
 
 nasal-assimilation:
 {mn, nm} => {nn, mm}
 
 t3:
-{@cons&!@nasal&!@lateral, @vowel} => * / @vowel @cons @vowel? _ $
+{@cons&!@nasal&!@lateral, e, ə, o} => * / @vowel @cons @vowel? _ $
 
 vowel-mayhem:
-y {i, u, o, ə, a, e} y => * {hi, hɯy, hoy, hay, hay, he} * / . @cons _ @res? .
-y {i, u, o, ə, a, e} w => * {hɯ, hu, ho, ho, ha, heo} * / . @cons _ @res? .
-w {i, u, o, ə, a, e} y => * {ɯy, ɯy, oy, oy, ay, e} * / . @cons _ @res? .
+j {i, u, o, ə, a, e} j => * {hi, hɯj, hoj, haj, haj, he} * / . @cons _ @res? .
+j {i, u, o, ə, a, e} w => * {hɯ, hu, ho, ho, ha, heo} * / . @cons _ @res? .
+w {i, u, o, ə, a, e} j => * {ɯj, ɯj, oj, oj, aj, e} * / . @cons _ @res? .
 w {i, u, o, ə, a, e} w => * {ɯ, uː, uː, oː, aː, eo} * / . @cons _ @res? .
-y {i, u, o, ə, a, e} => * {hi, hu, ho, hə, ha, he} / . @cons _ @res? .
+j {i, u, o, ə, a, e} => * {hi, hu, ho, hə, ha, he} / . @cons _ @res? .
 w {i, u, o, ə, a, e} => * {wi, u, wo, wə, wa, we} / . @cons _ @res? .
-{i, u, o, ə, a, e} y => {ɯ, ɯy, oy, ay, ay, e} * / . @cons _ @res? .
+{i, u, o, ə, a, e} j => {ɯ, ɯj, oj, aj, aj, e} * / . @cons _ @res? .
 {i, u, o, ə, a, e} w => {ɯ, uː, oː, oː, aː, eo} * / . @cons _ @res? .
 
+l-metathesis:
+l$1 {k, p}$2 => $2 $1 / @vowel _ @vowel
+
+wl-glide-shift:
+w => r / {p, m} _ @vowel // _ i
+l => r / {p, k, t} _ @vowel
+
+super-reduplication-cleanup:
+@cons$1 @vowel$2 => $1 * / @vowel _ $1 $2
+
+Syllables:
+@stop @glide? @vowel @res
+@res @vowel @res
+@stop @glide? @vowel
+@res @vowel
+{@stop @glide?, @res} @vowel @cons / _ $
+@cons$1 $1 @glide? @vowel @cons?
+
+final:
+unchanged
+
+Syllables:
+clear
+
+romanizer:
+{ʃ, ɕ} => {x, sy}
+j => y
+{ɯ, ə} => {ï, ë}
+{uː, oː, aː} => {uu, oo, aa}
