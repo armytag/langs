@@ -13,46 +13,44 @@ Syllables:
 @res @vowel
 {@stop @glide?, @res} @vowel @cons / _ $
 
-t1:
+initial-changes:
 x => h
-
-t2:
 ʃ j => ɕ *
 
 nasal-assimilation:
 {mn, nm} => {nn, mm}
 
-t3:
+final-loss:
 {@cons&!@nasal&!@lateral, e, ə, o} => * / @vowel @cons @vowel? _ $
 
-vowel-mayhem:
-j {i, u, o, ə, a, e} j => * {hi, hɯj, hoj, haj, haj, he} * / @stop _ @res? .
-j {i, u, o, ə, a, e} w => * {hɯ, hu, ho, ho, ha, heo} * / @stop _ @res? .
-w {i, u, o, ə, a, e} j => * {ɯj, ɯj, oj, oj, aj, e} * / @stop _ @res? .
-w {i, u, o, ə, a, e} w => * {ɯ, uː, uː, oː, aː, eo} * / @stop _ @res? .
-j {i, u, o, ə, a, e} => * {hi, hu, ho, hə, ha, he} / @stop _ @res? .
-w {i, u, o, ə, a, e} => * {wi, u, wo, wə, wa, we} / @stop _ @res? .
-{i, u, o, ə, a, e} j => {ɯ, ɯj, oj, aj, aj, e} * / @stop _ @res? .
-{i, u, o, ə, a, e} w => {ɯ, uː, oː, oː, aː, eo} * / @stop _ @res? .
-Then: hh => h
-
-l-metathesis:
-l$1 {k, p}$2 => $2 $1 / @vowel _ @vowel
-
-wl-glide-shift:
-w => r / {p, m} _ @vowel // _ i
-l => r / {p, k, t} _ @vowel
-
-super-reduplication-cleanup:
-@cons$1 @vowel$2 => $1 * / @vowel _ $1 $2
+super-reduplication-cleaner rtl:
+@cons$1 @vowel$2 => $1 * / $1 $2 _ . // _ @cons @cons
 
 Syllables:
-@stop @glide? @vowel @res
+@stop @glide? @vowel @cons
 @res @vowel @res
 @stop @glide? @vowel
 @res @vowel
 {@stop @glide?, @res} @vowel @cons / _ $
-@cons @glide? @vowel @stop / _ @stop
+
+vowel-mayhem:
+j {i, u, o, ə, a, e} j => * {hi, hɯj, hoj, haj, haj, he} * / . @cons _ .
+j {i, u, o, ə, a, e} w => * {hɯ, hu, ho, ho, ha, heo} * / . @cons _ .
+w {i, u, o, ə, a, e} j => * {ɯj, ɯj, oj, oj, aj, e} * / . @cons _ .
+w {i, u, o, ə, a, e} w => * {ɯ, uː, uː, oː, aː, eo} * / . @cons _ .
+j {i, u, o, ə, a, e} => * {hi, hu, ho, hə, ha, he} / . @cons _ @cons? .
+w {i, u, o, ə, a, e} => * {wi, u, wo, wə, wa, we} / . @cons _ @cons? .
+{i, u, o, ə, a, e} j => {ɯ, ɯj, oj, aj, aj, e} * / _ .
+{i, u, o, ə, a, e} w => {ɯ, uː, oː, oː, aː, eo} * / _ .
+Then: hh => h
+
+l-metathesis:
+l$1 {k, p}$2 => $2 $1 / @vowel _ @vowel
+Then: @cons$1&!k&!p l$2 => $2 $1 / @vowel _ @vowel
+
+wl-glide-shift:
+w => r / {p, m} _ @vowel // _ i
+l => r / {p, k, t} _ @vowel
 
 romanizer-phonetic:
 unchanged

@@ -1,21 +1,21 @@
 with: std-ipa-features
-random-rate: 20
+random-rate: 25
 
-letters: a e i o u ə ɯ t k p s c x ʃ n m j w l
+letters: a e i o u ə ɯ k t p s c x ʃ n m j w l
 
-C = m n p t c k s ʃ x w l j
-O = t k p s c x ʃ
+C = k s n t m p l ʃ x j c w
+O = k p t s c x ʃ
 R = n m j w l
 G = j w l
 N = n m
 V = a i u e ə o
 
-$S = OG?VR?
-$Z = RVR?
+$S = CG?VR?
 
-words: $S$S $S$Z $Z$S $Z$Z OG?VR RVR $S $Z
+words: $S$S $S$S$S $S
 
 reject: tl
+reject: nw nj nl mw mj ml jw jj jl ww wj wl lw lj ll
 # reject: ^(m|n|p|t|c|k|s|ʃ|x|w|l|j)(a|i|u|e|ə|o)$
 
 
