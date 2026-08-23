@@ -1,4 +1,4 @@
-class cons {m, n, p, t, c, k, s, ʃ, ɕ, x, w, l, j, r}
+class cons {m, n, p, t, c, k, s, ʃ, ɕ, x, w, l, j, r, h}
 class stop {t, k, p, s, c, ʃ, ɕ}
 class res {n, m, j, w, l, h, r}
 class glide {j, w, l, h, r}
@@ -64,3 +64,4 @@ romanizer:
 j => y
 {ɯ, ə} => {ï, ë}
 {uː, oː, aː} => {uu, oo, aa}
+# {t, p, k} => {d, b, g} / {@vowel, @res} _ // _ {h, r, @stop, $}
