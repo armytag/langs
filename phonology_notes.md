@@ -1,0 +1,185 @@
+## Geographic Tendencies
+- Voicing in Obstruents
+    - no voicing contrast in plosives/fricatives
+        - Australia
+        - Americas
+        - Africa/Asia (prenasalized contrast)
+    - voice contrast in plosives, not in fricatives
+        - Southern Asia
+        - New Guinea
+        - Africa/Americas
+    - voice contrast in plosives and fricatives
+        - Europe
+        - West Asia
+        - North Africa
+        - (aka the Old World)
+    - voice contrast in fricatives, not in plosives
+        - very rare and dispersed
+        - slight concentration in subarctic Northwest America
+- Plosives gaps
+    - plosive gap in /g/
+        - Americas
+        - Africa
+        - New Guinea
+        - Asia
+    - plosive gap in /p/
+        - North Africa
+- Uvular consonants
+    - no uvulars
+        - northern SA
+        - eastern NA
+        - west/central AF
+        - southern AS
+        - OC
+        - EU except Caucasus
+    - stops
+        - AF
+        - SA
+        - northwest NA
+    - continuants
+        - northwest NA
+- Glottalized consonants
+    - none
+        - EU
+        - northern AS
+        - SA
+        - OC
+        - NG
+        - AU
+    - ejectives
+        - NA
+        - SA
+        - east/south AF
+    - implosives
+        - non-north AF
+        - southeast AS
+    - glottalized resonants
+        - northwest NA
+- Laterals
+    - none
+        - northern SA
+        - NG
+    - /l/, no obstruents
+        - AF
+        - AU
+        - EU
+        - AS
+    - lateral obstruents
+        - northern (and slightly western) NA
+- Velar Nasal
+    - none
+        - south AS
+        - most of NA
+        - most of SA
+    - not initial
+        - EU
+        - western/central AS
+        - western NA
+    - allows initial
+        - southeast AS
+        - central AF
+        - AU
+        - Siberia
+- Nasal vowels
+    - no contrast
+        - EU
+        - AS
+        - extreme north NA
+        - extreme south SA
+        - AU
+        - OC
+    - contrastive
+        - equatorial SA
+        - equatorial AF
+        - Himalayas
+        - NA
+- Front Rounded Vowels
+    - northern EU
+    - northern AS
+- Syllables
+    - simple
+        - equatorial AF
+        - NG
+        - equatorial SA
+        - (correlates with small consonant inventory)
+    - moderate
+        - Global
+        - AF
+        - eastern AS
+        - AU
+    - complex
+        - northern NA
+        - northern EU
+        - northern AS
+        - (correlates with large consonant inventory)
+- Tone
+    - none
+        - EU
+        - western AS
+        - southern AS
+        - southern SA
+        - coastal northwest NA
+        - AU
+    - simple
+        - almost all AF
+        - clusters in NA
+        - clusters in SA
+    - complex
+        - western AF
+        - eastern and southeast AS
+- Absense of Common Consonants
+    - none missing
+        - EU
+        - AS
+    - no bilabials
+        - (rare)
+        - NA
+    - no fricatives
+        - AU
+        - NG
+        - interior SA
+    - no nasals
+        - (often have nasalization on vowels/consonants)
+- Presence of Uncommon Consonants
+    - none
+        - Global
+    - clicks
+        - southern AF
+    - labial-velars
+        - western AF
+    - pharyngeals
+        - northern and eastern AF
+        - Arabia
+        - Caucasus
+    - "th" sounds
+        - rare, but global
+
+
+- Africa
+    - All
+        - voice contrast in plosives, not in fricatives
+    - North Africa
+        - voice contrast in plosives and fricatives
+    - Equatorial Africa
+    - Southern Africa
+- America
+    - Both
+        - no voicing contrast in plosives/fricatives
+        - voice contrast in plosives, not in fricatives
+        - plosive gap in /g/
+    - North America
+    - South America
+- Asia
+    - West Asia
+    - East Asia
+    - South Asia
+        - voice contrast in plosives, not in fricatives
+    - North/Central Asia
+- Australia
+    - voiceless plosives
+    - no fricatives
+- Europe
+    - voice contrast in plosives and fricatives
+- Oceania
+    - New Guinea
+        - voice contrast in plosives, not in fricatives
