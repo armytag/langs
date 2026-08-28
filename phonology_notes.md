@@ -1,4 +1,29 @@
 ## Geographic Tendencies
+- Consonant Inventory
+    - small
+        - OC
+        - NG
+        - AU
+        - SA, especially Amazon
+        - eastern NA
+    - average
+        - Global
+    - large
+        - AF, especially southern
+        - inland EUAS
+        - northwest NA
+- Vowel Inventory
+    - small
+        - AU
+        - NA
+        - SA
+    - average
+        - Global
+        - completely dominate southern AF
+    - large
+        - middle belt of AF
+        - interior southeast AS
+        - EU
 - Voicing in Obstruents
     - no voicing contrast in plosives/fricatives
         - Australia
