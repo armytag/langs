@@ -1,7 +1,7 @@
 with: std-ipa-features std-assimilations
 random-rate: 20
 
-letters: a i u e o ə m n p t k b d g f s x w r l j tʃ ʃ ts ʈ ʂ ː
+letters: a i u e o ə m n p t k b d g f s x w r l j ʈ ɖ ʂ tʃ ʃ dʒ ʒ ts ʈ ʂ ː
 
 C = t k n p d m s b g l j x w f
 O = k t s d p b g
