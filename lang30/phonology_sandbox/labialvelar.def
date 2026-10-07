@@ -1,0 +1,18 @@
+with: std-ipa-features
+
+letters: ː a e i o u ã ĩ ũ m p b mb f w n t d nd s r l ŋ k g ŋg x ŋʷ kʷ gʷ xʷ ʼ h
+
+C = s ŋ t f d k m kʷ p n g x b w n r ʼ l ŋʷ h gʷ xʷ
+V = a i u e o # ã ĩ ũ
+K = n m k p t ŋ
+
+$S = CV
+$C = CVCːV
+$V = CVːCV
+$H = CVK?
+
+words: $C $V $CK? $VK? V$C V$V CVV CV
+
+reject: ʷːu ʷu
+filter: sː > ss; ŋː > ŋŋ; tː > tt; fː > ff; dː > dd; kː > kk; mː > mm; kʷː > kkʷ; pː > pp; nː > nn; gː > gg; xː > xx; bː > bb; wː > ww; nː > nn; rː > rr; ʼː > ʼʼ; lː > ll; ŋʷː > ŋŋʷ; hː > hh; gʷː > ggʷ; xʷː > xxʷ
+filter: aː > aa; iː > ii; uː > uu; eː > ee; oː > oo

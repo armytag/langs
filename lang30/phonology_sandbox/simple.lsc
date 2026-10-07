@@ -1,0 +1,23 @@
+class cons {m, n, p, t, k, f, s, c, h, w, l, j, r}
+class stop {t, k, p, f, s, c, h}
+class res {n, m, j, w, l, r}
+class glide {j, w, l, r}
+class nasal {n, m}
+class lateral {l}
+class vowel {a, i, u, e, o, aː, iː, uː, eː, oː}
+class shortvowel {a, i, u, e, o}
+class longvowel {aː, iː, uː, eː, oː}
+
+Syllables:
+@cons @vowel
+
+palatalization:
+s => c / _ {i, iː}
+
+final-vowel-loss:
+@shortvowel => * / _ $ // $ @cons _
+{aː, iː, uː, eː, oː} => {a, i, u, e, o} / _ $ // $ @cons _
+
+Syllables:
+@cons @vowel
+@cons @vowel @cons / _ $

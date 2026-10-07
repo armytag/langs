@@ -1,0 +1,24 @@
+with: std-ipa-features std-assimilations
+random-rate: 20
+
+letters: a i u e o m n p t k f s h w r l j tʃ ʃ ts ʈ ʂ ː
+
+C = t k n p m s l j h w f
+O = p t k s
+G = r j w
+R = n m
+V = a i e u o
+
+$L = CV'
+$H = OG?V'
+$F = CVR?'
+
+words: 'V?$H$F 'V?$F$F 'V?$H$L$F 'V?$L$H$F 'V?$F 'V?$H 'V?$L
+# filter: aː > aa; iː > ii; uː > uu; eː > ee; oː > oo
+reject: (..+)\1+
+
+filter: 'mu' > 'm'; 'ni' > 'n'
+filter: ji > jə; wu > wə
+filter: tj > @ts@; sj > ʃ; kj > tʃ; pj > pl; fj > fl
+filter: tr > ʈ; sr > ʂ
+filter: ' > !

@@ -1,0 +1,12 @@
+with: std-ipa-features
+
+letters: a i u e o m n p t k f s h w l j ː
+
+C = m n p t k f s h w l j
+V = a i u e o
+
+$S = CV
+
+words: $S$S $S$S$S $S
+# filter: aː > aa; iː > ii; uː > uu; eː > ee; oː > oo
+
