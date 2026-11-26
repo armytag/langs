@@ -3,7 +3,7 @@ random-rate: 20
 
 letters: a i u e o ə m n p t k b d g f s x w r l j ʈ ɖ ʂ tʃ ʃ dʒ ʒ ts ʈ ʂ ː
 
-C = t k n p d m s b g l j x w f
+C = t k n p d m s b g l x f
 O = k t s d p b g
 G = r j w
 R = n m
@@ -14,14 +14,19 @@ $L = CV'
 $H = OG?V'
 $F = CVR?'
 
-words: 'I?$H$F 'I?$F$F 'I?$H$L$F 'I?$L$H$F 'I?$F 'I?$H 'I?$L
+words: '$H$F '$F$F '$H$L$F '$L$H$F 'I?$F 'I?$H 'I?$L
 # filter: aː > aa; iː > ii; uː > uu; eː > ee; oː > oo
 reject: (..+)\1+
 
-filter: 'mu' > 'm'; 'ni' > 'n'
-filter: ji > jə; wu > wə
-filter: tj > tʃ; sj > ʃ; dj > dʒ
-filter: kj > ts; gj > ʒ; xj > ʃ
-filter: pj > pl; bj > bl; fj > fl
-filter: tr > ʈ; dr > ɖ; sr > ʂ
+# filter: 'mu' > 'm̍'; 'ni' > 'n̍'
+# filter: am' > ã'; an' > ã'
+# filter: em' > ẽ'; en' > ẽ'
+# filter: om' > õ'; on' > õ'
+# filter: im' > æ'; in' > æ'
+# # filter: um' > ũ'; un' > ũ'
+# filter: ji > jə; wu > wə
+# filter: tj > tʃ; sj > ʃ; dj > dʒ
+# filter: kj > ts; gj > ʒ; xj > ʃ
+# filter: pj > pl; bj > bl; fj > fl
+# filter: tr > ʈ; dr > ɖ; sr > ʂ
 filter: ' > !
